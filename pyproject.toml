@@ -7,7 +7,15 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-
+openai = "1.54.3"
+jupyter = "1.1.1"
+python-dotenv = "1.0.1"
+sentence-transformers = "3.2.1"
+tqdm = "4.67.0"
+protobuf = "5.28.3"
+transformers = {version="4.46.2", extras=["sentencepiece"]}
+wget = "3.2"
+torch = "2.5.1"
 
 [build-system]
 requires = ["poetry-core"]
