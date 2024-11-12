@@ -16,6 +16,8 @@ protobuf = "5.28.3"
 transformers = {version="4.46.2", extras=["sentencepiece"]}
 wget = "3.2"
 torch = "2.5.1"
+beautifulsoup4 = "4.12.3"
+lxml = "5.3.0"
 
 [build-system]
 requires = ["poetry-core"]
