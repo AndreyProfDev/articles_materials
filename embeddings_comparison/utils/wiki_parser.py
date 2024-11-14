@@ -7,16 +7,68 @@ class SingleArticle(BaseModel):
     title: str
     text: str
 
+def _extract_simple_wikilink_content(text: str) -> str:
+        pattern = r"""
+            \[\[                  # Match opening [[
+            (?!                   # Negative lookahead
+                (Plik|Kategoria): # Don't match if starts with Plik: or Kategoria:
+            )
+            (?P<content>[^\[]*?)  # Named capture group for the content
+            \]\]                  # Match closing ]]
+        """
+
+        return re.sub(pattern, r"\g<content>", text, flags=re.S | re.VERBOSE)
+
+def _extract_display_text_from_piped_wikilinks(text: str) -> str:
+    pattern = r"""
+        \[\[            # Match opening [[
+        [^\[][^\[]*     # Match any chars except [ until
+        \|              # the pipe separator |
+        (?P<display>    # Named capture group for display text
+            [^\[][^\[]*?  # Match any chars except [ (non-greedy)
+        )
+        \]\]            # Match closing ]]
+    """
+
+    return re.sub(pattern, r"\g<display>", text, flags=re.S | re.VERBOSE)
+
+def _remove_file_and_category_links(text: str) -> str:
+    pattern = r"""
+        \[\[                    # Match opening [[
+        (Plik|Kategoria):      # Match either Plik: or Kategoria:
+        (?:                     # Start non-capturing group
+            (?!\[\[)           # Negative lookahead - don't match if next chars are [[
+            .                  # Match any character
+        )*?                     # Repeat non-greedily
+        \]\]                    # Match closing ]]
+    """
+    return re.sub(pattern, "", text, flags=re.S | re.VERBOSE)
+
+def _remove_simple_tables(text: str) -> str:
+    pattern = r"""
+        \{\|          # Match opening {|
+        [^\{]*?      # Match any chars except { (non-greedy)
+        \|\}         # Match closing |}
+    """
+    return re.sub(pattern, "", text, flags=re.S | re.VERBOSE)
+
+def _remove_wiki_templates(text: str) -> str:
+    pattern = r"""
+        \{\{        # Match opening {{
+        .*?         # Match any chars (non-greedy)
+        \}\}        # Match closing }}
+    """
+    return re.sub(pattern, "", text, flags=re.S | re.VERBOSE)
+
 def cleanText(text: str) -> str:
     
     while True:
-        new_text = re.sub(r"\[\[Plik:[^\[][^\[]*?\]\]", "", text, flags=re.S)  # remove file references from text
-        new_text = re.sub(r"\[\[Kategoria:[^\[][^\[]*?\]\]", "", new_text, flags=re.S)  # remove category references from text
-        new_text = re.sub(r"\[\[[^\[][^\[]*\|([^\[][^\[]*?)\]\]", r"\1", new_text, flags=re.S)  # remove square brackets surrounding references in text
-        new_text = re.sub(r"\[\[([^\[][^\[]*?)\]\]", r"\1", new_text, flags=re.S)  # remove square brackets surrounding references in text
-        new_text = re.sub(r"\{\{.*?\}\}", "", new_text, flags=re.S) # remove references to other pages (usually in form of {{reference to \nother page}})
+        new_text = _remove_file_and_category_links(text)
+        new_text = _extract_display_text_from_piped_wikilinks(new_text)
+        new_text = _extract_simple_wikilink_content(new_text)
+        new_text = _remove_wiki_templates(new_text)
         new_text = re.sub(r"<ref>.*?</ref>", "", new_text, flags=re.S) # remove references to other pages
-        new_text = re.sub(r"\{\|[^\{][^\|]*?\|\}", "", new_text, flags=re.S) # remove tables
+        new_text = _remove_simple_tables(new_text)
         new_text = re.sub(r" +", " ", new_text) # replace multiple spaces with single space
         new_text = re.sub(r"\n+", "\n", new_text) # replace multiple new line symbols with single new line symbol
         new_text = re.sub(r"\n\*", "\n", new_text, flags=re.S) # remove bullet points

@@ -146,6 +146,16 @@ class TestWikiParser(unittest.TestCase):
         self.assertEqual(articles[0].title, "Test")
         self.assertEqual(articles[0].text, "Test text")
 
+    def testRemovalOfMultipleNestedReferencesWithFileReferenceOnTopFromText3(self):
+        wiki_articles_xml = self.contruct_wiki_xml([wiki_parser.SingleArticle(title="Test", text="Test [[Plik:Test reference\n[[Inner reference|actual text]]]] text")])
+
+        articles = wiki_parser.extractPagesFromString(wiki_articles_xml)
+
+        self.assertEqual(len(articles), 1)
+        self.assertEqual(articles[0].title, "Test")
+        self.assertEqual(articles[0].text, "Test text")
+
+
     def testRemovalOfHTMLReferences(self):
         wiki_articles_xml = self.contruct_wiki_xml([wiki_parser.SingleArticle(title="Test", text="Test <ref>other reference</ref> text")])
 
