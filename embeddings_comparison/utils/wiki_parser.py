@@ -1,11 +1,33 @@
 
+
+from __future__ import annotations
 from pydantic import BaseModel
 from bs4 import BeautifulSoup
 import re
 
+class ArticleSection(BaseModel):
+    title: str
+    content: str
+
 class SingleArticle(BaseModel):
     title: str
-    text: str
+    sections: list[ArticleSection]
+    
+    def __init__(self, title: str, sections: str | list[ArticleSection]):
+        if isinstance(sections, str):
+            sections = [ArticleSection(title="Main", content=sections)]
+        super().__init__(title=title, sections=sections)
+
+    @property
+    def content(self) -> str:
+
+        result = []
+        for section in self.sections:
+            if section.title == "Main":
+                return section.content
+            else:
+                result.append(f"== {section.title} ==\n{section.content}")
+        return "\n".join(result)
 
 def _extract_simple_wikilink_content(text: str) -> str:
         pattern = r"""
@@ -60,7 +82,7 @@ def _remove_wiki_templates(text: str) -> str:
     """
     return re.sub(pattern, "", text, flags=re.S | re.VERBOSE)
 
-def cleanText(text: str) -> str:
+def convert_wiki_markdown_to_text(text: str) -> str:
     
     while True:
         new_text = _remove_file_and_category_links(text)
@@ -82,7 +104,41 @@ def cleanText(text: str) -> str:
 
     return text.strip()
 
-def extractPagesFromString(wiki_xml: str) -> list[SingleArticle]:
+def split_wiki_text_by_sections(text: str) -> list[ArticleSection]:
+    pattern = r"""
+        ==+         # Match opening equals signs
+        \s*         # Optional whitespace
+        ([^=]+?)    # Section title (capture group 1)
+        \s*         # Optional whitespace
+        ==+        # Match closing equals signs
+        \s*        # Optional whitespace
+        ((?:(?!==+)[\s\S])*) # Section content (capture group 2)
+    """
+    
+    # Find all explicit sections
+    matches = list(re.finditer(pattern, text, flags=re.VERBOSE))
+    sections = []
+    
+    # Check for content before first section
+    if matches and matches[0].start() > 0:
+        main_content = text[:matches[0].start()].strip()
+        if main_content:
+            sections.append(ArticleSection(title="Main", content=main_content))
+    
+    # Add remaining sections
+    for match in matches:
+        title = match.group(1).strip()
+        content = match.group(2).strip()
+        if content:
+            sections.append(ArticleSection(title=title, content=content))
+    
+    # If no sections found at all, treat entire text as main section
+    if not sections and text.strip():
+        sections.append(ArticleSection(title="Main", content=text.strip()))
+        
+    return sections
+
+def extract_pages_from_mediawiki_xml(wiki_xml: str) -> list[SingleArticle]:
     soup = BeautifulSoup(wiki_xml, "xml")
     
     pages = soup.findChildren('page')
@@ -90,13 +146,14 @@ def extractPagesFromString(wiki_xml: str) -> list[SingleArticle]:
     for page in pages:
         title = page.title.text.strip()
         text = page.revision.findChild('text').text.strip()
-        text = cleanText(text)
+        text = convert_wiki_markdown_to_text(text)
+        sections = split_wiki_text_by_sections(text)
         
         if len(text) > 0:
-            articles.append(SingleArticle(title=title, text=text))
+            articles.append(SingleArticle(title=title, sections=sections))
     return articles
 
-def extractPagesFromFile(file_path: str) -> list[SingleArticle]:
+def extract_pages_from_file(file_path: str) -> list[SingleArticle]:
     with open(file_path, "r") as file:
         wiki_xml = file.read()
-    return extractPagesFromString(wiki_xml)
+    return extract_pages_from_mediawiki_xml(wiki_xml)
