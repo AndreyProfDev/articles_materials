@@ -24,6 +24,7 @@ class CachedEmbeddingModel:
     
     def _write_embedding_to_cache(self, text: str, embedding: list[float]) -> None:
         cache_path = self._get_embedding_cache_file_path(text)
+        cache_path.parent.mkdir(parents=True, exist_ok=True)
         with open(cache_path, "w") as f:
             f.write(",".join(str(x) for x in embedding))
 
@@ -39,3 +40,6 @@ class CachedEmbeddingModel:
 
             embeddings.append(embedding)
         return embeddings
+    
+    def get_dimension(self) -> int:
+        return self.model.get_dimension()

@@ -5,6 +5,7 @@ from pydantic import BaseModel
 from bs4 import BeautifulSoup
 import re
 
+
 class ArticleSection(BaseModel):
     title: str
     content: str

@@ -1,16 +1,24 @@
 from openai import OpenAI
 from enum import Enum
 
-class OPEN_AI_EMBEDDING_MODEL(Enum):
+class OPENAI_EMBEDDING_MODEL_NAME(str, Enum):
     TEXT_EMBEDDING_3_SMALL = "text-embedding-3-small"
-    TEXT_EMBEDDING_3_MEDIUM = "text-embedding-3-medium"
     TEXT_EMBEDDING_3_LARGE = "text-embedding-3-large"
+    TEXT_EMBEDDING_ADA_002 = "text-embedding-ada-002"
+    
 
-
+OPENAI_EMBEDDING_LENGTH: dict[OPENAI_EMBEDDING_MODEL_NAME, int] = {
+    OPENAI_EMBEDDING_MODEL_NAME.TEXT_EMBEDDING_3_SMALL: 1536,
+    OPENAI_EMBEDDING_MODEL_NAME.TEXT_EMBEDDING_ADA_002: 1536,
+    OPENAI_EMBEDDING_MODEL_NAME.TEXT_EMBEDDING_3_LARGE: 3072,
+}
 class OpenAIEmbeddingModel:
-    def __init__(self, api_key: str, model: OPEN_AI_EMBEDDING_MODEL) -> None:
+    def __init__(self, api_key: str, model: OPENAI_EMBEDDING_MODEL_NAME) -> None:
         self.client = OpenAI(api_key=api_key)
         self.model = model
+
+    def get_dimension(self) -> int:
+        return OPENAI_EMBEDDING_LENGTH[self.model]
 
     def embed(self, texts: list[str]) -> list[list[float]]:
         resp = self.client.embeddings.create(
