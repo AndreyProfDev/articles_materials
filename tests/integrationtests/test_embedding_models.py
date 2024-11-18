@@ -4,9 +4,9 @@ import os
 from dotenv import load_dotenv
 
 from embeddings_comparison.utils.embedding_models.caching import CachedEmbeddingModel
-from embeddings_comparison.utils.embedding_models.hugging_face import HF_EMBEDDING_MODEL_NAME, HuggingFaceEmbeddingModel
+from embeddings_comparison.utils.embedding_models.hugging_face import HF_EMBEDDING_MODEL_NAME, HFEmbeddingModel
 from embeddings_comparison.utils.embedding_models.open_ai import OPENAI_EMBEDDING_MODEL_NAME, OpenAIEmbeddingModel
-from embeddings_comparison.utils.vectordb.vectordb import VectorDB
+from embeddings_comparison.utils.vectordb.vectordb import VectorIndex
 
 class CalculatingAndStoringEmbeddingsTestCase(unittest.TestCase):
 
@@ -20,7 +20,7 @@ class CalculatingAndStoringEmbeddingsTestCase(unittest.TestCase):
 
         embedding_model = OpenAIEmbeddingModel(api_key=str(api_key), model=OPENAI_EMBEDDING_MODEL_NAME.TEXT_EMBEDDING_3_SMALL)
         cached_model = CachedEmbeddingModel(model=embedding_model)
-        vector_db = VectorDB(embedding_model=cached_model)
+        vector_db = VectorIndex(embedding_model=cached_model)
 
         vector_db.insert_text('This is a first test text')
         self.assertEqual(vector_db.size(), 1)
@@ -36,9 +36,9 @@ class CalculatingAndStoringEmbeddingsTestCase(unittest.TestCase):
 
     def test_populate_database_with_hugging_face_embeddings(self):
 
-        embedding_model = HuggingFaceEmbeddingModel(HF_EMBEDDING_MODEL_NAME.ST_POLISH_PARAPHRASE_FROM_DISTILROBERTA)
+        embedding_model = HFEmbeddingModel(HF_EMBEDDING_MODEL_NAME.ST_POLISH_PARAPHRASE_FROM_DISTILROBERTA)
         cached_model = CachedEmbeddingModel(model=embedding_model)
-        vector_db = VectorDB(embedding_model=cached_model)
+        vector_db = VectorIndex(embedding_model=cached_model)
 
         vector_db.insert_text('To jest pierwszy tekst testowy')
         self.assertEqual(vector_db.size(), 1)

@@ -1,6 +1,6 @@
 import unittest
 
-from embeddings_comparison.utils.vectordb.vectordb import VectorDB
+from embeddings_comparison.utils.vectordb.vectordb import VectorDB, VectorIndex
 
 class MockedEmbeddingModel:
     def __init__(self, text_to_embedding: dict[str, list[float]], dimension: int) -> None:
@@ -8,7 +8,7 @@ class MockedEmbeddingModel:
         self.dimension = dimension
 
     def embed(self, texts: list[str]) -> list[list[float]]:
-        return [self.text_to_embedding[text] for text in texts]
+        return [self.text_to_embedding[text] for text in texts if text in self.text_to_embedding]
     
     def get_dimension(self) -> int:
         return self.dimension
@@ -24,7 +24,7 @@ class VectorDBTestCase(unittest.TestCase):
             },
             dimension = 3
         )
-        self.db = VectorDB(embedding_model=embedding_model)
+        self.db = VectorIndex(embedding_model=embedding_model)
 
     def test_insert(self):
         self.db.insert_text('Test text 1')
@@ -42,3 +42,33 @@ class VectorDBTestCase(unittest.TestCase):
         self.assertEqual(self.db.find_text('Test text 3', top_k = 1), [text])
         self.assertEqual(self.db.find_text('Test text 3', top_k = 2), [text, text2])
         self.assertEqual(self.db.find_text('Test text 3', top_k = 3), [text, text2])
+
+    def test_initalize_vector_db(self):
+
+        vector_db = VectorDB()
+        vector_db.add_index('test_index', self.db.embedding_model)
+        vector_db.insert_texts(['Test text 1', 'Test text 2'], 'test_index')
+        self.assertEqual(vector_db.find_text('Test text 3', top_k = 1, index_name = 'test_index'), ['Test text 1'])
+
+    def test_initalize_vector_db_with_many_indices(self):
+
+        vector_db = VectorDB()
+        vector_db.add_index('test_index', self.db.embedding_model)
+        vector_db.insert_texts(['Test text 1', 'Test text 2'], 'test_index')
+
+        other_embedding_model = MockedEmbeddingModel(
+            text_to_embedding = {
+                'Test text 3': [1.0, 2.0, 4.0],
+            },
+            dimension = 3
+        )
+        vector_db.add_index('test_index2', other_embedding_model)
+        vector_db.insert_texts(['Test text 3'], 'test_index2')
+        self.assertNotEqual(vector_db.find_text('Test text 3', top_k = 1, index_name = 'test_index'), ['Test text 3'])
+        self.assertEqual(vector_db.find_text('Test text 3', top_k = 1, index_name = 'test_index2'), ['Test text 3'])
+
+    def test_vector_db_list_indices(self):
+        vector_db = VectorDB()
+        vector_db.add_index('test_index', self.db.embedding_model)
+        vector_db.add_index('test_index2', self.db.embedding_model)
+        self.assertEqual(vector_db.list_indices(), ['test_index', 'test_index2'])
