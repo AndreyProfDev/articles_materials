@@ -20,3 +20,6 @@ class HFEmbeddingModel:
     
     def get_dimension(self) -> int:
         return HF_EMBEDDING_LENGTH[self.embedding_model_name]
+    
+    def get_unique_model_name(self) -> str:
+        return self.embedding_model_name.value.replace("/", "_")

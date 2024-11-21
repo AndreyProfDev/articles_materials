@@ -27,3 +27,6 @@ class OpenAIEmbeddingModel:
         )
 
         return [d.embedding for d in resp.data]
+    
+    def get_unique_model_name(self) -> str:
+        return self.model.value
