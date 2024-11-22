@@ -12,7 +12,7 @@ ResponseFormat = TypeVar('ResponseFormat', bound=BaseModel)
 
 class CachedLLMClient(Generic[ResponseFormat]):
 
-    def __init__(self, client: LLMCLient[ResponseFormat], path_to_cache: Path) -> None:
+    def __init__(self, client: LLMCLient[ResponseFormat], path_to_cache: Path = Path("~/.cache/completion_cache")) -> None:
         self.client = client
         self.cache = FileBasedTextCache(prefix=client.get_unique_model_name(), path_to_cache=path_to_cache)
 
@@ -34,3 +34,6 @@ class CachedLLMClient(Generic[ResponseFormat]):
         self.cache.store(promt, response.model_dump_json())
 
         return response
+    
+    def get_unique_model_name(self) -> str:
+        return self.client.get_unique_model_name()
