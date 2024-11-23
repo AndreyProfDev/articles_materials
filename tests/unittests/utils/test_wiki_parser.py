@@ -1,7 +1,7 @@
 from tempfile import NamedTemporaryFile
 import unittest
 
-from embeddings_comparison.utils import wiki_parser
+from src.utils import wiki_parser
 
 class TestWikiMarkdownParsing(unittest.TestCase):
 

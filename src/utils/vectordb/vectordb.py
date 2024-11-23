@@ -1,8 +1,8 @@
 
 import faiss # type: ignore
 
-from embeddings_comparison.utils.embedding_models import tokenizer
-from embeddings_comparison.utils.embedding_models.schema import EmbeddingModel
+from src.utils.embedding_models import tokenizer
+from src.utils.embedding_models.schema import EmbeddingModel
 import numpy as np
 
 class VectorIndex:

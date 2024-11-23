@@ -6,7 +6,7 @@ import shutil
 import tempfile
 import unittest
 
-from embeddings_comparison.utils.monitoring.monitoring_service import CompletionEventRegistry, EmbeddingCreatedEvent, EmbeddingEventRegistry, TextCompletionEvent
+from src.utils.monitoring.monitoring_service import CompletionEventRegistry, EmbeddingCreatedEvent, EmbeddingEventRegistry, TextCompletionEvent
 
 
 class EmbeddingMonitoringServiceTestCase(unittest.TestCase):

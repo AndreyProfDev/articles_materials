@@ -1,6 +1,6 @@
 from pydantic import BaseModel
 
-from embeddings_comparison.utils.llm_clients.schema import ChatMessage, LLMCLient
+from src.utils.llm_clients.schema import ChatMessage, LLMCLient
 
 BASE_PROMT_EN = f"""You are helpful assistant who generates questions for a given text.
                     Based on the provided text you generate five questions. 

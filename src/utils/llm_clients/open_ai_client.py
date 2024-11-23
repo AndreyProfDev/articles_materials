@@ -3,7 +3,7 @@ from typing import Generic, TypeVar
 from openai import OpenAI
 from pydantic import BaseModel
 
-from embeddings_comparison.utils.llm_clients.schema import ChatMessage
+from src.utils.llm_clients.schema import ChatMessage
 
 class OPEN_AI_MODEL_NAME(str, Enum):
     GPT_4O = 'gpt-4o'

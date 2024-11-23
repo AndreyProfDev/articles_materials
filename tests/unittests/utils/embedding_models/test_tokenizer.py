@@ -1,7 +1,7 @@
 import unittest
 
-from embeddings_comparison.utils.embedding_models import tokenizer
-from embeddings_comparison.utils.embedding_models.tokenizer import ENCODING_MODEL_NAME
+from src.utils.embedding_models import tokenizer
+from src.utils.embedding_models.tokenizer import ENCODING_MODEL_NAME
 
 class TextTokenizerTestCase(unittest.TestCase):
 

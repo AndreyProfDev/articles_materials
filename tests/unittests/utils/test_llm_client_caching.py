@@ -5,8 +5,8 @@ import unittest
 
 from pydantic import BaseModel
 
-from embeddings_comparison.utils.llm_clients.cached_client import CachedLLMClient
-from embeddings_comparison.utils.llm_clients.schema import ChatMessage
+from src.utils.llm_clients.cached_client import CachedLLMClient
+from src.utils.llm_clients.schema import ChatMessage
 
 class MockedResponse(BaseModel, frozen=True):
     response: str

@@ -1,7 +1,7 @@
 import unittest
 
-from embeddings_comparison.utils.storage import ArticleStorage
-from embeddings_comparison.utils.wiki_parser import SingleArticle
+from src.utils.storage import ArticleStorage
+from src.utils.wiki_parser import SingleArticle
 import pandas as pd
 
 class ArticleStorageTestCase(unittest.TestCase):

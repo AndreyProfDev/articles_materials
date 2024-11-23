@@ -3,8 +3,8 @@ from pathlib import Path
 
 from pydantic import BaseModel
 
-from embeddings_comparison.utils.caching import FileBasedTextCache
-from embeddings_comparison.utils.llm_clients.schema import ChatMessage, LLMCLient
+from src.utils.caching import FileBasedTextCache
+from src.utils.llm_clients.schema import ChatMessage, LLMCLient
 
 from typing import TypeVar, Generic
 

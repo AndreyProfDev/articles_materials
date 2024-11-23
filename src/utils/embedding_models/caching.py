@@ -1,8 +1,8 @@
 
 from pathlib import Path
 
-from embeddings_comparison.utils.caching import FileBasedTextCache
-from embeddings_comparison.utils.embedding_models.schema import EmbeddingModel
+from src.utils.caching import FileBasedTextCache
+from src.utils.embedding_models.schema import EmbeddingModel
 
 def embeddding_to_string(embedding: list[float]) -> str:
     return ",".join(str(x) for x in embedding)

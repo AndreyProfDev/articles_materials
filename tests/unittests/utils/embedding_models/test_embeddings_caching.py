@@ -4,7 +4,7 @@ import unittest
 import tempfile
 from pathlib import Path
 
-from embeddings_comparison.utils.embedding_models.caching import CachedEmbeddingModel
+from src.utils.embedding_models.caching import CachedEmbeddingModel
 from tests.mocked_objects import MockedEmbeddingModel
 
 class CachedEmbeddingModelTestCase(unittest.TestCase):

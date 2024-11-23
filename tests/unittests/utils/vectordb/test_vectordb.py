@@ -1,6 +1,6 @@
 import unittest
 
-from embeddings_comparison.utils.vectordb.vectordb import VectorDB, VectorIndex
+from src.utils.vectordb.vectordb import VectorDB, VectorIndex
 
 class MockedEmbeddingModel:
     def __init__(self, text_to_embedding: dict[str, list[float]], dimension: int) -> None:

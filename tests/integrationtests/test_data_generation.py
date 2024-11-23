@@ -2,9 +2,9 @@ import unittest
 
 from dotenv import load_dotenv
 
-from embeddings_comparison.utils.llm_clients.cached_client import CachedLLMClient
-from embeddings_comparison.utils.llm_clients.open_ai_client import OPEN_AI_MODEL_NAME, OpenAIClient
-from embeddings_comparison.utils.question_generation import BASE_PROMT_PL, GeneratedQuestions, generate_question_for_text
+from src.utils.llm_clients.cached_client import CachedLLMClient
+from src.utils.llm_clients.open_ai_client import OPEN_AI_MODEL_NAME, OpenAIClient
+from src.utils.question_generation import BASE_PROMT_PL, GeneratedQuestions, generate_question_for_text
 import os
 
 class QuestionGenerationTestCase(unittest.TestCase):

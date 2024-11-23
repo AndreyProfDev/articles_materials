@@ -4,7 +4,7 @@ from pathlib import Path
 
 from openai import BaseModel
 
-from embeddings_comparison.utils.caching import FileBasedTextCache
+from src.utils.caching import FileBasedTextCache
 
 from typing import Generic, TypeVar
 

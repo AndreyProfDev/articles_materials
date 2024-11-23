@@ -3,7 +3,7 @@ from enum import Enum
 
 from openai.types.create_embedding_response import CreateEmbeddingResponse
 
-from embeddings_comparison.utils.monitoring.monitoring_service import EmbeddingCreatedEvent, EmbeddingEventRegistry
+from src.utils.monitoring.monitoring_service import EmbeddingCreatedEvent, EmbeddingEventRegistry
 
 class OPENAI_EMBEDDING_MODEL_NAME(str, Enum):
     TEXT_EMBEDDING_3_SMALL = "text-embedding-3-small"

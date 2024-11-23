@@ -5,7 +5,7 @@ import shutil
 import tempfile
 import unittest
 
-from embeddings_comparison.utils.caching import FileBasedTextCache
+from src.utils.caching import FileBasedTextCache
 
 
 class TextKeyCacheTestCase(unittest.TestCase):

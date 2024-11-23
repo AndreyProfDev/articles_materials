@@ -3,11 +3,11 @@ import os
 
 from dotenv import load_dotenv
 
-from embeddings_comparison.utils.embedding_models.caching import CachedEmbeddingModel
-from embeddings_comparison.utils.embedding_models.hugging_face import HF_EMBEDDING_MODEL_NAME, HFEmbeddingModel
-from embeddings_comparison.utils.embedding_models.open_ai import OPENAI_EMBEDDING_MODEL_NAME, OpenAIEmbeddingModel
-from embeddings_comparison.utils.monitoring.monitoring_service import EmbeddingEventRegistry
-from embeddings_comparison.utils.vectordb.vectordb import VectorIndex
+from src.utils.embedding_models.caching import CachedEmbeddingModel
+from src.utils.embedding_models.hugging_face import HF_EMBEDDING_MODEL_NAME, HFEmbeddingModel
+from src.utils.embedding_models.open_ai import OPENAI_EMBEDDING_MODEL_NAME, OpenAIEmbeddingModel
+from src.utils.monitoring.monitoring_service import EmbeddingEventRegistry
+from src.utils.vectordb.vectordb import VectorIndex
 
 class CalculatingAndStoringEmbeddingsTestCase(unittest.TestCase):
 
