@@ -15,7 +15,7 @@ def string_to_embedding(string: str | None) -> list[float] | None:
 
 class CachedEmbeddingModel:
 
-    def __init__(self, model: EmbeddingModel, path_to_cache: Path = Path("~/.cache/embeddings_cache")) -> None:
+    def __init__(self, model: EmbeddingModel, path_to_cache: Path = Path("~/.cache/embeddings_cache").expanduser()) -> None:
         self.cache = FileBasedTextCache(prefix=model.get_unique_model_name(), path_to_cache=path_to_cache)
         self.model = model
 

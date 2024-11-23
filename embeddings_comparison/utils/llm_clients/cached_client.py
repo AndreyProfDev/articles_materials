@@ -12,7 +12,7 @@ ResponseFormat = TypeVar('ResponseFormat', bound=BaseModel)
 
 class CachedLLMClient(Generic[ResponseFormat]):
 
-    def __init__(self, client: LLMCLient[ResponseFormat], path_to_cache: Path = Path("~/.cache/completion_cache")) -> None:
+    def __init__(self, client: LLMCLient[ResponseFormat], path_to_cache: Path = Path("~/.cache/completion_cache").expanduser()) -> None:
         self.client = client
         self.cache = FileBasedTextCache(prefix=client.get_unique_model_name(), path_to_cache=path_to_cache)
 

@@ -44,3 +44,15 @@ class TextKeyCacheTestCase(unittest.TestCase):
     def test_retrieve_non_existing_cached_test(self):
 
         self.assertEqual(self.cache.retrieve("key"), None)
+
+    def test_retrieve_all_cached_texts(self):
+
+        self.cache.store("key", "value")
+        self.cache.store("key2", "value")
+
+        cache2 = FileBasedTextCache(prefix="test", path_to_cache=self.temp_dir_path)
+
+        self.assertEqual(cache2.retrieve_all(), {"key": "value", "key2": "value"})
+
+        cache3 = FileBasedTextCache(prefix="other", path_to_cache=self.temp_dir_path)
+        self.assertEqual(cache3.retrieve_all(), {})

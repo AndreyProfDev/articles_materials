@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 from embeddings_comparison.utils.embedding_models.caching import CachedEmbeddingModel
 from embeddings_comparison.utils.embedding_models.hugging_face import HF_EMBEDDING_MODEL_NAME, HFEmbeddingModel
 from embeddings_comparison.utils.embedding_models.open_ai import OPENAI_EMBEDDING_MODEL_NAME, OpenAIEmbeddingModel
+from embeddings_comparison.utils.monitoring.monitoring_service import EmbeddingEventRegistry
 from embeddings_comparison.utils.vectordb.vectordb import VectorIndex
 
 class CalculatingAndStoringEmbeddingsTestCase(unittest.TestCase):
@@ -18,7 +19,8 @@ class CalculatingAndStoringEmbeddingsTestCase(unittest.TestCase):
         api_key = os.environ.get('OPEN_AI_KEY')
         self.assertIsNotNone(api_key)
 
-        embedding_model = OpenAIEmbeddingModel(api_key=str(api_key), model=OPENAI_EMBEDDING_MODEL_NAME.TEXT_EMBEDDING_3_SMALL)
+        event_registry = EmbeddingEventRegistry()
+        embedding_model = OpenAIEmbeddingModel(api_key=str(api_key), model=OPENAI_EMBEDDING_MODEL_NAME.TEXT_EMBEDDING_3_SMALL, event_registry=event_registry)
         cached_model = CachedEmbeddingModel(model=embedding_model)
         vector_db = VectorIndex(embedding_model=cached_model)
 
@@ -33,6 +35,8 @@ class CalculatingAndStoringEmbeddingsTestCase(unittest.TestCase):
 
         found = vector_db.find_text('This is a first text', top_k=1)
         self.assertEqual(found, ['This is a first test text'])
+
+        self.assertEqual(event_registry.get_total_cost(), 17)
 
     def test_populate_database_with_hugging_face_embeddings(self):
 
