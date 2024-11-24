@@ -40,6 +40,10 @@ class TestWikiMarkdownParsing(unittest.TestCase):
         text = wiki_parser.convert_wiki_markdown_to_text("{{other\npage\n}}\n\nTest text")
         self.assertEqual(text, "Test text")
 
+    def testRemoveReferencesToOtherPagesNested(self):
+        text = wiki_parser.convert_wiki_markdown_to_text("Test {{other\npage\n{{subpage}}}} text")
+
+        self.assertEqual(text, "Test text")
     def testFinalTextCleaning(self):
         text = wiki_parser.convert_wiki_markdown_to_text("\n\nTest     text  ")
         self.assertEqual(text, "Test text")
@@ -60,9 +64,19 @@ class TestWikiMarkdownParsing(unittest.TestCase):
         text = wiki_parser.convert_wiki_markdown_to_text("Test [[Kategoria:other category]] text")
         self.assertEqual(text, "Test text")
 
+        text = wiki_parser.convert_wiki_markdown_to_text("Test [[kategoria:other category]] text")
+        self.assertEqual(text, "Test text")
+
+        text = wiki_parser.convert_wiki_markdown_to_text("Test [[:kategoria:other category|actual text]] text")
+        self.assertEqual(text, "Test actual text text")
+
+        text = wiki_parser.convert_wiki_markdown_to_text("Test [[:kategoria:other category]] text")
+        self.assertEqual(text, "Test text")
+
+
     def testRemovalOfListMarkdown(self):
         text = wiki_parser.convert_wiki_markdown_to_text("Test \n* list\n* list text")
-        self.assertEqual(text, "Test \n list\n list text")
+        self.assertEqual(text, 'Test \n- list\n- list text')
 
     def testRemovalBoldTextMarkdown(self):
         text = wiki_parser.convert_wiki_markdown_to_text("Test '''bold''' text")
@@ -78,6 +92,56 @@ class TestWikiMarkdownParsing(unittest.TestCase):
 
     def testRemovalOfHTMLReferences(self):
         text = wiki_parser.convert_wiki_markdown_to_text("Test <ref>other reference</ref> text")
+        self.assertEqual(text, "Test text")
+
+        text = wiki_parser.convert_wiki_markdown_to_text("Test <ref name=2>other reference</ref> text")
+        self.assertEqual(text, "Test text")
+
+        text = wiki_parser.convert_wiki_markdown_to_text("Test <ref name=2/> text")
+        self.assertEqual(text, "Test text")
+
+    def testRemovalOfDiv(self):
+        text = wiki_parser.convert_wiki_markdown_to_text("Test <div>other reference</div> text")
+        self.assertEqual(text, "Test text")
+
+        text = wiki_parser.convert_wiki_markdown_to_text("Test <div style=x>other reference</div> text")
+        self.assertEqual(text, "Test text")
+
+        text = wiki_parser.convert_wiki_markdown_to_text("Test <div style=x/> text")
+        self.assertEqual(text, "Test text")
+
+        text = wiki_parser.convert_wiki_markdown_to_text("Test <div>other reference<div>another reference</div></div> text")
+        self.assertEqual(text, "Test text")
+
+        text = wiki_parser.convert_wiki_markdown_to_text("Test <div>other reference<div>another reference</div></div> test <br /> text")
+        self.assertEqual(text, "Test test \n text")
+
+    def testUnescapeHTML(self):
+        text = wiki_parser.convert_wiki_markdown_to_text('Test &lt;div&gt;other reference&lt;/div&gt; text')
+        self.assertEqual(text, "Test text")
+
+    def testRemoveHTTPLinks(self):
+        text = wiki_parser.convert_wiki_markdown_to_text("Test [http://www.google.com] text")
+        self.assertEqual(text, "Test text")
+
+        text = wiki_parser.convert_wiki_markdown_to_text("Test [http://www.google.com google] text")
+        self.assertEqual(text, "Test text")
+
+        text = wiki_parser.convert_wiki_markdown_to_text("Test [http://www.google.com google] [http://www.google.com google] text")
+        self.assertEqual(text, "Test text")
+
+        text = wiki_parser.convert_wiki_markdown_to_text("Test [https://www.google.com google] [https://www.google.com google] text")
+        self.assertEqual(text, "Test text")
+
+    def testRemovalOfWikiComments(self):
+        text = wiki_parser.convert_wiki_markdown_to_text("Test <!-- comment --> text")
+        self.assertEqual(text, "Test text")
+
+        text = wiki_parser.convert_wiki_markdown_to_text("Test <!-- comment \n comment --> text")
+        self.assertEqual(text, "Test text")
+
+    def testRemovalOfNBSP(self):
+        text = wiki_parser.convert_wiki_markdown_to_text("Test &nbsp; text")
         self.assertEqual(text, "Test text")
 
 class TestWikiParser(unittest.TestCase):
