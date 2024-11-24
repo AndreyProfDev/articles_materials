@@ -1,5 +1,5 @@
 
-from src.utils.wiki_parser import SingleArticle
+from utils.wiki_parser.wiki_parser import SingleArticle
 import pandas as pd
 
 class ArticleStorage:
