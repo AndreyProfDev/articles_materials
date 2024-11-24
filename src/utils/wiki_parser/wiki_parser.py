@@ -9,7 +9,7 @@ from utils.wiki_parser.schema import SingleArticle
 from utils.wiki_parser.processors.wiki_html_processor import process_wiki_html
 from utils.wiki_parser import wiki_sections_splitter
 
-def convert_wiki_dump_to_plain_text(text: str) -> str:
+def _convert_wiki_dump_to_plain_text(text: str) -> str:
     
     new_text = process_wiki_html(text)
     new_text = process_wiki_markdown(new_text)
@@ -26,7 +26,7 @@ def extract_articles_from_mediawiki_xml(wiki_xml: str) -> list[SingleArticle]:
     for page in pages:
         title = page.title.text.strip()
         text = page.revision.findChild('text').text.strip()
-        text = convert_wiki_dump_to_plain_text(text)
+        text = _convert_wiki_dump_to_plain_text(text)
         sections = wiki_sections_splitter.split_wiki_text_by_sections(text)
         if len(sections) > 0:
             articles.append(SingleArticle(title=title, sections=sections))
