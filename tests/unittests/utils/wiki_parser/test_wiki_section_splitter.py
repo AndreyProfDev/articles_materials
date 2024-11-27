@@ -43,14 +43,3 @@ class WikiSectionSplitterTestCase(unittest.TestCase):
 
         self.assertEqual(sections[1].title, 'Section 2')
         self.assertEqual(sections[1].content, "Section 2 text")
-
-    def test_removal_of_empty_sections(self):
-        text = """== Section 1 ==
-        Section 1 text
-        == Section 2 ==
-        """
-        sections = list(wiki_sections_splitter.split_wiki_text_by_sections(text))
-
-        self.assertEqual(len(sections), 1)
-        self.assertEqual(sections[0].title, 'Section 1')
-        self.assertEqual(sections[0].content, "Section 1 text")

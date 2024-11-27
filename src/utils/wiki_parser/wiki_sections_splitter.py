@@ -24,15 +24,13 @@ def split_wiki_text_by_sections(text: str) -> list[ArticleSection]:
     # Check for content before first section
     if matches and matches[0].start() > 0:
         main_content = text[:matches[0].start()].strip()
-        if main_content:
-            sections.append(ArticleSection(title="Main", content=main_content))
+        sections.append(ArticleSection(title="Main", content=main_content))
     
     # Add remaining sections
     for match in matches:
         title = match.group(1).strip()
         content = match.group(2).strip()
-        if content:
-            sections.append(ArticleSection(title=title, content=content))
+        sections.append(ArticleSection(title=title, content=content))
     
     # If no sections found at all, treat entire text as main section
     if not sections and text.strip():
