@@ -12,6 +12,7 @@ class QuestionGenerationTestCase(unittest.TestCase):
     def setUp(self) -> None:
         load_dotenv()
 
+    @unittest.skip("Integration test for OpenAI Completion API")
     def test_generate_question_for_extract(self):
 
         api_key = os.environ.get('OPEN_AI_KEY')

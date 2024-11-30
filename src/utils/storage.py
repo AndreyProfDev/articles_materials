@@ -9,13 +9,13 @@ class ArticleStorage:
     
     def save_articles(self, articles: list[SingleArticle]):
         for article in articles:
-            record = {}
-            record['Article Title'] = article.title
             for section in article.sections:
+                record = {}
+                record['Article Title'] = article.title
                 record['Section Title'] = section.title
                 record['Section Content'] = section.content
 
-            self.records.append(record)
+                self.records.append(record)
     
     def load_all(self) -> pd.DataFrame:
         return pd.DataFrame(self.records)

@@ -82,9 +82,10 @@ class TestWikiParser(unittest.TestCase):
 
         self.assertEqual(len(processed_articles), 2)
         self.assertEqual(processed_articles[0].title, "Test")
-        self.assertEqual(processed_articles[0].content, "Test text")
+        self.assertEqual(processed_articles[0].content, "Test Test1 text1 text")
         self.assertEqual(processed_articles[1].title, "Test2")
-        self.assertEqual(processed_articles[1].content, "Test1 text 2")
+        self.assertEqual(processed_articles[1].content, "Test1 Test2 text2 3 text 2")
+
 
     def test_process_wiki_markdown(self):
         articles = [SingleArticle(title="Test", sections="Test [[Kategoria:to remove]] text"), 

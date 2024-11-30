@@ -14,6 +14,7 @@ class CalculatingAndStoringEmbeddingsTestCase(unittest.TestCase):
     def setUp(self) -> None:
         load_dotenv()
     
+    @unittest.skip("Integration test for OpenAI Embeddings API")
     def test_populate_database_with_openai_embeddings(self):
 
         api_key = os.environ.get('OPEN_AI_KEY')
@@ -38,6 +39,7 @@ class CalculatingAndStoringEmbeddingsTestCase(unittest.TestCase):
 
         self.assertEqual(event_registry.get_total_cost(), 17)
 
+    @unittest.skip("Integration test for Hugging Face Embeddings API")
     def test_populate_database_with_hugging_face_embeddings(self):
 
         embedding_model = HFEmbeddingModel(HF_EMBEDDING_MODEL_NAME.ST_POLISH_PARAPHRASE_FROM_DISTILROBERTA)
