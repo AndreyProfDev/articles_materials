@@ -13,8 +13,6 @@ BASE_PROMT_EN = f"""You are helpful assistant who generates questions for a give
                             "Question 1",
                             "Question 2",
                             "Question 3",
-                            "Question 4",
-                            "Question 5"
                         ]
                     }}"""
 
@@ -29,8 +27,6 @@ BASE_PROMT_PL = """Jesteś pomocnym asystentem, który generuje pytania do daneg
                             "Pytanie 1",
                             "Pytanie 2",
                             "Pytanie 3",
-                            "Pytanie 4",
-                            "Pytanie 5"
                         ]
                     }}"""
 
@@ -45,5 +41,5 @@ def generate_question_for_text(llm_client: LLMCLient, extracted, base_promt=BASE
                               ChatMessage(role='user', content=f"Source text: {extracted}")],
                               _format=GeneratedQuestions)
 
-    return answer
+    return answer.response
 

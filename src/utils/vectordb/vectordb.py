@@ -8,15 +8,15 @@ import numpy as np
 class VectorIndex:
 
     def __init__(self, embedding_model: EmbeddingModel) -> None:
-        self.index = faiss.IndexFlatL2(embedding_model.get_dimension()) 
+        self.index = faiss.IndexFlatL2(embedding_model.model_info.dimension) 
         self.tokenizer = tokenizer
         self.embedding_model = embedding_model
         self.indexed_texts: dict[int, str] = {}
 
 
     def embed_text(self, text: str) -> np.ndarray:
-        embedding_list = self.embedding_model.embed([text])[0]
-        embedding_vector = np.array(embedding_list).reshape(1, -1)
+        embedding = self.embedding_model.embed([text])
+        embedding_vector = np.array(embedding.embeddings[0]).reshape(1, -1)
         return embedding_vector
     
     def insert_texts(self, texts: list[str]):

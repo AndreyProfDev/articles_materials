@@ -1,17 +1,19 @@
 import unittest
 
+from utils.embedding_models.schema import EmbeddingModelInfo, GenericEmbeddingResponse
+
 from src.utils.vectordb.vectordb import VectorDB, VectorIndex
 
 class MockedEmbeddingModel:
     def __init__(self, text_to_embedding: dict[str, list[float]], dimension: int) -> None:
         self.text_to_embedding = text_to_embedding
         self.dimension = dimension
+        self.model_info = EmbeddingModelInfo(model_name="test_model", dimension=dimension, cost_per_mln_tokens=0.1)
 
-    def embed(self, texts: list[str]) -> list[list[float]]:
-        return [self.text_to_embedding[text] for text in texts if text in self.text_to_embedding]
-    
-    def get_dimension(self) -> int:
-        return self.dimension
+    def embed(self, texts: list[str]) -> GenericEmbeddingResponse:
+
+        embeddings = [self.text_to_embedding[text] for text in texts if text in self.text_to_embedding]
+        return GenericEmbeddingResponse(embeddings=embeddings, promt_tokens=0)
 
 
 class VectorDBTestCase(unittest.TestCase):

@@ -3,8 +3,8 @@ from pathlib import Path
 
 from pydantic import BaseModel
 
-from src.utils.caching import FileBasedTextCache
-from src.utils.llm_clients.schema import ChatMessage, LLMCLient
+from utils.caching import FileBasedTextCache
+from utils.llm_clients.schema import ChatMessage, GenericLLMResponse, LLMCLient, LLMModelInfo
 
 from typing import TypeVar, Generic
 
@@ -14,7 +14,8 @@ class CachedLLMClient(Generic[ResponseFormat]):
 
     def __init__(self, client: LLMCLient[ResponseFormat], path_to_cache: Path = Path("~/.cache/completion_cache").expanduser()) -> None:
         self.client = client
-        self.cache = FileBasedTextCache(prefix=client.get_unique_model_name(), path_to_cache=path_to_cache)
+        model_name=client.model_info.sanitized_model_name
+        self.cache = FileBasedTextCache(prefix=model_name, path_to_cache=path_to_cache)
 
     def chat_messages_to_string(self, messages: list[ChatMessage]) -> str:
         return "\n".join([message.model_dump_json() for message in messages])
@@ -22,12 +23,15 @@ class CachedLLMClient(Generic[ResponseFormat]):
     def response_from_string(self, string: str) -> list[ChatMessage]:
         return [ChatMessage.model_validate_json(message) for message in string.split("\n")]
 
-    def chat(self, messages: list[ChatMessage], _format: type[ResponseFormat]) -> ResponseFormat:
+    def chat(self, messages: list[ChatMessage], _format: type[ResponseFormat]) -> GenericLLMResponse[ResponseFormat]:
 
         promt = self.chat_messages_to_string(messages)
 
         if self.cache.exists(promt):
-            return _format.model_validate_json(str(self.cache.retrieve(promt)))
+            retrieved = str(self.cache.retrieve(promt))
+            response = GenericLLMResponse[_format].model_validate_json(retrieved)
+            response.response = _format.model_validate(response.response)
+            return response
         
         response = self.client.chat(messages, _format)
 
@@ -35,5 +39,6 @@ class CachedLLMClient(Generic[ResponseFormat]):
 
         return response
     
-    def get_unique_model_name(self) -> str:
-        return self.client.get_unique_model_name()
+    @property
+    def model_info(self) -> LLMModelInfo:
+        return self.client.model_info

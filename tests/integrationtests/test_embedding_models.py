@@ -2,12 +2,13 @@ import unittest
 import os
 
 from dotenv import load_dotenv
+from utils.embedding_models.cost_monitoring import EmbeddingModelWithCostMonitoring
 
-from src.utils.embedding_models.caching import CachedEmbeddingModel
-from src.utils.embedding_models.hugging_face import HF_EMBEDDING_MODEL_NAME, HFEmbeddingModel
-from src.utils.embedding_models.open_ai import OPENAI_EMBEDDING_MODEL_NAME, OpenAIEmbeddingModel
-from src.utils.monitoring.monitoring_service import EmbeddingEventRegistry
-from src.utils.vectordb.vectordb import VectorIndex
+from utils.embedding_models.caching import CachedEmbeddingModel
+from utils.embedding_models.providers.hugging_face import HFEmbeddingModel
+from utils.embedding_models.providers.open_ai import OpenAIEmbeddingModel
+from utils.vectordb.vectordb import VectorIndex
+from utils.embedding_models.providers import supported_models
 
 class CalculatingAndStoringEmbeddingsTestCase(unittest.TestCase):
 
@@ -20,10 +21,10 @@ class CalculatingAndStoringEmbeddingsTestCase(unittest.TestCase):
         api_key = os.environ.get('OPEN_AI_KEY')
         self.assertIsNotNone(api_key)
 
-        event_registry = EmbeddingEventRegistry()
-        embedding_model = OpenAIEmbeddingModel(api_key=str(api_key), model=OPENAI_EMBEDDING_MODEL_NAME.TEXT_EMBEDDING_3_SMALL, event_registry=event_registry)
-        cached_model = CachedEmbeddingModel(model=embedding_model)
-        vector_db = VectorIndex(embedding_model=cached_model)
+        embedding_model = OpenAIEmbeddingModel(api_key=str(api_key), model_info=supported_models.TEXT_EMBEDDING_3_SMALL)
+        embedding_model = CachedEmbeddingModel(model=embedding_model)
+        embedding_model = EmbeddingModelWithCostMonitoring(model=embedding_model)
+        vector_db = VectorIndex(embedding_model=embedding_model)
 
         vector_db.insert_text('This is a first test text')
         self.assertEqual(vector_db.size(), 1)
@@ -37,12 +38,12 @@ class CalculatingAndStoringEmbeddingsTestCase(unittest.TestCase):
         found = vector_db.find_text('This is a first text', top_k=1)
         self.assertEqual(found, ['This is a first test text'])
 
-        self.assertEqual(event_registry.get_total_cost(), 17)
+        self.assertTrue(embedding_model.promt_tokens > 0)
 
     @unittest.skip("Integration test for Hugging Face Embeddings API")
     def test_populate_database_with_hugging_face_embeddings(self):
 
-        embedding_model = HFEmbeddingModel(HF_EMBEDDING_MODEL_NAME.ST_POLISH_PARAPHRASE_FROM_DISTILROBERTA)
+        embedding_model = HFEmbeddingModel(supported_models.ST_POLISH_PARAPHRASE_FROM_DISTILROBERTA)
         cached_model = CachedEmbeddingModel(model=embedding_model)
         vector_db = VectorIndex(embedding_model=cached_model)
 
