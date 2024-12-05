@@ -13,7 +13,7 @@ class MockedEmbeddingModel:
     def embed(self, texts: list[str]) -> GenericEmbeddingResponse:
 
         embeddings = [self.text_to_embedding[text] for text in texts if text in self.text_to_embedding]
-        return GenericEmbeddingResponse(embeddings=embeddings, promt_tokens=0)
+        return GenericEmbeddingResponse(embeddings=embeddings, promt_tokens=0, time_to_generate=0)
 
 
 class VectorDBTestCase(unittest.TestCase):

@@ -15,6 +15,7 @@ class CachedEmbeddingModel:
     
         embeddings = []
         total_promt_tokes = 0
+        time_to_generate = 0
 
         for text in texts:
             cached = self.cache.retrieve(text)
@@ -27,7 +28,8 @@ class CachedEmbeddingModel:
 
             embeddings.append(embedding.embeddings[0])
             total_promt_tokes += embedding.promt_tokens
-        return GenericEmbeddingResponse(embeddings=embeddings, promt_tokens=total_promt_tokes)
+            time_to_generate += embedding.time_to_generate
+        return GenericEmbeddingResponse(embeddings=embeddings, promt_tokens=total_promt_tokes, time_to_generate=time_to_generate)
     
     @property
     def model_info(self) -> EmbeddingModelInfo:

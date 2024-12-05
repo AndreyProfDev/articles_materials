@@ -7,6 +7,7 @@ T = TypeVar('T')
 class GenericEmbeddingResponse(BaseModel):
     embeddings: list[list[float]]
     promt_tokens: int
+    time_to_generate: float
 
 class EmbeddingModelInfo(BaseModel, frozen=True):
     model_name: str

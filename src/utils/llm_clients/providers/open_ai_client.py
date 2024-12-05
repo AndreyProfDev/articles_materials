@@ -1,6 +1,7 @@
 from typing import Generic, TypeVar
 from openai import OpenAI
 from pydantic import BaseModel
+import time
 
 from utils.llm_clients.schema import ChatMessage, GenericLLMResponse, LLMModelInfo
 
@@ -14,11 +15,13 @@ class OpenAIClient(Generic[ResponseFormat]):
 
     def chat(self, messages: list[ChatMessage], _format: type[ResponseFormat]) -> GenericLLMResponse[ResponseFormat]:
 
+        start = time.perf_counter()
         completion = self.client.beta.chat.completions.parse(
                     model=self.model_info.model_name,
                     messages=[message.model_dump() for message in messages], # type: ignore
                     response_format=_format
         )
+        duration = time.perf_counter() - start
 
         content = completion.choices[0].message.content
 
@@ -31,4 +34,4 @@ class OpenAIClient(Generic[ResponseFormat]):
         completion_tokens=completion.usage.completion_tokens
         promt_tokens=completion.usage.prompt_tokens
         response = _format.model_validate_json(content)
-        return GenericLLMResponse[_format](response=response, promt_tokens=promt_tokens, completion_tokens=completion_tokens)
+        return GenericLLMResponse[_format](response=response, promt_tokens=promt_tokens, completion_tokens=completion_tokens, time_to_generate=duration)

@@ -11,7 +11,7 @@ class MockedEmbeddingModel:
     def embed(self, texts: list[str]) -> GenericEmbeddingResponse:
         self.number_of_calls += 1
         embeddings = [self.text_to_embeddings[text] for text in texts]
-        return GenericEmbeddingResponse(embeddings=embeddings, promt_tokens=6)
+        return GenericEmbeddingResponse(embeddings=embeddings, promt_tokens=6, time_to_generate=0)
     
     @property
     def model_info(self) -> EmbeddingModelInfo:

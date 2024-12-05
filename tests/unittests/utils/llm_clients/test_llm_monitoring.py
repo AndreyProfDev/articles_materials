@@ -18,7 +18,7 @@ class MockedLLMClient:
     def chat(self, messages: list[ChatMessage], _format: type[MockedResponse]) -> GenericLLMResponse[MockedResponse]:
         self.number_of_calls += 1
         response = self.request_to_responce[messages[0]]
-        return GenericLLMResponse(response=response, promt_tokens=2, completion_tokens=3)
+        return GenericLLMResponse(response=response, promt_tokens=2, completion_tokens=3, time_to_generate=0)
 
     def get_number_of_calls(self) -> int:
         return self.number_of_calls

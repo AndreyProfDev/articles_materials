@@ -45,6 +45,9 @@ class VectorDB:
 
     def list_indices(self) -> list[str]:
         return list(self.indices.keys())
+    
+    def insert_text(self, text: str, index_name: str):
+        self.indices[index_name].insert_text(text)
 
     def insert_texts(self, texts: list[str], index_name: str):
         self.indices[index_name].insert_texts(texts)

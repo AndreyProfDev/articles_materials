@@ -24,6 +24,7 @@ class GenericLLMResponse(Generic[T], BaseModel):
     response: T
     promt_tokens: int
     completion_tokens: int
+    time_to_generate: float
 
 class LLMCLient(Protocol[T]):
     def chat(self, messages: list[ChatMessage], _format: type[T]) -> GenericLLMResponse[T]:
