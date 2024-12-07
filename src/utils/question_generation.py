@@ -31,15 +31,19 @@ BASE_PROMT_PL = """Jesteś pomocnym asystentem, który generuje pytania do daneg
                     }}"""
 
 
-
 class GeneratedQuestions(BaseModel):
     questions: list[str]
 
 
-def generate_question_for_text(llm_client: LLMCLient, extracted, base_promt=BASE_PROMT_EN) -> GeneratedQuestions:
-    answer = llm_client.chat([ChatMessage(role='system', content=base_promt),
-                              ChatMessage(role='user', content=f"Source text: {extracted}")],
-                              _format=GeneratedQuestions)
+def generate_question_for_text(
+    llm_client: LLMCLient, extracted, base_promt=BASE_PROMT_EN
+) -> GeneratedQuestions:
+    answer = llm_client.chat(
+        [
+            ChatMessage(role="system", content=base_promt),
+            ChatMessage(role="user", content=f"Source text: {extracted}"),
+        ],
+        _format=GeneratedQuestions,
+    )
 
     return answer.response
-

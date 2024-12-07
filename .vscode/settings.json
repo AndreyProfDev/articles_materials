@@ -11,5 +11,9 @@
 
     "python.testing.autoTestDiscoverOnSaveEnabled": true,
     "python.testing.unittestEnabled": true,
-    "python.analysis.typeCheckingMode": "standard"
+    "python.analysis.typeCheckingMode": "standard",
+    "python.envFile": "${workspaceFolder}/.env",
+
+    "debugpy.debugJustMyCode": false,
+    "jupyter.debugJustMyCode": false
 }
