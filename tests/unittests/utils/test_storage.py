@@ -2,7 +2,7 @@ import unittest
 
 from utils.wiki_parser.schema import ArticleSection
 
-from src.utils.storage import ArticleStorage
+from utils.storage import ArticleStorage
 from utils.wiki_parser.wiki_parser import SingleArticle
 import pandas as pd
 

@@ -2,7 +2,7 @@ import unittest
 
 from utils.embedding_models.schema import EmbeddingModelInfo, GenericEmbeddingResponse
 
-from src.utils.vectordb.vectordb import VectorDB, VectorIndex
+from utils.vectordb.vectordb import VectorDB, VectorIndex
 
 class MockedEmbeddingModel:
     def __init__(self, text_to_embedding: dict[str, list[float]], dimension: int) -> None:
