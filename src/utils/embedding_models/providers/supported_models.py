@@ -19,6 +19,12 @@ ORB_ST_POLISH_KARTONBERTA_BASE_ALPHA_V1 = EmbeddingModelInfo(
     cost_per_mln_tokens=0.0,
 )
 
+ORB_KARTONBERT_USE = EmbeddingModelInfo(
+    model_name="OrlikB/KartonBERT-USE-base-v1",
+    dimension=768,
+    cost_per_mln_tokens=0.0,
+)
+
 # OpenAI models
 TEXT_EMBEDDING_3_SMALL = EmbeddingModelInfo(
     model_name="text-embedding-3-small", dimension=1536, cost_per_mln_tokens=0.020
