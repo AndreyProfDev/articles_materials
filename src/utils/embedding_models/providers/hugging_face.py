@@ -1,4 +1,5 @@
 import time
+from pathlib import Path
 from typing import Literal
 
 from sentence_transformers import SentenceTransformer
@@ -27,8 +28,11 @@ class HFEmbeddingModel:
         )
 
 
-def init_model(model_info: EmbeddingModelInfo) -> EmbeddingModelWithMonitoring:
+def init_model(
+    model_info: EmbeddingModelInfo,
+    path_to_cache: Path = Path("~/.cache/embeddings_cache").expanduser(),
+) -> EmbeddingModelWithMonitoring:
     model = HFEmbeddingModel(model_info=model_info)
-    model = CachedEmbeddingModel(model=model)
+    model = CachedEmbeddingModel(model=model, path_to_cache=path_to_cache)
     model = EmbeddingModelWithMonitoring(model=model)
     return model

@@ -1,4 +1,5 @@
 import time
+from pathlib import Path
 
 from openai import OpenAI
 
@@ -29,9 +30,11 @@ class OpenAIEmbeddingModel:
 
 
 def init_model(
-    api_key: str, model_info: EmbeddingModelInfo
+    api_key: str,
+    model_info: EmbeddingModelInfo,
+    path_to_cache: Path = Path("~/.cache/embeddings_cache").expanduser(),
 ) -> EmbeddingModelWithMonitoring:
     model = OpenAIEmbeddingModel(api_key=api_key, model_info=model_info)
-    model = CachedEmbeddingModel(model=model)
+    model = CachedEmbeddingModel(model=model, path_to_cache=path_to_cache)
     model = EmbeddingModelWithMonitoring(model=model)
     return model
