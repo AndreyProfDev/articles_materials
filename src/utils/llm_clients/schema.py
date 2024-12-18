@@ -1,11 +1,9 @@
-
-from typing import Generic, Literal, Protocol
+from typing import Generic, Literal, Protocol, TypeVar
 
 from pydantic import BaseModel
 
-from typing import TypeVar
+T = TypeVar("T")
 
-T = TypeVar('T')
 
 class LLMModelInfo(BaseModel, frozen=True):
     model_name: str
@@ -16,21 +14,23 @@ class LLMModelInfo(BaseModel, frozen=True):
     def sanitized_model_name(self) -> str:
         return self.model_name.replace("/", "_")
 
+
 class ChatMessage(BaseModel, frozen=True):
-    role: Literal['system', 'user', 'assystant']
+    role: Literal["system", "user", "assystant"]
     content: str
 
-class GenericLLMResponse(Generic[T], BaseModel):
+
+class GenericLLMResponse(BaseModel, Generic[T]):
     response: T
     promt_tokens: int
     completion_tokens: int
     time_to_generate: float
 
+
 class LLMCLient(Protocol[T]):
-    def chat(self, messages: list[ChatMessage], _format: type[T]) -> GenericLLMResponse[T]:
-        ...
+    def chat(
+        self, messages: list[ChatMessage], _format: type[T]
+    ) -> GenericLLMResponse[T]: ...
 
     @property
-    def model_info(self) -> LLMModelInfo:
-        ...
-
+    def model_info(self) -> LLMModelInfo: ...

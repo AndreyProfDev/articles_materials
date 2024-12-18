@@ -137,10 +137,10 @@ class TestWikiParser(unittest.TestCase):
         temp_dir_path = Path(temp_dir)
         try:
             wiki_parser.extract_articles_from_mediawiki_xml(wiki_articles_xml, output_folder=temp_dir_path, file_name="test")
-            self.assertTrue((temp_dir_path / '1. extracted_pages' / 'test.yaml').exists())
-            self.assertTrue((temp_dir_path / '2. processed_html_pages' / 'test.yaml').exists())
-            self.assertTrue((temp_dir_path / '3. processed_markdown_pages' / 'test.yaml').exists())
-            self.assertTrue((temp_dir_path / '4. split_sections' / 'test.yaml').exists())
+            self.assertTrue((temp_dir_path / '1_extracted_pages' / 'test.yaml').exists())
+            self.assertTrue((temp_dir_path / '2_processed_html_pages' / 'test.yaml').exists())
+            self.assertTrue((temp_dir_path / '3_processed_markdown_pages' / 'test.yaml').exists())
+            self.assertTrue((temp_dir_path / '4_split_sections' / 'test.yaml').exists())
         finally:
             shutil.rmtree(temp_dir)
 
