@@ -15,5 +15,9 @@
     "python.envFile": "${workspaceFolder}/.env",
 
     "debugpy.debugJustMyCode": false,
-    "jupyter.debugJustMyCode": false
+    "jupyter.debugJustMyCode": false,
+
+    "jupyter.notebookFileRoot": "${workspaceFolder}/src",
+
+    "python.venvPath": "/home/pigaand/.cache/pypoetry/virtualenvs"
 }

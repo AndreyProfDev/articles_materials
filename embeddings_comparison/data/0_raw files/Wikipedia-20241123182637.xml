@@ -1,0 +1,1055 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="pl">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>plwiki</dbname>
+    <base>https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna</base>
+    <generator>MediaWiki 1.44.0-wmf.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Specjalna</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Dyskusja</namespace>
+      <namespace key="2" case="first-letter">Wikipedysta</namespace>
+      <namespace key="3" case="first-letter">Dyskusja wikipedysty</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Dyskusja Wikipedii</namespace>
+      <namespace key="6" case="first-letter">Plik</namespace>
+      <namespace key="7" case="first-letter">Dyskusja pliku</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Dyskusja MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Szablon</namespace>
+      <namespace key="11" case="first-letter">Dyskusja szablonu</namespace>
+      <namespace key="12" case="first-letter">Pomoc</namespace>
+      <namespace key="13" case="first-letter">Dyskusja pomocy</namespace>
+      <namespace key="14" case="first-letter">Kategoria</namespace>
+      <namespace key="15" case="first-letter">Dyskusja kategorii</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Dyskusja portalu</namespace>
+      <namespace key="102" case="first-letter">Wikiprojekt</namespace>
+      <namespace key="103" case="first-letter">Dyskusja wikiprojektu</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Moduł</namespace>
+      <namespace key="829" case="first-letter">Dyskusja modułu</namespace>
+      <namespace key="2600" case="first-letter">Wątek</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Kategoria:Historia techniki</title>
+    <ns>14</ns>
+    <id>74311</id>
+    <revision>
+      <id>51904778</id>
+      <parentid>35094823</parentid>
+      <timestamp>2018-01-20T18:53:09Z</timestamp>
+      <contributor>
+        <username>EmptyBot</username>
+        <id>717975</id>
+      </contributor>
+      <minor/>
+      <comment>Zmiana nazwy kategorii: Kategoria:Historia według specjalności → [[Kategoria:Historia według tematyki]]  (przy użyciu [[Wikipedysta:Tufor/Quick ReCat|QRC]])</comment>
+      <origin>51904778</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="119" sha1="qa1ncfnx84imio4cwg7wfb47d7pt6l9" xml:space="preserve">{{Commonscat|History of technology}}
+
+[[Kategoria:Historia według tematyki|Techniki, Historia]]
+[[Kategoria:Technika]]</text>
+      <sha1>qa1ncfnx84imio4cwg7wfb47d7pt6l9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Pożarnictwo</title>
+    <ns>14</ns>
+    <id>121639</id>
+    <revision>
+      <id>74833573</id>
+      <parentid>71458712</parentid>
+      <timestamp>2024-09-25T22:49:55Z</timestamp>
+      <contributor>
+        <username>Chrumps</username>
+        <id>6748</id>
+      </contributor>
+      <comment>kat.</comment>
+      <origin>74833573</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="98" sha1="gjtn5h4rhf1j55gyc9eyow72ahqr0kg" xml:space="preserve">{{Commonscat|Firefighting}}
+
+[[Kategoria:Technika]]
+[[Kategoria:Ratownictwo]]
+[[Kategoria:Ogień]]</text>
+      <sha1>gjtn5h4rhf1j55gyc9eyow72ahqr0kg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Obiekt techniczny</title>
+    <ns>0</ns>
+    <id>505406</id>
+    <revision>
+      <id>75198610</id>
+      <parentid>75106704</parentid>
+      <timestamp>2024-11-10T08:18:23Z</timestamp>
+      <contributor>
+        <username>Mpn</username>
+        <id>125775</id>
+      </contributor>
+      <comment>Zostawiono po dyskusji: [[Wikipedia:Poczekalnia/artykuły/2024:10:27:Obiekt_techniczny]]</comment>
+      <origin>75198610</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2158" sha1="qqnu5z1vx7p3mdcgqsptu9pvqh1wmx5" xml:space="preserve">[[Plik:Continental AG tire factory Mittellandkanal Stoecken Hannover Germany 02.jpg|mały|Budynek fabryki opon jako przykład obiektu technicznego]]
+'''Obiekt techniczny''' – [[przedmiot]] wykonany przez [[Człowiek rozumny|człowieka]] w celu spełnienia jego [[potrzeba|potrzeb]]{{r|Sobczak|BNauki}}.
+
+Każdy obiekt techniczny jest wytwarzany po to, aby go [[eksploatacja|eksploatować]]{{odn|Słowiński|2014|s=17}}, a wskutek eksploatacji podlega [[Zużywanie|zużyciu]]{{odn|Słowiński|2014|s=43}}.
+Przyjmuje się, że istnienie obiektu technicznego dzieli się na fazy:
+* [[produkcja|produkcji]]
+* [[eksploatacja|eksploatacji]]
+* [[likwidacja|likwidacji]]{{r|businessinsider}}
+
+== Przypisy ==
+{{Przypisy|
+*&lt;ref name="Sobczak"&gt;{{Cytuj pismo | nazwisko = Sobczak | imię = Ryszard | tytuł = Inżynier: wiedza, technika, technologia | czasopismo = Zeszyty Naukowe Wydziału Elektrotechniki i Automatyki Politechniki Gdańskiej | wolumin = 52 | strony = 116 | issn = 2353-1290 | data = 2017 | url = https://www.infona.pl/resource/bwmeta1.element.baztech-3fa98c32-a30e-4d88-8f4b-8bd4883c2112}}&lt;/ref&gt;
+*&lt;ref name="BNauki"&gt;{{Cytuj pismo | nazwisko = Dalewska-Kolan | imię = Małgorzata | nazwisko2 = Podwójci | imię2 = Paweł  | tytuł = Próba sformułowania w ujęciu systemowym reguły optymalnego osiągnięcia celów technicznych przy rozwiązywaniu problemów projektowych obiektów budowlanych na przykładzie sieci wodociągowych | czasopismo = Rocznik Ochrona Środowiska | wolumin = 11 | strony = 1282 | data = 2009 | url = https://bibliotekanauki.pl/articles/1819752.pdf}}&lt;/ref&gt;
+*&lt;ref name="businessinsider"&gt;{{Cytuj stronę | url = https://businessinsider.com.pl/wiadomosci/eksploatacja-obiektu-technicznego-rodzaje-oraz-fazy/m04cflw | tytuł = Eksploatacja — co to jest za zjawisko i jakie działania obejmuje? | data = 2022-05-15 | opublikowany = businessinsider.com.pl | data dostępu = 2024-10-27}}&lt;/ref&gt;
+}}
+
+== Bibliografia ==
+*{{Cytuj książkę | nazwisko = Słowiński | imię = Bronisław | tytuł = Inżynieria eksploatacji maszyn | miejsce = Koszalin | data = 2014 | isbn = 978-83-7365-248-4 | odn = tak}}
+
+[[Kategoria:Technika]]</text>
+      <sha1>qqnu5z1vx7p3mdcgqsptu9pvqh1wmx5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wysoka technika</title>
+    <ns>0</ns>
+    <id>48526</id>
+    <revision>
+      <id>73092333</id>
+      <parentid>71297708</parentid>
+      <timestamp>2024-03-09T23:29:50Z</timestamp>
+      <contributor>
+        <username>PlayerekG123</username>
+        <id>1299843</id>
+      </contributor>
+      <comment>[[Pomoc:Słowniczek#W|wikizacja]]</comment>
+      <origin>73092333</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1985" sha1="irms1d7oe5ktclcfjs6f0or95qey1jd" xml:space="preserve">'''Wysoka technika''' ({{ang.|high technology}}, {{K|en|high-tech}}&lt;ref&gt;{{Cytuj książkę |nazwisko = Matusiak |imię = Krzysztof B. |tytuł = Innowacje i transfer technologii. Słownik pojęć |url = https://www.parp.gov.pl/files/74/81/469/12812.pdf |wydawca = [[Polska Agencja Rozwoju Przedsiębiorczości]] |miejsce = Warszawa |rok = 2011 |rozdział = WYSOKA TECHNIKA [High Technology, High-Tech] |isbn = 978-83-7633-164-5 |język = pl |strony = 328–331}}&lt;/ref&gt;) – dziedziny i wyroby charakteryzujące się wysoką intensywnością [[Prace badawczo-rozwojowe|B+R]]&lt;ref&gt;{{Cytuj stronę |url = https://stat.gov.pl/metainformacje/slownik-pojec/pojecia-stosowane-w-statystyce-publicznej/773,pojecie.html |tytuł = Pojęcia stosowane w statystyce publicznej: Wysoka technika |opublikowany = [[Główny Urząd Statystyczny]] |data = |data dostępu = 2019-04-03}}&lt;/ref&gt;.
+
+Cechami charakterystycznymi dla branż wysokich [[Technologia|technologii]] są także&lt;ref&gt;[https://www.parp.gov.pl/files/74/75/76/perspektywy_rozwoju_msp.pdf Perspektywy rozwoju małych i średnich przedsiębiorstw wysokich technologii w Polsce do 2020 roku], s. 6.&lt;/ref&gt;:
+* wysoki poziom zatrudnienia personelu naukowo-technicznego,
+* technologie zawarte w [[patent]]ach i [[Licencja (prawo)|licencjach]],
+* strategiczna współpraca z innymi firmami wysoko technologicznymi i ośrodkami naukowymi,
+* wysoki poziom rotacji wyposażenia technicznego, konieczność dużych nakładów kapitałowych.
+
+Przykłady dziedzin [[Technika|techniki]], w których stosowane są nowe technologie:
+* [[astronautyka]]
+* [[biotechnologia]]
+* [[farmacja]]
+* [[fizyka jądrowa]]
+* [[informatyka]]
+* [[inżynieria kwantowa]] (np. [[spintronika]], [[komputer kwantowy]])
+* [[inżynieria materiałowa]] ([[nanomateriały]], [[nanotechnologia]])
+* [[lotnictwo]]
+* [[medycyna]]
+* [[robotyka]]
+* [[telekomunikacja]]
+
+== Zobacz też ==
+* [[Program 863]]
+
+== Przypisy ==
+{{Przypisy}}
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Technika]]</text>
+      <sha1>irms1d7oe5ktclcfjs6f0or95qey1jd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Modelarstwo</title>
+    <ns>14</ns>
+    <id>136728</id>
+    <revision>
+      <id>58057275</id>
+      <parentid>35921182</parentid>
+      <timestamp>2019-11-21T22:29:32Z</timestamp>
+      <contributor>
+        <username>Artur Andrzej</username>
+        <id>146248</id>
+      </contributor>
+      <comment>dr. techn.</comment>
+      <origin>58057275</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="73" sha1="9sxls2ibmoa8gy0wi885l7ydj61qxgd" xml:space="preserve">{{commonscat|Model building}}
+
+[[Kategoria:Hobby]]
+[[Kategoria:Technika]]</text>
+      <sha1>9sxls2ibmoa8gy0wi885l7ydj61qxgd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Infrastruktura techniczna</title>
+    <ns>0</ns>
+    <id>419658</id>
+    <revision>
+      <id>72756316</id>
+      <parentid>72750895</parentid>
+      <timestamp>2024-02-03T12:14:22Z</timestamp>
+      <contributor>
+        <username>Oruniak</username>
+        <id>62173</id>
+      </contributor>
+      <comment>Wycofano ostatnią zmianę treści (wprowadzoną przez [[Specjalna:Wkład/Habibi Hajwan|Habibi Hajwan]]) i przywrócono wersję 62223823 autorstwa Artur Andrzej</comment>
+      <origin>72756316</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="643" sha1="tgv6ypkv235ijknof14a5ejg3ybi2tg" xml:space="preserve">[[Plik:Gdańsk Młyniska - rury ciepłownicze.JPG|thumb|Infrastruktura techniczna]]
+'''Infrastruktura techniczna''' – urządzenia, sieci przesyłowe i związane z nimi obiekty świadczące niezbędne usługi dla danej jednostki przestrzenno-gospodarczej (osiedla, dzielnicy, miasta, zakładu przemysłowego) w zakresie [[energetyka|energetyki]], dostarczania ciepła, wody, usuwania ścieków i odpadów, transportu, [[teletechnika|teletechniki]] i tym podobnych.
+
+== Zobacz też ==
+* [[infrastruktura kolejowa]]
+* [[infrastruktura transportowa]]
+* [[infrastruktura transportu lądowego]]
+
+[[Kategoria:Technika]]
+[[Kategoria:Infrastruktura]]</text>
+      <sha1>tgv6ypkv235ijknof14a5ejg3ybi2tg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Postęp techniczny</title>
+    <ns>0</ns>
+    <id>894493</id>
+    <revision>
+      <id>70433515</id>
+      <parentid>70430296</parentid>
+      <timestamp>2023-05-22T16:30:03Z</timestamp>
+      <contributor>
+        <username>Alan ffm</username>
+        <id>357169</id>
+      </contributor>
+      <comment>rev., [[WP:SK]]+[[WP:SK/ToS|ToS]]+[[WP:SK/mSI|mSI]]+[[WP:SK/Bn|Bn]], drobne redakcyjne, drobne techniczne</comment>
+      <origin>70433515</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2891" sha1="ehabp04eyhwz13r2gpjv8h8s2cda3ek" xml:space="preserve">'''Postęp techniczny''' – proces zmian rozwojowych [[Technika|techniki]] wyrażający się przez wprowadzenie do procesu [[produkcja|produkcji]] nowych, udoskonalonych [[maszyna|maszyn]], [[urządzenie|urządzeń]], [[narzędzie|narzędzi]] i nowych [[technologia|technologii]] oraz przez wykorzystanie w sposób doskonalszy istniejących zasobów.
+
+== Postęp techniczny egzogeniczny ==
+Postęp techniczny egzogeniczny ma miejsce gdy wzrost produkcji następuje bez zwiększenia zużycia zasobów w procesie produkcyjnym. Dotyczy wszystkich bieżąco użytkowanych, rzeczowych i osobowych czynników produkcji. Jest wynikiem pojawienia się lepszych sposobów na gospodarowanie zasobami, które aktualnie są użytkowane. Wdrażanie nowych metod nie wiąże się zazwyczaj z dużymi kosztami.
+
+== Postęp techniczny endogeniczny (ucieleśniony) ==
+Postęp techniczny endogeniczny (ucieleśniony) wiąże się z angażowaniem w procesie produkcji nowych zasobów [[kapitał (ekonomia)|kapitału]], czyli z nowymi [[inwestycja]]mi, które umożliwiają zwiększenie [[wydajność pracy|wydajności pracy]].
+Ekonomiści wyróżniają postęp techniczny endogeniczny ucieleśniony w kapitale i (lub) [[Praca (działalność człowieka)|pracy]].
+
+=== Endogeniczny postęp techniczny ucieleśniony w pracy ===
+Jest wdrażany przez pracowników aktualnie szkolonych przez przedsiębiorstwo, w przeciwieństwie do szkolonych w poprzednich okresach.
+
+=== Endogeniczny postęp techniczny ucieleśniony w kapitale ===
+Dotyczy maszyn instalowanych bieżąco w danym roku obrachunkowym, w przeciwieństwie do maszyn już funkcjonujących, za pomocą których nie osiąga się tego rodzaju postępu technicznego. Jest wynikiem inwestycji zwiększenia ilości kapitału przypadającego na jednego zatrudnionego, czyli intensywności kapitałowej. Wielkość produkcji na jednego zatrudnionego wzrasta jeśli dzięki inwestycjom zwiększy się wydajność zasobów majątku.
+
+'''Postęp techniczny indukowany''' jest jego szczególnym przypadkiem.
+Wynika z tego, że produkcyjność kapitału w początkowym okresie oddania do eksploatacji nowych maszyn i urządzeń produkcyjnych jest mniejsza od potencjalnej, gdyż na początku pracownikom brakuje doświadczenia w posługiwaniu się nowymi technologiami. W tym wypadku produkcyjność nowego kapitału wzrasta z dwóch powodów. Pierwszy to większa produkcyjność nowego kapitału, która ujawnia się już momencie oddania do eksploatacji nowych maszyn i urządzeń. Drugi to wpływ zdobywanego doświadczenia w użytkowaniu nowego kapitału.
+
+== Zobacz też ==
+* [[Osobliwość technologiczna]]
+
+== Bibliografia ==
+* Michał Gabriel Woźniak, Wzrost gospodarczy. Podstawy teoretyczne, Wydawnictwo Akademii Ekonomicznej w Krakowie, Kraków 2004, {{ISBN|83-7252-222-7}}.
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Technika]]
+[[Kategoria:Gospodarka]]</text>
+      <sha1>ehabp04eyhwz13r2gpjv8h8s2cda3ek</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Prawo własności przemysłowej</title>
+    <ns>14</ns>
+    <id>1222735</id>
+    <revision>
+      <id>11147236</id>
+      <timestamp>2008-01-30T10:27:09Z</timestamp>
+      <contributor>
+        <username>Gbylski</username>
+        <id>67596</id>
+      </contributor>
+      <comment>kat.</comment>
+      <origin>11147236</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="69" sha1="er1yvhy6gvd2lt9wf7ra32ocorc4i8g" xml:space="preserve">[[Kategoria:Prawo własności intelektualnej]]
+[[Kategoria:Technika]]</text>
+      <sha1>er1yvhy6gvd2lt9wf7ra32ocorc4i8g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Technologia</title>
+    <ns>14</ns>
+    <id>172193</id>
+    <revision>
+      <id>40647200</id>
+      <parentid>40644802</parentid>
+      <timestamp>2014-10-08T13:20:08Z</timestamp>
+      <contributor>
+        <username>SpiderMum</username>
+        <id>16515</id>
+      </contributor>
+      <minor/>
+      <comment>Usunięto kategorię "Klasyfikacje głównych tematów" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>40647200</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="238" sha1="0hb8g9dpo2k9hgisqfx0e657irxpfqw" xml:space="preserve">{{Siostrzane projekty
+ |commons   = Category:Technology
+ |słownik   =
+ |źródła    =
+ |cytaty    =
+ |news      = Kategoria:Technologia
+ |books     =
+ |podróże   =
+ |species   =
+ |wikiwerek =
+}}
+{{clear|right}}
+
+[[Kategoria:Technika]]</text>
+      <sha1>0hb8g9dpo2k9hgisqfx0e657irxpfqw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Społeczność techniczna</title>
+    <ns>14</ns>
+    <id>1318764</id>
+    <revision>
+      <id>68560425</id>
+      <parentid>15485479</parentid>
+      <timestamp>2022-10-22T16:32:09Z</timestamp>
+      <contributor>
+        <username>Rafał Miśta</username>
+        <id>794911</id>
+      </contributor>
+      <comment>tematycznie nie pasuje do b. ogólnej kategorii z pojęciami antropologicznymi i socjologicznymi nt. zbiorowości społecznych</comment>
+      <origin>68560425</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" sha1="r5ncbdgwasuy36shjiie52zcwhgffrv" xml:space="preserve">[[Kategoria:Technika]]</text>
+      <sha1>r5ncbdgwasuy36shjiie52zcwhgffrv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Zrób to sam (hobby)</title>
+    <ns>0</ns>
+    <id>811263</id>
+    <revision>
+      <id>75216010</id>
+      <parentid>75178203</parentid>
+      <timestamp>2024-11-12T11:02:46Z</timestamp>
+      <contributor>
+        <ip>213.186.79.18</ip>
+      </contributor>
+      <comment>{{[[Szablon:IPA]]}}</comment>
+      <origin>75216010</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4868" sha1="c7mk2a5pgbpiajg3kwda8lbvz8aexj9" xml:space="preserve">[[Plik:Arthur Rothstein, Boy building a model airplane as girl watches, FSA camp, Robstown, Texas, 1942.jpg|thumb|Chłopiec pracujący nad domowej roboty modelem samolotu, 1942 rok]]
+'''Zrób to sam''' ({{ang.|do it yourself}} {{IPA|'du: ıt jə’self|nawiasy=kwadratowy}}, w skrócie '''DIY''') – określenie idei związanej z samodzielnym, niekomercyjnym wykonywaniem zwykle na własne potrzeby różnych prac bez pomocy profesjonalistów. Anglojęzyczny termin DIY pojawił się na początku XX wieku, a do powszechnego użytku wszedł po [[II wojna światowa|II wojnie światowej]]. DIY może być także niezależnym artystą, który pisze, nagrywa i produkuje własne piosenki, zwykle we własnym domu. Wraz z rozwojem programów [[Cyfrowa stacja robocza|DAW]] (Digital Audio Workstations) czy takich jak Logic Pro X firmy Apple, [[Ableton Live]] i [[FL Studio]]. Wielu artystów na świecie tworzy tak własną muzykę i wydaje ją własnym sumptem na portalach streamingowych bez udziału dużych wytwórni płytowych&lt;ref&gt;{{Cytuj |autor = Broken Stereo |tytuł = Bedroom Pop and the Rise of the DIY Artist |data = 2020-01-14 |data dostępu = 2020-06-20 |opublikowany = Medium |url = https://medium.com/@brokenstereo/bedroom-pop-and-the-rise-of-the-diy-artist-1946e83bc7e0 |język = en}}&lt;/ref&gt;.
+
+== Subkultura ==
+Określenie to dotyczy wywodzącej się z [[subkultura|subkultury]] [[Ruch hippisowski|hippie]] i [[punk]] (choć do niej się nieograniczającej) idei samodzielnego wytwarzania m.in. tworzenia [[zin]]ów, ręcznego malowania naszywek i koszulek, wydawania utworów muzycznych nagranych własnym sumptem, organizowania koncertów bez pomocy sponsorów.
+
+== Idea ==
+Idea jest rozpowszechniana także przez [[Haker (slang komputerowy)|hakerów]], miłośników technologii, elektroników hobbystów, którzy udostępniają na swoich stronach i forach dyskusyjnych filmy i inne pliki z instruktażami np. montażu gniazda do ładowarki samochodowej w komputerze, instalacji [[MacOS|OS X]] na [[Komputer osobisty|PC]], zasilenia [[router]]a przez gniazdo [[ethernet]]owe, budowy [[zegar]]a cyfrowego, budowy zestawu [[głośnik]]ów do kina domowego, nawet własnego odtwarzacza [[MP3|mp3]] i wiele innych.
+Może to służyć wielu celom – od promocji danego ruchu, zespołu lub idei do pozyskiwania pieniędzy na różne cele.
+
+== Muzycy ==
+Przykładowi polscy muzycy posiadający główne cechy DIY tj. nagrywający i wydający muzykę w swoich własnych wydawnictwach.
+* [[DJ 600V]]
+* [[Tede]]
+* [[Sokół (raper)]]
+* [[Jacek Sienkiewicz (producent muzyczny)|Jacek Sienkiewicz]]
+* [[Modfunk]]
+* [[Gromee]]
+* [[P.A.F.F.]]
+
+== Majsterkowanie ==
+Obecnie DIY funkcjonuje w państwach anglojęzycznych także jako nazwa sklepu z przyborami, narzędziami oraz materiałami dla majsterkowiczów. Idea ta rozprzestrzeniła się na kraje europejskie w postaci komercyjnej; wielu producentów we wszystkich dziedzinach technicznych, od budownictwa, poprzez wykańczanie wnętrz na elektronice skończywszy, oferuje zestawy do samodzielnego wykorzystania.
+
+Od lat 90. ruch Zrób to Sam coraz zaczęło rozwijać się w skali globalnej dzięki rozwojowi [[World Wide Web|sieci WWW.]] W efekcie zaczęły powstawać [[blog]]i i [[Wideoblog|vlogi]] oferujące [[tutorial]]e&lt;ref&gt;{{Cytuj |tytuł = Alfabet majsterkowicza. Co to jest DIY, upcycling i tutorial? Majsterki.pl |data = 2015-01-27 |data dostępu = 2016-07-12 |url = http://majsterki.pl/blog/alfabet-majsterkowania-co-to-jest-diy |język = pl}}&lt;/ref&gt; krok po kroku pokazujące jak samodzielnie wykonać konkretne przedmioty, elementy remontu czy domowych napraw. Obecnie zasięg tego ruchu jest już na tyle masowy, że według badania z czerwca 2016 r. ''Zrób to sam. Jak Polacy łączą przyjemne z pożytecznym?'' 84% Polaków nie tylko samodzielne wykonuje różne czynności w domu czy ogrodzie, ale też 73% robi to z przyjemnością&lt;ref&gt;{{Cytuj |tytuł = Raport o "zrób to sam”, czyli jak Polacy łączą przyjemne z pożytecznym |data = 2016-06-16 |data dostępu = 2022-01-23 |opublikowany = gazetaprawna.pl |url = https://www.gazetaprawna.pl/wiadomosci/artykuly/952425,raport-o-zrob-to-sam-polacy-zdolni-i-aktywni.html |język = pl}}&lt;/ref&gt;&lt;ref&gt;{{Cytuj |tytuł = DIY: „Zrób to sam” w Polsce – raport |data = 17 czerwca 2016 |data dostępu = 2022-01-23 |opublikowany = majsterki.pl |typ nośnika = pdf |url = https://majsterki.pl/diy/wydarzenia/raport-o-zrob-sam-w-polsce}}&lt;/ref&gt;.
+
+== „Samoróbki” ==
+* [[Sam (motoryzacja)|Ciągnik Sam]]
+
+== Zobacz też ==
+{{Commonscat|Do It Yourself (DIY)}}
+* [[Zrób to sam (program telewizyjny)]]
+* [[Makerzy]]
+* [[Adam Słodowy]]
+* [[Arvind Gupta]]
+* [[samopublikowanie]]
+
+== Przypisy ==
+{{Przypisy}}
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Hobby]]
+[[Kategoria:Technika]]
+[[Kategoria:Punk]]
+[[Kategoria:Etnologia i antropologia kulturowa]]</text>
+      <sha1>c7mk2a5pgbpiajg3kwda8lbvz8aexj9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Technika filmowa</title>
+    <ns>14</ns>
+    <id>1468079</id>
+    <revision>
+      <id>44260337</id>
+      <parentid>44260335</parentid>
+      <timestamp>2015-12-07T02:14:28Z</timestamp>
+      <contributor>
+        <username>SpiderMum</username>
+        <id>16515</id>
+      </contributor>
+      <origin>44260337</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="172" sha1="lu4xhm3y28zuqb4imz1ti8092ev39lv" xml:space="preserve">{{Commonscat|Video and movie technology}}
+{{Zobacz kategorię|Technika telewizyjna|Technika wideo|Złudzenie optyczne}}
+
+[[Kategoria:Kinematografia]]
+[[Kategoria:Technika]]</text>
+      <sha1>lu4xhm3y28zuqb4imz1ti8092ev39lv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Starzenie moralne</title>
+    <ns>0</ns>
+    <id>126522</id>
+    <revision>
+      <id>61464374</id>
+      <parentid>61464348</parentid>
+      <timestamp>2020-11-24T07:34:10Z</timestamp>
+      <contributor>
+        <username>PG</username>
+        <id>34372</id>
+      </contributor>
+      <comment>drobne redakcyjne</comment>
+      <origin>61464374</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1659" sha1="ip8yz3y0zt7cn87wwavz3ffsgw57zlb" xml:space="preserve">'''Starzenie moralne''' – związany z szybkimi zmianami [[technologia|technologicznymi]] proces (zwłaszcza w [[elektronika|elektronice]] i [[Informatyka|informatyce]]), w wyniku którego w pełni sprawny wedle specyfikacji sprzęt lub [[oprogramowanie]] nie spełnia już bieżących [[standard|standardów]] użytkowania&lt;ref&gt;{{Cytuj |autor =  Stanisław Legutko |tytuł = Podstawy eksploatacji maszyn i urządzeń |data = 2004 |data dostępu = 2020-11-24 |isbn = 83-02-08998-2 |miejsce = Warszawa |wydawca = WSiP |s = 10 |oclc = 749256149}}&lt;/ref&gt;.
+
+Przykładem starzenia moralnego jest [[system operacyjny]] [[DOS]], zastąpiony obecnie na rynku przez [[Microsoft Windows|MS Windows]]. Innym przykładem jest [[magnetofon szpulowy]], wyparty najpierw przez [[magnetofon kasetowy]], a współcześnie przez techniki nagrywania na nośnikach cyfrowych, np. na [[dysk optyczny|dyskach optycznych]], również zastępowanych przez odtwarzacze wykorzystujące [[pamięć flash]]&lt;ref&gt;{{Cytuj |autor = Michalina Halik |tytuł = Procesy starzenia się w informatyce |data =  |data dostępu = 2020-11-24 |url = http://logic.amu.edu.pl/images/a/a7/Inf8a.pdf}}&lt;/ref&gt;.
+
+W przypadku budynków mówimy o [[Zużycie funkcjonalne budynków|zużyciu moralnym lub funkcjonalnym]]&lt;ref&gt;{{Cytuj |autor = Beata Nowogońska |tytuł = Trwałość techniczna a trwałość moralna obiektów budowlanych |data =  |data dostępu = 2020-11-24 |url = https://repozytorium.biblos.pk.edu.pl/redo/resources/32418/file/suwFiles/NowogonskaB_TrwaloscTechniczna.pdf}}&lt;/ref&gt;.
+
+== Przypisy ==
+{{Przypisy}}
+
+[[Kategoria:Ekonomia]]
+[[Kategoria:Inżynieria oprogramowania]]
+[[Kategoria:Technika]]</text>
+      <sha1>ip8yz3y0zt7cn87wwavz3ffsgw57zlb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Nauki techniczne</title>
+    <ns>14</ns>
+    <id>555304</id>
+    <revision>
+      <id>37863044</id>
+      <parentid>36693513</parentid>
+      <timestamp>2013-11-09T20:27:56Z</timestamp>
+      <contributor>
+        <username>Sławek Borewicz</username>
+        <id>393402</id>
+      </contributor>
+      <comment>[[Kategoria:Klasyfikacja nauk| ]]</comment>
+      <origin>37863044</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="86" sha1="i60i83y1aurwn9rd1seaej076qsnwl0" xml:space="preserve">{{Commonscat|Engineering}}
+
+[[Kategoria:Klasyfikacja nauk| ]]
+[[Kategoria:Technika| ]]</text>
+      <sha1>i60i83y1aurwn9rd1seaej076qsnwl0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Produkcja</title>
+    <ns>14</ns>
+    <id>1257823</id>
+    <revision>
+      <id>35420166</id>
+      <parentid>34905674</parentid>
+      <timestamp>2013-03-15T09:49:59Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>543400</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Addbot|Bot:]] Przenoszę linki interwiki (45) do [[d:|Wikidata]], są teraz dostępne do edycji na [[d:q6683771]]</comment>
+      <origin>35420166</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="77" sha1="oh3dzlrhkqe3cv5yixj53ow2ai89ok3" xml:space="preserve">{{Commonscat|Manufacturing}}
+
+[[Kategoria:Gospodarka]]
+[[Kategoria:Technika]]</text>
+      <sha1>oh3dzlrhkqe3cv5yixj53ow2ai89ok3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Technika jądrowa</title>
+    <ns>14</ns>
+    <id>2267570</id>
+    <revision>
+      <id>69450217</id>
+      <parentid>69450205</parentid>
+      <timestamp>2023-01-29T16:22:30Z</timestamp>
+      <contributor>
+        <username>Chrumps</username>
+        <id>6748</id>
+      </contributor>
+      <minor/>
+      <comment>Anulowanie wersji 69450205 autorstwa [[Special:Contributions/Chrumps|Chrumps]] ([[User talk:Chrumps|dyskusja]])</comment>
+      <origin>69450217</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="57" sha1="lz4zw2fz02yjxw10pm8tuphber1ms2m" xml:space="preserve">{{Commonscat|Nuclear technology}}
+
+[[Kategoria:Technika]]</text>
+      <sha1>lz4zw2fz02yjxw10pm8tuphber1ms2m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Technika satelitarna</title>
+    <ns>14</ns>
+    <id>2390634</id>
+    <revision>
+      <id>52864713</id>
+      <parentid>27717779</parentid>
+      <timestamp>2018-03-16T15:33:44Z</timestamp>
+      <contributor>
+        <username>Gbylski</username>
+        <id>67596</id>
+      </contributor>
+      <minor/>
+      <comment>Usunięto kategorię "Sztuczne satelity" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>52864713</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" sha1="r5ncbdgwasuy36shjiie52zcwhgffrv" xml:space="preserve">[[Kategoria:Technika]]</text>
+      <sha1>r5ncbdgwasuy36shjiie52zcwhgffrv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Transport</title>
+    <ns>14</ns>
+    <id>75806</id>
+    <revision>
+      <id>71465466</id>
+      <parentid>36959057</parentid>
+      <timestamp>2023-10-07T16:25:49Z</timestamp>
+      <contributor>
+        <username>MalarzBOT</username>
+        <id>31007</id>
+      </contributor>
+      <minor/>
+      <comment>MalarzBOT: usuwam linki do portali: [[Wikipedia:Kawiarenka/Ogólne#Portale]]</comment>
+      <origin>71465466</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="509" sha1="29cm5jnr5o5yo2d0q3kbbu02d8a9fj8" xml:space="preserve">{{Siostrzane projekty
+ |commons   = Category:Transport
+ |słownik   = Kategoria:Transport
+ |źródła    =
+ |cytaty    = Kategoria:Transport
+ |news      = Kategoria:Transport
+ |books     =
+ |podróże   =
+ |species   =
+ |wikiwerek =
+}}
+{{Opis kategorii
+ |grupuje        =
+ |uwagi          =
+ |osobne_grupują =
+ |main           = [[Transport]]
+ |wikiprojekt    =
+ |zobacz         =
+ |związane       = [[:Kategoria:Logistyka|Logistyka]]
+}}
+{{clear|right}}
+
+[[Kategoria:Technika]]
+[[Kategoria:Społeczeństwo]]</text>
+      <sha1>29cm5jnr5o5yo2d0q3kbbu02d8a9fj8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Urządzenia</title>
+    <ns>14</ns>
+    <id>555319</id>
+    <revision>
+      <id>54490051</id>
+      <parentid>54489972</parentid>
+      <timestamp>2018-09-15T13:44:31Z</timestamp>
+      <contributor>
+        <username>Sławek Borewicz</username>
+        <id>393402</id>
+      </contributor>
+      <comment>związane</comment>
+      <origin>54490051</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="361" sha1="6jmm8ci6uoriu2t213ny8uf5wt912oz" xml:space="preserve">{{Commonscat|Equipment}}
+{{Opis kategorii
+ |grupuje        =
+ |uwagi          =
+ |osobne_grupują =
+ |main           =
+ |portal         =
+ |wikiprojekt    =
+ |zobacz         =
+ |związane       = [[:Kategoria:Obiekty przemysłowe|Obiekty przemysłowe]], [[:Kategoria:Budowle hydrotechniczne|Budowle hydrotechniczne]]
+ |siostrzane     =
+}}
+[[Kategoria:Technika]]</text>
+      <sha1>6jmm8ci6uoriu2t213ny8uf5wt912oz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Technika wojskowa</title>
+    <ns>14</ns>
+    <id>1332174</id>
+    <revision>
+      <id>35436779</id>
+      <parentid>34548356</parentid>
+      <timestamp>2013-03-15T12:46:27Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>543400</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Addbot|Bot:]] Przenoszę linki interwiki (30) do [[d:|Wikidata]], są teraz dostępne do edycji na [[d:q5878413]]</comment>
+      <origin>35436779</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="79" sha1="ev1zepvtpwk3qu89in91qjxylanevq8" xml:space="preserve">{{Commonscat|Military technology}}
+
+[[Kategoria:Wojsko]]
+[[Kategoria:Technika]]</text>
+      <sha1>ev1zepvtpwk3qu89in91qjxylanevq8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Technika</title>
+    <ns>0</ns>
+    <id>6234</id>
+    <revision>
+      <id>72780364</id>
+      <parentid>72780350</parentid>
+      <timestamp>2024-02-05T19:19:35Z</timestamp>
+      <contributor>
+        <username>PlayerekG123</username>
+        <id>1299843</id>
+      </contributor>
+      <minor/>
+      <comment>lit.</comment>
+      <origin>72780364</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1860" sha1="dx34gfjrfhw02931vqe4k358bc2mogk" xml:space="preserve">{{dopracować|źródła=2021-04}}
+[[Plik:Technologie.jpg|mały|Wynalazki techniczne (od góry): po lewej mikrometr i kolej magnetyczna Maglev, po prawej turbina parowa i ramię pedału rowerowego]]
+'''Technika''' ({{greka|τέχνη}}, ''technē''  „sztuka, rzemiosło, kunszt, umiejętność”) – wytwarzanie zjawisk i przedmiotów niewystępujących naturalnie w przyrodzie&lt;ref name="epwn"&gt;{{Encyklopedia PWN | id = 3985955 | tytuł = technika | data dostępu = 2023-03-19 }}&lt;/ref&gt;. Pojęcie techniki bywa potocznie utożsamiane z [[technologia|technologią]], czyli wiedzą o wytwarzaniu za pomocą środków technicznych.
+
+Słowo „technika” określa też same urządzenia techniczne, a także sposób wykonywania określonych czynności (na przykład technika gry na skrzypcach, technika malowania obrazów, technika walki zapaśniczej). 
+
+Działalnością badawczą w dziedzinie techniki zajmują się [[nauki techniczne]] i [[inżynieria]]. Tak zdefiniowana technika stanowi zasadniczy składnik cywilizacji.
+
+Niektóre nauki i działalności w dziedzinie techniki:
+* [[akustyka]]
+* [[architektura]] i [[urbanistyka]]
+* [[automatyka]] i [[robotyka]]
+* [[biocybernetyka]] i [[inżynieria biomedyczna]]
+* [[budownictwo]]
+* [[elektronika]]
+* [[elektrotechnika]]
+* [[energetyka]], w tym [[energetyka jądrowa]]
+* [[geodezja]] i [[kartografia]]
+* [[informatyka]]
+* [[inżynieria materiałowa]]
+* [[technologia chemiczna i inżynieria procesowa|inżynieria procesowa]]
+* [[inżynieria środowiska]]
+* [[maszynoznawstwo]]
+* [[materiałoznawstwo]]
+* [[mechanika]]
+* [[metalurgia]]
+* [[okrętownictwo]]
+* [[poligrafia]]
+* [[pożarnictwo]]
+* [[telekomunikacja]]
+* [[transport]]
+
+== Zobacz też ==
+{{Wikicytaty|o technice}}
+{{Wikisłownik|technika}}
+* [[historia techniki]]
+
+== Przypisy ==
+{{Przypisy}}
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Technika| ]]</text>
+      <sha1>dx34gfjrfhw02931vqe4k358bc2mogk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Awaria techniczna</title>
+    <ns>0</ns>
+    <id>3446331</id>
+    <revision>
+      <id>66895454</id>
+      <parentid>62199309</parentid>
+      <timestamp>2022-04-12T08:38:47Z</timestamp>
+      <contributor>
+        <username>Paweł Ziemian BOT</username>
+        <id>661950</id>
+      </contributor>
+      <minor/>
+      <comment>ujednolicam zapis daty dostępu w szablonie cytowania</comment>
+      <origin>66895454</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2891" sha1="0e64ydy2qvtvzk4i8e0zqaph1332o5n" xml:space="preserve">'''Awaria techniczna''' – zgodnie z Ustawą o [[stan klęski żywiołowej|stanie klęski żywiołowej]] jest to gwałtowne, nieprzewidziane uszkodzenie lub zniszczenie [[Obiekt budowlany|obiektu budowlanego]], [[Urządzenie|urządzenia technicznego]] lub systemu urządzeń technicznych powodujące przerwę w ich używaniu lub utratę ich właściwości&lt;ref&gt;Art. 3 ust. 1 pkt. 3 Ustawy z dnia 18 kwietnia 2002 r. o stanie klęski żywiołowej ({{Dziennik Ustaw|2017|1897}}).&lt;/ref&gt;. Awaria techniczna zawiera się w szerszym pojęciu jakim jest [[klęska żywiołowa]].
+
+Podstawowe awarie techniczne:
+*'''Awarie [[sieć energetyczna|sieci energetycznych]]''' mogą być spowodowane wyładowaniami atmosferycznymi np. podczas burzy, czego efektem będą skoki napięcia w [[sieć elektroenergetyczna|sieci elektrycznej]]. Również mokry śnieg i łamiące się pod jego naporem gałęzie mogą uszkadzać wiszące przewody. W przypadku, gdy piorun uderzy w dom lub mieszkanie, może zdarzyć się, że wszystkie urządzenia elektryczne ulegną uszkodzeniu. Nie tylko niesprzyjające warunki pogodowe mogą być przyczyną przerwy w dostawach prądu, mogą powodować je również nieumiejętnie prowadzone prace remontowe&lt;ref name=":0"&gt;{{Cytuj stronę|url = http://web.archive.org/web/20150402153223/http://www.bzk.radomsko.pl/zagrozenia_10.html|tytuł = Awaria Techniczna|autor = Biuro Bezpieczeństwa i Zarządzania Kryzysowego|data dostępu = 2015-03-28|opublikowany = |język = }}&lt;/ref&gt;. 
+
+*'''Awarie [[sieć wodociągowa|sieci wodociągowej]]''' mogą występować na skutek jednorazowych zdarzeń losowych, ingerencji człowieka, ale najczęstszą przyczyną awarii występującą w sieciach wodociągowych są m.in. pęknięcia rur wodociągowych. Bardzo często zdarza się, że są to rury stare, wykonane z żeliwa, a wyeksploatowanie tego materiału doprowadza do awarii&lt;ref name=":0" /&gt;. 
+
+*'''Awarie [[instalacja gazowa|instalacji gazowej]]''' mogą być powodem wypadków. Ulatniający się gaz gromadzi się w pomieszczeniu, w przypadku nagromadzenia się dużej ilości gazu iskra może spowodować wybuch&lt;ref name=":0" /&gt;.
+
+*'''Awarie telekomunikacyjne''' są związane z częściową lub całkowitą blokadą sieci przesyłowej, spowodowaną najczęściej za sprawą katastrofy naturalnej lub awarią [[infrastruktura telekomunikacyjna|infrastruktury telekomunikacyjnej]].
+
+* '''[[Katastrofa budowlana|Katastrofą budowlaną]]''' jest niezamierzone, gwałtowne zniszczenie obiektu budowlanego lub jego części, a także [[element konstrukcyjny|konstrukcyjnych elementów]] rusztowań, elementów urządzeń formujących, ścianek szczelnych i obudowy wykopów&lt;ref&gt;Art. 73 ust. 1 Ustawy o Prawie budowlanym z 7 lipca 1994 r.&lt;/ref&gt;.
+
+== Zobacz też ==
+* [[Awaria (technika)]]
+* [[Awaryjność]]
+
+== Przypisy ==
+{{Przypisy}}
+
+[[Kategoria:Katastrofy]]
+[[Kategoria:Technika]]</text>
+      <sha1>0e64ydy2qvtvzk4i8e0zqaph1332o5n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Technologia fantastyczna</title>
+    <ns>14</ns>
+    <id>1048367</id>
+    <revision>
+      <id>44089448</id>
+      <parentid>44089447</parentid>
+      <timestamp>2015-11-15T22:56:41Z</timestamp>
+      <contributor>
+        <username>Ulv80</username>
+        <id>373547</id>
+      </contributor>
+      <minor/>
+      <comment>Usunięto kategorię "Fantastyka" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>44089448</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="55" sha1="844r0q2txse451dd1b9o20szxuf4yhh" xml:space="preserve">[[Kategoria:Technika]]
+[[Kategoria:Fantastyka naukowa]]</text>
+      <sha1>844r0q2txse451dd1b9o20szxuf4yhh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Listy związane z techniką</title>
+    <ns>14</ns>
+    <id>468210</id>
+    <revision>
+      <id>75069219</id>
+      <parentid>47539353</parentid>
+      <timestamp>2024-10-28T10:24:04Z</timestamp>
+      <contributor>
+        <username>123rehan</username>
+        <id>1350360</id>
+      </contributor>
+      <origin>75069219</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="280" sha1="2t7eeqt1j6bina4e5qd6ezfjoqk9erv" xml:space="preserve">[[Kategoria:Technika| ]]
+[[Kategoria:Listy|Technika]]
+cars etc [http://getsession.org/]&lt;ref&gt;{{Cytuj |tytuł = Session {{!}} Send Messages, Not Metadata. {{!}} Private Messenger |data dostępu = 2024-10-28 |opublikowany = Session |url = https://getsession.org/ |język = en}}&lt;/ref&gt;</text>
+      <sha1>2t7eeqt1j6bina4e5qd6ezfjoqk9erv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Technosfera</title>
+    <ns>0</ns>
+    <id>4149616</id>
+    <revision>
+      <id>68109301</id>
+      <parentid>63231104</parentid>
+      <timestamp>2022-09-11T17:16:45Z</timestamp>
+      <contributor>
+        <username>MastiBot</username>
+        <id>126431</id>
+      </contributor>
+      <minor/>
+      <comment>Bot poprawia linki archiwalne na szablony {{cytuj}}</comment>
+      <origin>68109301</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="766" sha1="6otkcf34s6st9ovyzv9vgiflo2e64y9" xml:space="preserve">{{ujednoznacznienie}}
+* technosfera – ingerencja człowieka w [[Natura|przyrodę]] lub obszar dotknięty taką działalnością&lt;ref&gt;{{Cytuj stronę | url = https://sjp.pwn.pl/sjp/technosfera;2577702.html | tytuł = Technosfera | praca = Słownik Języka Polskiego | data dostępu = 2017-11-15}}&lt;/ref&gt;
+* [[TechnoSphere]] – internetowe środowisko wirtualne&lt;ref&gt;{{Cytuj stronę | url = http://www.technosphere.org.uk/technosphere/julian.htm | tytuł = "Report on the Artificial Life Environment" | opublikowany = technosphere.org.uk | archiwum = https://web.archive.org/web/19970126013231/http://www.technosphere.org.uk/technosphere/julian.htm | zarchiwizowano = 1997-01-26}} (ang.)&lt;/ref&gt;
+
+== Przypisy ==
+{{Przypisy}}
+
+[[Kategoria:Technika]]
+[[Kategoria:Ekologia]]</text>
+      <sha1>6otkcf34s6st9ovyzv9vgiflo2e64y9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kanibalizacja (technika)</title>
+    <ns>0</ns>
+    <id>1457915</id>
+    <revision>
+      <id>74539221</id>
+      <parentid>70513536</parentid>
+      <timestamp>2024-08-14T06:23:38Z</timestamp>
+      <contributor>
+        <username>Zala</username>
+        <id>238000</id>
+      </contributor>
+      <minor/>
+      <comment>poprawa linków</comment>
+      <origin>74539221</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2410" sha1="69lf3afru3afx3g59jqd5jy72d452uv" xml:space="preserve">{{Inne znaczenia|2=[[kanibalizacja|inne znaczenia słowa „kanibalizacja”]]}}
+'''Kanibalizacja''' – w technice proces polegający na pozyskiwaniu części zamiennych z uszkodzonych lub nieużytkowanych [[maszyna|maszyn]], stosowany w celu naprawy nieprodukowanych już urządzeń lub [[utylizacja|utylizacji]] rozbitych [[samochód|samochodów]] lub samolotów (np. w czasie wojny). Jest zaliczana do procesów [[odzysk]]u&lt;ref&gt;[https://data.e-science.pl/1491/Model%20systemu%20wsparcia%20logistycznego%20procesu%20zagospodarowania%20obiekt%C3%B3w%20wycofanych%20z%20eksploatacji.pdf M. Plewa, Model systemu wsparcia logistycznego procesu zagospodarowania obiektów wycofanych z eksploatacji]&lt;/ref&gt;. Występuje w polskim lotnictwie wojskowym&lt;ref&gt;[https://sin.put.poznan.pl/files/download/4624 Zbigniew Krzysztof Uchman Metoda analizy i oceny gotowosci technicznej wojskowych statków powietrznych], s.80&lt;/ref&gt;, gdzie części pobiera się z niesprawnych statków powietrznych. MON rozważało w 2019 kanibalizację czołgów [[T-72]]&lt;ref&gt;[https://www.polityka.pl/tygodnikpolityka/kraj/1922962,1,mon-zmodernizuje-mniej-czolgow-niz-obiecal-a-wyjdzie-drozej.read MON zmodernizuje mniej czołgów, niż obiecał. A wyjdzie drożej]&lt;/ref&gt;. Turecka armia kanibalizuje czołgi [[Leopard 2]]A4&lt;ref&gt;[https://milmag.pl/seryjna-modernizacja-tureckich-leopardow-2a4/ Seryjna modernizacja tureckich Leopardów 2A4]&lt;/ref&gt;.
+
+Kanibalizacja bywa także stosowana w okrętownictwie. Jako przykład można tutaj podać [[Okręty podwodne typu 207|okręty podwodne typu ''Kobben'']], z których [[Polska Marynarka Wojenna]] nabyła cztery okręty jako jednostki bojowe, a piątą jako magazyn części. Podobnie postąpiła {{link-interwiki|Marynarka Wojenna Singapuru|Q=Q2531890}}, która zakupiła szwedzkie [[okręty podwodne typu A-11B]], z czego cztery zostały nabyte jako jednostki bojowe, a piąta („Sjöbjornen”) w celu kanibalizacji&lt;ref&gt;Maciej S. Sobański, ''Marynarka Wojenna Singapuru'', Okręty Wojenne, Vol. XIV, Nr 63 (1/2004), s. 76, przypis trzeci&lt;/ref&gt;. W [[Royal Navy]] [[HMS Eagle (1946)|HMS „Eagle”]] był magazynem części zamiennych dla [[HMS Ark Royal (1950)|HMS „Ark Royal”]] – „Eagle” wycofano ze służby, ale pozostawał w rezerwie jako magazyn części dla pozostającego w służbie „Ark Royal”.
+
+== Przypisy ==
+{{Przypisy}}
+
+[[Kategoria:Technika]]
+[[Kategoria:Recykling]]</text>
+      <sha1>69lf3afru3afx3g59jqd5jy72d452uv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ocena technologii</title>
+    <ns>0</ns>
+    <id>4394168</id>
+    <revision>
+      <id>62895906</id>
+      <parentid>56624908</parentid>
+      <timestamp>2021-04-04T03:25:10Z</timestamp>
+      <contributor>
+        <username>PBbot</username>
+        <id>616438</id>
+      </contributor>
+      <comment>wstawienie {{Kontrola autorytatywna}}</comment>
+      <origin>62895906</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8532" sha1="pzhj55y5nvkeb8f9bz29wpw6ly6jp7n" xml:space="preserve">'''Ocena technologii''' ([[Język angielski|ang.]] ''Technology assessment'', TA) – analiza konsekwencji rozwijania i stosowania określonych [[Technologia|technologii]], która jako narzędzie dostarczania wiedzy wspiera procesy decyzyjne, a tym samym pomaga w podejmowaniu decyzji politycznych&lt;ref&gt;{{Cytuj pismo | autor = Gwiazdowicz M, Stankiewicz P, (red.) | tytuł = Problematyka oceny technologii | czasopismo = Studia BAS | strony = 5 | issn = 2082-0658 | url = http://orka.sejm.gov.pl/WydBAS.nsf/0/28D630A33D4B3409C1257F0000442B87/$file/Studia_BAS_43.pdf}}&lt;/ref&gt;.
+
+==Założenia==
+Ocena technologii ma być systematyczną i wieloaspektową ewaluacją [[Technika|technik]] już istniejących, jak również tych planowanych czy postulowanych oraz ich skutków bezpośrednich i kumulatywnych w różnych obszarach życia – od środowiska przyrodniczego do struktur społecznych i politycznych. Wychodzi ona z założenia, że technika stanowi współcześnie kluczowy składnik naturalnego środowiska ludzkiego życia i działania. Wdrożenie określonego elementu techniki ułatwia lub utrudnia pewne działania, wzmacnia lub zmniejsza ich skutki, umożliwia działania dotąd niemożliwe, przekształca [[Stosunek społeczny|stosunki społeczne]] i wyznacza relacje [[Władza|władzy]], buduje ramy odniesienia dla rozumienia rzeczywistości i współdeterminuje znaczenie rozmaitych pojęć. W konsekwencji współczesna technika oddziałuje na różne sfery codziennego życia, kształtując zachowania indywidualne i [[relacje interpersonalne]]. Zatem rozwijanie nowych technologii ma skutki zarówno techniczne, jak i [[Ekonomia|ekonomiczne]], [[Polityka|polityczne]] i [[Moralność|moralne]], a  odpowiedzialność za nie ciąży nie tylko na jej użytkownikach, ale także na projektantach, producentach, sprzedawcach i popularyzatorach&lt;ref&gt;{{Cytuj stronę | url = http://ptot.pl/#assesment | tytuł = Polskie Towarzystwo Oceny Technologii - Deklaracja ideowa | data dostępu = 2018-10-24}}&lt;/ref&gt;. 
+
+Początki oceny technologii sięgają lat 70. XX w., gdy przy [[Kongres Stanów Zjednoczonych|Kongresie Stanów Zjednoczonych]] powstało Biuro Oceny Technologii, które stało się pierwowzorem dla podobnych instytucji w [[Europa|Europie]]. Miało ono dokonywać możliwie wszechstronnej oceny skutków stosowania lub rozwijania określonych technologii (bądź też powstrzymania się od ich wykorzystywania), a wiedza ta miała umożliwiać [[decydent]]om politycznym podejmowanie odpowiednich decyzji. Była to odpowiedź na pojawiające się w II poł. XX w. technologie uznawane za ryzykowne lub wręcz niebezpieczne (m.in. [[Energetyka jądrowa|technologie jądrowe]], [[Biotechnologia|biotechnologie]], [[Nanotechnologia|nanotechnologie]]). Okazało się, że innowacje technologiczne obarczone są ryzykiem występowania skutków ubocznych oraz trudnych do przewidzenia konsekwencji, prowadząc do [[Konflikt społeczny|konfliktów społecznych]] wokół takich rozwiązań, jak: [[Organizm zmodyfikowany genetycznie|genetycznie modyfikowana żywność]], budowa masztów [[Telefonia komórkowa|telefonii komórkowej]] czy budowa [[Elektrownia jądrowa|elektrowni jądrowych]]. W zamierzeniu TA ma pełnić przede wszystkim rolę „systemu wczesnego ostrzegania” i rozpoznawać z wyprzedzeniem szanse i ryzyko związane z daną technologią, tak by można było zawczasu ocenić zasadność jej wdrażania&lt;ref&gt;{{Cytuj pismo | nazwisko = Stankiewicz | imię = Piotr  | tytuł = Teoria i praktyka oceny technologii | czasopismo = [[Infos]] | wolumin = 22(92)  | data = 14 grudnia 2010  | url = http://orka.sejm.gov.pl/WydBAS.nsf/0/AB4C0592F1010EE2C12578DC00310B38/$file/Infos_92.pdf}}&lt;/ref&gt;.
+
+==Metodologia==
+Nie istnieją ani specyficzne metody dla oceny technologii, ani jednolite wzorce ekspertyz z tego obszaru. Dobór metod zależy w dużej mierze od konkretnego przedmiotu badania i jego zakresu. Prowizoryczną typologię metod i procedur nadających się do wykorzystania w projektach z zakresu oceny technologii można sformułować następująco:
+* pod względem przeznaczenia metody można podzielić na: 
+** strukturalizujące (m.in. [[teoria systemów]] i [[analiza systemowa]], [[analiza ryzyka]], [[Przepływy międzygałęziowe|analiza przepływów]], analiza oddziaływań, ekobilans, analiza wejście-wyjście, analizy łańcuchów procesowych), 
+** pozyskiwania [[Dane|danych]] (m.in. metody oparte na danych pierwotnych oraz metody oparte na danych wtórnych, takie jak [[Kwerenda|kwerendy]], analizy dokumentów, wywiady z ekspertami, [[Baza danych|systemy bazodanowe]]), 
+** [[Heurystyka (zarządzanie)|heurystyczne]] (m.in. [[burza mózgów]] i sesje pomysłowości, matryce morfologiczne, [[Proces twórczy w projektowaniu|metody synektyczne]], [[Wywiad (metoda badawcza)|wywiady]] z ekspertami, [[Metoda delficka|metody delfickie]], metody wpływów krzyżowych),
+** [[Futurologia|prognostyczne]] (m.in. metody ekstrapolacyjne, modelowanie i metody symulacyjne, metody analogiczne oraz [[Metoda scenariuszowa|metody scenariuszowe]]),
+** [[Ewaluacja|ewaluacyjne]] (m.in. wartościowanie socjoetyczne i rachunek [[Utylitaryzm|utylitarystyczny]], analiza [[Użyteczność (ekonomia)|użyteczności]], [[analiza kosztów i korzyści]], analiza opłacalności, analiza istotności, [[Drzewo decyzyjne|analiza drzewa wartości]], analiza i rekonstrukcja dyskursu, procedury partycypacyjne);
+* ze względu na rodowód można wyróżnić: 
+** metody zorientowane technologicznie (m.in. szacowanie ryzyka i metoda [[Wartość graniczna|wartości granicznych]], metoda rekonstrukcji preferencji ujawnionych, metoda analizy preferencji wyrażonych),
+** metody wywodzące się z ekonomii (m.in. [[Ekonomia dobrobytu|teorie dobrobytu]], [[teoria wyboru publicznego]], [[Użyteczność krańcowa|analiza marginalna]], metody wskaźnikowe wykorzystujące wskaźniki społeczne), 
+** metody zorientowane politycznie (m.in. teorie wyboru, procedury [[Referendum|plebiscytowe]], [[Partycypacja|procedury partycypacyjne]], takie jak [[mediacje]], publiforum, jury obywatelskie, [[Dyskusja panelowa|panel laików]], [[Konferencja naukowa|konferencja uzgodnieniowa (konsensualna)]], publifocus, komórka planowania, warsztaty przyszłości, dyskurs kooperacyjny, metoda borykania się, metoda skanowania mieszanego), 
+** systematyczne metody bilansowe (m.in. analiza kosztów-korzyści, analiza korzyści i [[Analiza ryzyka|ryzyka]], metody wieloatrybutowego podejmowania decyzji), 
+** modele planistyczne (np. PPBS, ''Planning, Programming, and Budgeting System''),
+** metody wywodzące się z [[Teoria systemów|teorii systemów]] i analizy systemowej (m.in. metody scenariuszowe, analiza współzależności, koncepcje [[Hierarchia potrzeb|potrzeb podstawowych]])&lt;ref&gt;{{Cytuj pismo | nazwisko = Michalski | imię = Krzysztof  | tytuł = Problemy metodologiczne w zarządzaniu projektami z zakresu oceny technologii | czasopismo = Modern Management Review | wydanie = 22 (3/2015) | wolumin = XX | strony = 113-131 | data = July-September 2015}}&lt;/ref&gt;.
+
+==Przykładowe instytucje oceny technologii w świecie==
+* European Parliamentary Technology Assessment (EPTA)&lt;ref&gt;{{Cytuj stronę | url = https://eptanetwork.org/ | tytuł = Strona internetowa EPTA | język = en | data dostępu = 2018-11-16}}&lt;/ref&gt; – [[Unia Europejska]]
+* Parliamentary Office of Science and Technology (POST)&lt;ref&gt;{{Cytuj stronę | url = https://www.parliament.uk/mps-lords-and-offices/offices/bicameral/post/ | tytuł = POST na stronach Parlamentu Wielkiej Brytanii | język = en | data dostępu = 2018-11-16}}&lt;/ref&gt; – [[Wielka Brytania]]
+* Institute for Technology Assessment and Systems Analysis (ITAS)&lt;ref&gt;{{Cytuj stronę | url = http://www.itas.kit.edu/english/ | tytuł = Strona interentowa ITAS | język = en | data dostępu = 2018-11-16}}&lt;/ref&gt; – [[Niemcy]]
+* Centre for Technology Assessment (TA-SWISS)&lt;ref&gt;{{Cytuj stronę | url = https://www.ta-swiss.ch/en/ | tytuł = Strona internetowa TA-SWISS | język = en | data dostępu = 2018-11-16}}&lt;/ref&gt; – [[Szwajcaria]]
+
+== Przypisy ==
+{{Przypisy}}
+
+==Linki zewnętrzne==
+* [http://www.eptanetwork.org/ Strona EPTA (ang)]
+* [http://ptot.pl/ Strona Polskiego Towarzystwa Oceny Technologii]
+* [http://orka.sejm.gov.pl/WydBAS.nsf/0/28D630A33D4B3409C1257F0000442B87/$file/Studia_BAS_43.pdf ''Technology Assessment. Problematyka oceny technologii''], „[[Studia BAS]]“, nr 3(43) 2015
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Teoria decyzji]]
+[[Kategoria:Technika]]</text>
+      <sha1>pzhj55y5nvkeb8f9bz29wpw6ly6jp7n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Przedmioty codziennego użytku</title>
+    <ns>14</ns>
+    <id>777575</id>
+    <revision>
+      <id>55436449</id>
+      <parentid>55263953</parentid>
+      <timestamp>2018-12-28T17:45:35Z</timestamp>
+      <contributor>
+        <username>Gbylski</username>
+        <id>67596</id>
+      </contributor>
+      <minor/>
+      <comment>Dodano kategorię "Technika" za pomocą [[WP:Narzędzia/HotCat|HotCat]] oj koniecznie, koniecznie</comment>
+      <origin>55436449</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="53" sha1="890xark3dfiyxac4kx0hr7gvn7zgcx6" xml:space="preserve">[[Kategoria:Życie codzienne]]
+[[Kategoria:Technika]]</text>
+      <sha1>890xark3dfiyxac4kx0hr7gvn7zgcx6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Motoryzacja</title>
+    <ns>14</ns>
+    <id>74155</id>
+    <revision>
+      <id>58343372</id>
+      <parentid>36127688</parentid>
+      <timestamp>2019-12-26T11:24:51Z</timestamp>
+      <contributor>
+        <username>Malarz pl</username>
+        <id>19873</id>
+      </contributor>
+      <minor/>
+      <comment>nie ta gałąź kategorii</comment>
+      <origin>58343372</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="114" sha1="blzmx8r9vreoxzkf6sw2ge9u3flzkg9" xml:space="preserve">'''Zobacz też''': [[:Kategoria:Prawo o ruchu drogowym]], [[:Kategoria:Transport drogowy]]
+
+[[Kategoria:Technika]]</text>
+      <sha1>blzmx8r9vreoxzkf6sw2ge9u3flzkg9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wartość znamionowa</title>
+    <ns>0</ns>
+    <id>68643</id>
+    <revision>
+      <id>64617188</id>
+      <parentid>61418804</parentid>
+      <timestamp>2021-09-22T14:31:59Z</timestamp>
+      <contributor>
+        <username>PBbot</username>
+        <id>616438</id>
+      </contributor>
+      <comment>wstawienie {{Kontrola autorytatywna}}</comment>
+      <origin>64617188</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="630" sha1="9bar7jrafetra31soindajksrnhwmf7" xml:space="preserve">'''Wartość znamionowa''' (nominalna) – wartość [[Wielkość fizyczna|wielkości fizycznej]] skonstruowanego [[Urządzenie|urządzenia]]&lt;ref&gt;{{encyklopedia PWN|id=4001953|tytuł=wartość znamionowa|data dostępu=2020-11-21}}&lt;/ref&gt;, przy której pracuje ono zgodnie z [[norma]]mi lub zaleceniami [[producent]]a.
+
+Przekroczenie tej wartości powoduje nieprawidłową pracę urządzenia, zmianę parametrów lub jego uszkodzenie.
+
+== Zobacz też ==
+* [[napięcie znamionowe]]
+* [[prąd znamionowy]]
+* [[moc znamionowa]]
+* [[tabliczka znamionowa]]
+
+== Przypisy ==
+{{Przypisy}}
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Technika]]</text>
+      <sha1>9bar7jrafetra31soindajksrnhwmf7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Portale informacyjne o tematyce technicznej</title>
+    <ns>14</ns>
+    <id>5102863</id>
+    <revision>
+      <id>63678117</id>
+      <parentid>63677850</parentid>
+      <timestamp>2021-06-13T15:33:44Z</timestamp>
+      <contributor>
+        <username>MediaEditor4</username>
+        <id>1090158</id>
+      </contributor>
+      <origin>63678117</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="353" sha1="d9x9tq7vgpspa00wqhie8bw4ntgq9x7" xml:space="preserve">{{Opis kategorii
+ |grupuje        = Kategoria ta grupuje portale informacyjne o tematyce technicznej. 
+ |uwagi          = 
+ |osobne_grupują = 
+ |main           = 
+ |portal         = 
+ |wikiprojekt    = 
+ |zobacz         = 
+ |związane       = 
+}}
+[[Kategoria:Strony internetowe według tematu]]
+[[Kategoria:Portale informacyjne]]
+[[Kategoria:Technika]]</text>
+      <sha1>d9x9tq7vgpspa00wqhie8bw4ntgq9x7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Technika dźwiękowa</title>
+    <ns>14</ns>
+    <id>5394359</id>
+    <revision>
+      <id>69071375</id>
+      <timestamp>2022-12-18T19:58:13Z</timestamp>
+      <contributor>
+        <username>Chrumps</username>
+        <id>6748</id>
+      </contributor>
+      <comment>kat., szablon</comment>
+      <origin>69071375</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="78" sha1="gct4nj7d6z0lukjypv8cqrwn7ia93dm" xml:space="preserve">{{Commonscat|Sound technology}}
+
+[[Kategoria:Akustyka]]
+[[Kategoria:Technika]]</text>
+      <sha1>gct4nj7d6z0lukjypv8cqrwn7ia93dm</sha1>
+    </revision>
+  </page>
+</mediawiki>

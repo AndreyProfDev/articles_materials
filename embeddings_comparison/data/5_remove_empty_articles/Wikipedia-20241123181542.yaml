@@ -1,0 +1,1670 @@
+- sections:
+  - content: "Teoria systemów – interdyscyplinarna nauka o systemach. Pierwotnie była\
+      \ teorią biologiczną, następnie została rozwinięta i poszerzona przez matematyków,\
+      \ informatyków, socjologów, psychologów, filozofów, cybernetyków, ekonomistów\
+      \ i inżynierów. Ostatnio staje się też punktem odniesienia w kognitywistyce.\
+      \ Dąży do coraz to szerszych uogólnień jako „systemika” (ang. systemics) lub\
+      \ „ogólna teoria systemów”.\nObecnie teoria ta aspiruje do całościowego tłumaczenia\
+      \ funkcjonowania organizmów żywych, społeczeństw i urządzeń/systemów sztucznych,\
+      \ co z jednej strony czyni ją uniwersalną, z drugiej jest przedmiotem krytyki\
+      \ za jej zbytnią ogólność i abstrakcyjność.\nPotrzeba jednolitego ujęcia systemowego\
+      \ zrodziła się w latach 30. XX wieku. Istotny wkład w powstanie i rozwój ujęcia\
+      \ systemowego mieli m.in. matematyk Norbert Wiener (twórca cybernetyki), Shannon\
+      \ oraz Warren Weaver oraz biolog Walter Cannon. Za twórcę teorii systemów uznaje\
+      \ się Ludwiga von Bertalanffy'ego. W 1954 roku Bertalanffy założył Society for\
+      \ General Systems Theory.\nPod koniec lat 30. XX wieku w socjologii rozwijana\
+      \ była teoria systemów przez Pitrima Sorokina, a następnie przez Talcotta Parsonsa.\
+      \ W latach 60. i 70. XX wieku nastąpiło odejście od koncepcji systemowych ze\
+      \ względu na silne wpływy filozofii antypozytywistycznej, w szczególności postmodernizmu\
+      \ i koncepcji humanistycznych. Obecnie teoria systemów w socjologii rozwijana\
+      \ była m.in. przez Niklasa Luhmanna.\nW psychologii w latach 60. rozwinął się\
+      \ nurt psychologii systemowej, służący głównie terapii systemowej rodzin.\n\
+      Pomimo swoich uniwersalistycznych celów, jak do tej pory, nie istnieje jedna\
+      \ jednolita i ogólnie uznana teoria systemów ale wiele, mniej lub bardziej podobnych\
+      \ podejść do jej generalizacji, poczynając od filozofii na inżynierii kończąc.\
+      \ Najbliższe do takiej teorii lub metateorii są: teoria samoorganizujących się\
+      \ systemów, Autopoiesis – system autopoietyczny (Francisco Varela, Humberto\
+      \ Maturana, Niklas Luhmann) i metateoria uporządkowania wiedzy bazująca na pojęciu\
+      \ inteligencji, TOGA (ang) (Adam Maria Gadomski).\nWedług opracowania Świętochowskiego,\
+      \ podejście systemowe wyraża się na kilku poziomach ogólności:\n- abstrakcyjna\
+      \ filozofia systemów, na którą składa się: \n-* idea całościowości, która zastępuje\
+      \ proste mechanistyczne i analityczne modele nauki pozytywistycznej, \n-* idea\
+      \ przyczynowości cyrkularnej, która zastępuje proste modele jednokierunkowej,\
+      \ liniowej przyczynowości,\n- stosowana perspektywa systemowa, występująca w\
+      \ specyficznych postaciach na gruncie konkretnych nauk (np. ogólna zasada systemowa:\
+      \ sprzężenia zwrotne, zasada ta na gruncie psychologii – wzmocnienie),\n- technologia\
+      \ systemów – praktyczne zastosowania teorii systemowej, np. systemowa terapia\
+      \ rodzin w dziedzinie psychologii rodziny."
+    title: Main
+  title: Teoria systemów
+- sections:
+  - content: '- Algorytmika'
+    title: Związane kategorie
+  title: Kategoria:Teoria obliczeń
+- sections:
+  - content: 'Media interaktywne – środki przekazu medialnego, umożliwiające wzajemne,
+      zwrotne komunikowanie i różnorodną aktywność. Zachodząca poprzez media interaktywne
+      relacja ma charakter dialogu pomiędzy człowiekiem (użytkownikiem) a innymi osobami,
+      urządzeniami, lub programami komputerowymi. Przekaz ten umożliwia zwrotne oddziaływanie
+      stron (interakcja) i realizowany jest poprzez tzw. interfejs – mechaniczny,
+      programowy, biotechniczny lub inny – który pośredniczy w wymianie informacji
+      pomiędzy użytkownikiem i urządzeniem.
+
+      Medium interaktywnym może być urządzenie mechaniczne, elektroniczne (analogowe
+      lub cyfrowe), program komputerowy – zainstalowany na pojedynczym komputerze,
+      lub sieci złożonej z wielu maszyn – lub kompilacja złożona z wszystkich tych
+      elementów.
+
+      Modelowym przykładem medium interaktywnego jest Internet – teleinformatyczna
+      sieć komputerowa, łącząca ze sobą setki tysięcy małych i dużych sieci lokalnych
+      oraz pojedynczych komputerów, obejmująca swoim zasięgiem praktycznie całą kulę
+      ziemską. Internet agreguje wiele funkcji tradycyjnych mediów: umożliwia konsumpcję
+      i przesyłanie formatowanych treści tekstowych, graficznych i audiowizualnych,
+      a ponadto umożliwia łączność głosową i audiowizualną oraz inne formy przekazu
+      treści.
+
+      Interaktywne media cyfrowe są reprezentatywną składową mariażu współczesnej
+      kultury i postępu technologicznego. Pośrednicząc w procesach społecznej komunikacji
+      i aktywności medialnej, niejako je kondensują, wpływając znacząco na każdą ze
+      sfer naszego życia społecznego.'
+    title: Main
+  - content: '- forum dyskusyjne
+
+      - gra internetowa
+
+      - Internet
+
+      - telefonia mobilna
+
+      - telewizja interaktywna'
+    title: Przykłady interaktywnych mediów
+  - content: '- cyfrowe przetwarzanie sygnałów
+
+      - mass media
+
+      - media cyfrowe
+
+      - multimedia
+
+      - wozy transmisyjne'
+    title: Zobacz też
+  - content: '- artykuł: Interaktywna ewolucja mediów
+
+      - artykuł: Rola i znaczenie mediów interaktywnych we współczesnej kulturze'
+    title: Linki zewnętrzne
+  title: Media interaktywne
+- sections:
+  - content: 'Wymagania systemowe (, także wymagania sprzętowe) – minimalne możliwe
+      właściwości systemu komputerowego lub sprzętu niezbędne do uruchomienia danego
+      programu. Najczęściej dotyczą minimalnej prędkości procesora, minimalnej wielkości
+      pamięci RAM, pojemności dysku twardego oraz wersji systemu operacyjnego. Często
+      dotyczą także parametrów karty graficznej.
+
+      Informacje o wymaganiach systemowych danego programu najczęściej znajdują się
+      w instrukcji obsługi, na stronie internetowej producenta lub w karcie informacyjnej,
+      często także na pudełku od programu (jeżeli został on zakupiony w wydaniu pudełkowym).'
+    title: Main
+  title: Wymagania systemowe
+- sections:
+  - content: "UNC (Universal Naming Convention) - konwencja zapisu ścieżki do udziału\
+      \ sieciowego (katalogu, urządzenia, pliku) w postaci:\n:\\\\nazwa_lub_adres_IP_serwera\\\
+      nazwa_udziału_sieciowego\\nazwa_katalogu\\nazwa_pliku.roz\nprzykłady:\n:\\\\\
+      serwer1\\uzytkownicy\\kowalski\\dokument1.doc \n:\\\\192.168.1.17\\dokumeny\\\
+      start.rtf\nen:Path (computing)#Uniform Naming Convention"
+    title: Main
+  title: Universal Naming Convention
+- sections:
+  - content: 'Extensible resource identifier (XRI) – system identyfikatorów, kompatybilny
+      z URI. Został stworzony w ramach organizacji OASIS. Jest to także protokół określający
+      sposób pobierania tych identyfikatorów.
+
+      Identyfikatory XRI dopuszczają stosowanie pełnego Unicode.
+
+      Jednym z najważniejszych z punktu widzenia Identity 2.0 zastosowań XRI są i-names.
+
+      XRI towarzyszy także inny protokół, XDI, służący do wymiany danych.'
+    title: Main
+  - content: '- Informacje o XRI'
+    title: Linki zewnętrzne
+  title: Extensible resource identifier
+- sections:
+  - content: 'Program Brite (ang. Basic Resarch in Information Technologies for Europe)
+      - Badania Podstawowe w Zakresie Technologii Informatycznych dla Europy - program
+      Unii Europejskiej zainicjowany w 1985 r. celem wspierania badań naukowych w
+      zakresie nowych technologii i ich wspierania. Został zaplanowany na 4 lata i
+      zakończył się w 1989 r. Miał on stymulować współpracę pomiędzy różnymi gałęziami
+      przemysłu w państwach Wspólnot Europejskich. Brite to akronim od pełnej angielskiej
+      nazwy programu.
+
+      Program łączył przedsiębiorstwa, szkoły wyższe oraz instytuty badawcze i podejmował
+      współpracę w następujących dziedzinach nowych technologii:
+
+      - polimery,
+
+      - technologia laserowa,
+
+      - modele matematyczne,
+
+      - nowe surowca,
+
+      - katalizatory,
+
+      - technologie membranowe.
+
+      Jako pierwsze z tego programu skorzystały małe i średnie przedsiębiorstwa. Program
+      obejmował 12 krajów członkowskich Unii Europejskiej: Belgia, Dania, Francja,
+      Grecja, Hiszpania, Holandia, Irlandia, Luksemburg, Niemcy, Portugalia, Włochy,
+      Wielka Brytania i kraje EFTA: Islandia, Liechtenstein, Norwegia.'
+    title: Main
+  - content: '- Dzienniki Urzędowe Unii Europejskiej'
+    title: Bibliografia
+  title: BRITE
+- sections:
+  - content: 'Informatyka przemysłowa (z ang. industrial computing), także informatyka
+      procesowa (z niem. prozessinformatik) – dziedzina wiedzy znajdująca się na pograniczu
+      nauk informatycznych oraz nauk o technologiach przemysłowych. Koncentruje się
+      na zastosowaniu komputerów i oprogramowania w przemyśle. Do jej głównych zainteresowań
+      należą informatyczne aspekty w następujących zastosowaniach:
+
+      - komputerowe monitorowanie i sterowanie produkcją;
+
+      - komputerowe modelowanie, symulacja i optymalizacja procesów technologicznych;
+
+      - eksploracja i analiza danych przemysłowych;
+
+      - projektowanie przemysłowych systemów informatycznych, m.in. systemy czasu
+      rzeczywistego, systemy wbudowane;
+
+      - zastosowanie sztucznej inteligencji w przemyśle, m.in. systemy ekspertowe;
+
+      - projektowanie urządzeń wykorzystywanych w przemyśle, m.in. oprogramowanie
+      sprzętowe.'
+    title: Main
+  title: Informatyka przemysłowa
+- sections:
+  - content: 'ModuloEtym. w moduł. – operacja wyznaczania reszty z dzielenia jednego
+      typu liczbowego przez drugi. W dalszym ciągu napis <math>a\ \bmod\ d = r</math>
+      będzie oznaczał, iż <math>r</math> jest resztą z dzielenia <math>a</math> przez
+      <math>d.</math>
+
+      Są różne sposoby określania reszty, a komputery i kalkulatory mają różne sposoby
+      przechowywania i reprezentowania liczb, więc wynik operacji modulo zależy od
+      języka programowania i/lub sprzętu.
+
+      W niemal każdym systemie komputerowym współczynnik wynikający z dzielenia jest
+      ograniczany do zbioru liczb całkowitych, a reszta <math>r</math> jest zwykle
+      ograniczona przez <math>0 \leqslant r < |d|</math> albo <math>-|d| < r \leqslant
+      0.</math> Wybór między dwiema możliwymi resztami zależy od znaku <math>a</math>
+      lub <math>d</math> oraz użytego języka programowania. Niektóre języki programowania,
+      jak na przykład C89, nawet nie definiują wyniku jeśli zarówno <math>d,</math>
+      jak i <math>a</math> jest ujemne – patrz tabela.
+
+      <math>a</math> modulo 0 jest nieokreślone w większości systemów, choć niektóre
+      określają je jako <math>a.</math> Jeśli definicja jest spójna z algorytmem dzielenia,
+      wtedy <math>d = 0</math> implikuje <math>0 \leqslant r < 0,</math> co jest sprzeczne
+      (tzn. zwykła reszta w tym wypadku nie istnieje).
+
+      Reszta może być wyznaczana równaniami, które korzystają z innych funkcji. Jednym
+      z takich użytecznych równań wyznaczania reszty <math>r</math> jest
+
+      : <math>r = a - d \left\lfloor\frac{a}{d}\right\rfloor,</math>
+
+      gdzie <math>\lfloor x\rfloor</math> oznacza zaokrąglenie w dół liczby <math>x.</math>
+
+      Dzielenie modulo jest powszechnie używane przy obliczaniu cyfry kontrolnej w
+      identyfikatorach. W algorytmie Luhna, numerach PESEL, REGON, NIP, numerach dowodów
+      osobistych, paszportów, numerach towarów EAN, numerach banknotów EURO, numerach
+      kont bankowych IBAN, numerach substancji chemicznych CAS, ISBN, ISMN, ISSN,
+      ISTC, EVN-UIC, numerach recept, prawa wykonywania zawodu lekarza, numerach kontenera
+      i wielu innych. Podstawowym celem użycia cyfry lub znaku kontrolnego jest wykrywanie
+      pomyłek przy ręcznym wprowadzaniu numeru do systemu informatycznego. Wszystkie
+      te metody zapewniają wykrycie zamiany pojedynczego znaku oraz w znacznej większości
+      zamiany sąsiednich znaków, tzw. czeskiego błędu.'
+    title: Main
+  - content: 'cs:Zbytek po dělení
+
+      de:Division mit Rest#Modulo
+
+      fr:Modulo (informatique)'
+    title: Przypisy
+  title: Modulo
+- sections:
+  - content: 'Teleinformatyka – równoważna ściśle powiązanym: informatyce technicznej
+      z telekomunikacją, jako specjalność w dyscyplinie nauk inżynieryjno-technicznych
+      oraz kierunek studiów, obejmująca inżynierię komputerów i oprogramowania w projektowaniu
+      i eksploatacji systemów teleinformatycznych funkcjonujących z wykorzystaniem
+      sieci internetowej.'
+    title: Main
+  - content: 'W latach 78/79 dyskutowano w Polsce o dwóch rozumieniach pojęcia teleinformatyka
+      (nazwa pochodząca ze złożenia nazwy telekomunikacja i informatyka) stwierdzającInformatyka
+      Nr 4/81.:
+
+      a było to jeszcze w czasach mechanicznych i elektronicznych central PSTN.
+
+      Termin teleinformatyka istniał nieco w zapomnieniu przez następne lata. Jednakże
+      w tych latach coraz więcej urządzeń sieci telekomunikacyjnych było projektowanych
+      w technice cyfrowej, aż do opracowania infrastruktury sieciowej całkowicie zarządzanej
+      przez systemy informatyczne. Równocześnie w tych latach, systemy informatyczne
+      w znaczącym stopniu uzależniły swoje działania od stałego dostępu do publicznej
+      sieci teleinformatycznej – internetu, stając się systemami teleinformatycznymi.
+      Pojawiły się też nowe wymagania na zapewnienie bezpieczeństwa systemów i sieci
+      – bezpieczeństwa teleinformatycznego. Symbioza informatyki i telekomunikacji
+      stała się faktem.
+
+      Coraz więcej uczelni wprowadza kierunki studiów dziennych oraz podyplomowych:
+      „informatyka techniczna i telekomunikacja oraz studiów „teleinformatyka”. Istnieje
+      też zawód „technik teleinformatyk”.
+
+      Obecnie termin teleinformatyka oraz teleinformatyczny jest już powszechnie używany
+      i dobrze rozumiany. Występuje też w szerszym znaczeniu opisu produktów i usług
+      teleinformatycznych społeczeństwa cyfrowego.
+
+      W ramach obowiązującej od 2018 w Polsce Klasyfikacji dziedzin i dyscyplin naukowych
+      teleinformatyka jest specjalnością w ramach szerokiej dyscypliny informatyka
+      techniczna i telekomunikacja w dziedzinie nauk inżynieryjno-technicznych.'
+    title: Etymologia
+  - content: 'Zakres badań i przedmioty programu obejmują praktycznie cały obszar
+      wiedzy informatycznej i telekomunikacyjnej, stąd konieczne jest formowanie specjalności
+      i specjalizacji. W tym obszarze znajdują się działy:
+
+      - podstawy teorii informacji i transmisji sygnałów cyfrowych
+
+      - inżynieria komputerowa z ukierunkowaniem na projektowanie cyfrowych urządzeń
+      sieciowych oraz systemów mikroprocesorowych.
+
+      - inżynieria oprogramowania z ukierunkowaniem na integrację systemów informatycznych
+      działających w sieci z gwarancjami bezpieczeństwa teleinformatycznego.
+
+      - inżynieria sieci przewodowych i bezprzewodowych z zarządzaniem ruchem i usługami
+      teleinformatycznymi.
+
+      - multimedia szeroko rozumiane.'
+    title: Badania i program kierunku teleinformatyka
+  - content: '- Teleinformatyka jako sektor gospodarczy'
+    title: Zobacz też
+  - content: "<references>\n Ustawa z dnia 17 lutego 2005 r. o informatyzacji działalności\
+      \ podmiotów realizujących zadania publiczne.\nTeleinformatyka studia – kierunek\
+      \ studiów.\n</references>"
+    title: Przypisy
+  title: Teleinformatyka
+- sections:
+  - content: Wsparcie techniczne, pomoc techniczna, obsługa techniczna (, ) – gwarantowana
+      pomoc w eksploatacji oprogramowania, sprzętu komputerowego, jak też innych urządzeń
+      udzielana użytkownikowi przez producenta przy ich zakupie.
+    title: Main
+  - content: '- call center
+
+      - helpdesk
+
+      - service desk
+
+      - fałszywa pomoc techniczna'
+    title: Zobacz też
+  - content: '- Piotr Adamczewski: Słownik informatyczny. Wydawnictwo HELION, 2005,'
+    title: Bibliografia
+  title: Wsparcie techniczne
+- sections:
+  - content: "Pojęcie składu informatycznych nośników danych\nZgodnie z rozporządzeniem\
+      \ Prezesa Rady Ministrów z dnia 18 stycznia 2011 r. w sprawie instrukcji kancelaryjnej,\
+      \ jednolitych rzeczowych wykazów akt oraz instrukcji w sprawie organizacji i\
+      \ zakresu działania archiwów zakładowych pod pojęciem składu informatycznych\
+      \ nośników danych rozumiany jest uporządkowany zbiór informatycznych nośników\
+      \ danych zawierających dokumentację w postaci elektronicznej. Przez informatyczny\
+      \ nośnik danych rozumie się materiał lub urządzenie służące do zapisywania,\
+      \ przechowywania i odczytywania danych w postaci cyfrowej. Podmiot publiczny,\
+      \ który organizuje przetwarzanie danych w systemie teleinformatycznym, musi\
+      \ stworzyć możliwość przekazywania danych także w postaci elektronicznej z wykorzystaniem\
+      \ informatycznych nośników danych lub środków komunikacji elektronicznejUstawa\
+      \ z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących\
+      \ zadania publiczne.\n Przesyłki przekazywane na informatycznym nośniku danych\
+      \ w systemie EZD (Elektroniczne Zarządzanie Dokumentacją) \nPrzesyłki przekazywane\
+      \ na informatycznych nośnikach danych dzieli się na:\na) przesyłki przekazane\
+      \ bezpośrednio na informatycznym nośniku danych, gdzie podczas rejestracji do\
+      \ metadanych opisujących te przesyłki dołączane są dokumenty elektroniczne przekazane\
+      \ na informatycznym nośniku danych oraz UPO (czyli Urzędowe Poświadczenie Odbioru),\
+      \ o ile zostało wydane;\nb) przesyłki stanowiące załącznik do pisma przekazanego\
+      \ na nośniku papierowym. Pisma w formie papierowej zawierające załącznik w postaci\
+      \ informatycznego nośnika danych rejestruje się tak jak pozostałe przesyłki\
+      \ w postaci papierowej, dołączając do metadanych odwzorowanie cyfrowe pisma,\
+      \ a także załącznik w postaci elektronicznej zapisany na informatycznym nośniku\
+      \ danych.\nKierownik podmiotu ustala maksymalną wielkość przesyłki przekazywanej\
+      \ na informatycznym nośniku danych, którą włącza się bezpośrednio do systemu\
+      \ EZD. W przypadku kiedy ze względu na rozmiar przesyłki przekazanej na informatycznym\
+      \ nośniku danych nie jest możliwe lub zasadne dołączenie takiej przesyłki do\
+      \ systemu EZD, należy odnotować ten fakt w rejestrze przesyłek wpływających,\
+      \ a także przechowywać taki nośnik w składzie informatycznych nośników danych,\
+      \ odrębnie od pozostałych przesyłek. System EZD pozwala wyszukać i sporządzić\
+      \ listę przesyłek, które nie zostały włączone bezpośrednio do systemu EZD –\
+      \ odbywa się to w szczególności ze wskazaniem nośników, na których się one aktualnie\
+      \ znajdują.\nPo zakończeniu sprawy przesyłki przekazywane na informatycznych\
+      \ nośnikach danych są przekazywane do składu informatycznych nośników danych.\
+      \ Podmiot może prowadzić kilka składów informatycznych nośników danych, jeżeli\
+      \ jest to uzasadnione strukturą organizacyjną lub lokalizacją komórek organizacyjnych.\
+      \ Jeżeli następuje potrzeba wyjęcia dokumentacji ze składu informatycznych nośników\
+      \ danych, to należy to udokumentować w jeden z dwóch przewidzianych sposobów:\n\
+      1) włożyć w ich miejsce kartę zastępczą, która zawiera znak sprawy, jej tytuł,\
+      \ nazwę komórki organizacyjnej lub nazwisko pracownika wypożyczającego dokumentację\
+      \ bądź nazwę i adres jednostki organizacyjnej, do której dokumentację wysłano,\
+      \ oraz termin zwrotu\n2) odnotować te informacje w systemie EZD w sytuacji,\
+      \ gdy zapewnia on powiązanie informacji o wyjęciu dokumentacji z odpowiadającymi\
+      \ jej aktami sprawy.\nInstrukcja kancelaryjna przewiduje również możliwość wykonania\
+      \ kopii wyjmowanej dokumentacji.\nPrzesyłki przekazywane na informatycznym nośniku\
+      \ danych w systemie tradycyjnym\nW systemie tradycyjnym przesyłki przekazane\
+      \ na informatycznym nośniku danych można podzielić na: przekazywane bezpośrednio\
+      \ na informatycznym nośniku danych lub stanowiące załącznik do pisma przekazanego\
+      \ na nośniku papierowym. Przesyłki przekazywane bezpośrednio na informatycznym\
+      \ nośniku danych, rejestruje się, drukuje, nanosi i wypełnia pieczęć wpływu\
+      \ na pierwszej stronie wydruku. W przypadku pism w postaci papierowej, do których\
+      \ załącznikiem jest przesyłka przekazana na informatycznym nośniku danych, przesyłki\
+      \ te podlegają rejestracji zgodnie z zasadami rejestracji przesyłek na nośniku\
+      \ papierowym. Należy przy tym odnotować w rejestrze przesyłek wpływających informację\
+      \ o załączniku zapisanym na informatycznym nośniku danych.\nJeżeli ze względu\
+      \ na typ dokumentu elektronicznego lub objętość dokumentu elektronicznego nie\
+      \ jest możliwe lub zasadne wydrukowanie pełnej treści przesyłki w postaci elektronicznej\
+      \ lub załącznika do niej, należy najpierw wydrukować tylko część przesyłki albo\
+      \ sporządzić i wydrukować notatkę o przyjętej przesyłce oraz nanieść i wypełnić\
+      \ pieczęć wpływu na pierwszej stronie wydruku. Podobnie w przypadku, gdy niemożliwe\
+      \ jest wydrukowanie nawet części przesyłki. Następnie informatyczny nośnik danych\
+      \ z zapisaną przesyłką dołącza się do wydruku aż do momentu zakończenia sprawy.\
+      \ Po zakończeniu sprawy jest on przekazywany do składu informatycznych nośników\
+      \ danych (dany podmiot może prowadzić kilka składów informatycznych nośników\
+      \ danych, jeżeli jest to uzasadnione strukturą organizacyjną lub lokalizacją\
+      \ komórek organizacyjnych). Informację o załączniku zapisanym na informatycznym\
+      \ nośniku danych odnotowuje się w rejestrze przesyłek wpływających.\nPrzechowywanie\
+      \ przesyłek przekazywanych na informatycznym nośniku danych do archiwum\nDokumentacja\
+      \ elektroniczna na informatycznych nośnikach danych, zgromadzonych w składzie\
+      \ informatycznych nośników danych, których zawartość skopiowano do systemu EZD,\
+      \ jest kwalifikowana do kategorii Bc i brakowana w trybie i na zasadach określonych\
+      \ w przepisach wydanych na podstawie art. 5 ust. 2b ustawy z dnia 14 lipca 1983\
+      \ r. o narodowym zasobie archiwalnym i archiwach.\nDokumentacja elektroniczna\
+      \ na informatycznych nośnikach danych, zgromadzona w składzie informatycznych\
+      \ nośników danych, których zawartości nie skopiowano do systemu EZD, po upływie\
+      \ pełnych dwóch lat kalendarzowych, licząc od pierwszego stycznia roku następującego\
+      \ po roku, dla którego powstał zbiór przesyłek w składzie, jest przekazywana\
+      \ do archiwum zakładowego.\nW systemie tradycyjnym przejmowanie dokumentacji\
+      \ polega na jej przekazaniu do archiwum zakładowego na podstawie spisu zdawczo-odbiorczego.\
+      \ Natomiast w systemie EZD, przekazując do właściwego archiwum państwowego materiały\
+      \ archiwalne w postaci elektronicznej lub ich metadane, przekazuje się równolegle\
+      \ ich odpowiedniki ze składu chronologicznego lub ze składu informatycznych\
+      \ nośników danych i sporządza się ich spisy. W archiwum, aby zapewnić ochronę\
+      \ przed uszkodzeniem, zniszczeniem lub utratą, przechowuję się odrębnie od dokumentacji\
+      \ w postaci nieelektronicznej informatyczne nośniki danych ze składu tych nośników.\n\
+      Archiwum zakładowe ma za zadanie przejmować między innymi dokumentację elektroniczną\
+      \ na informatycznych nośnikach danych, zgromadzonych w składzie informatycznych\
+      \ nośników danych, których zawartości nie skopiowano do systemu EZD. Każdy informatyczny\
+      \ nośnik danych, który został przekazywany ze składu informatycznych nośników\
+      \ danych do archiwum zakładowego powinien być trwale oznakowany w sposób pozwalający\
+      \ na jego jednoznaczną identyfikację (tworzy się spis zdawczo-odbiorczy).\t\n\
+      Informatyczny nośnik danych, zgodnie z rozporządzeniem Ministra Spraw Wewnętrznych\
+      \ i Administracji z dnia 2 listopada 2006 r. w sprawie wymagań technicznych\
+      \ formatów zapisu i informatycznych nośników danych, na których utrwalono materiały\
+      \ archiwalne przekazywane do archiwów państwowych, powinien być:\n- oznakowany\
+      \ w sposób pozwalający na jednoznaczną identyfikację;\n- przystosowany do przenoszenia\
+      \ pomiędzy urządzeniami odczytującymi;\n- dostosowany do przechowywania w temperaturze\
+      \ 18-22°C przy wilgotności względnej 40-50%.\nPonadto taki nośnik powinien zapewniać\
+      \ możliwość wiernego odczytywania danych w urządzeniach produkowanych przez\
+      \ różnych producentów, właściwych dla danego typu nośnika. Informatyczny nośnik\
+      \ danych, który przekazuje się do archiwum musi być opatrzony informacją przyporządkowaną\
+      \ do oznaczenia nośnika w sposób niebudzący wątpliwości, która zawiera:\n- nazwę\
+      \ podmiotu przekazującego;\n- tytuł zwięźle określający zawartość nośnika;\n\
+      - datę wykonania zapisu na nośniku;\n- informację o tym, czy dane stanowią informacje\
+      \ chronione ustawą, a w szczególności klauzulę tajności;\n- wskazanie oprogramowania\
+      \ i urządzeń użytych do wykonania zapisu."
+    title: Main
+  - content: '- Ustawa z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów
+      realizujących zadania publiczne (https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050640565)
+
+      - Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 2 listopada
+      2006 r. w sprawie wymagań technicznych formatów zapisu i informatycznych nośników
+      danych, na których utrwalono materiały archiwalne przekazywane do archiwów państwowych
+      (https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062061519)
+
+      - Ustawa z dnia 14 lipca 1983 roku o narodowym zasobie archiwalnym i archiwach
+      (https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19830380173)
+
+      - Rozporządzenie Prezesa Rady Ministrów z dnia 18 stycznia 2011 r. w sprawie
+      instrukcji kancelaryjnej, jednolitych rzeczowych wykazów akt oraz instrukcji
+      w sprawie organizacji i zakresu działania archiwów zakładowych (https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20110140067)'
+    title: Linki zewnętrzne
+  title: Skład informatycznych nośników danych
+- sections:
+  - content: "Informatyka afektywna – dział informatyki, zajmuje się metodami i narzędziami\
+      \ rozpoznawania, analizy, interpretacji i symulacji stanów emocjonalnych użytkowników\
+      \ komputerówLandowska A.: Przetwarzanie emocjonalne i scenariusze jego zastosowania\
+      \ w edukacji i e-edukacji, w: Postępy e-edukacji, red. Lech Banachowski, Wydawnictwo\
+      \ PJWSTK, 2013, pp. 25-38. \nDziedzina ta została wyodrębniona w 1995 roku przez\
+      \ Rosalind Picard i nazwana affective computingPicard R.; „Affective computing”,\
+      \ http://affect.media.mit.edu/, 1995, accessed: 29.04.2013. Ponieważ istnieje\
+      \ bogata literatura w języku angielskim i raczej znikoma w języku polskim, brak\
+      \ jest odpowiedników pojęć używanych w tej dyscyplinie leżącej na styku informatyki\
+      \ i psychologii. Zgodnie ze słownikiem angielskie słowo affective można przetłumaczyć\
+      \ jako afektywny lub emocjonalny, natomiast computing tłumaczy się jako przetwarzanie,\
+      \ komputyka lub informatyka. W związku z wątpliwościami dotyczącymi prawidłowości\
+      \ tłumaczenia nazwy dziedziny zasięgnięto opinii Rady Języka Polskiego. W dniu\
+      \ 5 września 2013 roku Zespół Terminologii Informatycznej Rady Języka Polskiego\
+      \ wydał opinię, zgodnie z którą polskim odpowiednikiem nazwy dziedziny affective\
+      \ computing jest określenie przetwarzanie emocjonalne. Zaproponowana nazwa budzi\
+      \ jednak wiele wątpliwości, ponieważ kojarzy się raczej z działem psychologii\
+      \ niż informatyki.\nInformatyka afektywna obejmuje:\n- metody rozpoznawania\
+      \ stanów emocjonalnych użytkowników komputerów i urządzeń mobilnych na podstawie\
+      \ różnorodnych charakterystyk (mimika twarzy, postawa ciała, parametry fizjologiczne,\
+      \ głos, tekst, wzorce behawioralne);\n- metody reprezentacji stanów emocjonalnych\
+      \ na potrzeby przetwarzania komputerowego;\n- tworzenie aplikacji afektywnych\
+      \ (ang. affective) i postrzegających emocje (ang. affect-aware);\n- modele interwencji\
+      \ afektywnych;\n- analizę ładunku emocjonalnego tekstu (ang. sentiment analysis);\n\
+      - symulacje stanów emocjonalnych na potrzeby wirtualnych postaci."
+    title: Main
+  title: Informatyka afektywna
+- sections:
+  - content: '- Teoria obliczeń'
+    title: Związane kategorie
+  title: Kategoria:Algorytmika
+- sections:
+  - content: Krajowe Ramy Interoperacyjności – zestaw wymagań semantycznych, organizacyjnych
+      oraz technologicznych dotyczących interoperacyjności systemów teleinformatycznych
+      i rejestrów publicznychRozporządzenie Rady Ministrów z dnia 21 maja 2024 r.
+      w sprawie Krajowych Ram Interoperacyjności, minimalnych wymagań dla rejestrów
+      publicznych i wymiany informacji w postaci elektronicznej oraz minimalnych wymagań
+      dla systemów teleinformatycznych ()..
+    title: Main
+  - content: '- Europejskie Ramy Interoperacyjności
+
+      - Program ISA²'
+    title: Zobacz też
+  - content: '- Gałach A.: Krajowe ramy interoperacyjności, Systemy informatyczne
+      w administracji publicznej; Wydawnictwo C.H. Beck, Warszawa, 2015,'
+    title: Bibliografia
+  title: Krajowe Ramy Interoperacyjności
+- sections:
+  - content: 'Informatyka zajmuje się teoretycznymi podstawami informacji, algorytmami
+      i architekturami układów ją przetwarzających oraz praktycznymi technikami ich
+      stosowania.
+
+      Informatyka (, ) – nauka ścisła oraz techniczna zajmująca się przetwarzaniem
+      informacji, w tym również technologiami przetwarzania informacji oraz technologiami
+      wytwarzania systemów przetwarzających informacje. Zajmuje się rozwiązywaniem
+      problemów obliczeniowych, opisem procesów algorytmicznych oraz tworzeniem programów
+      komputerowych i częściowo sprzętu komputerowego (z wyłączeniem zagadnień materialnych
+      i energetycznych). Informatyka początkowo stanowiła część matematyki, z czasem
+      wyodrębniła się do oddzielnej dyscypliny. W języku polskim termin „informatyka”
+      zaproponował w październiku 1968 r. Romuald Marczyński (w Zakopanem, na ogólnopolskiej
+      konferencji podczas wykładu zatytułowanego „Informatyka, czyli maszyny matematyczne
+      i przetwarzanie informacji”), na wzór francuskiego informatique i niemieckiego
+      Informatik.'
+    title: Main
+  - content: 'Termin informatics nie mógł zostać wprowadzony do słownictwa amerykańskiego
+      z uwagi na problemy prawne – istniało tam przedsiębiorstwo o nazwie , co zablokowało
+      chęć zmiany nazwy ACM na Society for Informatics. Wówczas popularny był już
+      tam termin computer science – dosłownie: „nauka o komputerze” – co może być
+      mylące, stąd spotykał się często z krytyką środowisk akademickich. Proponowano
+      wiele alternatywnych nazw, m.in. Computer Studies, Computics, Computing Science,
+      Computation Science, Information engineering, Information Technology. Association
+      for Computing Machinery będące najważniejszą organizacją branżową przyjął termin
+      computing na nazwę ogólnej dyscypliny. Częściowo powrócono jednak później do
+      computer science ze względu na to, że termin ten się silnie zakorzenił. Współcześnie
+      określenie computing odnosi się do całej dyscypliny, a computer science to jej
+      część w której obowiązuje rygor naukowy, podczas gdy informatyka techniczna
+      skupia się na aspektach praktycznych i traktowana jest jako nauka inżynierska.
+      W informatyce technicznej można wyróżnić szereg specjalności, takich jak inżynieria
+      komputerowa (computer engineering, technische Informatik) związana z tworzeniem
+      sprzętu komputerowego i oprogramowania wbudowanego, technologia informacyjna
+      (information technology), współcześnie najczęściej spotykana w tworzeniu oprogramowania
+      dla zastosowań biznesowych, inżynieria oprogramowania (software engineering),
+      odnosząca się ogólnie do programowania, lecz ściśle związana z zarządzaniem
+      procesem wytwarzania oprogramowania. SE i IT są czasem na wzór niemiecki zbiorczo
+      nazywane informatyką praktyczną (niem. praktische Informatik).
+
+      Przetwarzanie informacji jest różnie interpretowane, przez co istnieją różne
+      definicje informatyki. Uniwersytet Edynburski definiuje ją jako naukę o systemach
+      obliczeniowych, w której centralną notacją jest transformacja informacji. Według
+      Petera J. Denninga podstawowym pytaniem leżącym u podstaw informatyki jest:
+      „Co można zautomatyzować?”. Według teorii Stuarta C. Shapiro, informatyka jest
+      nauką przyrodniczą, która bada procedury. Adam Olszewski wyróżnił pięć rodzajów
+      obiektów, które są przedmiotem zainteresowania informatyki: funkcje efektywnie
+      obliczalne, algorytmy, programy komputerowe, realizacje i maszyny. W roku 2005,
+      w ACM Computing Curricula przedstawiono następujący opis:'
+    title: Etymologia
+  - content: 'Jako dyscyplina informatyka obejmuje szereg tematów, od teoretycznych
+      badań nad algorytmami i teorią obliczalności po praktyczne zagadnienia związane
+      z implementowaniem systemów obliczeniowych zarówno w warstwie sprzętowej, jak
+      i oprogramowaniu. CSAB, dawniej zwana Computing Sciences Accreditation Board
+      – w skład której wchodzą przedstawiciele Association for Computing Machinery
+      (ACM) oraz IEEE Computer Society (IEEE CS) – identyfikuje cztery obszary, które
+      uważa za kluczowe dla informatyki: teoria obliczeń, algorytmy i struktury danych,
+      języki i metodologia programowania oraz budowa i architektura komputerów. Oprócz
+      tych czterech podstawowych obszarów, CSAB identyfikuje również takie dziedziny,
+      jak inżynieria oprogramowania, sztuczna inteligencja, sieci komputerowe i komunikacja,
+      systemy baz danych, obliczenia równoległe, obliczenia rozproszone, interakcja
+      człowiek–komputer, grafika komputerowa, systemy operacyjne oraz metody numeryczne
+      i symboliczne jako będące ważnymi dziedzinami informatyki.
+
+      Początkowo towarzystwa ACM i IEEE CS publikowały własne oddzielne zalecenia
+      dotyczące programów studiów. Z czasem postanowiono utworzyć wspólną dyscyplinę
+      oraz wspólne zalecenia dotyczące programów kształcenia. W pracach nad ujednoliceniem
+      programów studiów uczestniczyły organizacje: ACM, IEEE Computer Society, Association
+      for Information Systems, ACM SIG Information Technology Education, British Computer
+      Society, International Federation for Information Processing, ABET and CSAB.
+      Wyróżniono 5 głównych specjalizacji: inżynieria komputerowa (ang. computer engineering,
+      CE), informatyka naukowa (ang. computer science, CS), systemy informacyjne (ang.
+      information systems, IS), technologia informacji (ang. information technology,
+      IT), inżynieria oprogramowania (ang. software engineering, SE). W 2020 podobna
+      grupa organizacji przygotowała programy studiów dla kolejnych 2 specjalizacji:
+      cyberbezpieczeństwo (ang. cybersecurity) oraz danologię (ang. data Science).
+      W Niemczech zwyczajowo dzieli się natomiast na informatykę teoretyczną, techniczną,
+      praktyczną oraz realizacje i stosowaną.
+
+      Peter J. Denning z kolei w swoim artykule o informatyce pogrupował treści w
+      następujące działy: algorytmy i struktury danych, języki oprogramowania, architektura
+      komputerów i oprogramowania, systemy operacyjne i sieci, inżynieria oprogramowania,
+      bazy danych i wyszukiwanie informacji, sztuczna inteligencja i robotyka, grafika
+      komputerowa, interakcja człowiek–komputer, symulacje komputerowe i obliczenia
+      numeryczne, informatyka ekonomiczna, bioinformatyka.
+
+      Jednocześnie dla każdego z tych obszarów zaproponował podział na trzy podejścia
+      dotyczące strony teoretycznej, abstrakcyjnej oraz twórczej.'
+    title: Przegląd dyscyplin informatycznych
+  - content: Teoretyczna informatyka (ang. theoretical computer science) ma ducha
+      matematycznego i abstrakcyjnego, ale motywację czerpie z praktycznych i codziennych
+      obliczeń. Jej celem jest zrozumienie natury obliczeń, w konsekwencji czego wprowadza
+      ich coraz bardziej efektywne metody. Jest ona częścią matematyki i informatyki,
+      która grupuje matematyczne podstawy informatyki. Jej najważniejsze obszary to
+      teoria obliczeń, teoria informacji oraz algorytmika. Informatyka teoretyczna
+      stara się odpowiedzieć na fundamentalne pytania w informatyce np. P versus NP
+      problem i stanowi trzon dla bardziej praktycznych dziedzin.
+    title: Informatyka teoretyczna
+  - content: Algorytmika zajmuje się projektowaniem i analizą algorytmów i struktur
+      danych. Jest najstarszą i jedną z najważniejszych dziedzin informatyki. Wśród
+      jej podstawowych obszarów można wymienić projektowanie i analizę algorytmów,
+      geometrię obliczeniową, optymalizację kombinatoryczną oraz logikę algorytmiczną.
+      Historycznie podstawowymi zagadnieniami są algorytmy sortowania, kompresji,
+      przeszukiwania czy szyfrowania oraz metody numeryczne. Algorytmy podlegają klasyfikacji,
+      wyróżniając np. algorytmy zachłanne jak algorytm Dijkstry czy algorytm Kruskala,
+      metody generowania liczb losowych, metody optymalizacji itd. Do podstawowych
+      struktur danych należą rekord, tablica, stos, lista, kolejka, drzewa czy grafy.
+      Próbą połączenia idei struktur danych i algorytmów jest paradygmat programowania
+      obiektowego.
+    title: Algorytmika. Algorytmy i struktury danych
+  - content: "Teoria obliczeń dzieli się na trzy główne części: teorię automatów,\
+      \ teorię obliczalności oraz teorię złożoności. Teoria automatów zajmuje się\
+      \ definicjami i własnościami modeli obliczeń, matematycznymi modelami maszyn\
+      \ liczących. W uproszczeniu zajmuje się ona odpowiedzią na pytanie czym jest\
+      \ komputer, teoria obliczalności zajmuje się odpowiedzią na pytanie, które problemy\
+      \ dają się rozwiązać przy pomocy komputera, a teoria złożoności – odpowiedzią\
+      \ na pytanie jak szybko da się to zrobić. Przykładowymi zagadnieniami są Maszyna\
+      \ Turinga czy Hipoteza Churcha-Turinga. Języki formalne stanowią podstawę badań\
+      \ nad językami komputerowymi, jak i naturalnymi w lingwistyce. Systemy formalne\
+      \ są tworzone i badane zarówno jako samodzielne abstrakcyjne twory, jak i systemy\
+      \ opisu rzeczywistości.\n{| style=\"border:1px solid #ccc; text-align:center;\
+      \ margin:auto;\" cellspacing=\"15\"\n|-\n| \n| \n| <math>M= \\{ X : X \\notin\
+      \ X \\}</math>\n| \n| \n|-\n| Teoria automatów\n| Język formalny\n| Teoria obliczalności\n\
+      | Teoria złożoności obliczeniowej\n| Automat komórkowy\n|}"
+    title: Teoria obliczeń. Języki, automaty, złożoność
+  - content: Matematyczna teoria informacji zajmuje się problematyką informacji, w
+      tym podstawami teoretycznymi dla przetwarzania i przesyłania informacji, np.
+      w celu ich transmisji lub kompresji. Przykładowo wprowadza takie pojęcia jak
+      komunikat, entropia, ciało skończone czy bit będący podstawową jednostką w informatyce.
+      Teoria kodowania zajmuje się tworzeniem i analizą reprezentacji danych w komputerze.
+      Wyróżnia się m.in. kodowanie znaków czy kodowanie transportowe, do których należą
+      np. kod stałopozycyjny.
+    title: Teoria informacji i kodowania
+  - content: Informatyka kwantowa to gałąź informatyki łącząca ją z mechaniką kwantową,
+      w której do przetwarzania informacji wykorzystywane są własności układów kwantowych.
+      Elementarnym nośnikiem informacji kwantowej jest kubit, kwantowy odpowiednik
+      bitu. Stan kubitu opisany jest przez dowolną kombinację liniową stanów bazowych.
+      W najbardziej popularnym modelu kwantowego przetwarzania informacji, operacje
+      na kubitach są reprezentowane za pomocą bramek kwantowych. Najbardziej spektakularny
+      sukces informatyki kwantowej to kwantowa kryptografia. Natomiast najbardziej
+      obiecującym kierunkiem badań są prace dotyczące idei kwantowego komputera. Dynamiczny
+      rozwój technologii w ostatnich latach spowodował, że gałąź ta wyłamuje się poza
+      czysto-teoryczne rozważania. Stworzono pewne realizacje bramek kwantowych, a
+      na targach CES w 2018 roku amerykańskie przedsiębiorstwo informatyczne IBM zaprezentowała
+      swój działający, 50-kubitowy komputer kwantowy.
+    title: Informatyka kwantowa
+  - content: Teoria języków programowania (ang. Programming language theory, PLT)
+      to dziedzina informatyki zajmująca się projektowaniem, wdrażaniem, analizą,
+      charakteryzacją i klasyfikacją języków programowania oraz ich indywidualnymi
+      cechami. Przykładowymi obszarami PLT są semantyki formalne (ang. formal semantics),
+      teoria typów (ang. type theory) czy metaprogramowanie. Na języki programowania
+      składa się składnia, semantyka i biblioteki standardowe, zazwyczaj posiadają
+      co najmniej obsługę wejścia-wyjścia, obsługę plików, obsługę wielowątkowości,
+      zarządzanie pamięcią operacyjną, podstawowe typy danych, funkcje do zarządzania
+      nimi np. operacje na ciągach znaków. Ważnym obszarem PLT jest też teoria kompilacji,
+      na której proces składa się wykonanie poleceń preprocesora, analiza leksykalna,
+      analiza składniowa, analiza semantyczna, optymalizacja kodu wynikowego i generacja
+      kodu. Języki klasyfikuje się według poziomu abstrakcji na którym operują na
+      języki niskiego poziomu oraz języki wysokiego poziomu, wyróżnia się także wiele
+      paradygmatów programowania.
+    title: Teoria języków programowania, typów, kompilacji
+  - content: Inżynieria komputerowa (ang. computer engineering, niem. Technishe Informatik)
+      – zajmuje się tworzeniem systemów komputerowych. Do jej zadań należy projektowanie,
+      wytwarzanie, integracja i eksploatacja sprzętu cyfrowego, w tym urządzeń sieciowych.
+      Początkowo zajmowała się głównie tworzeniem procesorów, a współcześnie ważną
+      jej rolę stanowi także tworzenie sprzętu i sterowników dla systemów wbudowanych,
+      które wraz z pojawieniem się koncepcji IoT mają coraz większe znaczenie. Do
+      jej zagadnień należy architekturą i organizacją systemów komputerowych na poziomie
+      sprzętowym oraz oprogramowania sprzętowego.
+    title: Inżynieria komputerowa
+  - content: Technika cyfrowa zajmuje się projektowaniem i analizą układów cyfrowych.
+      Do jej elementarnych zagadnień należą bramki logiczne, rejestry, układy sekwencyjne
+      i układy kombinacyjne. Obejmuje syntezę logiczną i odwzorowanie technologiczne.
+      Współcześnie jej zagadnienia są kształtowane z jednej strony przez języki opisu
+      sprzętu, a z drugiej przez bezpośrednio programowalne macierze bramek. Układy
+      logiczne początkowo implementowano jako układy mechaniczne, następnie jako elektromechaniczne
+      i dominujące współcześnie układy elektroniczne.
+    title: Logika obliczeniowa i technika cyfrowa
+  - content: Architektura komputerów (AK) to główny obszar inżynierii komputerowej
+      zajmujący się projektowaniem i podstawową strukturą systemów komputerowych oraz
+      budową i organizacją ich podzespołów. Główny obszar AK stanowi architektura
+      procesorów na którą składa się model programowy procesora oraz mikroarchitektura
+      procesora. Procesory są głównym elementem systemów komputerowych. Szczególna
+      uwaga jest poświęcona na sposobie, w jaki procesor wykonuje instrukcje i uzyskuje
+      dostęp do adresów w pamięci. Przykładowe zagadnienia to DMA czy kontroler. Ważnymi
+      obszarami AK są także magistrale oraz pamięci komputerowe. Pamięcią komputerową
+      nazywa się różnego rodzaju urządzenia i bloki funkcjonalne komputera, służące
+      do przechowywania danych i programów (systemu operacyjnego oraz aplikacji).
+      Istnieje jej wiele rodzajów, m.in. rejestry procesora, pamięć podręczna procesora,
+      pamięć RAM, dyski półprzewodnikowe (SSD), dyski twarde (HDD). Wyróżnia się pamięci
+      zewnętrzne i wewnętrzne. Magistralę komunikacyjną (ang. bus) definiuje się jako
+      zespół linii przenoszących sygnały oraz układy wejścia-wyjścia służące do przesyłania
+      sygnałów między połączonymi urządzeniami w systemach mikroprocesorowych.
+    title: Architektura i organizacja komputerów
+  - content: 'Obliczenia równoległe to obszar badający możliwość obliczeń, w której
+      wiele instrukcji jest wykonywanych jednocześnie. Taka forma przetwarzania danych
+      była wykorzystywana przez wiele lat, głównie przy wykorzystaniu superkomputerów,
+      a szczególne zainteresowanie zyskała w ostatnich latach, z uwagi na fizyczne
+      ograniczenia uniemożliwiające dalsze zwiększanie częstotliwości taktowania procesorów.
+      Obliczenia równoległe stały się dominującym wzorcem w architekturze komputerowej,
+      głównie za sprawą upowszechnienia procesorów wielordzeniowych. Ze względu na
+      skalę można wyróżnić obliczenia równoległe na poziomie: bitów, instrukcji, danych
+      i zadań. Współbieżność jest właściwością systemów, w których obliczenia wykonuje
+      się jednocześnie i potencjalnie korzystają ze wspólnych zasobów i/lub wchodzą
+      w interakcje ze sobą. Opracowano wiele modeli obliczeń równoległych, w tym sieci
+      Petriego, rachunek procesowy (ang. process calculus) i model maszyny dostępu
+      równoległego (ang. parallel random-access machine, PRAM). Kiedy wiele komputerów
+      jest podłączonych do sieci podczas korzystania ze współbieżności, jest to nazywane
+      systemem rozproszonym. w którym to komputery mają własną pamięć, a informacje
+      są wymieniane, by osiągnąć wspólne cele.'
+    title: Przetwarzanie równoległe i rozproszone
+  - content: Oprogramowanie niskopoziomowe pisze się w językach niskiego poziomu.
+      Są to głównie języki asemblera, stanowią symboliczny zapis instrukcji procesora
+      i danych, który w prosty sposób odpowiada zapisowi binarnemu. Języki asemblerowe
+      wprowadzone w celu czytelnej dla człowieka reprezentacji języków maszynowych
+      komputerów. W przeciwieństwie do języków wysokiego poziomu, typowe języki asemblerowe
+      charakteryzują się strukturą liniową (wierszową). Każdy wiersz tekstu może zawierać
+      pojedynczą instrukcję procesora lub dyrektywę asemblera.
+    title: Programowanie niskopoziomowe
+  - content: Sieci komputerowe to gałąź informatyki mająca na celu tworzenie sieci
+      między komputerami nazywanych węzłami, umożliwiając im współdzielenie zasobów.
+      W sieciach komputerowych urządzenia komputerowe wymieniają się danymi za pomocą
+      warstw sieciowych. W modelu OSI wyróżnia się warstwę aplikacji, prezentacji,
+      sesji, transportową, sieciową, łącza danych i fizyczną, a w modelu TCP/IP –
+      będącym podstawą struktury internetu – wyróżnia się warstwy aplikacji, transportową,
+      internetową i dostępu do sieci. Te łącza danych są ustanawiane za pomocą mediów
+      kablowych, takich jak skrętka lub kable światłowodowe, oraz mediów bezprzewodowych,
+      takich jak np. Wi-Fi. Jednymi z podstawowych zagadnień sieci są protokoły oraz
+      urządzenia sieciowe. Do najpopularniejszych urządzeń sieciowych należy karta
+      sieciowa, router, koncentrator, przełącznik, punkt dostępowy, most, ekspander
+      zasięgu Wi-Fi (repeater Wi-Fi), adaptery PowerLine, serwery wydruku, kamery
+      IP, bramki VoIP orazy telefony IP. Protokołem komunikacyjnym nazywa się zbiór
+      ścisłych reguł i kroków postępowania, które są automatycznie wykonywane przez
+      urządzenia sieciowe w celu nawiązania łączności i wymiany danych. Definiują
+      one syntaksę, semantykę, synchronizację komunikacji oraz możliwe metody naprawiania
+      błędów. Protokoły te mogą zostać wdrożone za pomocą hardware'u, oprogramowania
+      lub obu jednocześnie.
+    title: Sieci komputerowe
+  - content: Systemy operacyjny pełnią szczególną rolę w informatyce. Jest to oprogramowanie
+      zarządzające systemem komputerowym, tworzące środowisko do uruchamiania i kontroli
+      zadań. Najważniejszym elementem systemu operacyjnych jest jego jądro wykonujące
+      i kontrolujące zadania m.in. planisty czasu procesora, ustalającego które zadanie
+      i jak długo będzie wykonywane czy przełącznika zadań, odpowiedzialnego za przełączanie
+      pomiędzy uruchomionymi zadaniami. System operacyjny posiada także swoją powłokę,
+      czyli specjalny program komunikujący użytkownika z systemem operacyjnym oraz
+      system plików – sposób ustrukturyzowanego zapisu danych na nośniku. Osoby administrujące
+      systemami nazwa się administratorami (pot. adminami). Współcześnie najważniejszą
+      rodziną systemów operacyjnych jest GNU/Linux oraz Windows.
+    title: Systemy operacyjne
+  - content: 'Programowanie komputerów to proces projektowania, tworzenia, testowania
+      i utrzymywania kodu źródłowego programów komputerowych w tym dla urządzeń mikroprocesorowych
+      (mikrokontrolery). Programowanie pod różnymi postaciami jest obecne w większości
+      działów informatyki. Kod źródłowy jest napisany w języku programowania, z użyciem
+      określonych reguł, może on być modyfikacją istniejącego programu lub czymś zupełnie
+      nowym. Programowanie wymaga wiedzy i doświadczenia w wielu dziedzinach, jak
+      projektowanie aplikacji, algorytmika, struktury danych, języki programowania
+      i narzędzia programistyczne, kompilatory, czy sposób działania podzespołów komputera.
+      Między programistami trwają debaty, czy programowanie komputerów jest sztuką,
+      rzemiosłem czy procesem inżynieryjnym. Bezpośrednią formą sztuki w tej dziedzinie
+      jest demoscena. Programowanie komputerów integruje ze sobą większość gałęzi
+      informatyki. Istnieje wiele gałęzi rozwoju technik programowania, jednak wszystkie
+      z nich bazują na wspólnych podstawach. Niezależnie czy to będzie aplikacja webowa
+      w Javascript, gra komputerowa w C++ czy program mikrokontrolera w C, używają
+      one podstawowych konstrukcji programistycznych. Podstawymi pojęciami od których
+      zaczyna się naukę programowania są między innymi zmienne, tablice, instrukcje
+      warunkowe, pętle, wskaźniki, łańcuchy, funkcje, debugowanie, biblioteki oraz
+      zarządzanie pamięcią. Języki dzieli się na generacje: 2GL, 3GL, 4GL, 5GL. Wyróżnia
+      się między innymi języki akcji, języki algorytmiczne, języki dziedzinowe, języki
+      interpretowane, języki kompilowane, języki mnemoniczne, języki nieproceduralne,
+      języki niezależne komputerowo, języki niskiego poziomu, języki opisu zadań,
+      , języki proceduralne, języki symulacyjne, języki uniwersalne i języki wysokiego
+      poziomu. Do najpopularniejszych języków programowania zalicza się: Java, C,
+      Python, C++, Visual Basic .NET, C#, JavaScript, PHP, SQL, Język Asemblera, Swift,
+      Objective-C, Ruby, Groovy, Go, Perl, MATLAB, Visual Basic, Object Pascal.'
+    title: Informatyka praktyczna
+  - content: Grafika komputerowa to dział informatyki zajmujący się cyfrową syntezą
+      i manipulacją treści wizualnych. Ze względu na reprezentację danych dzieli się
+      na grafikę rastrową i wektorową, a ze względu na charakter danych na grafikę
+      dwuwymiarową, trójwymiarową i ruchomą. Obejmuje także obecnie szybko rozwijające
+      się przetwarzenie obrazów. Grafikę komputerową można także podzielić na teoretyczną
+      skupiającą się algorytmach graficznych i praktyczną, skupiającą się manipulacji
+      obrazem czy modelowaniu 3D np. w programie Blender. Grafika komputerowa stanowi
+      podstawę współczesnych gier, animacji, symulacji czy wizualizacji komputerowych.
+      Renderowanie polega na analizie stworzonego wcześniej modelu danej sceny oraz
+      utworzenie na jej podstawie dwuwymiarowego obrazu wyjściowego w formie statycznej
+      lub animacji. Podczas renderowania rozpatrywane są m.in. odbicia, cienie, załamania
+      światła, wpływy atmosfery (w tym mgła), efekty wolumetryczne itp.
+    title: Grafika komputerowa
+  - content: 'Inżynieria oprogramowania, także inżynieria systemów informatycznych
+      – zajmuje się procesem i metodykami tworzenia systemów informatycznych: od analizy
+      i określenia wymagań, przez projektowanie i wdrożenie, aż do ewolucji gotowego
+      oprogramowania. Termin inżynieria oprogramowania po raz pierwszy został użyty
+      w przełomie lat 1950/60 (ale oficjalnie za narodziny tej dyscypliny podaje się
+      lata 1968 i 1969, w których miały miejsce dwie konferencje sponsorowane przez
+      NATO, odpowiednio w Garmisch i Rzymie). Wyróżnia fazy produkcji oprogramwania:
+      specyfikacji, projektowania, implementacji, integracji i ewoluacji, a także
+      dostarcza systematycznych metodyk jego tworzenia, jak m.in. model kaskadowy,
+      prototypowy czy zwinny, w tym scrum. Wprowadza takie pojęcia jak np. cykl życia
+      programu czy metryka oprogramowania. Wyróżnia się także jej specjalizacje np.
+      inżynieria systemów mobilnych, inżynieria systemów baz danych, inżynieria systemów
+      wbudowanych czy inżynieria gier komputerowych. Wzorcem projektowym (ang. design
+      pattern) nazywa się uniwersalne, sprawdzone w praktyce rozwiązanie często pojawiających
+      się, powtarzalnych problemów projektowych. Pokazuje powiązania i zależności
+      pomiędzy klasami oraz obiektami i ułatwia tworzenie, modyfikację oraz utrzymanie
+      kodu źródłowego. Jest opisem rozwiązania, a nie jego implementacją. Architekturą
+      oprogramowania nazwywa podstawową organizację systemu wraz z jego komponentami,
+      wzajemnymi powiązaniami, środowiskiem pracy i regułami ustanawiającymi sposób
+      jego budowy i rozwoju. Metody formalne – tworzenie specyfikacji, projektowania
+      i weryfikacji oprogramowania lub systemów informatycznych w języku formalnym.
+      Metody formalne najlepiej opisać jako zastosowanie dość szerokiej gamy podstaw
+      teoretycznych informatyki, w szczególności rachunku logicznego, języków formalnych,
+      teorii automatów, systemu dynamiki zdarzeń dyskretnych i semantyki programów,
+      a także systemów typów i typów danych algebraicznych do specyfikacji i weryfikacji
+      problemów w oprogramowaniu i sprzęcie.'
+    title: Inżynieria oprogramowania
+  - content: Kryptologia dzieli się na kryptografię, czyli gałąź wiedzy o utajnianiu
+      wiadomości oraz kryptoanalizę, czyli gałąź wiedzy o przełamywaniu zabezpieczeń
+      oraz o deszyfrowaniu wiadomości przy braku klucza lub innego wymaganego elementu
+      schematu szyfrowania (szyfru). Przykładowe metody to atak brute force czy kryptoanaliza
+      liniowa. Bezpieczeństwo komputerowe (ang. computer security', pot. cybersecurity,
+      hacking) zajmuje się zapewnianiem poufności i bezpieczeństwa danych. Osoby posiadające
+      szeroką i zaawansowaną wiedzę informatyczną, lecz nieetycznie z niej korzystający
+      nazywani są cracker. Ich szczególnym zainteresowaniem jest wyszukiwanie luk
+      (dziur) w systemach operacyjnych, programach, sieciach komputerowych czy urządzeniach
+      do niej podłączonych w celu przejęcia nad nimi zdalnej kontroli. Wyróżnia się
+      wiele klasycznych ataków komputerowych takich jak na przykład DDoS, HTTP Flood,
+      UDP flood, smurf attack, session hijacking, a także wiele rodzajów wirusów komputerowych,
+      trojanów, snifferów czy rootkitów. W odpowiedzi powstało wiele technik obrony
+      systemów informatycznych, np. obrona w głąb, security through obscurity czy
+      głębokie ukrycie.
+    title: Cyberbezpieczeństwo i kryptologia
+  - content: Danologia (ang. Data science) wykorzystuje metody naukowe, procesy, algorytmy,
+      narzędzia i systemy informatyczne do wydobywania wiedzy i spostrzeżeń z wielu
+      danych strukturalnych i nieustrukturyzowanych, tzw. Big data. Eksploracją danych
+      (ang. data mining) nazywa się jeden z procesów uzyskiwania wiedzy z baz danych.
+      Idea eksploracji danych polega na wykorzystaniu szybkości komputera do znajdowania
+      ukrytych dla człowieka (właśnie z uwagi na ograniczone możliwości czasowe) prawidłowości
+      w danych zgromadzonych w hurtowniach danych. Big data to termin odnoszący się
+      do dużych, zmiennych i różnorodnych zbiorów danych, których przetwarzanie i
+      analiza jest trudna, ale jednocześnie wartościowa. Obecne użycie terminu big
+      data zwykle odnosi się do użycia analizy predykcyjnej, analizy zachowania użytkownika
+      lub niektórych innych zaawansowanych metod analizy danych, które wydobywają
+      wartość z danych, a rzadko do określonego rozmiaru zestawu danych. Baza danych
+      to zorganizowany zbiór danych, ogólnie przechowywanych i dostępnych z systemu
+      komputerowego. Tam, gdzie bazy danych są bardziej złożone, często są opracowywane
+      przy użyciu formalnych technik projektowania i modelowania. System zarządzania
+      bazą danych (DBMS) to oprogramowanie, które współdziała z użytkownikami końcowymi,
+      aplikacjami i samą bazą danych w celu przechwytywania i analizy danych. Oprogramowanie
+      DBMS obejmuje dodatkowo podstawowe narzędzia do zarządzania bazą danych.
+    title: Bazy danych, eksploracja danych, danologia
+  - content: Systemy informatyczne (ang. information processing systems) może opisać
+      jako zbiór powiązanych ze sobą elementów, które przetwarzają informacje, najczęściej
+      z wykorzystaniem sprzętu i oprogramowania komputerowego.
+    title: Systemy i technologie komputerowe
+  - content: 'Sztuczna inteligencja (SI, ang. Artificial intelligence, AI) to obszar
+      informatyki zajmujący się komputerowym symulowaniem inteligencji – tworzeniem
+      modeli zachowań inteligentnych oraz systemów komputerowych symulujących te zachowania.
+      Szczególnym zainteresowaniem darzy się problemy które nie są bezpośrednio algorytmizowalne,
+      jak rozpoznawanie obrazów, tłumaczenie maszynowe czy rozpoznawanie mowy. Sztuczna
+      inteligencja jest związana z logiką rozmytą, algorytmami ewolucyjnymi, sieciami
+      neuronowymi, robotyką i sztucznym życiem. SI bywa nazywane także inteligencją
+      obliczeniową (ang. Computational Intelligence, CI). Uczeniem maszynowym (ang.
+      Machine learning, ML) nazwa się analizę procesów uczenia się oraz tworzeniem
+      systemów, które doskonalą swoje działanie na podstawie doświadczeń z przeszłości.
+      Jedną z wiodących technologii jest TensorFlow. Systemy te posiadają zdolność
+      do samouczenia się i nazywa się je systemami samouczącymi. Podstawowymi metodami
+      ML są symboliczne uczenie się (nazywane także indukcyjnym, ang. symbolic/inductive
+      learning) oraz sztuczne sieci neuronowe (ang. artificial neural networks). Nazywa
+      się tak połączone grupy węzłów, podobne do rozległej sieci neuronów w ludzkim
+      mózgu. Głębokie sieci neuronowe (także głębokie uczenie maszynowe, ang. deep
+      learning lub differential programming) to podkategoria uczenia maszynowego –
+      nazywa się tak metody oparte na sztucznych sieciach neuronowych z uczeniem reprezentatywnym
+      (ang. feature learning lub representation learning). Uczenie się może być nadzorowane,
+      częściowo nadzorowane lub nienadzorowane. Sztuczne życie (ang. artificial life,
+      AL, niem. Künstliches Leben, KL) to kierunek badań, zorientowany na zrozumienie
+      i wykorzystanie istoty życia. Pomysłodawcą i ojcem chrzestnym tego podejścia
+      był amerykański matematyk i informatyk Christopher Langton, który zaproponował
+      je w 1986 roku. Dziedzina obejmuje między innymi: tworzenie różnorodnych modeli
+      życia oraz prowadzenie symulacji w środowisku programowym, sprzętowym i biochemicznym,
+      symulacje ewolucji biologicznej oraz innych procesów biologicznych za pomocą
+      metod informatycznych, badania i symulacje układów niebiologicznych, zachowujących
+      się podobnie jak układy biologiczne (np. automatów komórkowych), algorytmy ewolucyjne
+      i ewolucję programów komputerowych.'
+    title: Sztuczna inteligencja
+  - content: Systemy wbudowane to systemy komputerowe specjalnego przeznaczenia, który
+      staje się integralną częścią obsługiwanego przez niego sprzętu komputerowego
+      (hardware). System wbudowany musi spełniać określone wymagania ściśle zdefiniowane
+      pod kątem zadań, które ma wykonywać. Każdy system wbudowany oparty jest na mikroprocesorze
+      (lub mikrokontrolerze) zaprogramowanym do wykonywania ograniczonej liczby zadań
+      lub nawet wyłącznie do jednego zadania. W systemach wbudowanych najpopularniejszymi
+      modelami programowymi procesorów są RISC oparte na zasadach architektury harvardzkiej
+      lub ARM. W systemach czasu rzeczywistego wynik i efekt działania jest zależny
+      od chwili wypracowania tego wyniku. Systemy wbudowane współcześnie znajdują
+      zastosowania np. w autonomicznych pojazdach, w internecie rzeczy czy w urządzeniach
+      rozrywkowych.
+    title: Systemy wbudowane i obliczenia czasu rzeczywistego
+  - content: Rozpoznawanie wzorców (ang. pattern recognition) to pole badawcze w obrębie
+      uczenia maszynowego. Może być definiowane jako działanie polegające na pobieraniu
+      surowych danych i podejmowaniu dalszych czynności zależnych od kategorii do
+      której należą te dane. W rozpoznawaniu wzorców dąży się do klasyfikacji danych
+      (wzorców) w oparciu o wiedzę aprioryczną lub o informacje uzyskane na drodze
+      statystycznej analizy danych służącej wydobywaniu cech obiektów. Klasyfikowane
+      wzorce to zazwyczaj grupy wyników pomiaru lub obserwacji definiujące położenie
+      odpowiadających im punktów w wielowymiarowej przestrzeni cech.
+    title: Widzenie komputerowe i rozpoznawanie wzorców
+  - content: Sygnały cyfrowe to strumienie bitów informacji, ich przetwarzanie polega
+      na wykonaniu na nich pewnych operacji oraz ich interpretacja. Do głównych zastosowań
+      należy przetwarzanie dźwięku, kompresja dźwięku, segmentacja obrazów, kodowanie
+      wideo, przetwarzanie mowy, rozpoznawanie mowy oraz telekomunikacja cyfrowa.
+    title: Przetwarzanie obrazów i mowy
+  - content: Gry komputerowe to rodzaj oprogramowania komputerowego przeznaczonego
+      do celów rozrywkowych lub edukacyjnych, wymagające od użytkownika (gracza) rozwiązywania
+      zadań logicznych lub zręcznościowych. Gry komputerowe mogą być uruchamiane na
+      komputerach osobistych, specjalnych automatach, konsolach do gry, telewizorach,
+      telefonach komórkowych oraz innych urządzeniach mobilnych. Gry, podobnie jak
+      symulacje komputerowe mają wirtualizować pewien fragment rzeczywistości. Zaawansowane
+      gry i symulacje są pisane w czystych językach programowania, najczęściej obiektowych
+      – jak Simula czy C++ lub są oparte na silnikach jak Unity. Dla mniej wymagających
+      symulacji powstały także uniwersalne programy.
+    title: Gry komputerowe i symulatory
+  - content: Interakcją człowiek–komputer nazywa się wzajemne oddziaływanie między
+      człowiekiem a komputerem zachodzące poprzez interfejs użytkownika, czyli część
+      sprzętu i oprogramowania zajmującą się obsługą urządzeń wejścia-wyjścia przeznaczonych
+      dla interakcji z użytkownikiem. Istnieje wiele rodzajów interfejsów, są to m.in.
+      wiersz poleceń, interfejs tekstowy czy interfejs graficzny. Obecnie prowadzone
+      są intensywne badania nad wirtualną rzeczywistością, a także interfejsami mózg-komputer.
+    title: Interfejsy i interakcje człowiek-komputer
+  - content: Aplikacja internetowa (ang. web application), zwana również aplikacją
+      webową – program komputerowy, który pracuje na serwerze i komunikuje się poprzez
+      sieć komputerową z hostem użytkownika komputera z wykorzystaniem przeglądarki
+      internetowej użytkownika, będącego w takim przypadku interaktywnym klientem
+      aplikacji internetowej. Od komputerów mobilnych (np. smartfony, tablety) oczekuje
+      się, że mogą być swobodnie transportowane podczas normalnego użytkowania, oraz
+      pozwalają na przesyłanie danych, głosu i wideo. System mobilny, także przetwarzanie
+      mobilne (ang. mobile computing) obejmuje komunikację mobilną oraz sprzęt i oprogramowanie
+      mobilne. Kwestie komunikacyjne obejmują sieci ad hoc, infrastrukturę sieci,
+      a także właściwości komunikacyjne, protokoły, formaty danych i konkretne technologie.
+      Typowy sprzęt mobilny zawiera często różne sensory, np. akcelerometry, które
+      są w stanie wykrywać i odbierać sygnały. Najważniejsze mobilne systemy operacyjne
+      to iOS oraz Android Linux, gdzie dominują języki Java i Kotlin.
+    title: Technologie webowe, mobilne i multimedia
+  - content: '- Geoinformatyka – zajmuje się numerycznym przetwarzaniem i analizowaniem
+      informacji geograficznej (geoinformacji). Geoinformatyka jest opisywana jako
+      nauka i technika zajmująca się strukturą i charakterem danych geograficznych,
+      ich przechwytywaniem, klasyfikacją, przetwarzaniem i wizualizacją. Do zastosowań
+      geoinformatyki zalicza się kartografię, geodezję, GPS, fotogrametrię, teledetekcję,
+      analizę danych przestrzennych, mapowanie i nawigację.
+
+      - Astroinformatyka – zastosowania informatyki w astronomii.'
+    title: Informatyka w inżynierii kosmicznej i satelitarnej, astronomii, nawigacji,
+      geodezji i geografii
+  - content: '- Bioinformatyka (z niem. Bioinformatik) – interdyscyplinarna dziedzina
+      obejmujmująca rozwój metod obliczeniowych służących do badania struktury, funkcji
+      i ewolucji genów, genomów i białek. Ponadto odpowiada za rozwój metod wykorzystywanych
+      do zarządzania i analizy informacji biologicznej gromadzonej w toku badań genomicznych
+      oraz badań prowadzonych z zastosowaniem wysokoprzepustowych technik eksperymentalnych.
+
+      - Chemioinformatyka (z niem. Chemoinformatik), także informatyka chemiczna to
+      nauka zajmująca się wykorzystaniem informatyki do rozwiązywania różnorodnych
+      problemów chemicznych jak np. teoria grafów chemicznych czy badania przestrzeni
+      chemicznej. Te techniki, nazywane często metodami in silico, wykorzystywane
+      są do przeprowadzania obliczeń w blisko związanej z nią chemii obliczeniowej
+      oraz w chemii kwantowej i procesie projektowania leków. Nauka ta znajduje zastosowanie
+      w wielu gałęziach przemysłu chemicznego do analizy i przetwarzania danych chemicznych.
+
+      - Informatyka medyczna – zajmuje się zbieraniem, przetwarzaniem, przechowywaniem,
+      udostępnianiem i przesyłaniem danych medycznych oraz metodami tworzenia urządzeń
+      i systemów informatycznych wykorzystywanych w medycynie. Informatyka medyczna
+      znajduje zastosowania między innymi w systemach wspomagania diagnostyki (np.
+      IBM Watson for Oncology), oprogramowaniu robotów medycznych, systemach rejestracji,
+      przetwarzania i analizy sygnałów i obrazów medycznych oraz systemach teleinformatycznych
+      dla telemedycyny.
+
+      - Neuroinformatyka (z niem. Neuroinformatik) znajduje zastosowania w kognitywistyce,
+      przy badaniu przetwarzania informacji przez systemy nerwowe w celu zastosowania
+      ich w systemach technicznych, m.in. w tworzeniu modeli obliczeniowych, narzędzi
+      analitycznych i baz danych do udostępniania, integracji i analizy danych eksperymentalnych
+      oraz rozwoju teorii na temat funkcji układu nerwowego. W kontekście INCF neuroinformatyka
+      odnosi się do informacji naukowych na temat podstawowych danych eksperymentalnych,
+      ontologii, metadanych, narzędzi analitycznych i modeli obliczeniowych układu
+      nerwowego. Informatyka kognitywna także odnosi się do zastosowań w kognitywistyce.
+      Jednym z najbardziej znanych specjalistów kognitywstyki w Polsce jest Włodzisław
+      Duch. Kolejnym powiązanym obszarem jest informatyka afektywna.'
+    title: Informatyka w biologii, chemii, medycynie i kognitywistyce
+  - content: '- Informatyka przemysłowa – zastosowania informatyki w przemyśle.
+
+      - Informatyka mechaniczna, także mechainformatyka (z niem. Maschinenbauinformatik)
+      – zastosowania informatyki w mechanice. Zajmuje się m.in. informatycznymi aspektami
+      druku 3D, programowania CNC, mechaniki komputerowej, oraz oprogramowaniem do
+      projektowania CAD.
+
+      - Informatyka materiałowa – zastosowania informatyki w materiałoznawstwie i
+      inżynierii materiałowej.'
+    title: Informatyka w przemyśle, mechanice i inżynierii materiałowej
+  - content: '- Informatyka społeczna odnosi się do szeroko rozumianego związku pomiędzy
+      technologiami informatycznymi i światem społecznym. Obejmuje między innymi web
+      mining, reality mining, symulacje społeczeństw i boty społeczne. Przedmiotem
+      zainteresowania badaczy jest także z jednej strony wpływ informatycznych technologii
+      komunikacyjnych na zmiany społeczne i psychologiczne wśród osób, które z nich
+      korzystają. Z drugiej strony badany jest wpływ zjawisk społecznych na systemy
+      informatyczne, między innymi komunikatory, serwisy społecznościowe.
+
+      - Informatyka śledcza – dostarcza cyfrowych środków dowodowych dotyczących przestępstw
+      popełnionych cyfrowo lub przy użyciu systemów teleinformatycznych. Jej zadaniami
+      są: zbieranie, odzyskiwanie, analiza i prezentacja cyfrowych danych, znajdujących
+      się na różnego rodzaju nośnikach (dyski twarde komputerów, dyskietki, płyty
+      CD, pamięci przenośne, serwery, telefony komórkowe itp.), oraz w coraz popularniejszych
+      ostatnio systemach i serwisach zdalnego gromadzenia, przechowywania i przetwarzania
+      danych, takich jak serwisy społecznościowe, przestrzeń dyskowa w chmurze czy
+      wyszukiwarki internetowe.
+
+      -Informatyka ekonomiczna (czasem określana również jako informatyka gospodarcza
+      lub informatyka zarządcza) – jej przedmiotem zainteresowania są systemy informatyczne
+      w organizacjach (szczególnie w przedsiębiorstwach).'
+    title: Dalsze zastosowania
+  - content: W ramach I etapu edukacji (klasy I-III) uczniowie mają zajęcia z edukacji
+      informatycznej w ramach edukacji wczesnoszkolnej. Klasy IV-VIII (II etap edukacyjny)
+      realizują przedmiot informatyka. Najważniejszym celem kształcenia informatycznego
+      uczniów jest rozwój umiejętności myślenia obliczeniowego (z ang. computational
+      thinking), skupionego na kreatywnym rozwiązywaniu problemów z różnych dziedzin
+      ze świadomym i bezpiecznym wykorzystaniem przy tym metod i narzędzi wywodzących
+      się z informatyki. Takie podejście, rozpoczęte w szkole podstawowej, jest kontynuowane
+      w liceum ogólnokształcącym i technikum zarówno w zakresie podstawowym, jak i
+      rozszerzonym. Przedmiot informatyka jest realizowany przez wszystkich uczniów
+      w każdej klasie, począwszy od klasy I szkoły podstawowej i jest kontynuowany
+      w liceum ogólnokształcącym i technikum.
+    title: Szkoła podstawowa, liceum i technikum
+  - content: Informatyka jest wykładana na uniwersytetach oraz na politechnikach.
+      Na politechnikach programy studiów są nastawione na zagadnienia inżynierskie,
+      a na uniwersytetach na zagadnienia naukowe. Istnieją także programy studiów
+      nastawione na praktyczne zastosowania. Z uwagi na ograniczoną liczbę miejsc
+      oraz fakt że informatyka jest chętnie wybieranym kierunkiem studiów, obowiązują
+      na nią stosunkowo wysokie progi punktowe. W roku akademickim 2018/2019 zgłosiło
+      się 42759 chętnych. W najlepszych uczelniach w kraju w pierwszej kolejności
+      są przyjmowani finaliści Olimpiady Informatycznej. Spośród najlepszych jest
+      wyłaniana reprezentacja Polski na różne międzynarodowe konkursy informatyczne
+      np. Akademickie mistrzostwa świata w programowaniu zespołowym.
+    title: Studia wyższe
+  - content: '- informatyk
+
+      - informatyka stosowana'
+    title: Zobacz też
+  - content: '- Computer science , Routledge Encyclopedia of Philosophy, rep.routledge.com
+      [dostęp 2023-05-10].'
+    title: Linki zewnętrzne
+  title: Informatyka
+- sections:
+  - content: 'Technologie finansowe określane jako Fintech lub FinTech () – wszelkiego
+      typu innowacje technologiczne w sektorze finansów. Tego samego określenia używa
+      się również jako nazwy firm, które oferują rozwiązania innowacyjne dla sektora
+      finansowego dotyczące instrumentów finansowych oraz usług.
+
+      Użycie analogicznego określenia angielskiego InsurTech dla opisu innowacyjnych
+      rozwiązań dla sektora ubezpieczeniowego nie przyjęło się jeszcze w języku polskim.
+      W tym obszarze używa się opisowego określenia typu: „innowacyjne technologie
+      w branży ubezpieczeniowej” lub podobne. Podobne określenia powstały dla rozwiązań
+      innowacyjnych w innych branżach, jak WealthTech z dziedziny zarządzania aktywami
+      czy PayTech dla płatności.
+
+      Firmy FinTech działające na rynku finansowym postrzegane są jako szczególna
+      kategoria parabanków.'
+    title: Main
+  - content: Polska jest jednym z krajów, w których w ostatnich latach odnotowano
+      najwyższe przyrosty w zakresie rozwoju i wzrostu gospodarczego. Co prawda zastosowanie
+      innowacyjności, jak i tempo wdrażania nowoczesnych technologicznie rozwiązań
+      różni się w zależności od sektora to branża finansowa charakteryzuje się raczej
+      wysokim jej poziomem. Innowacyjność w tym zakresie nabrała dużego rozpędu a
+      segment rynku nazywany powszechnie Fintech bez wątpienia ma ogromną szansę zaistnieć.
+      Przewiduje się, że w kolejnych latach sektor ten zajmie ważne miejsce w gospodarce
+      jako całości, przyczyniając się tym samym do jej zrównoważonego rozwoju.
+    title: Miejsce Fintech w gospodarce
+  - content: '<references>
+
+      Nowe technologie a sektor finansowy. FinTech jako szansa i zagrożenie, bankier.pl.
+
+      FinTechs – Finanztechnologie Unternehmen, bundesbank.de.
+
+      Innowacyjne technologie w branży ubezpieczeniowej, equinum.pl.
+
+      What the heck is PayTech, planetcompliance.com.
+
+      What is wealthtech?, bbva.com.
+
+      </references>'
+    title: Przypisy
+  - content: '- Definicja FinTech – co to jest FinTech. Czym jest firma Fintech?,
+      fintek.pl
+
+      - Mapa Polskiego Fintechu, cashless.pl'
+    title: Linki zewnętrzne
+  title: Technologie finansowe
+- sections:
+  - content: Infrastruktura informatyczna (również infrastruktura IT, ang. IT infrastructure)
+      – całokształt rozwiązań sprzętowo-programowych i organizacyjnych stanowiących
+      podstawę wdrożenia i eksploatacji zaawansowanych merytorycznie i technologicznie
+      systemów informatycznych wspomagających zarządzanie przedsiębiorstwami i instytucjami.
+    title: Main
+  title: Infrastruktura informatyczna
+- sections:
+  - content: 'Strona główna: Inżynieria komputerowa'
+    title: Main
+  title: Kategoria:Inżynieria komputerowa
+- sections:
+  - content: 'Astroinformatyka – interdyscyplinarna dziedzina nauki, będąca połączeniem
+      astronomii z informatyką oraz technologiami komunikacyjnymihttp://www.math.bas.bg/~nkirov/zip/SEEDI_astro_presentation.pdf..
+
+      Astroinformatyka polega na wykorzystaniu nowoczesnych technologii w celu zachowania
+      i analizy historycznych obserwacji astronomicznych. Ma na celu również zapisanie
+      cyfrowo historycznych oraz najnowszych obserwacji astronomicznych i obrazów
+      w dużej bazie danych dla efektywniejszego wyszukiwania materiałów poprzez ogólnodostępny
+      interfejs.'
+    title: Main
+  title: Astroinformatyka
+- sections:
+  - content: 'Instytut Informatyki Politechniki Warszawskiej (II PW) – instytut naukowy
+      i dydaktyczny Politechniki Warszawskiej, składa się z zakładów prowadzących
+      działalność naukowo-badawczą i dydaktyczną.
+
+      Instytut wchodzi w skład Wydziału Elektroniki i Technik Informacyjnych; mieści
+      się w Warszawie przy ulicy Nowowiejskiej w gmachu im. prof. Janusza Groszkowskiego
+      (vis-à-vis Gmachu Głównego Politechniki).'
+    title: Main
+  - content: '- Zakład Grafiki Komputerowej
+
+      - Zakład Systemów Informacyjnych
+
+      - Zakład Sztucznej Inteligencji
+
+      - Zakład Oprogramowania i Architektury Komputerów'
+    title: W skład Instytutu wchodzą
+  - content: '- Oficjalna strona instytutu
+
+      - Oficjalna strona Wydziału Elektroniki i Technik Informacyjnych PW'
+    title: Linki zewnętrzne
+  title: Instytut Informatyki Politechniki Warszawskiej
+- sections:
+  - content: 'Bioinformatyka jest interdyscyplinarną dziedziną naukową zajmującą się
+      badaniami naukowymi i wdrażaniem w praktycznych zastosowaniach informatycznych
+      metod do rozwiązywania różnorodnych zagadnień w naukach biologicznych.
+
+      Głównym hasłem w tej kategorii jest bioinformatyka.'
+    title: Main
+  title: Kategoria:Bioinformatyka
+- sections:
+  - content: Informatyka materiałowa (ang. material informatics) to stosunkowo nowa
+      interdyscyplinarna dziedzina badań, która łączy informatykę z inżynierią materiałowej
+      i materiałoznawstwem w celu poprawy zrozumienia, wykorzystania, wyboru, rozwoju
+      i odkrywania materiałów. Stawia sobie za cel szybkie i niezawodne pozyskiwanie,
+      zarządzanie, analizę i rozpowszechnianie różnorodnych danych materiałowych w
+      celu znacznego skrócenia czasu i ryzyka potrzebnego do opracowania, wyprodukowania
+      i wdrożenia nowych materiałów, co zwykle trwa dłużej niż 20 lat.
+    title: Main
+  title: Informatyka materiałowa
+- sections:
+  - content: Informatyka muzyczna – pojawiający się interdyscyplinarny obszar badawczy
+      zajmujący się produkcją, dystrybucją, konsumpcją i analizą muzyki za pomocą
+      technologii informatycznych (szczególnie w formatach cyfrowych). Informatyka
+      muzyczna obejmuje między innymi edytory audio, przetwarzanie i analizę sygnałów
+      muzycznych, urządzenia wykorzystywane przy produkcji muzyki oraz urządzenia
+      wykorzystywane przy występach muzycznych.
+    title: Main
+  title: Informatyka muzyczna
+- sections:
+  - content: 'Rozszerzenie znaku – w arytmetyce komputerowej operacja zwiększenia
+      liczby bitów liczby binarnej przy jednoczesnym zachowaniu znaku tej liczby i
+      jej wartości. Odbywa się to poprzez dołączanie cyfr binarnych na lewo od najbardziej
+      znaczącego bitu.
+
+      Na przykład, jeśli sześć bitów jest używanych do przedstawienia liczby „<code>00
+      1010</code>” (w systemie dziesiętnym dodatnia liczba 10), a operacja przedłużenia
+      znaku zwiększa długość słowa do 16 bitów, wówczas nowa reprezentacja tej liczby
+      w słowie 16-bitowym to „<code>0000 0000 0000 1010</code>”. Wyraźnie widać, że
+      zarówno wartość, jak i znak liczby są takie same jak przed operacją.
+
+      Jeśli dziesięć bitów jest używanych do przedstawienia wartości „<code>11 1111
+      0001</code>” (−15 w systemie dziesiętnym) przy użyciu kodu uzupełnień do dwóch,
+      a znak jest rozszerzany tak, aby słowo miało długość 16 bitów. Nowa reprezentacja
+      tej liczby to „<code>1111 1111 1111 0001</code>”. W ten sposób, wypełniając
+      lewą stronę cyfrą „1”, zarówno znak ujemny, jak i wartość oryginalnej liczby
+      są zachowywane.'
+    title: Main
+  title: Rozszerzenie znaku liczby binarnej
+- sections:
+  - content: 'Informatyka śledcza (ang. computer forensics) – obszar informatyki powiązany
+      z naukami o bezpieczeństwie i naukami prawnymi, którego celem jest dostarczanie
+      cyfrowych środków dowodowych. Często w sprawach popełnionych przestępstw lub
+      nadużyć, ale także w celu odtworzenia stanu pierwotnego przy ustalaniu motywów
+      działania sprawcy lub ofiary. Jej zadaniami są: zbieranie, odzyskiwanie, analiza
+      i prezentacja (w formie specjalistycznego raportu) cyfrowych danych, znajdujących
+      się na różnego rodzaju nośnikach (dyski twarde komputerów, dyskietki, płyty
+      CD, pamięci przenośne, serwery, telefony komórkowe itp.), oraz w coraz popularniejszych
+      ostatnio systemach i serwisach zdalnego gromadzenia, przechowywania i przetwarzania
+      danych, takich jak: (serwisy społecznościowe, przestrzeń dyskowa w chmurze czy
+      wyszukiwarki internetowe)Jakub Dzikowski, Uniwersytet Ekonomiczny w Poznaniu:
+      Wyszukiwanie danych osobowych w Internecie dla celów Informatyki Śledczej. Efektem
+      działań informatyków śledczych są cyfrowe materiały dowodowe, przygotowane zgodnie
+      z duchem dochodzeniowo-śledczym (ang. forensically sound).'
+    title: Main
+  - content: 'Do najczęstszych przypadków zastosowania informatyki śledczej w Polsce
+      należą:
+
+      - W sferze biznesowej – kradzież danych przez zwalnianych lub nielojalnych pracowników
+      oraz sabotaż (usuwanie lub kradzież danych firm lub instytucji publicznych mające
+      na celu m.in. osłabienie ich pozycji konkurencyjnej lub pozyskanie know-how),
+
+      - W sferze prywatnej – ustalanie motywów ucieczek nieletnich, zaginięć osób
+      a także niewyjaśnionych zgonów (ustalenie czy osobę nakłaniano do samobójstwa
+      lub czy dokonano morderstwa)W Polityce - Informatyka Śledcza w rozkwicie.'
+    title: Zastosowanie
+  - content: 'Dowód elektroniczny (ang. digital evidence) jest dopuszczalny zarówno
+      w procesie cywilnym jak i karnym. Jest to typ dowodu naukowego, spełniającego
+      bardzo rygorystyczne wymagania amerykańskiego standardu Dauberta, zgodnie z
+      którym metoda lub teoria naukowa, aby stać się dowodem, musi:
+
+      - Sama w sobie być sprawdzalna i zostać już poddana kontroli;
+
+      - Być opisana i oceniona w literaturze fachowej;
+
+      - Mieć znany lub przewidywany poziom błędów uzyskiwanych przy stosowaniu tej
+      metody;
+
+      - Uzyskać powszechną akceptację (ang. general acceptance) specjalistów w danej
+      dziedzinie.
+
+      Wymóg powszechnej akceptacji jest ważnym czynnikiem decydującym o dopuszczeniu
+      konkretnego dowodu, jednak nie stanowi warunku koniecznego. Polskie prawo również
+      – co do zasady – przyjmuje, że dowody elektroniczne mogą być wykorzystane w
+      postępowaniu przed sądem. Dowód elektroniczny musi być pozyskany, potwierdzony
+      (poddany procesowi uwierzytelniania), zabezpieczony i zanalizowany w sposób,
+      który uniemożliwi obronie podniesienie zarzutu manipulacji dowodem czy fałszerstwa.
+
+      Przestępstwa komputerowe definiuje konwencja Rady Europy ETS 185, gdzie wskazuje
+      się następujące ich grupy:
+
+      - Przestępstwa przeciw poufności (ang. confidentiality), integralności (ang.
+      integrity) i dostępności (ang. availability) danych (tzw. przestępstwa CIA).
+      Obejmują one między innymi: nielegalny dostęp do systemów przez hacking, podsłuch
+      czy oszukiwanie uprawnionych użytkowników (powszechnie znany „phishing”), szpiegostwo
+      komputerowe (włączając trojany i inne techniki), sabotaż i wymuszenia komputerowe
+      (wirusy, ataki DDoS, spam) .
+
+      - Powiązane z komputerami (sieciami) przestępstwa tradycyjne, zaczynając od
+      oszustw (od klasycznych, czyli manipulacji fakturami czy kontami firmowymi,
+      do manipulacji on-line – oszukańczych aukcji czy nielegalnego używania kart
+      kredytowych), poprzez komputerowe podróbki, aż do ataków na ludzkie życie przez
+      np. manipulowanie systemami szpitalnymi czy systemami kontroli ruchu powietrznego.
+
+      - Przestępstwa dotyczące zawartości (treści). Ta kategoria obejmuje na przykład
+      dziecięcą pornografię, dostarczanie instrukcji przestępczych, a także samo oferowanie
+      popełniania przestępstw. Ta kategoria obejmuje także molestowanie i mobbing
+      poprzez sieć, rozpowszechnianie fałszywych informacji (np. czarny PR, schematy
+      „pump and dump”) oraz internetowy hazard.
+
+      - Przestępstwa powiązane z naruszeniem prawa autorskiego i praw pokrewnych,
+      takie jak nieautoryzowane kopiowane i rozpowszechnianie programów komputerowych.
+      Do tej kategorii zalicza się także nieautoryzowane użycie baz danych.
+
+      Należy podkreślić, że dziedzina dostarczania elektronicznych środków dowodowych
+      wybiega znacznie poza przestępstwa komputerowe i ma zastosowanie przy każdym
+      przestępstwie czy nadużyciu, gdzie urządzenia elektroniczne miały zastosowanie
+      jako nośnik danych. Podsumowanie przestępczości komputerowej w USA zawiera doroczny
+      „Computer Crime Survey” dostępny na www.gocsi.com. Ponadto, co warto zauważyć,
+      zebrany materiał niekwalifikujący się dowodowo potrafi często naprowadzić śledczych
+      na właściwy tor postępowania lub ewidentnie wskazać, wobec sprzecznego materiału
+      dowodowego, prawdopodobny przebieg zdarzeńFakt.pl Co jeszcze ukrywają rodzice
+      Madzi? Ktoś sczyścił dane z komputera rodziców Madzi.'
+    title: Dowód elektroniczny i przestępstwa komputerowe
+  - content: '- Sprawdzenie poprawności zabezpieczenia materiału dowodowego - na przykład
+      poprzez sprawdzenie plomb na obudowie komputera jak i portów.
+
+      -Utworzenie protokołu dostarczenia nośników danych oraz potwierdzenie zabezpieczonych
+      dowodów najlepiej wartością funkcji skrótu. Sprawdzenie zgodności opisu ich
+      marki, modelu, pojemności i numerów seryjnych. W razie nieprzestrzegania procedury
+      przy zabezpieczaniu urządzenia dowód takowy traci na wiarygodności w postępowaniu
+      sądowym.
+
+      - Wykonanie kopii binarnej lub obrazu dysku z użyciem blokera zapisów. Bloker
+      chroni zabezpieczany dysk przed zapisaniem na nim jakichkolwiek danych. Gdyby
+      po dacie zabezpieczenia dysku twardego, doszło do zapisania na nim jakichkolwiek
+      danych (np. daty zmiany metadanych w systemie plików), spowoduje to utratę jego
+      wartości dowodowej w postępowaniu sądowym. Należy pamiętać, że każde uruchomienie
+      systemu operacyjnego na komputerze powoduje modyfikacje na jego dysku twardym.
+
+      - Przeprowadzenie na kopii danych szczegółowej analizy zgodnie z zapytaniem
+      zleceniodawcy stosując w tym celu specjalistyczne urządzenia i programy, które
+      uniemożliwiają modyfikację wykonanej kopii. Analiza danych musi zostać przeprowadzona
+      z dużą rzetelnością, starannością przy zachowaniu zasad, procedur stosowanych
+      zgodnie z zasadami informatyki śledczej oraz łańcuchem dowodowym, który ma swój
+      początek w momencie zabezpieczania urządzenia, a kończy się w chwili gdy biegły
+      obroni swoją opinię na rozprawie sądowej.
+
+      - Opisanie z wysoką starannością całej procedury wykonania i analizy kopii danych
+      z zabezpieczonego urządzenia.
+
+      - Sporządzenie rzetelnej ekspertyzy wraz z pełnym opisem jej przebiegu i wyniku
+      wyeksportowanego do danej postaci pliku oraz z przedstawieniem pełnych raportów
+      analizy nośników danych z naznaczeniem pozycji i ujawnionych informacji z nośnika
+      danych, które stanowią materiał dowodowy do wydania opinii służącej w procesie
+      sądowym. Oznaczenie dat utworzenia, modyfikacji jak i ostatniego dostępu do
+      danych stanowiących materiał dowodowy (tam, gdzie możliwe jest ich odczytanie).
+      Należy wyszczególnić dane, które zostały odzyskane po skasowaniu czy sformatowaniu
+      dysku twardego komputera.
+
+      - Wystawienie opinii zgodnej z zapytaniem zlecającego z przytoczeniem metody
+      i sposobu przeprowadzenia analizy kopii komputerowego, cyfrowego czy elektronicznego
+      nośnika danych.'
+    title: Procedura analizy dochodzeniowo-śledczej nośników danych
+  - content: '-ustalanie zakresu analizy dowodów elektronicznych oraz przedmiotu poszukiwania
+
+      - właściwe zabezpieczenie kopii danych
+
+      - szczegółowa analiza śladów elektronicznych
+
+      - sporządzenie raportu dotyczącego analizowanych danych'
+    title: Zadania specjalistów informatyki śledczej
+  - content: '- defraudacji środków finansowych
+
+      - łamania prawa pracy
+
+      - kradzieży danych
+
+      - szpiegostwa przemysłowego
+
+      - łamania praw autorskich
+
+      - ujawnienia tajemnicy handlowej
+
+      - kradzieży i użycia danych osobowych
+
+      - spraw kryminalnych (handel narkotykami, terroryzm, morderstwa, samobójstwa,
+      przestępczość zorganizowana, pedofilia).'
+    title: Praca informatyków śledczych wykorzystywana jest najczęściej w przypadkach
+  - content: '- Kodeks pracy: Art.52.§1-3 Art.114 Art.115 Art.116 Art.119 Art.114.
+      Art.122 Art.267.§1-4 Art.268.§1-4 Art.268a.§1-3 Art.287.§1-3
+
+      - Ustawa o zwalczaniu nieuczciwej konkurencji
+
+      - Kodeks postępowania cywilnego: Art.227 Art.278 Art.305 Art.227 Art.307.§1-3
+      Art.308.§1-2 Art.309.'
+    title: Uwarunkowania prawne w Polsce dotyczące dowodów w postaci elektronicznej
+  - content: "- „Praktyczna analiza powłamaniowa. Aplikacja webowa w środowisku Linux”\
+      \ książka poświęcona informatyce śledczej\n- Computer Forensics World \n- The\
+      \ International Association of Computer Investigative Specialists"
+    title: Linki zewnętrzne
+  title: Informatyka śledcza
+- sections:
+  - content: Technika informatyczna, technika informacyjna, technologia informatyczna,
+      technologia informacyjna, TI (od ang. information technology, IT) – dyscyplina
+      informatyczna i branża na rynku pracy zajmująca się stosowaniem technologii
+      obliczeniowych (oprogramowanie i sprzęt komputerowy) w biznesie, instytucjach
+      państwowych, opiece zdrowotnej, szkołach i innych typach organizacji. W szerszym
+      znaczeniu (jako informatyka techniczna), obejmuje ona inżynierię oprogramowania,
+      inżynierię komputerową, systemy informacyjne, cyberbezpieczeństwo i danologię.
+      Jest ona także powiązana z sektorem teleinformatycznym.
+    title: Main
+  - content: '<references>
+
+      </references>'
+    title: Przypisy
+  title: Technika informatyczna
+- sections:
+  - content: Socjoinformatyka – obszar łączący nauki społeczne i informatyczne
+    title: Main
+  title: Kategoria:Socjoinformatyka
+- sections:
+  - content: Informatyka techniczna – dawniej dział informatyki związany z obliczeniami
+      inżynieryjno-technicznymi (ang. technical computing), obecnie po zmianach wprowadzonych
+      przez nową klasyfikację dziedzin i dyscyplin w roku 2018Rozporządzenie Ministra
+      Nauki i Szkolnictwa Wyższego z dnia 20 września 2018 r. w sprawie dziedzin nauki
+      i dyscyplin naukowych oraz dyscyplin artystycznych () zastąpione przez rozporządzenie
+      Ministra Edukacji i Nauki z dnia 11 października 2022 r. w sprawie dziedzin
+      nauki i dyscyplin naukowych oraz dyscyplin artystycznych ()., znacznie szersze
+      pojęcie, wykraczające poza termin angielski, jako składowa dyscypliny "informatyka
+      techniczna i telekomunikacja" z dziedziny nauk inżynieryjno-technicznych. Dyscyplina
+      "informatyka techniczna i telekomunikacja" jest powiązana z szeregiem kierunków
+      studiów technicznych, w tym z kierunkami bezpośrednio kształcącymi w informatyce
+      technicznej. Po poszerzeniu zakresu pojęciowego informatyki technicznej, przy
+      braku polskiej tradycji stosowania tego określenia, pojawiły się propozycje
+      utożsamienia jej z dziedziną technologii informatycznych (lub technologii informacyjnych,
+      ang. information technology).
+    title: Main
+  - content: "W sierpniu 2005 grupa organizacji wokól ACM zaproponowała nazwę ogólnego\
+      \ programu nauczania computing, w którym wyróżniono pięć podstawowych specjalności:\
+      \ computer engineering (CE), computer science (CS), information systems (IS),\
+      \ information technology (IT), software engineering (SE). W grudniu 2017 podobna\
+      \ grupa organizacji zdefiniowała zakres specjalizacji information technology\
+      \ jako: \nW 2018 w Polsce zmieniono klasyfikację dziedzin i dyscyplin. Ustalono\
+      \ dyscyplinę w dziedzinie nauk inżynieryjno-technicznych – informatyka techniczna\
+      \ i telekomunikacja. Celem zmiany było wprowadzenie dyscypliny informatycznej\
+      \ w dziedzinie nauk inżynieryjno-technicznych, w odróżnieniu od dyscypliny Informatyka,\
+      \ która została przyporządkowana dziedzinie nauk ścisłych i przyrodniczych,\
+      \ oraz połączenie jej z telekomunikacją. Powstała w efekcie dyscyplina obejmuje\
+      \ bardzo szeroki zakres, łączący w sobie praktycznie wszystkie z pięciu specjalności\
+      \ informatycznych wymienionych we wzmiankowanym wyżej dokumencie ACM: od inżynierii\
+      \ komputerowej (CE), poprzez inżynierię oprogramowania (SE), aż do nauk dotyczących\
+      \ technologii informacyjnych (IT) oraz systemów informacyjnych (IS), z relatywnie\
+      \ najmniejszym udziałem zorientowanej na teorię informatyki (czystej) (CS).\
+      \ Do dyscypliny informatyka techniczna i telekomunikacja przyporządkowane zostały\
+      \ wszystkie kierunki informatyczne kształcące inżynierów, a więc w większości\
+      \ kierunki prowadzone na uczelniach technicznych. W efekcie tych zmian dyscyplina\
+      \ informatyka techniczna została powiązana z szeregiem kierunków studiów, od\
+      \ klasycznych: Informatyki i Informatyki Stosowanej, poprzez wiele innych związanych\
+      \ z różnymi specjalnościami informatycznymi, aż do kierunków bezpośrednio związanych\
+      \ z telekomunikacją, takich jak np. Teleinformatyka."
+    title: Etymologia
+  - content: 'Zakres badań oraz zakres nauczania informatyki technicznej jest znacznie
+      szerszy niż zawarty w specjalizacji technologii informacyjnych (information
+      technology), obejmując całość obecnych osiągnięć praktycznych informatyki z
+      uzupełnieniem podstaw teoretycznych. Tym samym konieczne jest wybranie podzbioru
+      tej wiedzy w określonej specjalności, dowolnie sformułowanych. Pośród znajdujących
+      się poza obszarem technologii informacyjnych, wyróżniane są trzy podstawowe:
+
+      - Inżynieria komputerowa (ang. computer engineering) – specjalność informatyki
+      technicznej, zajmująca się architekturą, projektowaniem i działaniem systemów
+      komputerowych, w tym projektowaniem, wytwarzaniem, integracją i eksploatacją
+      sprzętu cyfrowego w sieciach komputerowych oraz internetowych. Również projektowanie
+      sprzętu sterowników dla systemów wbudowanych do automatyzacji procesów oraz
+      zarządzanych przez internet (internet rzeczy IoT) wraz z odpowiednim oprogramowaniem
+      podstawowym.
+
+      - Inżynieria oprogramowania (ang. software engineering) – specjalność informatyki
+      technicznej stosująca podejście inżynierskie do tworzenia oprogramowania: od
+      analizy i określenia wymagań, przez projektowanie i wdrożenie, aż do ewolucji
+      gotowego oprogramowania.
+
+      - Systemy informacyjne (ang. information systems) – specjalność informatyki
+      technicznej ukierunkowana na przetwarzanie, za pomocą procedur i modeli, informacji
+      wejściowych w wyjściowe, w tym projektowanie, realizację i eksploatację baz
+      danych z przetwarzaniem informacji. Obecnie również przetwarzanie i analiza
+      gigadanych (Big Data) oraz nauka o danych (danologia).'
+    title: Badania i przedmioty informatyki technicznej
+  - content: '<references responsive>
+
+      </references>'
+    title: Przypisy
+  title: Informatyka techniczna
+- sections:
+  - content: Informatyka teoretyczna (ang. Theoretical computer science) – dyscyplina
+      w dziedzinie nauk ścisłych i przyrodniczych oraz kierunek studiów uniwersyteckich,
+      wykorzystujący aparat matematyczny do badań nad naturą i teorią obliczeń, automatów
+      i informacji oraz tworzenia algorytmów wyrażanych w językach programowania i
+      strukturach danych. W części praktycznej zajmuje się optymalizowaniem wykorzystania
+      architektury komputerów, do obliczeń numerycznych i analiz statystycznych oraz
+      przetwarzania danych w implementowanych bazach danych, systemach informacyjnych,
+      graficznych, webowych, chmurowych, kryptograficznych, sieciowych, sztucznej
+      inteligencji itp.
+    title: Main
+  - content: '<references>
+
+      </references>'
+    title: Przypisy
+  title: Informatyka (teoretyczna)
+- sections:
+  - content: Informatyka stosowana (ang. applied computing) – dyscyplina oraz kierunek
+      nauczania, wiążący ze sobą kompetencje informatyczne z dogłębną znajomością
+      potrzeb określonej praktyki. Określony podzbiór wiedzy dyscypliny informatyka
+      jest logicznie uzupełniany wiedzą specjalistyczną. W podstawowym zakresie obejmuje
+      praktyczne wykorzystanie narzędzi informatycznych w innych dyscyplinach w każdej
+      dziedzinie nauk.
+    title: Main
+  - content: 'Już w latach 60., w chwili rozpoczęcia produkcji pierwszych komputerów
+      UMC, pojawiło się zapotrzebowanie ze strony geodezji na specjalistyczne urządzenie
+      obliczeń geodezyjnych. Na to zamówienie, od 1968 wyprodukowano kilkanaście specjalizowanych
+      komputerów GEO. Podobne zapotrzebowanie przyszło z medycyny na urządzenia do
+      analizy sygnałów EKG i EEG. W Zakładzie Doświadczalnym Instytutu Informatyki
+      Politechniki Warszawskiej w latach 1967-1986 wyprodukowano 150 sztuk maszyny
+      ANOPS. W tych przykładach istotne były doświadczenia współpracy informatyków
+      z geodetami oraz lekarzami.
+
+      Wraz z rozwojem informatyki taka współpraca była coraz częściej potrzebna. Co
+      prawda na innych kierunkach studiów wprowadzano podstawy informatyki i programowania,
+      ale była to wiedza niewystarczająca. Pojawiało się zasadne pytanie kto ma oprogramować
+      sterownik silnika – inżynier informatyk czy inżynier mechanik? – informatyk
+      nie miał wiedzy specjalistycznej, a mechanik informatycznej i trudno też było
+      im się wzajemnie zrozumieć w projektowaniu algorytmu oprogramowania.
+
+      W 1999 prof. Ryszard Tadeusiewicz, wówczas Rektor AGH, na posiedzeniu Prezydium
+      KRASP (Konferencji Rektorów Polskich Uczelni Technicznych) zgłosił inicjatywę
+      poszerzenia istniejącego zbioru kierunków kształcenia o informatykę stosowaną.
+      Propozycja, początkowo popierana, z czasem była krytykowana, w tym przez informatyków,
+      w zamian proponując poszerzenie nauki informatyki na innych kierunkach.
+
+      Prof. Tadeusiewicz wobec takiego braku akceptacji, w 2003 uzyskał prawa wprowadzenia
+      kierunku informatyka stosowana na czterech wydziałach AGH. Z czasem inne uczelnie
+      uzyskiwały podobne prawo. Pozostawało tylko dobrać odpowiedni zakres programu
+      nauczania informatyki, łącząc go z programem studiów specjalistycznych.'
+    title: Źródła informatyki stosowanej
+  - content: 'Przykładowy program informatyczny kierunku:
+
+      - inżynieria komputerowa
+
+      - inżynieria oprogramowania
+
+      - systemy informatyczne
+
+      - cyberbezpieczeństwo
+
+      - system zarządzania bazami danych i systemy informacyjne
+
+      - internet i internet rzeczy
+
+      - aplikacja mobilna i aplikacja internetowa
+
+      - grafika komputerowa i multimedia
+
+      - gry komputerowe i symulacja komputerowa
+
+      - sztuczna inteligencja i systemy inteligentne'
+    title: Program informatyczny kierunku
+  - content: 'Obecnie kilkanaście uczelni prowadzi kierunek informatyka stosowana,
+      przy czym w wielu przypadkach nazwa kierunku przymiotnikowo określa jego tematykę.
+      Można też wyróżnić dwie klasy relacji dyscypliny informatyka z inną dyscypliną:
+
+      - zastosowanie informatyki wspomaga rozwój innej dyscypliny,
+
+      - wyniki badań innej dyscypliny wspomagają rozwój informatyki.'
+    title: Tematyka informatyki stosowanej
+  - content: 'W tym przypadku większość zastosowań informatyki polega na tworzeniu
+      i przetwarzaniu informacji zapisanych w bazach wiedzy dotyczących danej dyscypliny,
+      czasem dokonywaniem obliczeń oraz z wizualizacją przechowanych danych. W zaawansowanych
+      rozwiązaniach techniki informatyczne zmieniają jakościowo dotychczasowe rozwiązania
+      techniczne (np. zamiast siłowego czy elektronicznego układu sterującego podłączany
+      jest sterownik z aplikacją sterującą):
+
+      - Informatyka przemysłowa, informatyka materiałowa – zajmuje się programowaniem
+      CNC, sterowników, projektowaniem wspomaganym komputerowo CAD, materiałoznawstwem
+      oraz zajmuje się monitorowaniem i sterowaniem produkcją oraz modelowaniem procesów
+      technologicznych.
+
+      - Geoinformatyka, geoinformacja, geostatyka – zajmuje się numerycznym przetwarzaniem
+      i analizowaniem informacji geograficznej i pomiarów geodezyjnych oraz zastosowaniami
+      informatyki w kartografii, GPS, fotogrametrii, teledetekcji, analizie danych
+      przestrzennych i nawigacji.
+
+      - Informatyka ekonomiczna, informatyka gospodarcza – zajmuje się tworzeniem
+      i zarządzaniem systemami informacyjnymi w organizacjach i przedsiębiorstwach.
+
+      - Informatyka medyczna – zajmuje się przetwarzaniem danych medycznych oraz projektowaniem
+      urządzeń diagnostyczno-medycznych z wykorzystaniem systemów informatycznych.
+
+      - Bioinformatyka – obejmuje metody obliczeniowe badania i symulacji struktury,
+      funkcji i ewolucji genów, genomów i białek oraz przetwarzaniem informacji biologicznej.
+
+      - Neuroinformatyka – zajmuje się przetwarzaniem i przepływem informacji w systemach
+      nerwowych oraz procesów neurologicznych.
+
+      - Informatyka chemiczna, chemioinformatyka – zajmuje się przetwarzaniem informacji
+      baz wiedzy związków chemicznych, między innymi w projektowaniu leków.
+
+      - Informatyka śledcza – dostarcza cyfrowych środków dowodowych dotyczących przestępstw
+      popełnionych cyfrowo lub przy użyciu systemów teleinformatycznych.
+
+      - Informatyka społeczna, socjoinformatyka – bada wpływ użytkowania produktów
+      informatycznych na społeczeństwo i jego jednostki.'
+    title: Informatyka wspomaga inną dyscyplinę
+  - content: '- Mechatronika – łączy technikę elektryczną z mechaniczną i informatyczną
+      i między innymi dostarcza mikronapędów do dysków, drukarek, skanerów itp.
+
+      - Socjoinformatyka – bada wpływ zjawisk i zachowań społecznych na sposób korzystania
+      z serwisów informatycznych oraz społecznościowych – wspomaga badania nad zwiększeniem
+      użyteczności rozwiązań informatycznych.
+
+      - Informatyka afektywna – zajmuje się metodami i narzędziami rozpoznawania,
+      analizy, interpretacji i symulacji stanów emocjonalnych użytkowników komputerów
+      – wspomaga badania nad efektywniejszymi metodami komunikacji człowiek-komputer.
+
+      - Kognitywistyka – zajmująca się obserwacją i analizą działania zmysłów, mózgu
+      i umysłu, w szczególności ich modelowaniem, mającym na celu projektowanie „inteligentnych”
+      urządzeń.
+
+      - Informatyka prawnicza – dostarcza interpretacji aktów prawnych, których zapisy
+      powinny być uwzględnione w projektowaniu bezpieczeństwa systemów teleinformatycznych
+      (ochrona danych osobowych, prywatność).'
+    title: Dyscyplina wspomaga rozwój informatyki
+  title: Informatyka stosowana
+- sections:
+  - content: 'Strona główna: Teoria języków programowania (ang. Programming Language
+      Theory, PLT)'
+    title: Main
+  title: Kategoria:Teoria języków programowania
+- sections:
+  - content: 'Projektowanie eksperymentów (planowanie doświadczeń, teoria eksperymentu;
+      ang. design of experiments, w skrócie DOE) – interdyscyplinarna dziedzina nauki
+      znajdująca się na pograniczu statystyki, metrologii, matematyki stosowanej oraz
+      informatyki, mająca na celu dostarczenie odpowiedzi na pytanie o możliwość takiego
+      zaplanowania doświadczenia (eksperymentu lub quasi-eksperymentu), aby uzyskać
+      możliwie najwięcej użytecznych informacji przy najmniejszych koniecznych do
+      tego kosztach J. Pietraszek, Planowanie doświadczeń - możliwość czy konieczność.
+      StatSoft Polska, 2004..
+
+      Rozwój teorii eksperymentu związany był z założoną przez Johna Benneta Lawesa
+      słynną rolniczą Stację Eksperymentalną Rothamsted w Harpenden. W czasie kiedy
+      jej dyrektorem był Edward John Russell, w stacji zatrudniony został Ronald Fisher
+      (autor pracy The design of experiments z 1935 r.) – kluczowa postać dla rozwoju
+      zarówno statystyki, jak i dziedziny projektowania eksperymentów Ronald Fisher
+      w MacTutor History of Mathematics Archive.. Od tego czasu stacja stała się instytucją
+      w której pracowali badacze mający znaczny wpływ na rozwój planowania doświadczeń:
+      Frank Yates, Joseph Oscar Irwin, John Wishart, William Gemmell Cochran (współautor,
+      wspólnie z Gertrude Mary Cox, książki pt. Experimental Designs z 1950 r.) i
+      John Nelder.'
+    title: Main
+  title: Projektowanie eksperymentów
+- sections:
+  - content: Instytut Alana Turinga (ang. The Alan Turing Institute) – brytyjski narodowy
+      instytut zajmujący się naukową analizą danych i sztuczną inteligencją, założony
+      w 2015 roku i finansowany głównie przez rząd Wielkiej Brytanii. Jego nazwa pochodzi
+      od Alana Turinga, brytyjskiego matematyka i pioniera informatyki.
+    title: Main
+  - content: 'Instytut Alana Turinga jest niezależną organizacją pozarządową, działającą
+      na zasadzie non-profit. Jest to wspólne przedsięwzięcie pięciu uniwersytetów
+      założycielskich Uniwersytetu Cambridge, Uniwersytetu w Edynburgu, Uniwersytetu
+      Oksfordzkiego, University College London (UCL) i Uniwersytetu w Warwick, wybranych
+      na podstawie międzynarodowej oceny wzajemnej. W 2018 roku do instytutu dołączyło
+      ośmiu dodatkowych partnerów uniwersyteckich: Queen Mary University of London,
+      University of Leeds, University of Manchester, University of Newcastle, University
+      of Southampton, University of Birmingham, University of Exeter i University
+      of Bristol.
+
+      , główny fundator instytutu, jest również członkiem wspólnego przedsięwzięcia.
+      Prezesem Instytutu Alana Turinga, powołaną w lipcu 2023 roku, jest Jean Innes.'
+    title: Zarządzanie
+  - content: 'Fundusze na utworzenie instytutu pochodziły z inwestycji o wartości
+      600 milionów funtów w „Osiem wielkich technologii”, a konkretnie w tzw. „big
+      data”, wyasygnowane przez rząd Wielkiej Brytanii w 2013 roku i ogłoszonej przez
+      George’a Osborne’a, Kanclerz Skarbu, w budżecie na 2014 rok. Większość inwestycji
+      w „big data” została skierowana na infrastrukturę obliczeniową. Każdy z pięciu
+      uniwersytetów założycielskich przekazał instytutowi po 5 milionów funtów. Dalsze
+      finansowanie pochodziło głównie z dotacji od rad ds. badań naukowych, partnerów
+      uniwersyteckich oraz partnerstw strategicznych i innych.
+
+      W czerwcu 2021 roku EPSRC przyznało instytutowi w imieniu brytyjskiego stowarzyszenia
+      Research and Innovation 10 mln funtów na rok 2021/2022.'
+    title: Finansowanie
+  - content: 'W 2015 roku fundacja Lloyd’s Register została pierwszym partnerem strategicznym
+      instytutu, przekazując w ciągu pięciu lat grant w wysokości 10 milionów funtów
+      na wsparcie badań nad inżynieryjnymi zastosowaniami dużych zbiorów danych.
+
+      - Howard Covington, przewodniczący 2015–2022.
+
+      - Doug Gurr, przewodniczący od 2022.
+
+      - Sir Adrian Smith, prezes (CEO) w latach 2018–2023.
+
+      - Jean Innes, prezes (CEO) od lipca 2023 roku.
+
+      Rolą instytutu jest dostarczanie wiedzy specjalistycznej i badań podstawowych
+      z zakresu analityki danych i sztucznej inteligencji potrzebnych do rozwiązywania
+      problemów w świecie rzeczywistym. W wykładach i dyskusjach organizowanych przez
+      instytut uczestniczą m.in. profesorowie polskiego pochodzenia: Aleksander Mądry,
+      Marta Kwiatkowska.
+
+      Od 2021 roku Instytut Alana Turinga organizuje coroczne wydarzenie o nazwie
+      AI UK, które określa się jako krajową wizytówkę nauki o danych i sztucznej inteligencji.'
+    title: Historia
+  - content: '- Test Turinga
+
+      - Nagroda Turinga'
+    title: Zobacz też
+  - content: '- Theory and Algorithms in Data Science Seminar – cykl dyskusji organizowanych
+      przez Instytut Alana Turinga.'
+    title: Linki zewnętrzne
+  title: Instytut Alana Turinga
+- sections:
+  - content: 'Sztuka generatywna – zastosowanie algorytmów oraz innych autonomicznych
+      systemów do tworzenia dzieł sztuki. Głównym wyróżnikiem sztuki generatywnej
+      są elementy losowości, proceduralności oraz kreatywna autonomia systemu. Nazywana
+      czasami sztuką kodu.
+
+      Często sztuka generatywna powstaje poprzez eksperymentowanie z kodem lub algorytmem
+      w celu uzyskania estetycznego efektu. Sztukę generatywną można podzielić na
+      dwie kategorie tzw. słabą oraz silną. Pierwsza kategoria obejmuje dzieła, w
+      których artysta w większym stopniu realizuje swoją wizję. W drugiej program
+      komputerowy ma większą autonomię, wtedy rola artysty kończy się na napisaniu
+      programu.
+
+      Pierwsza wystawa sztuki generatywnej miała miejsce w 1965 roku na Uniwersytecie
+      w Stuttgarcie. Jednak przez wiele lat rozwijała się ona na marginesie głównego
+      nurtu współczesnego życia artystycznego. Obecnie sztuka generatywna zyskuje
+      coraz bardziej na znaczeniu, głównie dzięki coraz większemu znaczeniu technologii
+      i jej wpływu na naszą kulturę.'
+    title: Main
+  - content: '- sztuka algorytmiczna
+
+      - obrazy generowane komputerowo
+
+      - fraktal
+
+      - tekstura proceduralna
+
+      - processing
+
+      - wygaszacz ekranu'
+    title: Zobacz też
+  title: Sztuka generatywna

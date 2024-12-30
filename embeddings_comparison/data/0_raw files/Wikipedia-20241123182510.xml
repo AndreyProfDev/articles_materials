@@ -1,0 +1,1859 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="pl">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>plwiki</dbname>
+    <base>https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna</base>
+    <generator>MediaWiki 1.44.0-wmf.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Specjalna</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Dyskusja</namespace>
+      <namespace key="2" case="first-letter">Wikipedysta</namespace>
+      <namespace key="3" case="first-letter">Dyskusja wikipedysty</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Dyskusja Wikipedii</namespace>
+      <namespace key="6" case="first-letter">Plik</namespace>
+      <namespace key="7" case="first-letter">Dyskusja pliku</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Dyskusja MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Szablon</namespace>
+      <namespace key="11" case="first-letter">Dyskusja szablonu</namespace>
+      <namespace key="12" case="first-letter">Pomoc</namespace>
+      <namespace key="13" case="first-letter">Dyskusja pomocy</namespace>
+      <namespace key="14" case="first-letter">Kategoria</namespace>
+      <namespace key="15" case="first-letter">Dyskusja kategorii</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Dyskusja portalu</namespace>
+      <namespace key="102" case="first-letter">Wikiprojekt</namespace>
+      <namespace key="103" case="first-letter">Dyskusja wikiprojektu</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Moduł</namespace>
+      <namespace key="829" case="first-letter">Dyskusja modułu</namespace>
+      <namespace key="2600" case="first-letter">Wątek</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Kategoria:Muzea</title>
+    <ns>14</ns>
+    <id>158333</id>
+    <revision>
+      <id>67289246</id>
+      <parentid>67289239</parentid>
+      <timestamp>2022-05-29T19:54:35Z</timestamp>
+      <contributor>
+        <username>Adamt</username>
+        <id>60242</id>
+      </contributor>
+      <comment>drobne techniczne</comment>
+      <origin>67289246</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="337" sha1="k3vs44brixyprxzrgsm87dxa626nzyq" xml:space="preserve">{{kategoria tematyczna}}
+{{commonscat|Museums}}
+{{opis kategorii
+|grupuje = Kategoria grupuje artykuły poświęcone [[muzeum|muzeom]] uszeregowane według typu lub lokalizacji
+}}
+
+[[Kategoria:Historia]]
+[[Kategoria:Atrakcje turystyczne]]
+[[Kategoria:Instytucje kultury]]
+[[Kategoria:Wystawiennictwo]]
+[[Kategoria:Dziedzictwo kulturowe]]</text>
+      <sha1>k3vs44brixyprxzrgsm87dxa626nzyq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Protohistoria</title>
+    <ns>0</ns>
+    <id>99242</id>
+    <revision>
+      <id>71870727</id>
+      <parentid>69281893</parentid>
+      <timestamp>2023-11-16T13:27:22Z</timestamp>
+      <contributor>
+        <username>Tarnoob</username>
+        <id>274492</id>
+      </contributor>
+      <comment>/* Przypisy */ szablon</comment>
+      <origin>71870727</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2965" sha1="qncp9tngrkne5o27g8r6obde6gcpxfq" xml:space="preserve">'''Protohistoria''' – termin określający dzieje społeczności, które nie stworzyły piśmiennictwa, lecz o których zachowały się informacje w źródłach innych kultur lub okres bezpośrednio poprzedzający okres historyczny, w którym ilość danych pisanych jest wciąż bardzo niewielka.
+
+Jest to okres przejściowy między czasem [[prehistoria|prehistorycznym]] a [[historia|historycznym]], w którym istnieje już niewielka liczba pisanych dokumentów, ale przeważająca większość danych jest uzyskiwana metodami [[archeologia|archeologicznymi]]{{r|texas}}. W okresie prehistorycznym brak jakichkolwiek danych pisanych, stąd wszystkie informacje pochodzą ze źródeł archeologicznych, a [[datowanie]] odbywa się za pomocą metod [[geologia|geologicznych]], jak np. [[datowanie izotopowe]]. W okresie protohistorycznym istnieją już kultury posługujące się pismem i rejestrujące swoją historię, stąd możliwe jest np. wykorzystywanie ich zapisów kalendarzowych do prób datowania wydarzeń i wytworów ludów żyjących poza zasięgiem tych rozwiniętych cywilizacji. Ponadto, cywilizacje piśmienne pozostawiają zapisy o innych, obcych ludach{{r|kozlowski}}.
+
+Przykładowo, najdawniejsze dane pisane na temat północnego [[Wietnam]]u pochodzą z chińskich kronik [[dynastia Han|dynastii Han]], która zajęła te tereny w I w. p.n.e. Problemem w ich wykorzystaniu jest ich tendencja do podkreślania własnych osiągnięć i przypisywania rozwoju cywilizacji wyłącznie wpływom swojej (w tym przypadku [[Chińczycy Han|chińskiej – Hanowskiej]]) cywilizacji, i pomijania wkładu ludów lokalnych{{r|kim}}.
+
+== Przypisy ==
+{{Przypisy|
+&lt;ref name=kozlowski&gt;{{Cytuj książkę | nazwisko = Kaczanowski | imię = Piotr  | tytuł = Wielka Historia Polski | wydawca = Fogra  | miejsce = Kraków  | data = 1998 | strony = 9-10 | nazwisko2 = Kozłowski | imię2 = Janusz Krzysztof | tom = I | tytuł tomu = Najdawniejsze dzieje ziem polskich (do VII w.) | rozdział = Prehistoria, protohistoria, archeologia | imię r = Janusz Krzysztof | nazwisko r = Kozłowski}}&lt;/ref&gt;
+&lt;ref name="kim"&gt;{{Cytuj pismo | autor = Kim, Nam C.; Van Toi, Lai; Hiep, Trinh Hoang | tytuł = Co Loa: An Investigation of Vietnam's Ancient Capital  | czasopismo = Antiquity | wydawca =  Antiquity Publications Ltd. | wydanie = 326  | wolumin =  84 | strony = 1011 | język = en | data = 2010-12 | url = https://www.questia.com/article/1G1-250133904/co-loa-an-investigation-of-vietnam-s-ancient-capital}}&lt;/ref&gt;
+&lt;ref name="texas"&gt;{{Cytuj książkę | tytuł = The Prehistory of Texas | wydawca = Texas A&amp;M University Press | miejsce = College Station, TX | data = 2004 | strony = 150 | inni = Timothy K. Perttula (ed.) | rozdział = The Prehistory of South Texas  | imię r = Thomas R.  | nazwisko r = Hester | url = https://www.questia.com/read/122884468/the-prehistory-of-texas}}&lt;/ref&gt;
+}}
+
+{{Nauki historyczne}}
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Historia]]</text>
+      <sha1>qncp9tngrkne5o27g8r6obde6gcpxfq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Nauki pomocnicze historii</title>
+    <ns>14</ns>
+    <id>188689</id>
+    <revision>
+      <id>40403499</id>
+      <parentid>40403494</parentid>
+      <timestamp>2014-09-12T14:37:13Z</timestamp>
+      <contributor>
+        <username>Rybulo7</username>
+        <id>368203</id>
+      </contributor>
+      <comment>Wycofano ostatnią zmianę treści (wprowadzoną przez [[Specjalna:Wkład/213.108.9.255|213.108.9.255]]) i przywrócono wersję 35127023 autorstwa Addbot</comment>
+      <origin>40403499</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="22" sha1="kyh9b9uoa1696jbb0ogi5g6kk5qdy42" xml:space="preserve">[[Kategoria:Historia]]</text>
+      <sha1>kyh9b9uoa1696jbb0ogi5g6kk5qdy42</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Polityka historyczna</title>
+    <ns>0</ns>
+    <id>459335</id>
+    <revision>
+      <id>74985147</id>
+      <parentid>74966085</parentid>
+      <timestamp>2024-10-17T15:48:59Z</timestamp>
+      <contributor>
+        <username>Runab</username>
+        <id>209273</id>
+      </contributor>
+      <minor/>
+      <comment>/* Zagadnienie polityki historycznej w Polsce */ drobne techniczne, drobne redakcyjne</comment>
+      <origin>74985147</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="13416" sha1="sx792txi01iiqxn1wnxgd31ue0wg64b" xml:space="preserve">'''Polityka historyczna''' ({{Niem.|Geschichtspolitik}}) lub '''polityka pamięci''' – kształtowanie [[Świadomość historyczna|świadomości historycznej]] oraz wzmocnienie publicznego dyskursu o przeszłości.
+
+== Geneza pojęcia ==
+Polityka historyczna wynika z potrzeby mitologizacji przeszłości{{r|Ponczek}} w celu tworzenia [[Dziedzictwo kulturowe|dziedzictwa kulturowego]] danego [[Naród|narodu]]. Pojęcie polityki historycznej wywodzi się z [[Niemcy|Niemiec]], gdzie pojawiło się w latach 1980. i zajmowało się wpływem historii na politykę tego kraju&lt;ref&gt;{{Cytuj |tytuł = "The Armored Train of Memory": The Politics of History in Post-Soviet Russia {{!}} Perspectives on History {{!}} AHA |data dostępu = 2021-09-04 |opublikowany = historians.org |url = https://www.historians.org/publications-and-directories/perspectives-on-history/january-2011/the-armored-train-of-memory-the-politics-of-history-in-post-soviet-russia#note1}}&lt;/ref&gt;. Wraz z początkiem lat 1990. debata publiczna na temat wydarzeń z historii zaczęła mieć coraz większe znaczenie: &lt;blockquote&gt;Wraz ze [[ponowne zjednoczenie Niemiec|zjednoczeniem Niemiec]] stary podział na [[Republika Federalna Niemiec (1949–1990)|zachodnioniemiecką]] i [[Niemiecka Republika Demokratyczna|wschodnioniemiecką]] politykę historyczną stracił rację bytu (…) w kontekście niemieckim pojęcie to nie ma – w przeciwieństwie do dyskursu politycznego polskiego – konotacji [[konserwatyzm|konserwatywnych]]&lt;ref&gt;Red. Magdalena Saryusz-Wolska, ''Pamięć zbiorowa i kulturowa. Współczesna perspektywa niemiecka'', UNIVERSITAS, Kraków 2009.&lt;/ref&gt;.&lt;/blockquote&gt;
+
+== Narzędzia polityki historycznej ==
+Narzędziami polityki historycznej są finansowane przez państwo: badania naukowe, edukacja i wychowanie, instytucje wyspecjalizowane (jak [[Muzeum|muzea]], [[Izba pamięci|izby pamięci]], instytuty lub centra), organizacja czasu (kalendarz [[Święto państwowe|świąt państwowych]]), topografia pamięci, wykorzystanie mediów masowych i wymiar sprawiedliwości, szczególnie podczas [[Tranzycja (politologia)|tranzycji politycznej]], etykietowanie bohaterów oraz wykorzystywanie  narratorów o odmiennym autorytecie (np. naukowców i świadków wydarzeń) w artykułach historycznych&lt;ref&gt;Laleh Khalili: ''Heroes and Martyrs of Palestine. The Politics of National Commemoration''. Oxford – New York: Oxford University Press, 2007; Jan Rydel, ''Polityka historyczna w Republice Federalnej Niemiec. Zaszłości, Idee, Praktyka. ''Kraków: Wydawnictwo Naukowe Uniwersytetu Pedagogicznego, 2011; Patryk Wawrzyński, ''Sharing the Past: Specialized Institutions as an instrument of Politics of Memory in the 21st Century'', w: Ralph Schattkowsky i Milos Reznik, „Society&amp;nbsp;and&amp;nbsp;Nation&amp;nbsp;in&amp;nbsp;Transnational&amp;nbsp;Processes&amp;nbsp;in&amp;nbsp;Europe”. Newcastle: Cambridge Scholar Publishing 2014.&lt;/ref&gt;.
+
+Polityka historyczna wpływa na naturę i nazwy [[pomnik|pomników]] i muzeów, [[Ulica|ulic]], [[plac]]ów, miast i całych krajów&lt;ref&gt;{{Cytuj |autor = Zvinashe Mamvura |tytuł = ‘Let us make Zimbabwe in my own name’: Place naming and Mugabeism in Zimbabwe |czasopismo = South African Journal of African Languages |data = 2020-01-02 |data dostępu = 2021-08-09 |issn = 0257-2117 |wolumin = 40 |numer = 1 |s = 32–39 |doi = 10.1080/02572117.2019.1672343 }}&lt;/ref&gt;, patronów placówek oświatowych i innych instytucji publicznych, osoby odznaczone [[order]]ami i [[medal]]ami za zasługi&lt;ref&gt;Por. na ten temat: red. Stanisław Kowolik, O polską politykę historyczną, IX Sympozjum Tarnogórskie, Tarnowskie Góry 2010.&lt;/ref&gt;, instytucje [[Świadomość historyczna|świadomości historycznej]] wspólnoty, a także wspierane przez państwo i samorządy badania naukowe, działania kulturalne i edukacyjno-wychowawcze.
+
+== Zagadnienie polityki historycznej w Polsce ==
+Także po okresie [[Polska Rzeczpospolita Ludowa|PRL]], kiedy to wdrażano [[Historiografia PRL|stosowną historiografię]], pojęcie polityki historycznej niejednokrotnie wzbudza w Polsce negatywne oceny&lt;ref&gt;Por. na ten temat: red. Bartosz Korzeniewski, ''Narodowe i europejskie aspekty polityki historycznej'', Instytut Zachodni, Poznań 2008. Wątpliwości dotyczące obiektywizmu badań historycznych i ich prezentacji wyrażał również [[Dariusz Baliszewski]] pisząc w 2009: ''Czy na tym właśnie, na wiecznym pudrowaniu [[prawda|prawdy]], polega nasza polityka historyczna, tak by w lustrze dziejów po prostu wyglądać ładnie?'' - zob. {{Cytuj | autor = [[Dariusz Baliszewski]] | tytuł = Historia nadzwyczajna | miejsce = Wrocław | wydawca = Wydawnictwo Dolnośląskie | data = 2009 | s = 61}}&lt;/ref&gt;. Politykę historyczną oskarża się bowiem o manipulację i wybiórcze traktowanie faktów historycznych&lt;ref&gt;{{Cytuj stronę |url = http://przegladdziennikarski.pl/prof-l-pastusiak-polityka-historyczna-czyli-manipulowanie-historia/ |tytuł = Polityka historyczna, czyli manipulowanie historią |autor = [[Longin Pastusiak]] |data=10 lutego 2016|opublikowany = przegladdziennikarski.pl |data dostępu = 2017-05-07}}&lt;/ref&gt;.
+
+Od 1999 roku funkcjonuje [[Instytut Pamięci Narodowej]], oraz [[Ministerstwo Kultury i Dziedzictwa Narodowego]], zaś od 2020 [[Instytut Dziedzictwa Myśli Narodowej im. Romana Dmowskiego i Ignacego Jana Paderewskiego]], których celem jest między innymi „realizacja polityki pamięci w zakresie historii i dziedzictwa Polski”.
+
+Definicje polskiej polityki historycznej często uwzględniają ideologię:
+# „Posługiwanie się przez demokratyczne (ale nie tylko) społeczeństwa własnymi interpretacjami wydarzeń z przeszłości do osiągania m.in. bieżących celów politycznych”&lt;ref&gt;Wypowiedź Dariusza Gawina w dyskusji w „Gazecie Wyborczej”: Po co nam polityka historyczna?, „Gazeta Wyborcza” z 30 września 2005.&lt;/ref&gt;.
+# „Świadome działanie klasy politycznej mające na celu kształtowanie zakresu i charakteru zbiorowej pamięci historycznej”&lt;ref&gt;Anna Wolff-Powęska Polskie spory o historię i pamięć. Polityka historyczna, „Przegląd Zachodni” 1-2007.&lt;/ref&gt;.
+# „Interpretacja tożsamości wspólnoty politycznej – w jej toku obywatele podejmują decyzje co do tego, jakie tradycje chcą kontynuować, a jakich nie”&lt;ref&gt;Wypowiedź Zbigniewa Krasnodębskiego, Polityka historyczna. Historycy – politycy – prasa. Konferencja pod honorowym patronatem Jana Nowaka-Jeziorańskiego, Pałac Raczyńskich w Warszawie, 15 grudnia 2004, Muzeum Powstania Warszawskiego, Warszawa 2005.&lt;/ref&gt;.
+# Wzmocnienie publicznego dyskursu o przeszłości poprzez różne formy instytucjonalizacji (instytucje centralne, państwowe, lokalne – samorządowe oraz regionalne)&lt;ref&gt;Por. wypowiedź Marka Cichockiego podczas rozmowy w redakcji „Mówią wieki” z dnia 17 sierpnia 2006.&lt;/ref&gt;.
+
+W 2015 roku ogłoszono rozpoczęcie prac nad ''Strategią Polskiej Polityki Historycznej, a'' [[Prezydent Rzeczypospolitej Polskiej|prezydent RP]] [[Andrzej Duda]] stwierdził, że „prowadzenie polityki historycznej to jedno z najważniejszych działań prezydenta”&lt;ref&gt;{{Cytuj stronę |url = http://www.prezydent.pl/aktualnosci/wydarzenia/art,67,musimy-ksztaltowac-postawy-obywatelskie-i-patriotyczne.html |tytuł = Polityka historyczna służy budowaniu potencjału państwa |opublikowany = prezydent.pl |data = 17 listopada 2015 |data dostępu = 2015-11-22}}&lt;/ref&gt;.
+
+== Polityka historyczna na świecie ==
+
+=== Gwatemala ===
+[[Plik:Exhumation_in_San_Juan_Comalapa_Guatemala_03.jpg|mały|Ekshumacja ofiar in San Juan Compalapa, [[Chimaltenango (departament)|Chimaltenango]] w 2005, w ramach polityki historycznej]]
+Uchwalono tam ustawę i wdrożono projekt z Komisją Gwatemalskiego Oświecenia Historycznego ({{Hiszp.|Comisión para el Esclarecimiento Histórico de Guatemala}}), która chroni pamięć [[Wojna domowa w Gwatemali|masakr ​​w latach 1960-1996]], gdy zamordowano około 200 000 osób a zaginęło 45 000 osób&lt;ref&gt;{{Cytuj |tytuł = El documento clave para encontrar la verdad en Guatemala |url = https://centrodememoriahistorica.gov.co/el-documento-clave-para-encontrar-la-verdad-en-guatemala/}}&lt;/ref&gt;.
+
+Równolegle w 1995 roku rozpoczęto wspierany przez [[Kościół Rzymsko-Katolicki|KRK]] niezależny Projekt Odzyskiwania Pamięci Historycznej (REMHI, {{Hiszp.|Recuperación de la Memoria Histórica}}), który zgromadził prawie 6000 zeznań o okrucieństwach popełnionych podczas ponad trzech dekad wojny domowej&lt;ref&gt;{{Cytuj |autor = United Nations High Commissioner for Refugees |tytuł = Refworld {{!}} Guatemala: The Commission for the Recovery of National Memories; treatment of those who may have spoken with this commission or other similar commissions regarding war-time abuses (1996−1999) |data dostępu = 2021-12-15 |opublikowany = Refworld |url = https://www.refworld.org/docid/3ae6ad4d58.html |język = en}}&lt;/ref&gt;.
+
+Dwa dni po ogłoszeniu w kwietniu 1998 roku raportu REMHI o takim odzyskaniu narodowej pamięci historycznej: "Nigdy więcej w Gwatemali!" ({{Hiszp.|Guatemala: Nunca Más!}}) o ofiarach tej wojny domowej, w którym w 80 procentach zbrodnie te przypisano Armii Gwatemalskiej i nazywając ją też holokaustem ({{Hiszp.|Holocausto silencioso}})&lt;ref&gt;{{Cytuj |tytuł = GENOCIDE - GUATEMALA |data = 2004-02-03 |data dostępu = 2021-12-15 |opublikowany = web.archive.org |url = https://web.archive.org/web/20040203052222/http://www.ppu.org.uk/genocide/g_guatemala1.html}}&lt;/ref&gt;,  jej współautor biskup {{link-interwiki|Juan José Gerardi Conedera|Q=Q1380832}} został zaatakowany w garażu i pobity na śmierć przez trzech oficerów Armii Gwatemalskiej&lt;ref&gt;{{Cytuj |tytuł = Anniversary of the Assassination of Bishop José Gerardi |data dostępu = 2021-12-15 |opublikowany = Education for Justice |url = https://educationforjustice.org/events/anniversary-of-the-assassination-of-bishop-jose-gerardi/ |język = en}}&lt;/ref&gt;&lt;ref&gt;{{Cytuj |tytuł = The Art of Political Murder: Who killed Bishop Gerardi?, by Francisco |data = 2008-03-16 |data dostępu = 2021-12-15 |opublikowany = The Independent |url = https://www.independent.co.uk/arts-entertainment/books/reviews/the-art-of-political-murder-who-killed-bishop-gerardi-by-francisco-goldman-795533.html |język = en}}&lt;/ref&gt;.
+
+=== Hiszpania ===
+{{Główny artykuł|Prawo Pamięci Historycznej (Hiszpania)}}
+
+=== Niemcy ===
+{{Główny artykuł|Denazyfikacja|Ostforschung}}
+
+=== Rosja ===
+{{Główny artykuł|Rosyjska polityka historyczna}}Zakaz Rehabilitacji Nazizmu to rosyjska ustawa o pamięci historycznej z 2014 roku, znana również jako Prawo Jarowej, od nazwiska rosyjskiej polityk Iriny Anatolijewnej Jarowej&lt;ref&gt;{{Cytuj |tytuł = Wiosenna Duma Państwowa Iriny Anatoliewnej. Irina Yarovaya: biografia, życie osobiste, rodzina, mąż, dzieci - zdjęcie |data dostępu = 2021-07-26 |opublikowany = vk-spy.ru |url = https://vk-spy.ru/pl/zakony-i-bezopasnost/yarovaya-irina-anatolevna-gosudarstvennaya-duma-irina-yarovaya-biografiya/}}&lt;/ref&gt; (''Ири́на Анато́льевна Ярова́я''), która odegrała kluczową rolę w jej uchwaleniu&lt;ref&gt;{{Cytuj |autor = Uladzislau Belavusau, Aleksandra Gliszczyńska-Grabias |tytuł = Law and Memory: Towards Legal Governance of History |data = 2017-10-19 |data dostępu = 2021-07-26 |isbn = 978-1-107-18875-4 |wydawca = Cambridge University Press |url = https://books.google.com/books?id=0-w0DwAAQBAJ&amp;pg=PA293 |język = en}}&lt;/ref&gt;.
+
+=== Turcja ===
+Artykuł 301 tureckiego kodeksu karnego zakazuje obrażania Turcji, narodu tureckiego, tureckich instytucji rządowych lub tureckich bohaterów narodowych, takich jak [[Mustafa Kemal Atatürk]].
+
+=== Ukraina ===
+{{Główny artykuł|Ukraińska polityka historyczna}}
+
+=== Węgry ===
+Po 1989 roku Węgrzy też stworzyli własną historiografię o zbiorowym cierpieniu podczas i po [[II wojna światowa|II wojnie światowej]]. Od lat 2000. w wielu węgierskich wsiach na Zakarpaciu znajdują się pomniki ofiar powojennych represji, często przerobione z tryumfalnych pomników postawionych w okresie [[Węgierska Republika Ludowa (1949–1989)|Węgierskiej Republiki Ludowej (1949–1989)]]&lt;ref&gt;{{Cytuj |tytuł = Heroes into victims: The Second World War in post-Soviet memory politics |data dostępu = 2021-12-14 |opublikowany = eurozine.com |url = https://www.eurozine.com/heroes-into-victims/}}&lt;/ref&gt;.
+
+== Zobacz też ==
+{{Wikicytaty|Polityka historyczna}}
+* [[Dziedzictwo kulturowe]]
+* [[Historia polityczna]]
+* [[Historiografia]]
+* [[Pamięć kolektywna]]
+* [[Pedagogika wstydu]]
+* [[Propaganda sukcesu]]
+
+== Linki zewnętrzne ==
+*[https://repozytorium.umk.pl/bitstream/handle/item/3708/Narracje.pdf?sequence=1 Narracje pamięci. Między polityka a historią.]
+
+== Przypisy ==
+{{Przypisy|
+&lt;ref name="Ponczek"&gt;{{cytuj pismo | czasopismo = Transformacje | issn = 1230-0292 | strony = 339-340 | autor = Eugeniusz Ponczek | tytuł = Mityzacja pamięci zbiorowej a sprawowanie władzy politycznej w sytuacji uobecniania się konfliktu | rok = 2017 | wolumin = 92/93 | archiwum = http://web.archive.org/web/20180819105137/http://www.e-transformacje.com/archiwum/transformacje_1-2_2017.pdf | zarchiwizowano = 19 października 2018 | url = http://www.e-transformacje.com/archiwum/transformacje_1-2_2017.pdf | wydawca = Fundacja Edukacyjna „Transformacje”}}&lt;/ref&gt;
+}}
+
+{{Nauki historyczne}}
+
+[[Kategoria:Historia]]
+[[Kategoria:Polityki szczegółowe|Historyczna]]</text>
+      <sha1>sx792txi01iiqxn1wnxgd31ue0wg64b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Strony przeglądowe – historia</title>
+    <ns>14</ns>
+    <id>463131</id>
+    <revision>
+      <id>49297877</id>
+      <parentid>49297582</parentid>
+      <timestamp>2017-05-09T00:37:38Z</timestamp>
+      <contributor>
+        <username>EmptyBot</username>
+        <id>717975</id>
+      </contributor>
+      <minor/>
+      <comment>Zmiana nazwy kategorii: Kategoria:Strony przeglądowe - nauka → [[Kategoria:Strony przeglądowe – nauka]]  (przy użyciu [[Wikipedysta:Tufor/Quick ReCat|QRC]])</comment>
+      <origin>49297877</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="78" sha1="qxlpci9cwflirpckurs2ohoelc4s687" xml:space="preserve">
+[[Kategoria:Historia|*]]
+[[Kategoria:Strony przeglądowe – nauka|Historia]]</text>
+      <sha1>qxlpci9cwflirpckurs2ohoelc4s687</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Metodologia nauk historycznych</title>
+    <ns>14</ns>
+    <id>447592</id>
+    <revision>
+      <id>47791161</id>
+      <parentid>47791154</parentid>
+      <timestamp>2016-12-06T21:37:13Z</timestamp>
+      <contributor>
+        <username>Sławek Borewicz</username>
+        <id>393402</id>
+      </contributor>
+      <minor/>
+      <comment>Usunięto kategorię "Naukowcy" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>47791161</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="153" sha1="53njvd85damumlu384ub87sgkxpl2ai" xml:space="preserve">Pokrewne kategorie:
+*[[:kategoria:metody badań społecznych]]
+*[[:kategoria:filozofia historii]]
+
+[[kategoria:metodologia nauki]]
+[[Kategoria:Historia]]</text>
+      <sha1>53njvd85damumlu384ub87sgkxpl2ai</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Historiografia</title>
+    <ns>14</ns>
+    <id>181134</id>
+    <revision>
+      <id>35125302</id>
+      <parentid>35012925</parentid>
+      <timestamp>2013-03-13T00:21:07Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>543400</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Addbot|Bot:]] Przenoszę 51 linków interwiki do [[d:|Wikidata]], znajdziesz je teraz w zasobie [[d:q6462772]]</comment>
+      <origin>35125302</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="82" sha1="396qfiqmbfh3cm89rg0x7b10eaib48m" xml:space="preserve">{{Commonscat|Historiography}}
+
+[[Kategoria:Historia]]
+[[Kategoria:Piśmiennictwo]]</text>
+      <sha1>396qfiqmbfh3cm89rg0x7b10eaib48m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Filozofia historii</title>
+    <ns>14</ns>
+    <id>444806</id>
+    <revision>
+      <id>47526552</id>
+      <parentid>35242497</parentid>
+      <timestamp>2016-11-18T20:44:28Z</timestamp>
+      <contributor>
+        <username>Glovacki</username>
+        <id>603887</id>
+      </contributor>
+      <origin>47526552</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="69" sha1="b0kq98xmzud08j0yzy14umg1s2qnfxs" xml:space="preserve">[[Kategoria:Poszczególne nauki filozoficzne]]
+[[Kategoria:Historia]]</text>
+      <sha1>b0kq98xmzud08j0yzy14umg1s2qnfxs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Psychohistoria</title>
+    <ns>0</ns>
+    <id>1476464</id>
+    <revision>
+      <id>72628245</id>
+      <parentid>72432850</parentid>
+      <timestamp>2024-01-20T18:46:11Z</timestamp>
+      <contributor>
+        <username>Wikipek</username>
+        <id>21425</id>
+      </contributor>
+      <comment>Dymkowski 2000 i 2003</comment>
+      <origin>72628245</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5487" sha1="blod0qefpvammibrki42wmao3cvrew6" xml:space="preserve">{{Inne znaczenia|nauki humanistycznej|[[psychohistoria (fantastyka naukowa)|psychohistoria]] – fantastyczna koncepcja naukowa wymyślona przez Isaaca Asimova}}
+
+'''Psychohistoria''' – szczegółowa dziedzina z pogranicza [[Historia|historii]] i [[Psychologia|psychologii]], odwołująca się do orientacji [[Psychologia psychodynamiczna|psychodynamicznej]] w psychologii, w szczególności do [[Psychoanaliza|psychoanalizy]]. Termin ten może również oznaczać zainteresowanie przebiegiem osobniczego rozwoju jednostki historycznie zlokalizowanej&lt;ref&gt;{{Cytuj książkę |nazwisko = Dymkowski |imię = Maciej |autor link = Maciej Dymkowski |tytuł = Między psychologią a historią. O roli złudzeń w dziejach. |wydawca = Wydawnictwo Naukowe SCHOLAR |miejsce = Warszawa |rok = 2000 |strony = 169 |isbn = 83-88495-01-1}}&lt;/ref&gt;{{odn|Dymkowski|2003|s=12}}.
+
+Psychohistorię  tworzyli i tworzą głównie profesjonalni psychoanalitycy z zainteresowaniami historycznymi (wzorem może być tu sam [[Sigmund Freud|Zygmunt Freud]], jego kontynuator [[Erik Erikson]], kulturalista [[Erich Fromm]]){{odn|Dymkowski|2003|s=17–18, 108}}, zdecydowanie rzadziej profesjonalni historycy po treningu psychoanalitycznym&lt;ref&gt;Wiktor Werner, ''Psychologiczne Inspiracje w badaniach regionalnych, Perspektywy i możliwości''. [w:] Maksymilian Grzegorz [red.] Historiograficzna prognoza 2000, Bydgoszcz 2000, s. 193 – 207.&lt;/ref&gt;
+Psychohistoria rozwijała się intensywnie w [[Stany Zjednoczone|USA]] w latach 60. i 70. [[XX wiek|XX w.]], obecnie ma niewielu zwolenników&lt;ref&gt;{{Cytuj książkę |nazwisko r = Dymkowski |imię r = Maciej |rozdział = Koneksje i dylematy psychologii historycznej a perspektywa jej zbliżenia do głównego nurtu |nazwisko = Rzepa |imię = Teresa |autor link = Teresa Rzepa |nazwisko2 = Domański (red.) |imię2 = Cezary W. |tytuł = Na drogach i bezdrożach historii psychologii |tom = 1 |miejsce = Lublin |wydawca = Wydawnictwo Uniwersytetu Marii Curie-Skłodowskiej |rok = 2011 |strony = 13 |isbn = 978-83-7784-065-8}}&lt;/ref&gt;. Większość prac psychohistorycznych to [[Psychobiografia|psychobiografie]], np. ''Eine Kindheitserinnerung des Leonardo da Vinci'' (''[[Leonarda da Vinci wspomnienie z dzieciństwa]]'') Zygmunta Freuda (1910){{odn|Dymkowski|2003|s=20}}, ''Young Man Luther'' (''Młody [[Marcin Luter|Luter]]'') Erika Eriksona (1958){{odn|Dymkowski|2003|s=18}}. Krytycy psychohistorii zwracają uwagę na [[ahistoryczność]] podstawowych kategorii stosowanych do badania postaci i zdarzeń historycznych, a zatem na logiczną i metodologiczną niespójność tego rodzaju badań&lt;ref&gt;Wiktor Werner, Historyczność kultury. W poszukiwaniu myślowego fundamentu współczesnej historiografii, Wydawnictwo Naukowe UAM, Poznań 2009, s. 15&lt;/ref&gt;.
+
+Na żadnej uczelni nie ma katedr psychohistorii, chociaż niektóre katedry historii prowadzą w tym zakresie zajęcia. Psychohistoria pozostaje kontrowersyjną dziedziną nauki, spotykającą się z krytyką w środowisku akademickim&lt;ref name="OnWriting"&gt;{{cytuj pismo |nazwisko=deMause |imię=Lloyd |tytuł=On Writing Childhood History |czasopismo=Journal of Psychohistory |wolumin=2 |wydanie=16 |rok=1988 |url=http://www.psychohistory.com/childhood/writech1.htm |archiwum=https://web.archive.org/web/20110514115629/https://www.psychohistory.com/childhood/writech1.htm |język=en}}&lt;/ref&gt;&lt;ref&gt;{{cytuj książkę |autor=Stannard, David E. |tytuł=Shrinking History: On Freud and the Failure of Psychohistory |wydawca=Oxford University Press, USA |rok=1982 |isbn=0-19-503044-3 |język=en}}&lt;/ref&gt;&lt;ref&gt;{{cytuj pismo |nazwisko=Pomper |imię=Philip |rok=1973 |tytuł=Problems of a Naturalistic Psychohistory  |czasopismo=History and Theory |wolumin=4 |wydanie=12 |strony=367–388 |doi=10.2307/2504699|jstor=2504699 |język=en}}&lt;/ref&gt;&lt;ref&gt;{{cytuj pismo |nazwisko=Paul  |imię=Robert A. |tytuł=Review of Lloyd deMause's Foundations of Psychohistory |czasopismo=Journal of Psychoanalytic Anthropology |wolumin=5 |strony=469 |rok=1982 |język=en}}&lt;/ref&gt;, przy czym krytycy nazywają ją [[Pseudonauka|pseudonauką]]&lt;ref&gt;[[Hans Eysenck|Eysenck, Hans]]: ''Zmierzch i upadek imperium Freuda'', Kraków: WiR Partner 2002, ss. 195&lt;/ref&gt;&lt;ref&gt;{{cytuj książkę |nazwisko=Hunt |imię=Lynn |inni=Lloyd S. Kramer, Sarah C. Maza |tytuł=A Companion to Western Historical Thought |rok=2002 |wydawca=Blackwell Publishing |isbn=0-631-21714-2 |strony=337–357 |rozdział=Psychology, Pschoanalysis and Historical Thought – The Misfortunes of Psychohistory |język=en}}&lt;/ref&gt;.
+
+== Przypisy ==
+{{Przypisy}}
+
+== Bibliografia ==
+* {{Cytuj książkę |nazwisko = Dymkowski |imię = Maciej |tytuł = Wprowadzenie do psychologii historycznej |wydawca = Gdańskie Wydawnictwo Psychologiczne |miejsce = Gdańsk |rok = 2003 |isbn = 83-89120-46-1 |odn = tak}}
+* Tomasz Pawelec, ''Dzieje i nieświadomość. Założenia teoretyczne i praktyka badawcza psychohistorii'', Katowice 2004
+* Wiktor Werner, ''Psychologiczne Inspiracje w badaniach regionalnych, Perspektywy i możliwości''. [w:] Maksymilian Grzegorz [red.] Historiograficzna prognoza 2000, Bydgoszcz 2000, s. 193 – 207.
+* Wiktor Werner, ''Refleksja nad możliwością zastosowania kategorii nieświadomości w historiografii''. [w:] Alina Motycka, Wojciech Wrzosek [red.] „Nieświadomość jako kategoria filozoficzna.” Warszawa 2000, s. 288 – 294
+
+{{Działy psychologii}}
+{{Nauki historyczne}}
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Historia]]
+[[Kategoria:Psychologia]]</text>
+      <sha1>blod0qefpvammibrki42wmao3cvrew6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Historycy</title>
+    <ns>14</ns>
+    <id>66998</id>
+    <revision>
+      <id>72024171</id>
+      <parentid>35091585</parentid>
+      <timestamp>2023-12-06T21:10:01Z</timestamp>
+      <contributor>
+        <username>Duży Bartek</username>
+        <id>166082</id>
+      </contributor>
+      <minor/>
+      <comment>kat.</comment>
+      <origin>72024171</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="90" sha1="b8bmxqzf3od0ortt0hb15djy6zld1ck" xml:space="preserve">{{commonscat|Historians}}
+
+[[Kategoria:Historia]]
+[[Kategoria:Naukowcy według dziedziny]]</text>
+      <sha1>b8bmxqzf3od0ortt0hb15djy6zld1ck</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Wikiprojekty związane z historią</title>
+    <ns>14</ns>
+    <id>1425522</id>
+    <revision>
+      <id>35780522</id>
+      <parentid>33239162</parentid>
+      <timestamp>2013-03-19T01:52:13Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>543400</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Addbot|Bot:]] Przenoszę linki interwiki (7) do [[d:|Wikidata]], są teraz dostępne do edycji na [[d:q7664436]]</comment>
+      <origin>35780522</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="153" sha1="pmrkw3p03saag43k058npwkoeiohcq4" xml:space="preserve">[[Kategoria:Wikiprojekty humanistyczne i nauk humanistycznych|Historia]]
+[[Kategoria:Historia]]
+[[Kategoria:Wikiprojekty społeczne i nauk społecznych]]</text>
+      <sha1>pmrkw3p03saag43k058npwkoeiohcq4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Historia świata</title>
+    <ns>0</ns>
+    <id>875490</id>
+    <revision>
+      <id>75093874</id>
+      <parentid>75081546</parentid>
+      <timestamp>2024-10-30T18:17:07Z</timestamp>
+      <contributor>
+        <username>Paweł Ziemian BOT</username>
+        <id>661950</id>
+      </contributor>
+      <minor/>
+      <comment>przenoszę link zewnętrzny do dedykowanego parametru</comment>
+      <origin>75093874</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="63155" sha1="tc1wnxjbgvyj81zsm2j8fypt2owshtx" xml:space="preserve">{{inne znaczenia|historii gatunku ludzkiego|[[Historia Ziemi]]}}
+{{Spis treści}}
+'''Historia świata''' zwyczajowo utożsamiana jest z [[Historia|historią]] gatunku ludzkiego, liczoną od momentu pojawienia się na świecie pierwszych ''[[człowiek rozumny|Homo sapiens]]'' do czasów dzisiejszych. Historia rodzaju ludzkiego znaczona jest stopniowym rozwojem [[wynalazek|wynalazczości]] i [[Kalendarium historii nauki|odkrywczości]], jak też wydarzeniami mającymi gwałtowną naturę – [[rewolucja]]mi - definiującymi [[Periodyzacja|epoki]] w rozwoju [[materiał|materialnym]] i [[duchowość|duchowym]] ludzkości.
+
+W przeszłości ustalano początek ''historii rodzaju ludzkiego'' w odróżnieniu od ''[[prehistoria|prehistorii]]'', w momencie niezależnego wynalezienia w kilku miejscach [[Ziemia|Ziemi]] [[pismo|pisma]], które dało początek swoistej [[infrastruktura|infrastrukturze]] umożliwiającej uwiecznianie i przekazywanie kolejnym pokoleniom pamięci rodzaju ludzkiego, a przez to rozprzestrzenianie i wzrost [[wiedza|wiedzy]]&lt;ref&gt;Według ''[[Encyclopedia Americana]]'' z roku 1986, tom 29, s. 558: „Writing gives permanence to men's knowledge and enables them to communicate over great distances.... The complex society of a higher civilization would be impossible without the art of writing”.&lt;/ref&gt;. Pismo z kolei stało się niezbędnym wskutek rewolucji agrarnej z epoki [[neolit]]u, (tzw. [[rewolucja neolityczna]]) która spowodowała wyłonienie [[Cywilizacja|cywilizowanych]], osiedlonych w stałych siedzibach społeczeństw, co umożliwiało opracowanie systemu społecznego [[podział pracy|podziału pracy]].
+
+Rozproszone społeczności, najczęściej zlokalizowane w pobliżu niezbędnej dla życia [[woda|wody]] (rzek i jezior) z czasem przeistaczały się w coraz większe jednostki, co szło w parze z opracowywaniem coraz efektywniejszych [[środek transportu|środków transportu]]. Spajanie społeczności, przerywane chwilowymi [[wojna|konfliktami]] i rywalizacją pomiędzy przyległymi grupkami osadniczymi przez [[tysiąclecie|milenia]] doprowadziło do powstania jeszcze większych jednostek społecznych – [[państwo|państw]] – a nawet [[imperium|imperiów]]. Upadek europejskiego [[Cesarstwo Rzymskie|Imperium Rzymskiego]], który dokonał się pod koniec ery [[starożytność|starożytnej]], oznaczał początki [[średniowiecze|średniowiecza]].
+
+W połowie XV wieku [[Johannes Gutenberg]] wynalazł [[druk]] bazujący na ruchomych czcionkach, co doprowadziło do zupełnego przeorganizowania sposobów komunikacji między ludźmi. Druk odegrał ważną rolę w zamknięciu historii średniowiecznej i przeniesienia historii do czasów [[Nowożytność|nowożytnych]], podczas których nastąpiła między innymi epoka [[Renesans]]u, czy [[rewolucja przemysłowa]].
+
+Do XVIII wieku gromadzenie wiedzy i zdobycze technologiczne, szczególnie w [[Europa|Europie]], spowodowało powstanie pewnej „[[masa krytyczna|masy krytycznej]]”, która zainicjowała [[rewolucja przemysłowa|rewolucję przemysłową]]. Przez ostatnie 250 lat, od czasów owej rewolucji, postęp wiedzy, technologii, handlu i - w nieunikniony sposób - sztuki wojennej można wyrażać [[ciąg geometryczny|wykładniczo]], sprawiając, że dzisiejszy świat i ludzie żyjący na planecie o skończonej ilości zasobów stają zarówno w obliczu szans, jak i zagrożeń.
+
+== Paleolit ==
+{{osobny artykuł|Paleolit}}
+[[Plik:World map of prehistoric human migrations.jpg|mały|350px|Mapa migracji wczesnych ludzi opracowana w oparciu o dane genetyczne. Liczby oznaczają milenia wstecz. (prawidłowość mapy została podważona)]]
+"Paleolit" to inaczej wczesna epoka kamienia.
+
+Dowody naukowe oparte na badaniach genetycznych i [[paleontologia|paleontologii]] umiejscawiają pierwszych przedstawicieli gatunku ''[[człowiek rozumny|Homo sapiens]]'' w [[Afryka|Afryce]]&lt;ref&gt;{{cytuj stronę |url=http://www.actionbioscience.org/evolution/johanson.html |tytuł=Origins of Modern Humans: Multiregional or Out of Africa? |nazwisko=Johanson |imię=Donald |data dostępu=2007-04-12 |archiwum=https://www.webcitation.org/5uQpZnojk?url=http://www.actionbioscience.org/evolution/johanson.html |zarchiwizowano=22 listopada 2010 }}&lt;/ref&gt;. Pojawili się oni około dwustu tysięcy lat temu w epoce [[paleolit]]u, co stanowiło zwieńczenie długiego okresu [[ewolucja|ewolucji]] rodzaju ''homo''. Przodkowie 'ludzi rozumnych', gatunki pokroju ''[[Homo erectus]]'', korzystały z prostych narzędzi od około miliona lat, a z biegiem czasu narzędzia te stawały się coraz bardziej wyrafinowane i skomplikowane. Ludzkość paleolityczna wykształciła również [[język (mowa)|język]], jak też repertuar obrządków, który przewidywał między innymi ceremonię [[pogrzeb|pochówku zmarłych]]. [Oznaczało to, że ludzie paleolitu charakteryzowali się przywiązaniem do wspomnień, nie chcąc oglądać gnijących ciał.]{{fakt|data=2017-11}} Ludzie paleolitu żyli z łowiectwa i zbieractwa, prowadząc zwykle wędrowny tryb życia. W okresie tym pojawiły się też pierwsze oznaki [[Sztuka prehistoryczna|prehistorycznej sztuki]].
+
+Kontrowersyjna [[Katastrofa wulkanu Toba|teoria katastrofy jeziora Toba]] sugeruje, że ostatnia [[Superwulkan|erupcja superwulkanu]] [[Toba (jezioro)|Toba]], która wydarzyła się ok. 75 tys. lat temu, mogła mieć [[glob]]alne skutki, zabijając większość przedstawicieli gatunku ludzkiego.
+
+Współczesny gatunek ludzki rozprzestrzeniał się szybko po całej powierzchni kuli ziemskiej, od [[Afryka|Afryki]], poprzez wolne od zlodowacenia obszary [[Europa|Europy]], aż do [[Azja|Azji]]. Szczyt ekspansji ludności na terenach [[Ameryka Północna|Ameryki Północnej]] i [[Oceania|Oceanii]] nastąpił podczas ostatniego [[zlodowacenie|zlodowacenia]] – wtedy tereny objęte klimatem umiarkowanym nie nadawały się do zasiedlenia. Mimo niedogodności, pod koniec ostatniego zlodowacenia, czyli około 12 tysięcy lat temu, ludzkość zdołała skolonizować prawie wszystkie wolne od lodu części planety.
+
+Społeczeństwa pozyskujące żywność ze zbieractwa i myślistwa zwykle były niezbyt liczne, choć istnieją wśród pierwszych skupisk ludzi przypadki rozbudowanego systemu społecznego. Możliwa również była komunikacja między społecznościami podzielonymi dużą odległością, czego przykładem są „autostrady” [[Aborygeni australijscy|Aborygenów]].
+
+Większość wędrujących grup polujących i zbierających żywność została albo przekształcona w większe społeczeństwa rolnicze, albo przez takie społeczeństwa wchłonięta. Pozostałe grupki ludności albo wyginęły, albo pozostały w izolacji. Takie skupiska ludności spotykane są jeszcze dziś w oddalonych od cywilizacji regionach.
+
+== Mezolit ==
+{{osobny artykuł|Mezolit}}
+[[Plik:Canoe.jpg|mały|230px|[[dłubanka|Łódź dłubanka]]]]
+Mezolit, czyli średnia epoka kamienia (z [[język grecki|języka greckiego]] „''mezos''” - „środkowy”, „''lithos''” - „kamień”) to okres rozwoju technicznego ludzkości - etap przejścia z paleolitu do neolitu.
+
+Mezolit rozpoczął się pod koniec [[plejstocen]]u, około 10 tysięcy lat temu, zakończył się zaś wraz z wprowadzeniem [[rolnictwo|rolnictwa]]. Zamknięcie epoki mezolitycznej datuje się różnie w różnych częściach świata. Dla przykładu, na [[Bliski Wschód|Bliskim Wschodzie]] rolnictwo istniało już pod koniec [[plejstocen]]u, więc epoka mezolityczna na tych obszarach jest krótka i skąpo opisana. W odniesieniu do obszarów, gdzie zlodowacenie było najwyżej częściowe, zamiast określenia „mezolit” spotyka się czasami słowo [[mezolit|epipaleolit]].
+
+W regionach, gdzie zmiany klimatyczne po ostatnim zlodowaceniu były poważniejsze, era mezolityczna utrzymywała się dłużej, czasami nawet całe milenia. Społeczności zamieszkujące Europę Północną były w stanie utrzymać się przy życiu dzięki bagnistym obszarom, których istnieniu sprzyjało ocieplenie klimatu. Warunki klimatyczne znalazły odzwierciedlenie w zachowaniu zamieszkujących określone obszary społeczności, co widać w zachowanych śladach [[Kultura maglemoska|kultury maglemoskiej]] i [[Kultura azylska|azylskiej]]. Kwestie środowiskowe dodatkowo opóźniły nastanie neolitu w północnej Europie do około 4000 roku p.n.e.
+
+Pozostałości z epoki mezolitycznej są rzadkością i najczęściej ograniczają się do odpadków z domostw. W obszarach zalesionych znaleźć można pozostałości wyrębu drzew z tego właśnie okresu, choć szerzej zakrojona wycinka lasów nastąpiła dopiero w [[neolit|neolicie]], wraz z rosnącym zapotrzebowaniem na ziemię pod uprawy.
+
+Z epoki mezolitu w większości obszarów pozostały małe złożone narzędzia krzemienne – [[mikrolit]]y i [[mikroburin]]y. Gdzieniegdzie znaleziono również osprzęt wędkarski, topory ciesielskie i obiekty drewniane - łodzie i łuki. Przykłady nowszych technologii pojawiły się najwcześniej w [[Afryka|Afryce]], co należy skojarzyć z kulturą azylską, po czym przeniknęły do [[Europa|Europy]] dzięki wczesnym plemionom &lt;!--Ibero - Maurusian--&gt;zamieszkującym obszary dzisiejszej [[Hiszpania|Hiszpanii]] i [[Portugalia|Portugalii]] oraz plemionom &lt;!--Kebaran--&gt; zamieszkującym [[Palestyna|Palestynę]]. Niewykluczone jest, że bardziej zaawansowane narzędzia pojawiły się w kilku miejscach równocześnie, za sprawą wzajemnie niezależnego postępu cywilizacyjnego.
+
+== Neolit ==
+{{osobny artykuł|Neolit}}
+Słowo „Neolit” oznacza „nową epokę kamienia”. Był to okres rozwoju prymitywnych technologii i społeczeństw, zamykający epokę kamienia. Początek epoki datuje się na 10 tysięcy lat p.n.e., zaś osiągnięcia epoki obejmują osiedlanie się ludzi we [[wieś|wsiach]], rozwój [[rolnictwo|rolnictwa]], udomowienie zwierząt i rozwój [[narzędzie|narzędzi]].
+
+=== Rozwój rolnictwa ===
+{{osobny artykuł|Rolnictwo}}
+[[Plik:Maler der Grabkammer des Sennudem 001.jpg|mały|lewo|240px|[[Krowa]] i [[pług]] – namalowana w [[Starożytny Egipt|Starożytnym Egipcie]], około 1200 roku p.n.e]]
+Ważną zmianą, która zaszła w neolicie, według historyka [[Vere Gordon Childe]] określaną jako „rewolucja agrarna” jest przestawienie się społeczności na pozyskiwanie żywności z rolnictwa około 10 tysięcy lat p.n.e. Około 9500 roku p.n.e. uprawę roli podjęli mieszkańcy [[Żyzny Półksiężyc|Żyznego Półksiężyca]]. Do roku 7000 p.n.e. rolnictwo zakorzeniło się w [[Indie|Indiach]], a do roku 6000 p.n.e. w [[Egipt|Egipcie]]. Około 5 tysięcy lat p.n.e. ziemię uprawiali [[Chińska Republika Ludowa|Chińczycy]], a ślady działalności rolniczej w [[Ameryka Środkowa|Ameryce Środkowej]] datuje się na około 2700 lat p.n.e.
+
+Mimo że odkrycia archeologów z epoki neolitu pochodzą raczej z [[Żyzny Półksiężyc|Żyznego Półksiężyca]] na [[Bliski Wschód|Bliskim Wschodzie]], ślady z kontynentu [[ameryka]]ńskiego oraz wschodniej i południowo-wschodniej [[Azja|Azji]] pokazują, że rolnictwo wykorzystujące różne rośliny uprawne i zwierzęta hodowlane mogło się rozwinąć w tych miejscach w tym samym czasie, co na Środkowym Wschodzie.
+
+Dalszy rozwój rolnictwa na Środkowym Wschodzie nastąpił w wyniku opracowania przez Sumerów około 5500 lat p.n.e. zorganizowanego [[irygacja (rolnictwo)|nawadniania pól uprawnych]] i wykorzystania na polach specjalizowanej siły roboczej. Kamień został wyparty przez brąz i żelazo - zarówno w uprawie roli, jak i w sztuce wojennej. Do tego czasu siedliska rolnicze były w zupełności zależne od zapasów kamienia. W Eurazji narzędzia, broń i ozdoby z [[miedź|miedzi]] i [[brązy|brązu]] pojawiły się około 3 tysięcy lat p.n.e. Na wschodzie rejonu śródziemnomorskiego, [[Bliski Wschód|Bliskim Wschodzie]] i w [[Chińska Republika Ludowa|Chinach]] w późniejszych latach pojawiły się broń i narzędzia z żelaza.
+
+Mieszkańcy Ameryki prawdopodobnie nie wykształcili metod produkcji narzędzi z metalu do roku 900 p.n.e. (czasy [[kultura Chavín|kultury Chavin]]). Przedstawiciele [[kultura Mochica|kultury Mochica]] korzystali jednak z metalowych zbroi, noży i zastawy stołowej. Nawet [[Państwo Inków|Inkowie]], nieposiadający dostępu do bogatych złóż metali, posiadali pługi zakończone metalowymi lemieszami, przynajmniej od czasu podboju ludu [[Chimú]]. Niewiele jak do tej pory wiadomo o rdzennych mieszkańcach dzisiejszego [[Peru]], a [[kipu]] (forma zapisu informacji wykorzystywana przez Inków) spłonęły podczas podboju Peru przez Hiszpanów. Nawet w roku [[2004]] archeolodzy odnajdywali na terenie Peru starożytne miasta. Niektóre z wykopalisk sugerują jednak, że [[stal]] mogła być wykorzystywana w Ameryce jeszcze zanim pojawiła się w Europie.
+
+Ośrodki, gdzie skupiała się ludność neolitu leżały w pobliżu [[rzeka|rzek]] i [[kotlina|kotlin]] – przykłady to dolina [[Huang He|Żółtej Rzeki]] w Chinach, [[Nil]]u w [[Egipt|Egipcie]], czy [[Indus]]u na [[subkontynent indyjski|subkontynencie indyjskim]]. Niektóre plemiona prowadzące wędrowny tryb życia, jak na przykład rdzenni Australijczycy i [[Buszmeni]] z południowej Afryki, nie przestawiły się na produkcję rolną do względnie późnych lat.
+
+Do 1800 roku nie wszystkie skupiska ludności były jeszcze upaństwowione. Naukowcy nie są zgodni co do tego, czy takie grupy można już nazwać [[plemię|plemionami]]. Czynnikiem przyspieszającym transformację struktur plemiennych w państwa europejskie i pozaeuropejskie było zagrożenie lub innego rodzaju wpływ upaństwowionych społeczeństw. Przykładami mogą być [[Markomanowie]], plemiona [[Polska|polskie]] i [[Litwa|litewskie]]. Niektóre plemiona, takie jak [[Kasyci]] czy [[Mandżurowie]] podbijali inne państwa, po czym byli przez nie wchłaniani.
+
+Rolnictwo umożliwiło powstanie złożonych społeczeństw – [[cywilizacja|cywilizacji]]. Pojawiały się państwa i handel. Rozwój technologiczny dawał ludziom możliwość wpływania na [[Natura|przyrodę]] i rozwoju [[transport]]u oraz [[Wikisłownik|komunikacji]].
+
+=== Rozwój religii ===
+Właśnie w epoce neolitu większość historyków dopatruje się początków złożonych [[religia|religii]]. Wierzenia religijne tego okresu najczęściej ograniczały się do kultu bogini-matki, ojca-nieba oraz [[Słońce|Słońca]] i [[Księżyc]]a w roli bóstw (''zobacz też [[Bóstwa solarne|bóstwo solarne]]''). Powstawały [[kapliczka|kapliczki]], po pewnym czasie przemieniane w [[świątynia|świątynie]], które niosły ze sobą czasami skomplikowany system funkcji, w tym [[kapłan]]ów i kapłanek. Typowym zachowaniem ludzi neolitu był kult bóstw [[Antropomorfizacja|antropomorficznych]].
+
+== Początki cywilizacji ==
+=== Państwowość ===
+{{osobny artykuł|Państwo|Cywilizacja}}
+[[Rewolucja neolityczna]] wprowadziła szereg zmian. Pozwoliła na koncentrację zaludnienia, co z czasem doprowadziło do uformowania się pierwszych państw. Istnieje kilka definicji słowa „państwo”. [[Max Weber]] i [[Norbert Elias]] zasugerowali, by państwem nazywać taką organizację ludności, która ma monopol na uzasadnione wykorzystanie siły w określonym obszarze geograficznym.
+
+[[Plik:Greatwall-SA3.jpg|mały|lewo|280px|Granice definiują kształt państwa - typowym przykładem jest chiński [[Wielki Mur Chiński|Wielki Mur]], rozciągający się na długości 6700 kilometrów. Pierwsze jego fragmenty powstały w III wieku p.n.e., mając chronić państwo chińskie przed wędrownymi najeźdźcami. Kilkanaście razy mur był rozbudowywany i naprawiany.]]
+
+Pierwsze struktury państwowe powstały w [[Mezopotamia|Mezopotamii]], [[Starożytny Egipt|starożytnym Egipcie]] i [[Starożytne Indie|starożytnych Indiach]] pod koniec czwartego i na początku trzeciego tysiąclecia przed naszą erą. W [[Mezopotamia|Mezopotamii]] istniała pewna liczba [[Miasto-państwo|wolnych miast]]. Starożytny Egipt powstał jako państwo bez miast, lecz wykształcił je w niedługim czasie.
+
+Państwo z zasady potrzebuje do egzystencji [[Siły zbrojne|armii]], by móc spełnić kryteria przytoczonej powyżej definicji. Armia z kolei do skutecznego działania wymaga [[biurokracja|biurokracji]]. Jedynym odstępstwem od tej reguły wydaje się [[cywilizacja doliny Indusu]], w której przypadku nie udało się znaleźć śladów wojska.
+
+Państwa pojawiły się na obszarze Chin w późnym III lub wczesnym II tysiącleciu przed naszą erą.
+
+Na [[Bliski Wschód|Bliskim Wschodzie]] pomiędzy poszczególnymi państwami dochodziło do częstych konfliktów. Około roku 1275 p.n.e. [[Hetyci]] i starożytni Egipcjanie podpisali pokój w [[Kadesz nad Orontesem|Kadeszu]], który był pierwszym opisanym przez historię traktatem pokojowym.
+
+Powstały [[imperium|imperia]], podbijające obszary zamieszkiwane przez kolejne plemiona, jak miało to miejsce w [[Iran|Persji]] w VI wieku p.n.e., [[Dynastia Maurjów|imperium Maurjów]] w IV wieku p.n.e., [[Chińska Republika Ludowa|Chinach]] w III wieku p.n.e. i [[Cesarstwo Rzymskie|cesarstwie rzymskim]] w I wieku p.n.e.
+
+Występowały również sytuacje konfliktowe między imperiami - na przykład w [[VIII wiek]]u, kiedy to [[Półwysep Arabski|arabski]] kalifat islamski, którego rządy rozciągały się od [[Hiszpania|Hiszpanii]] do [[Iran]]u i [[Chińska Republika Ludowa|chińska]] dynastia Tang, której strefy wpływów obejmowały obszar od regionu [[Sinciang]] do [[Korea|Korei]] przez dekady toczyły walki o kontrolę nad środkową Azją.
+
+Największym imperium położonym na ciągłym obszarze było XIII-wieczne [[imperium mongolskie]]. W tym samym czasie większość ludności zamieszkującej Europę, Azję i Afrykę Północną należała do jakiegoś państwa. Dodatkowo państwa istniały również na terenie [[Meksyk]]u i zachodnich obszarach [[Ameryka Południowa|Ameryki Południowej]]. Państwa sprawowały kontrolę nad rosnącą częścią lądu i ludności; ostatni „pusty” obszar Ziemi (nie wliczając w to niezamieszkanej [[Antarktyda|Antarktydy]]), został podzielony pomiędzy istniejące państwa na mocy [[Traktat berliński (1878)|traktatu berlińskiego]] z 1878 roku.&lt;!-- Cytat? Berlin Conference/Scramble for Africa 1884-5?--&gt;
+
+=== Miasta i handel ===
+{{osobny artykuł|Miasto|Handel}}
+[[Plik:Vascodagama.JPG|mały|180px|[[Vasco da Gama]] popłynął pod koniec XV i w początkach XVI wieku do [[Indie|Indii]], aby przywieźć [[przyprawa|przyprawy]] i uniknąć ceł za transport lądowy]]
+[[Rolnictwo]] powodowało powstawanie nadwyżek żywności i wymuszało opracowanie metod na ich przechowywanie oraz udostępnianie tej części populacji, która nie była bezpośrednio zaangażowana w produkcję żywności. Rozwój rolnictwa pozwolił na powstanie pierwszych [[miasto|miast]]. Były one centrami [[handel|handlu]], [[rzemiosło|rzemiosła]] i władzy administracyjnej, nie posiadając praktycznie infrastruktury rolniczej. Miasta istniały w stosunku [[symbioza|symbiozy]] z otaczającymi je ośrodkami rolniczymi, przejmując nadwyżki żywności, a w zamian oferując wyroby pozarolnicze i ochronę wojska.
+
+Rozwój miast nadążał za rozwojem ogólnym cywilizacji: pierwsza cywilizacja [[Sumerowie|sumeryjska]] w dolnej [[Mezopotamia|Mezopotamii]] rozwinęła się około 3500 lat p.n.e., później zaś nad [[Nil]]em pojawiła się cywilizacja [[Starożytny Egipt|starożytnego Egiptu]] (3300 p.n.e.) i [[cywilizacja doliny Indusu]] nad rzeką [[Indus]] (również 3300 p.n.e.) Pojawiały się miasta o coraz bardziej skomplikowanej strukturze, również w sferach społecznych i ekonomicznych. Każda z cywilizacji była do tego stopnia odmienna od pozostałych, że prawie z całą pewnością można mówić o ich niezależnym powstaniu. Właśnie na potrzeby rozwijających się miast opracowane zostało [[pismo]] i złożony model [[handel|handlu]].
+
+W Chinach wczesnomiejskie społeczeństwo mogło uformować się około 2500 lat p.n.e., lecz pierwszą zdefiniowaną przez archeologów dynastią była [[dynastia Shang]].
+
+W drugim tysiącleciu przed naszą erą powstała cywilizacja [[Kreta|kreteńska]], [[Grecja|grecka]] (na stałym lądzie) oraz [[Turcja|turecka]].
+
+Na kontynentach [[ameryka]]ńskich, a ściślej w [[Ameryka Środkowa|Ameryce Środkowej]] i na terenach [[Peru]], cywilizacje [[Majowie|Majów]], [[Kultura Mochica|Mochica]] i [[Kultura Nazca|Nazca]] pojawiły się pod koniec pierwszego tysiąclecia p.n.e.
+
+Pierwszy system [[moneta]]rny wprowadzono około roku 625 p.n.e. w [[Lidia (kraina)|Lidii]], w [[Anatolia|Anatolii]], w zachodniej [[Turcja|Turcji]]&lt;ref&gt;{{cytuj stronę|url=http://web.archive.org/web/20040814032824/http://rg.ancients.info/lion/article.html |tytuł=The World’s First Coin: The Lydian Lion|data dostępu=2007-04-15|imię=Reid |nazwisko=Goldsborough|data=2007}}&lt;/ref&gt;.
+
+Szlaki handlowe pojawiły się w zachodniej części obszaru [[Morze Śródziemne|śródziemnomorskiego]] w IV tysiącleciu p.n.e. Dalekosiężne szlaki handlowe powstawały od III tysiąclecia p.n.e., gdy zamieszkujący [[Mezopotamia|Mezopotamię]] [[Sumerowie]] handlowali z przedstawicielami [[Cywilizacja doliny Indusu|cywilizacji doliny Indusu]]. [[Jedwabny Szlak]] biegł od [[Chiny|Chin]] do [[Syria|Syrii]] w [[II wiek p.n.e.|II wieku p.n.e.]] Miasta w centralnej [[Azja|Azji]] i [[Iran|Persji]] stanowiły ważne skrzyżowania tych dróg handlowych. [[Fenicja]]nie i starożytna cywilizacja [[Grecja|grecka]] ustanowiły swoje oparte na handlu imperia w obszarze Morza Śródziemnego w pierwszym tysiącleciu p.n.e.
+
+Pod koniec I i w początkach II tysiąclecia naszej ery nad szlakami handlowymi dominowali [[Arabowie]] pochodzący z rejonu [[Ocean Indyjski|Oceanu Indyjskiego]], wschodniej Azji i [[Sahara|Sahary]]. Pod koniec I tysiąclecia handel w rejonie [[Morze Śródziemne|Morza Śródziemnego]] zdominowali [[Żydzi]]. W początkach II tysiąclecia dominację nad handlem przejęli [[Włochy|Włosi]], a centrami handlowymi północnej Europy były miasta [[Niemcy|niemieckie]] i [[Flamandowie|flamandzkie]]. We wszystkich obszarach ówczesnego cywilizowanego świata większe miasta powstawały u styku szlaków handlowych.
+
+=== Religia i filozofia ===
+{{osobny artykuł|Historia filozofii|Religia}}
+[[Plik:Angkor wat temple.jpg|mały|200px|Świątynia [[Angkor Wat]], Kambodża, początek XII wieku.]]
+Pierwotnymi formami religii były [[animizm]] i [[politeizm]]. Religie te miały charakter plemienny. Z czasem zarówno na wschodzie, jak i zachodzie pojawiły się nowe doktryny [[filozofia|filozoficzne]] i [[religia|religijne]]. Nasilenie obserwuje się od VI wieku p.n.e. Wówczas powstało wiele nowych religii, z czego największe to [[hinduizm]] i [[buddyzm]], które powstały na terenie [[Indie|Indii]], oraz [[Zaratusztrianizm|zoroastryzm]] pochodzący z [[Iran|Persji]]. Korzenie [[religie abrahamowe|religii abrahamowych]], pochodzących z [[Starożytny Bliski Wschód|Bliskiego Wschodu]] sięgają [[judaizm]]u i datowane są na początki II tysiąclecia p.n.e.&lt;ref&gt;{{encyklopedia PWN|id=3918448|tytuł=judaizm|data dostępu=2023-02-04}}&lt;/ref&gt;
+
+W Chinach do czasów obecnych dominowały trzy nurty myślenia: [[taoizm]], [[legizm]] i [[konfucjanizm]]. Szkoła konfucjanizmu w późniejszych czasach uzyskała dominującą pozycję. Konfucjanizm opierał się na moralności politycznej oraz mocy i znaczeniu tradycji, nie zaś na sile prawa. W Ameryce i Afryce religie plemienne utrzymały się do kolonizacji europejskiej.
+
+Patrząc na cywilizację Zachodu, można dostrzec rozprzestrzenianie się myśli filozoficznej [[Starożytna Grecja|Greków]], szczególnie [[Platon]]a i [[Arystoteles]]a. Ich nauki przeniknęły również do Azji, po podbojach [[Aleksander Macedoński|Aleksandra Macedońskiego]].
+
+== Ważniejsze cywilizacje i regiony ==
+{{osobny artykuł|Cywilizacja}}
+Do ostatnich wieków przed naszą erą, w rejonach [[Morze Śródziemne|Morza Śródziemnego]], rzeki [[Ganges]] i [[Huang He|Żółtej Rzeki]] powstały imperia, które były wzorem do naśladowania dla późniejszych władców. [[Dynastia Maurjów|Imperium Maurjów]] rozciągało swe wpływy na obszarze większości Azji Południowej, zaś [[Królestwo Pandja]] w południowych Indiach. Chińskie dynastie [[Dynastia Qin|Qin]] i [[Dynastia Han|Han]] poszerzały swe strefy wpływów dzięki jedności politycznej, sprawnej komunikacji i ustanowieniu przez cesarza [[Han Wudi|Wudi]] monopolu państwowego.
+
+Starożytni Grecy zbudowali cywilizację uważaną przez historyków za kulturowy fundament ludzkości Zachodu. W trzecim wieku przed naszą erą rozszerzanie swoich wpływów podjęli starożytni Rzymianie, stosując podboje i kolonizację kolejnych obszarów. Pod rządami cesarza [[Oktawian August|Oktawiana Augusta]] pod koniec pierwszego wieku p.n.e. cesarstwo rzymskie sprawowało kontrolę nad wszystkimi terenami otaczającymi Morze Śródziemne.
+
+Wielkie mocarstwa pokładały ufność w [[Siły zbrojne|armii]], [[aneksja|aneksji]] terytoriów i tworzeniu warownych siedlisk - centrów produkcji rolnej. Względny pokój, który zapewniały, zachęcał do prowadzenia handlu zagranicznego, czego dobrym przykładem jest rozległa sieć szlaków handlowych w rejonie [[Morze Śródziemne|Morza Śródziemnego]], rozwinięta w [[Epoka hellenistyczna|epoce hellenistycznej]], czy [[Jedwabny Szlak|jedwabny szlak]].
+
+Typowa bolączka imperiów to kłopoty z utrzymaniem relatywnie dużych sił zbrojnych oraz centralnej biurokracji. Koszty utrzymania państwa najdotkliwiej odczuwali [[chłopi]] – posiadający na własność ziemię [[magnat|magnaci]] coraz lepiej radzili sobie ze scentralizowanym nadzorem i kosztami. Zagrożenie z zewnątrz w postaci plemion [[barbarzyńca|barbarzyńskich]] pustoszących obszary przygraniczne powodowało czasami wewnętrzne rozłamy w państwie. [[Chińska Republika Ludowa|Chiny]] za czasów panowania [[dynastia Han|dynastii Han]] popadły w stan [[wojna domowa|wojny domowej]] (ok. 220 p.n.e.), a [[Cesarstwo Rzymskie|Cesarstwo rzymskie]] w tym samym czasie popadało w coraz dalej posuniętą decentralizację i podziały. Imperia powstawały i upadały na całej europejskiej, azjatyckiej i amerykańskiej rozciągłości pasa klimatu umiarkowanego.
+
+Stopniowy rozkład [[Cesarstwo Rzymskie|Imperium Rzymskiego]], postępujący w okresie kilkuset lat od II wieku n.e. zbiegł się w czasie z uzyskiwaniem przez [[chrześcijaństwo]] coraz silniejszej roli i rozprzestrzenianiem się go na zachód z terytoriów [[Bliski Wschód|Bliskiego Wschodu]]. Zachodnia cześć Cesarstwa rzymskiego znalazła się pod panowaniem [[Germanie|plemion germańskich]] w V wieku n.e., które ewoluowały stopniowo do formy wojowniczych państw, z których każde w jakiś sposób związane było z [[Kościół łaciński|kościołem rzymskokatolickim]]. Pozostała na wschodzie obszaru śródziemnomorskiego część Cesarstwa rzymskiego stała się [[Cesarstwo Bizantyńskie|cesarstwem bizantyjskim]]. Wieki później, częściowe przywrócenie jedności w Europie odbyło się za sprawą ustanowienia [[Święte Cesarstwo Rzymskie|Świętego Cesarstwa Rzymskiego]], w którego skład weszły narody zamieszkujące dzisiejsze [[Włochy]] i [[Niemcy]].
+
+Podobne wzloty i upadki dynastii da się zauważyć w [[Chińska Republika Ludowa|Chinach]]. Po upadku [[dynastia Han|dynastii Han]] i [[Epoka Trzech Królestw|Epoce Trzech Królestw]], [[Koczownik|koczownicze]] plemiona zaczęły najeżdżać kraj z północy (IV wiek), podbijając północne Chiny i ustanawiając wiele małych państw. Zjednoczenie Chin w roku 581 jest dokonaniem [[dynastia Sui|dynastii Sui]]. Pod rządami [[dynastia Tang|dynastii Tang]] (618-907) Chiny wkroczyły w „złoty wiek”. Jednak i w dynastii Tang nastąpił rozłam, a po trwającym około 50 lat okresie zamętu Chiny zjednoczyły się ponownie pod rządami dynastii [[dynastia Song|Song]] w roku 982. Zagrożenie ze strony koczowniczych plemion z północy stawało się kwestią coraz bardziej kluczową w polityce kraju. Północne obszary Chin zostały w roku 1141 utracone na rzecz [[Dżurdżeni|Dżurdzenów]], a całość kraju podbili w roku 1279 wraz z większością [[Eurazja|Eurazji]] [[imperium mongolskie|Mongołowie]].
+
+W ówczesnych latach północne [[Indie]] znajdowały się pod rządami [[Dynastia Guptów|dynastii Guptów]]. W południowych Indiach powstały trzy królestwa [[Drawidowie|Drawidów]]: [[Chera]], [[Chola]] i [[Pandjas]]. Wynikła z tego stabilność, która przyczyniła się do sławienia złotej ery hinduizmu w IV i V wieku.
+[[Plik:Machu-Picchu.jpg|mały|240px|prawo|[[Machu Picchu]], „zaginione miasto Inków”, stało się najbardziej rozpoznawalnym symbolem cywilizacji [[Państwo Inków|Inków]]]]
+W tym samym czasie również w [[Ameryka Środkowa|Ameryce Środkowej]] powstawały złożone społeczności, czego dobitnym przykładem są cywilizacje [[Majowie|Majów]] i [[Aztekowie|Azteków]]. W dobie stopniowego osłabienia macierzystej [[Kultura Olmeków|kultury Olmeków]], [[Miasto-państwo|wolne miasta]] Majów stopniowo zwiększały swoją liczebność i znaczenie, a kultura Majów rozprzestrzeniała się po [[Jukatan (stan)|Jukatanie]] i jego okolicach. Później powstałe imperium [[Aztekowie|Azteków]] powstało na bazie kulturowej okolicznych ludów i podbitych plemion (na przykład [[Toltekowie|Tolteków]]).
+
+XIV i XV wiek był w [[Ameryka Południowa|Ameryce Południowej]] czasem świetności [[Państwo Inków|Inków]], których stolicą było miasto [[Cuzco]]. Zaawansowani i rozwojowi Inkowie obejmowali zasięgiem swojego państwa całe [[Andy]], rozwinąwszy znakomity system dróg i budownictwo.
+
+Kolejną ze znacznych sił ówczesnego świata był [[islam]], który rozwinął się w krajach arabskich w VII wieku. Z garstki zwolenników ewoluował on do postaci będącej podstawą wielu imperiów Bliskiego Wschodu, Azji Środkowej, Indii i dzisiejszej [[Indonezja|Indonezji]].
+
+W północno-wschodniej [[Afryka|Afryce]] przy chrześcijaństwie pozostały [[Nubia]] i [[Etiopia]] – wszystkie państwa położone na północ od równika przeszły na [[islam]]. Nowa wiara przyniosła ze sobą technologie pozwalające po raz pierwszy na prowadzenie szlaków handlowych przez [[Sahara|Saharę]]. Podatki pochodzące z takiego handlu przynosiły znaczne zyski państwom północnoafrykańskim i doprowadziły do powstania między innymi szeregu państw w rejonie [[Sahel]].
+
+Ten okres historii świata charakteryzował się powolnym, lecz konsekwentnym rozwojem technologicznym, którego ważniejsze osiągnięcia to [[Strzemię (jeździectwo)|strzemię]], czy [[pług]], pojawiające się w odstępie kilkuset lat. Niektóre części świata były też świadkami gwałtownego rozwoju techniki. Bodajże najważniejszym przypadkiem jest rejon [[Morze Śródziemne|śródziemnomorski]] czasu [[epoka hellenistyczna|hellenistycznego]], gdzie doszło do opracowania setek rozwiązań technologicznych. Czas wzmożonego rozwoju techniki następował przed okresem technologicznego zastoju, jak w przypadku [[Cesarstwo Rzymskie|cesarstwa rzymskiego]] i jego upadku we wczesnym [[Średniowiecze|średniowieczu]].
+
+== Rozwój Europy ==
+=== Uwarunkowanie rozwoju Europy ===
+[[Plik:Gutenburg bible.jpg|lewo|mały|150px|Wynalezienie około roku 1450 [[Maszyna drukarska|prasy drukarskiej]] z ruchomą czcionką zostało uznane przez [[LIFE (czasopismo)|czasopismo „LIFE”]] za najważniejszy ze 100 wynalazków ostatniego tysiąclecia. Według niektórych źródeł w mniej niż 50 lat po wydaniu drukiem pierwszej [[Biblia|Biblii]] w roku 1455, drukiem ukazało się ponad dziewięć milionów pozycji]]
+Prawie wszystkie społeczeństwa rolne były ograniczane przez panujące w miejscu ich zamieszkania [[warunki naturalne]]. Produkcja pozostawała na relatywnie niskim poziomie, a zmiany [[klimat]]yczne zachęcały do wysiłków i eksploracji, które nie raz przynosiły już wzloty i upadki cywilizacji. Do roku 1500 zmiany w społeczeństwach miały jednak charakter głównie jakościowy. Rozwój [[technologia|technologii]] i [[zysk]] pochodzący z [[handel|handlu]] stopniowo rozszerzały możliwości ludzi.
+
+Już przed XVI wiekiem niektóre cywilizacje wykształciły skomplikowany system społeczny. W starożytnej [[starożytna Grecja|Grecji]] i [[starożytny Rzym|Rzymie]] powstały społeczności, za którymi stał skomplikowany mechanizm [[pieniądz|monetarny]], zakładający istnienie rynków finansowych i własności prywatnej. Takie instytucje stworzyły warunki dla ciągłej [[akumulacja kapitału|akumulacji kapitału]] i zwiększonej produkcji. Według niektórych wyliczeń, przychód na jednego mieszkańca rzymskich Włoch (najbardziej rozwiniętego regionu Cesarstwa rzymskiego) porównywalny był z przychodami uzyskiwanymi przez statystycznego mieszkańca najbardziej rozwiniętych społeczeństw ekonomicznych XVIII wieku&lt;ref&gt;{{Cytuj pismo|url = http://www.atypon-link.com/AEAP/doi/abs/10.1257/089533006776526148#search=%22the%20economy%20of%20the%20roman%20empire%20temin%22 |tytuł = The Economy of the Early Roman Empire|imię=Peter |nazwisko=Temin|oznaczenie=Wiosna 2006|wolumin=tom 20, nr 1|strony = 133-151|czasopismo=Journal of Economic Perspectives|język=en}}&lt;/ref&gt;).
+Najbardziej rozwinięte rejony cywilizacji klasycznej były raczej zurbanizowane, a tendencja ta utrzymywała się aż do początków ery nowożytnej. Cywilizacja klasyczna popadła jednak stopniowo w zapaść, a historycy nie są nadal pewni przyczyn tego zjawiska.
+
+W [[Chińska Republika Ludowa|Chinach]] już około roku 1000 opracowano skomplikowany [[pieniądz|system monetarny]]. Kraj ten charakteryzował się również wolnością chłopów, których produkcja rolna nie tylko wykorzystywana była do utrzymania się przy życiu, ale mogła być sprzedawana - dzięki temu chłopi aktywnie uczestniczyli w rynku towarów i usług. Produkcja rolna Chin stała na wysokim poziomie, a społeczeństwo było wysoce zurbanizowane. Postęp techniczny Chin był tak wielki, że kraj ten miał monopol na miechy tłokowe i [[druk]]&lt;ref&gt;{{cytuj stronę|url=http://www.nri.org.uk/joseph.html|tytuł=Joseph Needham|opublikowany=Needham Research Institute|data dostępu=2007-04-22|język=en}}&lt;/ref&gt;. Po wytępieniu ludu [[Dżurdżeni|Dżurdżenów]] pozostała ludność [[dynastia Song|dynastii Song]] została w roku 1279 podbita przez [[Mongołowie|Mongołów]].
+
+[[Renesans]] [[Europa|europejski]], którego początek przypadł na XIV wiek, polegał na ponownym odkryciu roli, jaką w rozwoju nauki odegrały cywilizacje klasyczne i na [[ekonomia|ekonomicznym]] oraz [[społeczeństwo|społecznym]] wzroście Europy. Renesans spowodował też jednak powstanie kultury [[ciekawość|ciekawości]], która dała początek [[humanizm]]owi, [[Rewolucja naukowa|rewolucji naukowej]] i wielkiemu przejściu ku [[Rewolucja przemysłowa|rewolucji przemysłowej]]. Siedemnastowieczna [[rewolucja naukowa]] nie wniosła jednak znacznego wkładu w rozwój techniki: opracowane teorie zaczęto wdrażać dopiero w końcach wieku XVIII.
+
+Cechami wyróżniającymi cywilizację europejską spośród innych było opracowanie kultury [[Przedsiębiorstwo|przedsiębiorczości]] i przychody generowane przez handel szlakami przebiegającymi przez [[Ocean Atlantycki]], w tym przez handel [[Niewolnictwo|niewolnikami]] z [[Afryka|Afryki]]. Niektórzy historycy uważają, że około roku 1750 produkcja w bardziej zurbanizowanych częściach [[Chińska Republika Ludowa|Chin]] stała na tym samym poziomie, co europejskie państwa czerpiące zyski z handlu przez Atlantyk&lt;ref&gt;{{cytuj stronę|url=http://admin.nber.org/people/carol_shiue |tytuł=NBER Working Papers by Carol H. Shiue|opublikowany=National Bureau of Economic Research|data dostępu=2007-04-22|język=en}}&lt;/ref&gt;, inni zaś, tak jak [[Angus Maddison]] są zdania, że produkcja na jednego mieszkańca [[Europa Zachodnia|Europy Zachodniej]] pod koniec [[średniowiecze|średniowiecza]] przekroczyła już wskaźniki innych rejonów świata&lt;ref&gt;{{cytuj stronę|url=http://www.ggdc.net/maddison/ |tytuł=Strona domowa Angusa Maddisona|data dostępu=2007-04-22|język=en}}&lt;/ref&gt;.
+
+Przyczyny tego, że począwszy od późnego [[Średniowiecze|średniowiecza]], znaczenie Europy rosło i która stała się kolebką [[rewolucja przemysłowa|rewolucji przemysłowej]] oraz zdominowała świat, jest kilka. [[Max Weber]] argumentował tę sytuację etyką pracy [[protestantyzm|protestantów]], która skłaniała mieszkańców Europy do dłuższej i cięższej pracy. Inne wyjaśnienia [[Inżynieria społeczna (ogólnie)|socjotechniczne]] kierują się w stronę [[demografia|demografii]]: rozwój populacji w Europie na tle na przykład Azji był znacznie ograniczony przez [[celibat]] wśród duchownych, emigrację do skolonizowanych ziem, powstawaniem ośrodków miejskich o wysokiej śmiertelności, ciągłymi działaniami wojennymi i tendencją do zawierania związków małżeńskich w późniejszym wieku. Względny niedostatek siły roboczej oznaczał, że ewentualne nadwyżki można było inwestować w rozwiązania techniczne powodujące spadek zapotrzebowania na pracę. Przykładami osiągnięć, które hamowały wzrost populacji, są [[koło wodne|koła wodne]], [[młyn wodny|młyny]], [[przędzenie]], [[krosno tkackie]], [[maszyna parowa]] i [[żegluga]].
+
+Pojawiły się również głosy, jakoby rozwój Europy powodowany był wyższością europejskich instytucji, a [[wolny rynek|ekonomia wolnorynkowa]] była w tej części świata silniejsza niż w pozostałych regionach dzięki ideom [[wolność|wolności]] charakterystycznym dla kontynentu. Ostatnio naukowcy tacy, jak [[Kenneth Pomeranz]] rzucili takiej teorii wyzwanie. Z drugiej strony, również [[rewizjonizm|rewizjonistyczne]] postrzeganie historii otrzymało słowa krytyki za notoryczne niedocenianie osiągnięć Europejczyków&lt;ref&gt;{{Cytuj pismo|imię=Ricardo |nazwisko=Duchesne|tytuł=Asia First?|czasopismo=The Journal of the Historical Society|oznaczenie=Marzec 2006|wolumin=tom 6, nr 1|strony = 69-91|doi=10.1111/j.1540-5923.2006.00168.x}}&lt;/ref&gt;.
+
+Ważną rolę mogło odegrać położenie Europy. [[Bliski Wschód]], [[Indie]] i [[Chińska Republika Ludowa|Chiny]] otoczone są pasmami [[Góra|gór]], poza zasięgiem których teren jest względnie płaski. Europa jest za to poprzecinana pasmami górskimi ([[Alpy]], [[Pireneje]], [[Apeniny]], [[Karpaty]] i inne), a do tego [[morze|morzami]]. Taki układ geograficzny dawał Europie pewną ochroną przed azjatyckimi najeźdźcami. Przed wynalezieniem [[broń palna|broni palnej]] plemiona [[Koczownik|nomadów]] były o wiele silniejsze od rolniczych ludów zamieszkujących skraje [[Eurazja|Eurazji]]. Po wkroczeniu na równiny północnych Indii lub do dolin w Chinach grupy nomadów były praktycznie nie do zatrzymania. Ich działania często kończyły się zniszczeniem całych regionów. Złota epoka Islamu została zakończona [[Bitwa pod Bagdadem (1258)|zniszczeniem w roku 1258]] [[Bagdad]]u przez [[Mongołowie|Mongołów]]. [[Indie]] i [[Chińska Republika Ludowa|Chiny]] były często celami najazdów, a [[Rosja]] przez kilka stuleci znajdowała się pod wpływami [[Tatarzy|Tatarów]]. Środkowa i zachodnia Europa, oddalone od wpływów środkowoazjatyckich, były o wiele mniej narażone na najazdy.
+
+Układ [[geografia|geograficzny]] wpłynął również na szereg różnic [[geopolityka|geopolitycznych]]. Przez większość swoich dziejów Chiny, Indie i Bliski Wschód zjednoczone były pod panowaniem jednej władzy, która swoje wpływy rozciągała aż do leżących na peryferiach kraju gór i pustyń. W roku 1600 [[Imperium Osmańskie]] sprawowało władzę nad prawie całym [[Bliski Wschód|Środkowym Wschodem]], [[dynastia Ming]] rządziła [[Chińska Republika Ludowa|Chinami]], a [[Państwo Wielkich Mogołów|Mogołowie]] Indiami. Inaczej było w Europie - ta była prawie zawsze podzielona na szereg zwalczających się wzajemnie państw. Imperia paneuropejskie, poza [[Cesarstwo Rzymskie|cesarstwem rzymskim]] miały tendencję do upadania zaraz po ukonstytuowaniu.
+
+Często cytowanym przyczynkiem do sukcesu Europy była ostra [[konkurencja (ekonomia)|konkurencja]] pomiędzy rywalizującymi ze sobą krajami. Istniały też regiony, gdzie górę nad wzrostem wzięły dążenia do [[stabilizacja|stabilizacji]]. Wzrost znaczenia [[Chińska Republika Ludowa|Chin]] na morzach został zatrzymany przez ustanowienie przez [[dynastia Ming|dynastię Ming]] zakazu ''Han jin'', blokady na handel zamorski. W Europie, z racji na polityczne rozbicie, wprowadzenie tak powszechnego ograniczenia byłoby niemożliwe, a kraj, który zdecydowałby o wewnętrznym wprowadzeniu podobnych ograniczeń, szybko pozostałby w tyle.
+
+Niewątpliwą przewagą w kwestiach geograficznych dawała Europie bliskość [[Morze Śródziemne|Morza Śródziemnego]]. Przez tysiąclecia funkcjonowało ono jako morska autostrada wspierająca wymianę towarów, ludzi, pomysłów i wynalazków.
+
+Odmiennie, niż w Europie, rozwój [[Strefa międzyzwrotnikowa|krajów tropikalnych]] hamowany był przez wszędobylskie [[choroba tropikalna|choroby tropikalne]] i [[Pasożytnictwo|pasożyty]], osłabiające ludzi, uprawy i zwierzęta hodowlane.
+
+=== Dominacja handlowa Europy ===
+W XIV wieku w [[Europa|Europie]] rozpoczął się [[renesans]]. Niektórzy współcześni naukowcy podają w wątpliwość znaczenie [[sztuka|sztuki]] i [[humanizm]]u dla [[nauka|nauki]], ale w tym czasie bez wątpienia nastąpiło połączenie wiedzy posiadanej przez Arabów i Europejczyków. Jednym z ważniejszych osiągnięć nauki była [[karawela]], która łączyła w sobie arabskie [[ożaglowanie łacińskie]] i europejskie [[ożaglowanie rejowe]]. Te dwa typy ożaglowania zastosowane razem pozwalały na zbudowanie okrętu, który byłby w stanie przekroczyć [[Ocean Atlantycki]]. Dzięki takim statkom oraz postępom w dziedzinie [[nawigacja|nawigacji]], [[Krzysztof Kolumb]] podjął podróż przez ocean, co zaowocowało odkryciem kontynentu amerykańskiego w roku 1492.
+
+Dla [[Afroeurazja|Afroeurazji]] i [[Ameryka|Ameryki]] miało to olbrzymie skutki, głównie w postaci „problemu przybyszów”. Europejczycy przywieźli ze sobą [[wirusy]], których ludność kontynentu amerykańskiego nie doświadczyła. Konsekwencją tego była śmierć nieznanej liczby mieszkańców Ameryk w wyniku [[epidemia|epidemii]]. Europejczycy posiadali także nieznane Amerykanom [[koń domowy|konie]], [[stal]], czy [[broń palna|broń palną]], którymi posiłkowali się w walce z [[Państwo Inków|Inkami]], [[Aztekowie|Aztekami]] i innymi ludami [[Ameryka Północna|Ameryki Północnej]]. Natomiast do [[Afroeurazja|Afroeurazji]] przeniesiony został [[Kiła|syfilis]].
+
+Złoto i towary z kontynentów amerykańskich były odbierane ludziom i wywożone do Europy, podczas gdy z Europy do Ameryk przybywała coraz większa liczba emigrantów. By sprostać wymaganiom ilościowym siły roboczej w koloniach, rozpoczęto przewożenie na nowo zdobyte obszary mieszkańców [[Afryka|Afryki]] jako [[niewolnictwo|niewolników]]. W niedługim czasie dużą część populacji Ameryk stanowili czarnoskórzy niewolnicy. W Afryce Zachodniej doszło w tym czasie do rozwoju krajów leżących na tzw. [[Wybrzeże Niewolnicze|Wybrzeżu Niewolniczym]], czerpiąc zyski z wykorzystywania uciśnionych narodów Afryki.
+[[Plik:Eertvelt, Santa Maria.jpg|mały|200px|Obraz „''Santa Maria na kotwicy''”, pędzla [[Andries van Eertvelt|Andriesa van Ertvelta]] z roku 1628, ukazujący [[karaka|karakę]] [[Krzysztof Kolumb|Krzysztofa Kolumba]]]]
+Ekspansja Europy na morzach i oceanach (co nie jest rzeczą zaskakującą, zważywszy na geografię kontynentu) była głównie napędzana przez zachodnie państwa leżące blisko wybrzeży Atlantyku – [[Portugalia|Portugalię]], [[Hiszpania|Hiszpanię]], [[Anglia|Anglię]], [[Francja|Francję]] i [[Holandia|Holandię]]. Przewodnią pozycję w początkach podbojów miały imperia kolonialne [[Imperium portugalskie|Portugalii]] i Hiszpanii, roztaczając swoje wpływy w nowo odkrytych regionach. W niedługim czasie jednak dominację na [[Ocean Atlantycki|Atlantyku]] zdobyły położone bardziej na północ [[Francja]], [[Anglia]] i [[Holandia]]. W serii konfliktów zbrojnych z XVII i XVIII wieku, których kulminację stanowiły [[wojny napoleońskie]], pierwszą pozycję na liście światowych mocarstw wywalczyła sobie [[Anglia]], budując imperium rozciągające się na cały świat i kontrolujące w czasach swej świetności jedną czwartą jego lądów, stanowiąc „[[imperium, nad którym nigdy nie zachodzi słońce]]”.
+
+W międzyczasie podróże admirała [[Zheng He]] zostały zatrzymane przez [[dynastia Ming|dynastię Ming]] rządzącą w latach 1366-1644 po wypędzeniu [[Mongołowie|Mongołów]]. Rewolucja handlowa w Chinach, czasami określana mianem „raczkującego [[kapitalizm]]u”, okazała się nieskuteczna. [[Dynastia Ming]] w końcu poddała się [[Mandżurowie|Mandżurom]], którzy ustanowili [[Dynastia Qing|dynastię Qing]], początkowo prowadzącą rządy w atmosferze spokoju i rozwoju, lecz również stopniowo poddającą się wpływom Zachodu.
+
+Krótko po opanowaniu Ameryk, Europejczycy wykorzystali swoją przewagę technologiczną również w Azji. W początkach XIX wieku Brytyjczycy przejęli kontrolę nad [[subkontynent indyjski|subkontynentem indyjskim]], [[Egipt]]em i [[Półwysep Malajski|Półwyspem Malajskim]], Francuzi kontrolowali [[Indochiny Francuskie]], a [[Holandia|Holendrzy]] okupowali [[Antyle Holenderskie]]. Brytyjczycy przejęli też panowanie w miejscach, które zamieszkane były jeszcze przez ludność neolityczną, w tym [[Australia|Australię]], [[Nowa Zelandia|Nową Zelandię]] i [[Południowa Afryka|Republikę Południowej Afryki]]. Względnie dużą liczba ludności brytyjskiej wyemigrowała do Ameryk celem kolonizacji. Pod koniec XIX wieku mocarstwa europejskie dokonały [[Wyścig o Afrykę|podziału]] pozostałych poza ich wpływami terenów [[afryka]]ńskich.
+
+W Europie nastała „era rozumu”, przyczyniając się do [[rewolucja naukowa|rewolucji naukowej]], która zmieniła postrzeganie świata przez ludzi i umożliwiła nadejście [[rewolucja przemysłowa|rewolucji przemysłowej]] – znacznej transformacji ekonomii światowej. Rewolucja przemysłowa zapoczątkowana została w [[Wielka Brytania|Wielkiej Brytanii]], umożliwiając podjęcie produkcji zupełnie nowymi metodami - w [[fabryka]]ch, wykorzystując zasady [[produkcja masowa|produkcji masowej]] i [[mechanizacja|mechanizacji]] – i wytwarzając szeroki wachlarz produktów szybciej i przy mniejszych nakładach siły roboczej.
+
+Era rozumu przygotowała też pod koniec XVIII wieku grunt nowoczesnej [[demokracja|demokracji]] w postaci [[wojna o niepodległość Stanów Zjednoczonych|rewolucji amerykańskiej]] i [[rewolucja francuska|francuskiej]]. Demokracja urosła do postaci, w której wywarła znaczący wpływ na wydarzenia światowe i [[wskaźnik jakości życia|jakość życia]].
+
+Podczas [[rewolucja przemysłowa|rewolucji przemysłowej]] gospodarka światowa przestawiła się na zasilanie [[Węgle kopalne|węglem]] – wykorzystywały go nowoczesne [[transport|środki transportu]], takie, jak [[Transport kolejowy|kolej]] i [[parowiec|parowce]], przyczyniając się do względnego kurczenia się cywilizowanego świata. Przez zwiększone zapotrzebowanie na paliwa, znacznie wzrosło [[zanieczyszczenie środowiska]], które pojawiło się już w momencie odkrycia przez wczesnych ludzi [[ogień|ognia]].
+
+== Od początku XX wieku ==
+{{osobny artykuł|XX wiek}}
+Po zakończeniu [[II wojna światowa|II wojny światowej]], w nadziei na uspokajanie konfliktów między narodami i zapobieganie przyszłym wojnom, powołano [[Organizacja Narodów Zjednoczonych|Organizację Narodów Zjednoczonych]]. W roku 1991 doszło do rozpadu [[Związek Socjalistycznych Republik Radzieckich|ZSRR]], pozostawiając w roli jedynej światowej siły [[Stany Zjednoczone]], przez niektórych określane jako „[[supermocarstwo]]”.
+[[Plik:WWI.png|mały|280px|[[I wojna światowa]], której stronami była [[Ententa]] (kolor zielony) przeciwko [[państwa centralne|państwom centralnym]] (kolor pomarańczowy) doprowadziła do upadku [[cesarstwo Niemieckie|Cesarstwa Niemieckiego]], [[Imperium Rosyjskie|Cesarstwa Rosyjskiego]], [[Imperium Osmańskie|Imperium Osmańskiego]] i [[Austro-Węgry|Monarchii Austro-Węgierskiej]]]]
+XX wiek był również okresem powstania mających duży wpływ ideologii świeckich. Pierwszą, opracowaną po roku 1917 w [[Związek Socjalistycznych Republik Radzieckich|Związku Radzieckim]] był [[komunizm]], który po roku 1945 wpłynął na [[Europa Środkowa|Europę Środkową]], [[Jugosławia|Jugosławię]], [[Bułgaria|Bułgarię]], [[Rumunia|Rumunię]], [[Albania|Albanię]], [[Wietnam Północny]] i [[Korea Północna|Koreę Północną]]. W roku 1949 komunizm zakorzenił się w [[Chińska Republika Ludowa|Chinach]], a w latach 50. i 60. w krajach [[Trzeci Świat|Trzeciego Świata]]. Lata 20. i 30. przyniosły rozwój [[militaryzm|wojskowej]] dyktatury [[faszyzm|faszystowskiej]], która przejęła władzę we [[Włochy|Włoszech]], [[Niemcy|Niemczech]], [[Japonia|Japonii]] i [[Hiszpania|Hiszpanii]].
+
+Transformacje te były połączone z [[wojna|konfliktami zbrojnymi]] na niespotykaną do tej pory skalę i niosące największe w historii zniszczenie. [[I wojna światowa]] zniszczyła wiele dotychczasowych imperiów i monarchii Europy, dodatkowo osłabiając [[Francja|Francję]] i [[Wielka Brytania|Wielką Brytanię]]. [[II wojna światowa]] stała się przyczynkiem do upadku większości dyktatur wojskowych Europy i ekspansji [[komunizm]]u na tereny [[Europa Wschodnia|Europy Wschodniej]] i [[Europa Środkowa|Środkowej]] oraz do [[Azja|Azji]].
+[[Plik:Nagasakibomb.jpg|lewo|mały|210px|Użycie [[Broń jądrowa#Bomba atomowa|bomby atomowej]] przeciwko [[Japonia|Japonii]] w roku 1945 doprowadziło do końca [[II wojna światowa|II wojny światowej]] i rozpoczęło jednocześnie [[Zimna wojna|zimną wojnę]]]]
+Wydarzenia te stały się powodem do rozpoczęcia [[Zimna wojna|zimnej wojny]] – czterdziestoletniego okresu napięć między [[Związek Socjalistycznych Republik Radzieckich|Związkiem Radzieckim]] i [[Stany Zjednoczone|Stanami Zjednoczonymi]], włączywszy w to sojuszników obu stron. Cała ludzkość i wszystkie formy życia stanęły w obliczu zagrożenia ze strony posiadanej przez strony konfliktu [[broń jądrowa|broni atomowej]]. Posiadające taką broń państwa zrozumiały stanowione przez nią zagrożenie szczególnie po [[kryzys kubański|kryzysie kubańskim]], który w roku 1962 prawie doprowadził do [[wojna jądrowa|wojny nuklearnej]]. Konflikt z użyciem broni atomowej był postrzegany za niepraktyczny, wypowiadano więc wojny zastępcze, prowadzone kosztem nieposiadających broni masowego rażenia krajów [[Trzeci Świat|Trzeciego Świata]]. Jako odpowiedź na zagrożenie konfliktami i wojny, które faktycznie się rozegrały, powstała młodzieżowa [[kontrkultura]] lat 60., kwestionująca w kilku krajach ideę wyższości Zachodu oraz zbrojenia atomowe, propagowane przez przywódców.
+
+W roku 1991 świat stał się świadkiem rozpadu [[Związek Socjalistycznych Republik Radzieckich|Związku Radzieckiego]]. Niektóre byłe republiki dołączyły potem do [[Rosja|Rosji]], tworząc [[Wspólnota Niepodległych Państw|Wspólnotę Niepodległych Państw]]. Inne republiki wraz z kilkoma krajami ościennymi zwróciły się w kierunku Europy Zachodniej i [[Unia Europejska|Unii Europejskiej]].
+
+Wiek XX przyniósł też znaczący rozwój technologiczny, wzrost średniej długości życia i poprawę warunków bytowania większości mieszkańców świata. Gospodarka światowa dokonała zmiany podstawowego paliwa z [[Węgle kopalne|węgla]] na paliwa oparte na [[ropa naftowa|ropie naftowej]], a postęp w dziedzinie transportu i komunikacji w dalszym stopniu unifikowały świat. Opracowane w XX wieku wynalazki przyczyniły się jednak do wzrostu zanieczyszczenia [[środowisko przyrodnicze|środowiska naturalnego]], mimo że zanieczyszczenia generowane przez [[miasto|miasta]] stoją dziś na niższym poziomie niż za czasów dominacji węgla w roli paliwa.
+
+[[Plik:Apollo 17 Cernan on moon.jpg|mały|220px|Ostatnia wyprawa na [[Księżyc]] – [[Apollo 17]], rok 1972]]
+Druga połowa XX wieku to nastanie [[era informacji|ery informacji]], ożywienie [[handel|handlu]] i stosunków międzykulturowych dzięki [[globalizacja|globalizacji]]. [[Eksploracja kosmosu]] pozwoliła ludzkości na poznanie całego [[Układ Słoneczny|Układu Słonecznego]]. Odkryto strukturę [[Kwas deoksyrybonukleinowy|DNA]], szablonu, według którego powstaje życie, doszło też do ustalenia sekwencji materiału genetycznego człowieka, co stanowiło obietnicę zmiany oblicza ludzkich [[choroba|chorób]]. Liczba publikowanych rocznie prac naukowych znacznie przekroczyła w tym czasie całość materiału naukowego zebranego przed rokiem 1900&lt;ref&gt;{{cytuj stronę|url=https://archive.is/20120802094052/www.ifi.unicamp.br/~ghtc/sources/articles.htm|praca=Group of History and Theory of Science|autor=Roberto de Andrade Martins| data=2003-04-23|tytuł=History of Science, Medicine and Technology. Bibliography of Primary Sources: Articles|język=en|opublikowany=[[Wyszukiwarka Google]]|data dostępu = 2007-04-28}}&lt;/ref&gt;, podwajając się co około 15 lat&lt;ref&gt;{{cytuj książkę |url = http://print.google.com/print?id=TbiVDVY6mRYC&amp;pg=83&amp;lpg=83&amp;sig=jZLZNf0mWtAqSMUiXyVaBBlSJDA |tytuł = Our Affair with El Niño|wydawca=Princeton University Press|rok=2004|isbn = 0-691-11335-1|nazwisko=Philander|imię=George S|strony = 228}}&lt;/ref&gt;.
+Nadal zmniejszał się światowy [[analfabetyzm]] wraz z odsetkiem ludności zajmującej się [[rolnictwo|produkcją żywności]] ([[Raymond Kurzweil|Kurzweil]], 1999).
+
+W tym samym czasie pojawiła się jednak wizja rychłego końca dziejów ludzi, do którego przyczynić mogły się pozostawione bez większego nadzoru zagrożenia - rozpowszechnienie [[broń jądrowa|broni atomowej]], [[efekt cieplarniany]], inne formy degradacji środowiska naturalnego w następstwie masowego wykorzystywania paliw nuklearnych i kopalnianych, konflikty międzynarodowe wynikające z kurczących się surowców naturalnych, szybko rozprzestrzeniające się choroby (np. wywoływany wirusem [[Ludzki wirus niedoboru odporności|HIV]] [[zespół nabytego niedoboru odporności]]) i zagrożenie przelatującymi blisko Ziemi [[Planetoida|asteroidami]] i [[kometa]]mi.
+
+Rozwój państw zawsze powodowany był chęcią osiągnięcia korzyści i strachem przed ponoszeniem strat. Poczucie [[tożsamość narodowa|tożsamości narodowej]] było podsycane w konfliktach z obcokrajowcami, uważanymi za intruzów. Pod koniec XX wieku obserwować można powstanie nowego supermocarstwa – [[Unia Europejska|Unii Europejskiej]]. Próby naśladowania struktur Unii Europejskiej podjęto też w ograniczonym zakresie przez kraje [[azja]]tyckie, [[afryka]]ńskie i [[Ameryka Południowa|południowoamerykańskie]]. W tym samym czasie egzystencja i upadek państw o różnej strukturze społecznej i o rozmaitych celach istnienia przebiegał przy udziale [[wojna|wojen]] i nieuniknionym spadku liczby ludności, zniszczeniach, [[choroba]]ch, [[głód|głodzie]] i aktach [[ludobójstwo|ludobójstwa]].
+
+Na przełomie lat 80. i 90. XX wieku zaistniał [[Internet]] – globalna sieć komputerowa pozwalająca na przekaz informacji z ekspresową prędkością, co doprowadziło do obecnych przemian w polityce i kulturze.&lt;ref&gt;https://ofio.pl/technologia/28540/krotka-historia-internetu/&lt;/ref&gt;
+
+W początkach XXI wieku stopniowo jednoczący się świat stanął w obliczu wspólnego zagrożenia, które zażegnać można było tylko wspólnie podjętym wysiłkiem. Niektórzy naukowcy nazywają to zjawisko „planetarną fazą cywilizacji ludzkiej”. Coraz silniejsze było odczucie, że świat albo zakończy swoją egzystencję, albo przeżyje, ale tylko jako efekt wspólnego wysiłku. [[Październik 2006#30 października 2006|30 października 2006]] zaznaczył to [[raport Sterna]], ostrzegający przed [[globalne ocieplenie|globalnym ociepleniem]] i gwałtownymi [[zmiana klimatu|zmianami klimatu]]. W toku historycznej eskalacji zagrożeń ludzkości, lokalne i międzynarodowe konflikty tracą swoje znaczenie na rzecz uniwersalnych zagrożeń rodzaju ludzkiego - swoistego globalnego konfliktu ludzkości ze środowiskiem naturalnym.
+
+Globalne zagrożenie degradacją środowiska naturalnego i wyczerpywaniem się surowców naturalnych oraz źródeł [[energetyka|energii]] nie stanowią pierwszych oznak kryzysu materiałowo-energetycznego w historii świata. Wcześniejsze przypadki to choćby [[wylesianie]] przeprowadzane przez [[Wielka Brytania|Brytyjczyków]] w celu zapewnienia dostaw [[węgiel drzewny|węgla drzewnego]] na potrzeby produkcji [[żelazo|żelaza]]. Wtedy sytuacja na rynku materiałów doprowadziła do rozpowszechnienia [[koks]]u, który znacznie wsparł osiemnastowieczną [[rewolucja przemysłowa|rewolucję przemysłową]] w Anglii. Podobnie, na przełomie XX i XXI wieku, świat stanął w obliczu [[efekt wąskiego gardła|efektu wąskiego gardła]], który przerwać można innowacjami technicznymi, takimi, jak energia pochodząca z [[Reakcja termojądrowa|fuzji jądrowych]] (np. w ramach programu [[ITER]]), czy szersze wykorzystanie [[alternatywne źródło energii|odnawialnych źródeł energii]], popartych na sile [[wiatr]]u, [[pływy morskie|pływów]], [[elektrownia wodna|wodzie]] i [[Energetyka słoneczna|Słońcu]] ([[fotowoltaika]]).
+
+== Wzrost populacji światowej ==
+{{dopracować|sekcja|źródła=2012-12}}
+{| class="wikitable" style="text-align:center;"
+|-
+! Ludność świata (mln)
+! Rok
+! Przyrost
+|-
+| 0.0002 ||ok. 90 000 p.n.e.&lt;ref name="census_gov_world"&gt;{{cytuj stronę| url = http://web.archive.org/web/20120709092946/http://www.census.gov/population/international/data/worldpop/table_history.php| tytuł = Historical Estimates of World Population| data dostępu = 2012-07-07| autor = | opublikowany = | data = | język = en}}&lt;/ref&gt; ||
+|-
+| 0.015 ||ok. 70 000 p.n.e.{{r|census_gov_world}} ||
+|-
+| 1 || ok. 30 000 p.n.e. ||(podwojenie po 5000 latach)
+|-
+| 5 || ok. 10 000 p.n.e.{{r|census_gov_world}} ||
+|-
+| 75 || ok. 1000 p.n.e.{{r|census_gov_world}} ||
+|-
+| 251 || ok. 1 n.e.{{r|census_gov_world}} ||
+|-
+| 300 || ok. 500 n.e.{{r|census_gov_world}} ||
+|-
+| 350-375 || ok. 1000{{r|census_gov_world}} ||
+|-
+| 400 || ok. 1250{{r|census_gov_world}} ||
+|-
+| 500 || ok. 1500{{r|census_gov_world}} ||
+|-
+| 750 || ok. 1750{{r|census_gov_world}} ||
+|-
+| 1000 || 1804 ||
+|-
+| 2000 || 1927 || (1 miliard po 110 latach)
+|-
+| 3000 || 1959 || (1 miliard po 30 latach)
+|-
+| 4000 || 1974 || (1 miliard po 14 latach)
+|-
+| 5000 || 1987 || (1 miliard po 14 latach)
+|-
+| 6000 || 1999 || (1 miliard po 11 latach)
+|-
+| 7000 || 2011  || (1 miliard po 13 latach)
+|-
+| 8000  || 2022 || aktualizowany na bieżąco: https://www.worldometers.info/  
+|-
+| 8500 || 2027(prognoza) || (1 miliard po 16 latach)
+|-
+| 9000 || 2054(prognoza) || (1 miliard po 27 latach)
+|-
+| 10 000 || 2085(prognoza) || (1 miliard po 31 latach)
+|-
+| 11 000 || 2124(prognoza) || (1 miliard po 39 latach)
+|}
+
+== Zobacz też ==
+=== Tematy historyczne ===
+* [[Historiografia]]
+* [[Historia życia na Ziemi]]
+
+=== Historia według okresu ===
+* [[Prehistoria]]
+* [[Starożytność|Historia starożytna]]
+* [[Średniowiecze]]
+* [[Nowożytność|Historia nowożytna]]
+* [[Historia najnowsza]]
+
+== Przypisy ==
+{{Przypisy}}
+
+== Bibliografia ==
+* {{cytuj książkę |tytuł=The Biosphere |autor=Autorzy [[Scientific American]] |miejsce=San Francisco |wydawca=W.H. Freeman &amp; Co. |rok=1976 |isbn = 0-7167-0945-7}}
+* {{cytuj książkę | autor link=Jared Diamond |nazwisko=Diamond |imię=Jared | tytuł=[[Guns, Germs, and Steel|Guns, Germs, and Steel: the Fates of Human Societies]]. | miejsce=Nowy Jork | wydawca=W.W. Norton | rok=1996 | isbn = 0-393-03891-2}}
+* {{cytuj książkę | autor link=Fernand Braudel |nazwisko=Braudel |imię=Fernand | tytuł=The Mediterranean and the Mediterranean World in the Age of Philip II | miejsce=[[Berkeley (Kalifornia)|Berkeley]] | wydawca=Uniwersytet Kalifornijski w Berkeley | rok=1996 | isbn = 0-520-20308-9}}
+* {{cytuj książkę |nazwisko=Braudel |imię=Fernand | tytuł=Capitalism and Material Life, 1400-1800 | miejsce=Nowy Jork | wydawca=HarperCollins | rok=1973 | isbn = 0-06-010454-6}}
+* {{cytuj książkę |imię=Marshall |nazwisko=Hodgson|autor link=Marshall Hodgson|tytuł=Rethinking World History: Essays on Europe, Islam, and World History |miejsce=Cambridge|rok=1993|isbn = 978-0-521-43844-5|wydawca=Uniwersytet Cambridge}}
+* {{cytuj książkę |imię=Kenneth |nazwisko=Pomeranz|autor link=Kenneth Pomeranz|tytuł=The Great Divergence: China, Europe and the Making of the Modern World Economy|miejsce=Princeton|rok=2000|isbn = 0-691-09010-6|wydawca=Uniwersytet Princeton}}
+* {{cytuj książkę |imię=Clive |nazwisko=Ponting|autor link=Clive Ponting|tytuł=World History: a New Perspective| miejsce= Londyn |rok=2000|isbn = 978-0-7126-6572-8}}
+* {{cytuj książkę |imię=Ronald |nazwisko=Wright|autor link=Ronald Wright (pisarz)|tytuł=A Short History of Progress|miejsce=Toronto|wydawca=House of Anansi Press|rok=2004|isbn = 0-88784-706-4}}
+
+== Lektura dodatkowa ==
+* {{Cytuj|autor = David S Landes |tytuł = The Wealth and Poverty of Nations: Why Some Are So Rich and Some So Poor |data = 1999 |isbn = 978-0-393-31888-3 |miejsce = New York |wydawca = W.W. Norton &amp; Company |oclc = 41471557}}
+* David S. Landes, [http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.20.2.3 "Why Europe and the West? Why Not China?],” ''Journal of Economic Perspectives'', 20:2, 3, 2006.
+* Ricardo Duchesne, „[https://dx.doi.org/10.1111/j.1540-5923.2006.00168.x Asia First?]”, ''The Journal of the Historical Society'', Tom 6, numer 1 (marzec 2006), ss. 69-91
+* [[William McNeill]], ''The Rise of the West: A History of the Human Community'', Chicago, University of Chicago Press, 1963.
+
+== Linki zewnętrzne ==
+* {{Cytuj stronę | url = http://fbc.pionier.net.pl/owoc/results?query=historia+powszechna&amp;action=DistributedSearchAction | tytuł = Historia powszechna w katalogu Federacji Bibliotek Cyfrowych | opublikowany = fbc.pionier.net.pl | archiwum = https://web.archive.org/web/20140801130530/http://fbc.pionier.net.pl/owoc/results?query=historia+powszechna&amp;action=DistributedSearchAction | zarchiwizowano = 2014-08-01}}
+* [http://dzieje.pl/ Dzieje.pl - Portal historyczny Polskiej Agencji Prasowej]
+* [http://www.historycy.org/index.php?showforum=91 Historia powszechna - Historycy.org]
+* [http://historia.org.pl/ Portal Historia.org.pl]
+
+{{Nauki historyczne}}
+
+[[Kategoria:Historia| ]]</text>
+      <sha1>tc1wnxjbgvyj81zsm2j8fypt2owshtx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Historia według epok</title>
+    <ns>14</ns>
+    <id>458538</id>
+    <revision>
+      <id>46282677</id>
+      <parentid>36693421</parentid>
+      <timestamp>2016-07-06T12:53:24Z</timestamp>
+      <contributor>
+        <username>SpiderMum</username>
+        <id>16515</id>
+      </contributor>
+      <comment>kat.</comment>
+      <origin>46282677</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="96" sha1="lybi29n7cvtzgaumhh6jnbhwf8ynlq9" xml:space="preserve">{{Commonscat|Historical eras}}
+
+[[Kategoria:Historia| ]]
+[[Kategoria:Zagadnienia według czasu]]</text>
+      <sha1>lybi29n7cvtzgaumhh6jnbhwf8ynlq9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Historia według tematyki</title>
+    <ns>14</ns>
+    <id>1337106</id>
+    <revision>
+      <id>51904701</id>
+      <parentid>35958126</parentid>
+      <timestamp>2018-01-20T18:52:47Z</timestamp>
+      <contributor>
+        <username>EmptyBot</username>
+        <id>717975</id>
+      </contributor>
+      <minor/>
+      <comment>EmptyBot przeniósł stronę [[Kategoria:Historia według specjalności]] na [[Kategoria:Historia według tematyki]], bez pozostawienia przekierowania pod starym tytułem: poprawna forma (przy użyciu [[Wikipedysta:Tufor/Quick ReCat|QRC]])</comment>
+      <origin>51904701</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="57" sha1="5iv6mkjb73qtsjgyvnvpezyi2wojv57" xml:space="preserve">{{Commonscat|History by topic}}
+
+[[Kategoria:Historia| ]]</text>
+      <sha1>5iv6mkjb73qtsjgyvnvpezyi2wojv57</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Historia według kontynentów</title>
+    <ns>14</ns>
+    <id>468615</id>
+    <revision>
+      <id>35247549</id>
+      <parentid>33957358</parentid>
+      <timestamp>2013-03-13T23:17:25Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>543400</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Addbot|Bot:]] Przenoszę linki interwiki (48) do [[d:|Wikidata]], są teraz dostępne do edycji na [[d:q7130199]]</comment>
+      <origin>35247549</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="105" sha1="izqogyyqprqeqi53vqar1kgxui5cuvs" xml:space="preserve">{{Commonscat|History by region}}
+
+[[Kategoria:Historia| ]]
+[[Kategoria:Zagadnienia według kontynentów]]</text>
+      <sha1>izqogyyqprqeqi53vqar1kgxui5cuvs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Historia według państw</title>
+    <ns>14</ns>
+    <id>1224876</id>
+    <revision>
+      <id>35413942</id>
+      <parentid>34133386</parentid>
+      <timestamp>2013-03-15T08:40:59Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>543400</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Addbot|Bot:]] Przenoszę linki interwiki (76) do [[d:|Wikidata]], są teraz dostępne do edycji na [[d:q5633929]]</comment>
+      <origin>35413942</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="143" sha1="cks9b0n664opg3tku3mn9ksc6r0qtp2" xml:space="preserve">Historia aktualnie istniejących państw.
+{{Commonscat|History by country}}
+
+[[Kategoria:Historia| ]]
+[[Kategoria:Zagadnienia według państw]]</text>
+      <sha1>cks9b0n664opg3tku3mn9ksc6r0qtp2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Nieistniejące organizacje</title>
+    <ns>14</ns>
+    <id>2207072</id>
+    <revision>
+      <id>35784238</id>
+      <parentid>33740630</parentid>
+      <timestamp>2013-03-19T08:09:28Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>543400</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Addbot|Bot:]] Przenoszę linki interwiki (20) do [[d:|Wikidata]], są teraz dostępne do edycji na [[d:q7663961]]</comment>
+      <origin>35784238</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="48" sha1="93h8tmd1wt3e3wq8wwov5ed373i4yep" xml:space="preserve">[[Kategoria:Organizacje]]
+[[Kategoria:Historia]]</text>
+      <sha1>93h8tmd1wt3e3wq8wwov5ed373i4yep</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Nauki historyczne w Polsce</title>
+    <ns>14</ns>
+    <id>2644833</id>
+    <revision>
+      <id>32251079</id>
+      <parentid>32225507</parentid>
+      <timestamp>2012-08-02T19:56:03Z</timestamp>
+      <contributor>
+        <username>Frees</username>
+        <id>10639</id>
+      </contributor>
+      <comment>kat.</comment>
+      <origin>32251079</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="69" sha1="g1xprpsv44ihgtkp88x6syoz90luecy" xml:space="preserve">[[Kategoria:Historia]]
+[[Kategoria:Nauka w Polsce według dziedziny]]</text>
+      <sha1>g1xprpsv44ihgtkp88x6syoz90luecy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Wydziały historii</title>
+    <ns>14</ns>
+    <id>1215207</id>
+    <revision>
+      <id>37331558</id>
+      <parentid>37331227</parentid>
+      <timestamp>2013-08-22T21:41:18Z</timestamp>
+      <contributor>
+        <username>SpiderMum</username>
+        <id>16515</id>
+      </contributor>
+      <minor/>
+      <comment>Dodano kategorię "Historia" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>37331558</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="85" sha1="6excxmekcpotd6wk1xxcggxbbbqiqhi" xml:space="preserve">[[Kategoria:Wydziały uczelni według specjalizacji|Historia]]
+[[Kategoria:Historia]]</text>
+      <sha1>6excxmekcpotd6wk1xxcggxbbbqiqhi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Klio (muza)</title>
+    <ns>0</ns>
+    <id>12939</id>
+    <revision>
+      <id>71058373</id>
+      <parentid>70247058</parentid>
+      <timestamp>2023-08-16T15:53:05Z</timestamp>
+      <contributor>
+        <username>AndrzeiBOT</username>
+        <id>705096</id>
+      </contributor>
+      <minor/>
+      <comment>Poprawa linkowań i typografii</comment>
+      <origin>71058373</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8158" sha1="9qp0xc84sr3r0b1pq0p3r4jxkl1ch5c" xml:space="preserve">{{Inne znaczenia|2=[[Klio|inne postacie o imieniu „Klio”]]}}
+{{Postać religijna infobox
+ |imię                     = Klio
+ |imię oryginalne          = Κλειώ
+ |grafika                  = Clio Pio-Clementino Inv291.jpg
+ |opis grafiki             = Klio, muza historii, marmurowa kopia rzymska z II wieku n.e. według oryginału greckiego, Muzeum Pio-Clementino ([[Muzea Watykańskie]])
+ |tytuł                    = bogini [[muzy|muza]] historii
+ |inne imiona              = 
+ |występowanie             = [[mitologia grecka]]
+ |przydomek                = 
+ |atrybut                  = zwój
+ |wcielenie zwierzęce      = 
+ |siedziba                 = [[Parnas]]
+ |teren kultu              = 
+ |szczególne miejsce kultu = 
+ |nazwa święta             = 
+ |odpowiednik              = 
+ |ojciec                   = [[Zeus]]
+ |matka                    = [[Mnemosyne (mitologia)|Mnemosyne]]
+ |mąż                      = 
+ |żona                     = 
+ |rodzeństwo               = [[Erato (muza)|Erato]],&lt;br /&gt;[[Euterpe (mitologia)|Euterpe]],&lt;br /&gt;[[Kalliope (mitologia)|Kalliope]],&lt;br /&gt;[[Melpomene (mitologia)|Melpomene]],&lt;br /&gt;[[Polihymnia]],&lt;br /&gt;[[Talia (muza)|Talia]],&lt;br /&gt;[[Terpsychora (muza)|Terpsychora]],&lt;br /&gt;[[Urania (muza)|Urania]]
+ |dzieci                   = 
+ |commons                  = Category:Clio
+ |wikisłownik              = Klio
+}}
+'''Klio''' („Głosząca sławę”, „Sławiąca”; [[język grecki|gr.]] {{grc|Κλειώ}} Kleiṓ, od gr. ''kléos'' ‘sława’, ''kleíein'' ‘wsławiać’, [[łacina|łac.]] Clio) – w [[mitologia grecka|mitologii greckiej]] [[muzy|muza]] [[historia|historii]]&lt;ref group="uwaga" name="Zadanie Klio" /&gt;{{r|Z. Kubiak}}.
+
+Uchodziła za córkę boga [[Zeus]]a i [[tytani]]dy [[Mnemosyne (mitologia)|Mnemosyne]] oraz za siostrę: [[Erato (muza)|Erato]], [[Euterpe (mitologia)|Euterpe]], [[Kalliope (mitologia)|Kalliope]], [[Melpomene (mitologia)|Melpomene]], [[Polihymnia|Polihymnii]], [[Talia (muza)|Talii]], [[Terpsychora (muza)|Terpsychory]] i [[Urania (muza)|Uranii]]{{r|Z. Kubiak|P. Grimal|V. Zamarovský}}. Według niektórych źródeł miała synów [[Hiacynt (syn Amyklasa)|Hiacynta]] (z [[Pieros (syn Magnesa)|Pierosem]]) i [[Hymen (mitologia)|Hymena]]{{r|P. Grimal 2}}.
+
+Była jedną spośród dziewięciu muz olimpijskich (przebywały na [[Olimp]]ie), które należały do orszaku [[Apollo|Apollina]] (Apollon Musagetes), ich przewodnika{{r|P. Grimal|M. Pietrzykowski|ancientlibrary.com}}. Wraz ze swoimi siostrami uświetniała śpiewem biesiady bosko-ludzkie (m.in. zaślubiny [[Tetyda (nereida)|Tetydy]] i [[Peleus]]a oraz [[Harmonia (mitologia)|Harmonii]] i [[Kadmos]]a), a także uczty olimpijskie samych bogów{{r|Z. Kubiak|P. Grimal}}.
+
+W sztuce przedstawiana jest zwykle jako kobieta ze [[zwój|zwojem]] [[papirus]]u (lub [[pergamin]]u) – atrybutem symbolizującym dziedzinę nauki, której patronowała{{r|Z. Kubiak|J. Parandowski|V. Zamarovský 2}}.
+
+Imieniem muzy nazwano jedną z planetoid – [[(84) Klio]] oraz nagrodę udzielaną każdego roku polskim autorom popularyzującym historię{{r|pwkh.pl}}.
+
+== Zobacz też ==
+* [[kameny]]
+* [[Pierydy]]
+
+== Uwagi ==
+{{Uwagi|
+&lt;ref group="uwaga" name="Zadanie Klio"&gt;Zadanie (rola) jakie Klio wyznaczono ostatecznie w późnym okresie [[starożytność|starożytności]].&lt;/ref&gt;
+}}
+
+== Przypisy ==
+{{Przypisy|
+&lt;ref name="Z. Kubiak"&gt;{{cytuj książkę|nazwisko=Kubiak|imię=Zygmunt|autor link=Zygmunt Kubiak|tytuł=Mitologia Greków i Rzymian|wydawca=Świat Książki|miejsce=Warszawa|data=2003|strony=145–147|isbn=83-7391-077-8|rozdział=Wyżyna olimpijska}}&lt;/ref&gt;
+&lt;ref name="P. Grimal"&gt;{{cytuj książkę|nazwisko=Grimal|imię=Pierre|autor link=Pierre Grimal|tytuł=Słownik mitologii greckiej i rzymskiej|wydawca=[[Zakład Narodowy im. Ossolińskich]]|miejsce=Wrocław|data=2008|strony=242–242|isbn=83-04-04673-3}}&lt;/ref&gt;
+&lt;ref name="V. Zamarovský"&gt;{{cytuj książkę|nazwisko=Zamarovský|imię=Vojtech|autor link=Vojtech Zamarovský|tytuł=Bohovia a hrdinovia antických bájí|wydawca=Perfekt a.s.|miejsce=Bratislava|rok=1998|strony=237|język=sk|isbn=80-8046-098-1}}; polskie wydanie: ''Bogowie i herosi mitologii greckiej i rzymskiej'' (''Encyklopedia mitologii antycznej'', ''Słownik mitologii greckiej i rzymskiej'').&lt;/ref&gt;
+&lt;ref name="P. Grimal 2"&gt;{{Cytuj|autor = Pierre Grimal |tytuł = Słownik mitologii greckiej i rzymskiej |data = 2008 |isbn = 978-83-04-04673-3 |inni = Jerzy Łanowski (red.); Maria Bronarska (tłum.) |miejsce = Wrocław [etc.] |wydawca = Zakład Narodowy im. Ossolińskich. Wydawnictwo |s = 148–150, 290 |oclc = 297685612 }}&lt;/ref&gt;
+&lt;ref name="M. Pietrzykowski"&gt;{{cytuj książkę|nazwisko=Pietrzykowski|imię=Michał|tytuł=Mitologia starożytnej Grecji|wydawca=Wydawnictwa Artystyczne i Filmowe|miejsce=Warszawa|data=1979|strony=163–164|isbn=83-221-0111-2|rozdział=Mity o bogach}}&lt;/ref&gt;
+&lt;ref name="ancientlibrary.com"&gt;{{cytuj stronę|url=http://web.archive.org/web/20051230063314/http://www.ancientlibrary.com:80/seyffert/0407.html|tytuł=Musagetes|nazwisko=|imię=|autor=[[Oskar Seyffert]]: ''Dictionary of Classical Antiquities'', 1894, s. 404|data=|opublikowany=ancientlibrary.com|język=en|data dostępu=2011-03-20}}&lt;/ref&gt;
+&lt;ref name="J. Parandowski"&gt;{{cytuj książkę|nazwisko=Parandowski|imię=Jan|autor link=Jan Parandowski|tytuł=Mitologia. Wierzenia i podania Greków i Rzymian|wydawca=Wydawnictwo Poznańskie|miejsce=Poznań|data=1989|strony=53-54|isbn=83-210-0677-9|rozdział=Bogowie olimpijscy}}&lt;/ref&gt;
+&lt;ref name="V. Zamarovský 2"&gt;Vojtech Zamarovský, op.cit., s. 294. {{ISBN|80-8046-098-1}}.&lt;/ref&gt;
+&lt;ref name="pwkh.pl"&gt;{{cytuj stronę|url=https://archive.is/20120909182246/http://www.pwkh.pl/index.php?id_kat=2|tytuł=Nagroda „Klio”|opublikowany=pwkh.pl|data dostępu=2010-02-05}}&lt;/ref&gt;
+}}
+
+== Bibliografia ==
+* {{cytuj stronę|url=http://www.theoi.com/Ouranios/MousaKleio.html|tytuł=Kleio|nazwisko=Atsma|imię=Aaron J.|data=|opublikowany=theoi.com|język=en|data dostępu=2010-01-11}}
+* {{cytuj stronę|url=http://www.mythindex.com/greek-mythology/C/Clio.html|tytuł=Clio|data=|opublikowany=mythindex.com|język=en|data dostępu=2010-01-18|archiwum=https://web.archive.org/web/20100420081643/http://www.mythindex.com/greek-mythology/C/Clio.html|zarchiwizowano=2010-04-20}}
+* {{cytuj książkę|autor=Hezjod|autor link=Hezjod|tytuł=Narodziny bogów (Theogonia); Prace i dni; Tarcza|wydawca=Prószyński i S-ka|miejsce=Warszawa|data=1999|isbn=83-7255-040-9}}
+* {{cytuj książkę|nazwisko=Kopaliński|imię=Władysław|autor link=Władysław Kopaliński|tytuł=Słownik mitów i tradycji kultury |wydawca=Oficyna Wydawnicza Rytm|miejsce=Warszawa|data=2003|strony=544|isbn=83-7399-022-4}}
+* {{cytuj książkę|nazwisko=|imię=|autor=|tytuł=Mała encyklopedia kultury antycznej|wydawca=[[Wydawnictwo Naukowe PWN|Państwowe Wydawnictwo Naukowe]]|miejsce=Warszawa|data=1990|strony=378|isbn=83-01-03529-3}}
+* {{cytuj stronę|url=http://www.maicar.com/GML/MUSES.html|tytuł=Clio&lt;sub&gt;1&lt;/sub&gt; (Muses)|nazwisko=Parada|imię=Carlos|opublikowany=maicar.com|język=en|data dostępu=2010-11-12}}
+* {{cytuj stronę|url=http://web.archive.org/web/20150401065803/http://www.ancientlibrary.com:80/seyffert/0408.html|tytuł=Muses|autor=Oskar Seyffert: ''Dictionary of Classical Antiquities'', 1894, s. 405|data=|opublikowany=ancientlibrary.com|język=en|data dostępu=2011-03-20}}
+* {{cytuj stronę|url=http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0104%3Aalphabetic+letter%3DC%3Aentry+group%3D26%3Aentry%3Dcleio-bio-1|tytuł=Cleio|autor=[[William Smith (leksykograf)|William Smith]]: ''A Dictionary of Greek and Roman biography and mythology''|data=|opublikowany=perseus.tufts.edu|język=en|data dostępu=2012-05-04}}
+* {{cytuj stronę|url=http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0062:id=clio-harpers|tytuł=Clio|autor=Harry Thurston Peck: ''Harpers Dictionary of Classical Antiquities'', 1898|opublikowany=perseus.tufts.edu|język=en|data dostępu=2012-05-04}}
+
+{{Muzy}}
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Muzy]]
+[[Kategoria:Bóstwa nauki]]
+[[Kategoria:Historia]]
+[[Kategoria:Ludzie upamiętnieni nazwami nagród]]</text>
+      <sha1>9qp0xc84sr3r0b1pq0p3r4jxkl1ch5c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kultura pamięci</title>
+    <ns>0</ns>
+    <id>3242327</id>
+    <revision>
+      <id>74416201</id>
+      <parentid>68479778</parentid>
+      <timestamp>2024-07-27T16:43:14Z</timestamp>
+      <contributor>
+        <username>Tęczowy Szop</username>
+        <id>1333344</id>
+      </contributor>
+      <comment>/* growthexperiments-addlink-summary-summary:3|0|0 */</comment>
+      <origin>74416201</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="13654" sha1="4x1zbzc3jm9yscqyts1vqwaqm68jmhp" xml:space="preserve">'''Kultura pamięci''' (niem. ''Erinnerungskultur'') – całokształt sposobów obchodzenia się z [[Przeszłość|przeszłością]] i [[Historia|historią]] przez grupy i jednostki. Obejmuje wszelkie formy reprezentacji przeszłości i pamięci, w tym przedstawienia zdarzeń w [[Pamięć zbiorowa|pamięci zbiorowej]], upamiętnianie ich, wkomponowywanie w przestrzeń publiczną i teksty kultury. Kulturę pamięci cechują i stymulują [[subiektywizm]], brak dystansu oraz postrzeganie przeszłości ze współczesnej perspektywy. Naukowo-obiektywny stosunek do historii ma tu natomiast znaczenie drugorzędne. Termin ten jest bardzo popularny w niemieckim dyskursie naukowym. Angielskiego pojęcia ''memory culture'' używa się sporadycznie i przeważnie w znaczeniu przenośnym lub jako tłumaczenie niemieckiego terminu. W polskim języku naukowym określenie „kultura pamięci” popularyzuje się od około 2010 roku. W 2014 roku ukazał się interdyscyplinarny leksykon terminów kultury pamięci „Modi Memorandi”, będący przejawem wzrostu zainteresowania tą tematyką.
+
+Termin „kultura pamięci” bywa krytykowany jako zbyt szeroki i rozmyty. Jednocześnie właśnie dzięki swojej pojemności znajduje on szerokie zastosowanie, gdyż daje się dookreślać przez zestawienie z pojęciami bliskoznacznymi, takimi jak pamięć zbiorowa, [[polityka historyczna]] czy kultura historyczna.
+
+== Definicje pojęcia ==
+Programową definicję kultury pamięci przedstawił Christoph Cornelißen, uznając ją za:
+
+{{Cytat
+ |treść = pojęcie nadrzędne dla wszelkich możliwych form świadomej pamięci wydarzeń historycznych, osobistości i procesów, niezależnie od tego, czy są one natury estetycznej, politycznej czy kognitywnej. Obejmuje ono, oprócz form ahistorycznej czy wręcz antyhistorycznej pamięci zbiorowej, wszystkie inne sposoby reprezentacji historii, w tym dyskurs naukowo-historyczny oraz „prywatne” wspomnienia, o ile zostawiły one ślady w przestrzeni publicznej. Jako podmioty tej kultury występują jednostki, grupy społeczne lub wręcz narody i państwa.
+ |autor = Christoph Cornelißen
+ |źródło = Co to znaczy kultura pamięci? Pojęcie – metody – perspektywy (2003)
+ |styl = środek
+}}
+
+Pojęcie to używane jest również w węższym znaczeniu: dotyczy wówczas ekspansji praktyk upamiętniania pod koniec XX i na początku XXI w., dotyczących przede wszystkim spuścizny II wojny światowej, w szczególności zaś [[Holocaust|Holokaustu]]. W tym znaczeniu stosuje je przede wszystkim Aleida Assmann&lt;ref&gt;{{Cytuj książkę |nazwisko = Assmann |imię = Aleida |tytuł = Między pamięcią a historią. Antologia |inni = Magdalena Saryusz-Wolska (red)|rok = 2013 |wydawca = Wydawnictwa Uniwersytetu Warszawskiego |miejsce = Warszawa |strony = |isbn =}}&lt;/ref&gt;.
+
+Definicje Cornelißena i Assmann łączą się ze sobą, bowiem konieczność przepracowania przeszłości i traum związanych z historią XX wieku przyczyniła się do naukowego zainteresowania tematyką pamięci i stworzenia pojęcia opisującego sposoby obchodzenia się z przeszłością. Choć w ramach studiów nad pamięcią (''memory studies'') centralne miejsce wciąż zajmuje Holokaust i [[II wojna światowa]], coraz częściej pojawiają się prace nawiązujące do szerszego ujęcia kultury pamięci.
+
+== Rodzaje kultur pamięci ==
+Pojęcie „kultura pamięci” odsyła do uniwersalnych, kulturowych mechanizmów pamięci, możliwe jest jednak również mówienie o kulturach pamięci (w liczbie mnogiej) w odniesieniu do poszczególnych zbiorowości&lt;ref&gt;{{Cytuj książkę |nazwisko = |imię = |tytuł = Modi memorandi. Leksykon kultury pamięci |inni = Magdalena Saryusz-Wolaska (red), Robert Traba (red), współpraca Joanna Kalicka (red)|rok = 2014 |wydawca = Scholar |miejsce = Warszawa |strony = 13–30 |isbn = 978-83-7383-661-7}}&lt;/ref&gt;. Kultura pamięci rozumiana jest wtedy jako element łączący jednostki we [[Wspólnota|wspólnotę]], a uwagę zwraca się na cechy ogólne pamięci pewnej grupy, akcentując te elementy, które odróżniają daną grupę od innych. W konsekwencji można wyróżnić narodowe kultury pamięci np. polską, niemiecką, etniczne np. śląską, płciowe, religijne, lokalne&lt;ref&gt;{{Cytuj |autor = Leonard Drożdżewicz |tytuł = Z wileńskiej pamięci |czasopismo=Znad Wilii |opis=nr 4 (64) |data=2015 |s=34 |url=http://www.wilnoteka.lt/artykul/nowy-numer-kwartalnika-quotznad-wiliiquot-0}}&lt;/ref&gt; itp. Kultury pamięci mogą też obejmować wspólnoty ponadnarodowe, czemu sprzyja realizacja projektów dwustronnych (takich jak badania polsko-niemieckich miejsc pamięci&lt;ref&gt;{{Cytuj książkę |nazwisko = |imię = |tytuł = Polsko-niemieckie miejsca pamięci t.3 Paralele |inni = Robert Traba (red), Hans Henning Hahn (red) we współpracy z Maciejem Górnym (red)i Kornelią Kończal (red)|rok = 2012 |wydawca = Scholar |miejsce = Warszawa |strony = |isbn = 978-83-7383-497-2}}&lt;/ref&gt; czy próby stworzenia wspólnego polsko-niemieckiego podręcznika do historii). Jeszcze szerszy zakres mają europejska czy globalna kultura pamięci, jakkolwiek istnieją wątpliwości co do zasadności ich wyodrębniania.&amp;nbsp;
+
+== Kultura pamięci a pamięć zbiorowa ==
+Ze ścisłego połączenia terminów „kultura pamięci” i „pamięć zbiorowa” wynika „kariera” tego pierwszego w dyskursie naukowym związanym z rozwojem badań nad pamięcią. Wraz ze wzrostem zainteresowania przeszłością w Europie od końca lat 70. XX wieku i upowszechnieniem się pojęcia „pamięć zbiorowa” w naukach humanistycznych, ten socjologiczny termin uległ zatarciu i rozmyciu. Szukając alternatywnych koncepcji, naukowcy stworzyli pojęcia takie jak: kulturowe pamiętanie, pamięć społeczna, pamięć kulturowa, kultura historyczna, a także: kultura pamięci.
+
+== Kultura pamięci a kultura historyczna ==
+Termin „kultura pamięci” należy traktować jako bliskoznaczny z terminem „kultura historyczna”. Ten drugi jest bardziej rozpowszechniony w polskim dyskursie naukowym. Pisali na jego temat m.in. Stanisław Zakrzewski i Brygida Kürbisówa, współcześnie używa go Andrzej Szpociński&lt;ref&gt;{{Cytuj książkę |nazwisko = |imię = |tytuł = Modi memorandi. Leksykon kultury pamięci |inni = Magdalena Saryusz-Wolska (red), Robert Traba (red), współpraca Joanna Kalicka (red)|rok = 2014 |wydawca = |miejsce = Scholar |strony = 201–204 |isbn = 978-83-7383-661-7 |rozdział = Małgorzata Pakier: Kultura historyczna}}&lt;/ref&gt;.
+
+Kultura pamięci silniej akcentuje jednak wykorzystywanie przeszłości w teraźniejszości np. do wspierania określonych tożsamości&lt;ref&gt;{{Cytuj stronę |url = http://docupedia.de/zg/Erinnerungskulturen_Version_2.0_Christoph_Corneli.C3.9Fen?oldid=84892 |tytuł = Erinnerungskulturen, Version: 2.0 |autor = Christoph Cornelißen |opublikowany = Docupedia-Zeitgeschichte |język = de |rok = 2012 |strony = 2 |data dostępu = 2014-09-02}}&lt;/ref&gt;, jak również podkreśla kwestie związane z dyskursywnymi i artystycznymi przedstawieniami historii.&amp;nbsp;
+
+== Kultura pamięci a polityka historyczna ==
+Terminy te łączą się ze sobą, nie są jednak tożsame. Polityka historyczna jest związana z działaniem państwa i instytucjonalizacją pamięci. Do jej przejawów należy m.in. stawianie pomników, tworzenie muzeów i organizowanie oficjalnych uroczystości. Kulturę pamięci można rozumieć szerzej: jako strukturalne, społeczne i kulturowe ramy, w których uprawiana jest polityka historyczna oraz tworzone są reprezentacje historii. Tak więc kultura pamięci pewnej grupy istnieje również w sytuacji, gdy owa grupa nie dysponuje własnymi organami państwowymi, lub gdy te istniejące nie reprezentują jej sposobu postrzegania przeszłości.
+
+== Europejska kultura pamięci ==
+W wielu krajach Europy Zachodniej kultura pamięci stała się niemal synonimem pamięci o Holokauście i ofiarach II wojny światowej. Na tej podstawie próbowano ufundować wspólną europejską kulturę pamięci. Momentem przełomowym była Międzynarodowa Konferencja w Sztokholmie w 2000 roku poświęcona Holokaustowi, gdzie wskutek wspólnych wysiłków wielu rządów Zagładę Żydów uznano za negatywne, lecz wspólne dziedzictwo europejskie. Dzień 27 stycznia, rocznicę wyzwolenia obozu w Auschwitz, ogłoszono w wielu krajach Unii Europejskiej oficjalnym [[Międzynarodowy Dzień Pamięci o Ofiarach Holokaustu|Międzynarodowym Dniem Pamięci o Ofiarach Holokaustu]].
+
+Jednocześnie państwa byłego bloku wschodniego domagają się upamiętnienia na równych prawach własnych ofiar poniesionych w walce zarówno z narodowym socjalizmem, jak i komunizmem. Opór budzi akcentowanie okrucieństwa tylko jednego z systemów [[Totalitaryzm|totalitarnych]] i przyznawania szczególnej roli ofiar wyłącznie Żydom. Przykładem owego rozdźwięku pomiędzy wschodem i zachodem Europy może być tu przemówienie łotewskiej minister spraw zagranicznych Sandry Kalniete z 24 marca 2004 roku&lt;ref&gt;{{Cytuj stronę |url = http://jungefreiheit.de/service/archiv/?www.jf-archiv.de/archiv04/154yy21.htm |tytuł = Altes Europa, Neues Europa |autor = Sandra Kalniete |opublikowany = jungefreiheit.de |język = de |data dostępu = 2014-09-19}}&lt;/ref&gt;, w którym postulowała uznanie, że systemy nazistowski i [[Komunizm|komunistyczny]] były równie zbrodnicze. Spotkało się ono z silną krytyką w niemieckich mediach – aż do ryczałtowego oskarżenia państw Europy Środkowo-Wschodniej o antysemityzm&lt;ref&gt;{{Cytuj książkę |nazwisko = Troebst |imię = Stefan |tytuł = Postkomunistyczne kultury pamięci w Europie Wschodniej: stan, kategoryzacja, periodyzacja (Postkommunistische Erinnerungskulturen im östlichen Europa: Bestandaufnahme, Kategorisierung, Periodisierung) |inni = P. Buras (tłum)|rok = 2005 |wydawca = Wydawnictwo Uniwersytetu Wrocławskiego |miejsce = Wrocław |strony = |isbn =}}&lt;/ref&gt;. Po rozszerzeniu Unii Europejskiej o Polskę, Czechy, Słowację, Węgry, Słowenię i państwa bałtyckie dyskusja była kontynuowana i podejmowano próby zintegrowania odmiennych kultur pamięci. Krokiem w tym kierunku było chociażby ustanowienie przez Parlament Europejski [[Europejski Dzień Pamięci Ofiar Stalinizmu i Nazizmu|Europejskiego Dnia Pamięci Ofiar Stalinizmu i Nazizmu]], który przypada 23 sierpnia – w rocznicę podpisania [[Pakt Ribbentrop-Mołotow|paktu Ribbentrop-Mołotow]]. Claus Leggewie postulował w 2009 roku stworzenie europejskiej kultury pamięci opartej na 7 kręgach&lt;ref&gt;{{Cytuj pismo |nazwisko = Leggewie |imię = Claus |tytuł = Wielkie narracje |czasopismo = Dziennik: Europa |wolumin = |wydanie = |strony = 10–12 |data = 2009-06-06/07 |issn =}}&lt;/ref&gt;: Holocaust jako negatywny mit założycielski, sowiecki komunizm, wypędzenia, kwestia ormiańska, peryferia Europy, Europa jako kontynent migracji, europejska historia sukcesu po 1945 roku. Pomysł oparcia się na wspólnym doświadczeniu wysiedleń jest reakcją na ich polityczne wykorzystywanie przez niemieckich wypędzonych i reprezentującą ich [[Erika Steinbach|Erikę Steinbach]]. Na tej glebie wyrosła idea stworzenia międzynarodowej inicjatywy [[Europejska Sieć Pamięć i Solidarność|Europejskiej Sieci Pamięć i Solidarność]], powołanej do badanie, dokumentowania oraz upowszechnienia wiedzy na temat historii Europy XX wieku i sposobów jej upamiętniania.
+
+== Zobacz też ==
+* [[Pamięć zbiorowa]], [[Świadomość historyczna]], [[Polityka historyczna]]
+
+== Przypisy ==
+{{Przypisy}}
+
+== Bibliografia ==
+* ''A European Memory? Contested Histories and Politics of Rememberance'', red. Małgorzata Pakier, Bo Stråth, New York, Oxford: Berghahn Books 2010.
+* Assmann Aleida: ''Między pamięcią a historią. Antologia'', red. Magdalena Saryusz-Wolska, Warszawa: Wydawnictwa Uniwersytetu Warszawskiego 2013.
+* Cornelißen Christoph: ''Co to znaczy kultura pamięci? Pojęcie – metody – perspektywy'', tłum. Ewa Bagłajewska-Miglus (maszynopis) (na podstawie: Christoph Cornelißen: „Was heißt Erinnerungskultur? Begriff – Methoden – Perspektiven”'', Geschichte in Wissenschaft und Unterricht'' 54 [2003], s. 548–563).
+* Cornelißen Christoph: ''Erinnerungskulturen, Version: 2.0'', [w:]: Docupedia-Zeitgeschichte, 22.10.2012, http://docupedia.de/zg/Erinnerungskulturen_Version_2.0_Christoph_Corneli.C3.9Fen?oldid=84892.
+* Erll Astrid: ''Kollektives Gedächtnis und Erinnerungskulturen: Eine Einführung'', Stuttgart: J. B. Metzler 2005.
+* Leggewie Claus:'' Wielkie narracje'', „Dziennik: Europa”, 6-7.06.2009, s. 10–12.
+* ''Geschichtspolitik in Europa seit 1989. Deutschland, Frankreich und Polen im internationalen Vergleich'', red. Etienne François, Kornelia Kończal, Robert Traba, Stefan Troebst, Göttingen: Wallstein Verlag 2013.
+* Łuczewski Michał, Bednarz-Łuczewska Paulina:'' Memory cultures and politics of history. A plea for Polish-Russian cooperation'', „Inter”, 2011/ 6, s. 7–13.
+* ''Modi Memorandi. Leksykon kultury pamięci'', red. Magdalena Saryusz-Wolska, Robert Traba, współpraca: Joanna Kalicka, Warszawa: Scholar 2014.
+* Kalniete Sandra: ''Altes Europa, Neues Europa. Rede zur Eröffnung der Leipziger Buchmesse am 24. März 2004'', http://www.die-union.de/reden/altes_neues_europa.htm
+* Troebst Stefan: ''Postkommunistische Erinnerungskulturen im östlichen Europa: Bestandaufnahme, Kategorisierung, Periodisierung = Postkomunistyczne kultury pamięci w Europie Wschodniej: stan, kategoryzacja, periodyzacja'', tłum. Piotr Buras, Wrocław: Wydawnictwo Uniwersytetu Wrocławskiego 2005.
+
+[[Kategoria:Psychologia społeczna]]
+[[Kategoria:Historia]]</text>
+      <sha1>4x1zbzc3jm9yscqyts1vqwaqm68jmhp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Portal:Historia</title>
+    <ns>100</ns>
+    <id>79435</id>
+    <revision>
+      <id>73770554</id>
+      <parentid>71453259</parentid>
+      <timestamp>2024-05-13T21:39:38Z</timestamp>
+      <contributor>
+        <username>MalarzBOT</username>
+        <id>31007</id>
+      </contributor>
+      <minor/>
+      <comment>MalarzBOT: poprawki</comment>
+      <origin>73770554</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3113" sha1="p5ucdfadjht0qdspic58yyh81dozwf2" xml:space="preserve">{{Wygaszony portal}}
+{{Wikipedia:Portal/nawigacja}}
+{| width ="100%" cellpadding=3 cellspacing=0 style="margin: 5px 0px; text-align:center; border-bottom:1px solid Black"
+|- valign="middle"
+| style="text-align: right" |&lt;span style="color: Gainsboro; font-family: Georgia; font-size:50pt; margin-bottom:1em;"&gt;portal&lt;/span&gt;&amp;nbsp; &amp;nbsp;&lt;span style="font-family: Georgia; font-size:50pt; margin-bottom:1em;"&gt;Historia&lt;/span&gt;
+|}
+
+{| width ="100%" cellpadding=3 cellspacing=0 style="margin: 5px 0px; text-align:center; border-bottom:1px solid Black; style="vertical-align:top"
+|- valign="middle" height="50px" 
+| colspan="2" |
+|- valign="middle" style="vertical-align:top"
+| width="55%" |
+&lt;!-- LEWA --&gt;
+{| width ="100%" cellpadding=3 cellspacing=0 style="margin: 5px 0px; text-align:center; border-bottom:1px solid Black; style="vertical-align:top"
+|- valign="middle" height="50px" 
+| colspan="2" |
+|- valign="middle" style="; style="vertical-align:top"
+| width="55%" |{{Portal:Historia/Nowe}}
+|- valign="middle" style="; style="vertical-align:top"
+| width="55%" |{{Portal:Historia/Rocznica}}
+|- valign="middle" style="; style="vertical-align:top"
+| width="55%" |{{Portal:Historia/Ciekawostki/{{CURRENTMONTHNAME}}}}
+|- valign="middle" style="; style="vertical-align:top"
+| width="55%" |{{Portal:Historia/Zabytki/{{CURRENTWEEK}}}}
+|- valign="middle" style="; style="vertical-align:top"
+| width="55%" |{{Portal:Historia/Artykuł}}
+|}
+
+| width="45%" |
+
+&lt;!-- PRAWA --&gt;
+{| width ="100%" cellpadding=3 cellspacing=0 style="margin: 5px 0px; text-align:center; border-bottom:1px solid Black; style="vertical-align:top"
+|- valign="middle" height="50px" 
+| colspan="2" |
+|- valign="middle" style="; style="vertical-align:top"
+| {{Portal:Historia/Hasła}}
+|}
+|}
+
+[[Plik:Deco pag5.svg|150px|center|link=]]
+
+{| width ="100%" cellpadding=3 cellspacing=0 style="margin: 5px 0px; text-align:center; border-bottom:1px solid Black; border-top:1px solid Black"
+|- valign="middle" 
+| [[Portal:Biografie|&lt;span style="color: Black; font-family: Georgia; font-size:12pt"&gt;Biografie&lt;/span&gt;]]&lt;span style="color: Gainsboro; font-family: Georgia; font-size:12pt"&gt; • &lt;/span&gt;[[Portal:Heraldyka|&lt;span style="color: Black; font-family: Georgia; font-size:12pt"&gt;Heraldyka&lt;/span&gt;]]&lt;span style="color: Gainsboro; font-family: Georgia; font-size:12pt"&gt; • &lt;/span&gt;[[Portal:Starożytny Egipt|&lt;span style="color: Black; font-family: Georgia; font-size:12pt"&gt;Starożytny Egipt&lt;/span&gt;]]&lt;span style="color: Gainsboro; font-family: Georgia; font-size:12pt"&gt; • &lt;/span&gt;[[Portal:Średniowiecze|&lt;span style="color: Black; font-family: Georgia; font-size:12pt"&gt;Średniowiecze&lt;/span&gt;]]&lt;span style="color: Gainsboro; font-family: Georgia; font-size:12pt"&gt; • &lt;/span&gt;[[Portal:II wojna światowa|&lt;span style="color: Black; font-family: Georgia; font-size:12pt"&gt;II wojna światowa&lt;/span&gt;]]&lt;span style="color: Gainsboro; font-family: Georgia; font-size:12pt"&gt; • &lt;/span&gt;[[Portal:Polska Ludowa|&lt;span style="color: Black; font-family: Georgia; font-size:12pt"&gt;PRL&lt;/span&gt;]]
+
+|- valign="middle" 
+| {{portale}}
+|}
+
+[[Kategoria:Historia|!]]
+[[Kategoria:Portal Historia| ]]</text>
+      <sha1>p5ucdfadjht0qdspic58yyh81dozwf2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Listy związane z historią</title>
+    <ns>14</ns>
+    <id>463138</id>
+    <revision>
+      <id>50798729</id>
+      <parentid>47539476</parentid>
+      <timestamp>2017-11-01T11:00:46Z</timestamp>
+      <contributor>
+        <username>Sławek Borewicz</username>
+        <id>393402</id>
+      </contributor>
+      <comment>-[[Kategoria:Listy]]; +[[Kategoria:Listy związane z nauką]] za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>50798729</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="72" sha1="lmzacbx2mbc3scuykkges8zelzqcd6a" xml:space="preserve">[[Kategoria:Historia|*]]
+[[Kategoria:Listy związane z nauką|historia]]</text>
+      <sha1>lmzacbx2mbc3scuykkges8zelzqcd6a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Rekonstrukcje historyczne</title>
+    <ns>14</ns>
+    <id>4575217</id>
+    <revision>
+      <id>64258459</id>
+      <parentid>57000892</parentid>
+      <timestamp>2021-08-08T17:32:04Z</timestamp>
+      <contributor>
+        <username>Alan ffm</username>
+        <id>357169</id>
+      </contributor>
+      <comment>kat.</comment>
+      <origin>64258459</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="73" sha1="it8zvy1p37nu060rhvgf7jthaozw5p7" xml:space="preserve">{{Commonscat|Reenactments}}
+
+[[Kategoria:Historia]]
+[[Kategoria:Imprezy]]</text>
+      <sha1>it8zvy1p37nu060rhvgf7jthaozw5p7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ekologia kulturowa</title>
+    <ns>0</ns>
+    <id>4647909</id>
+    <revision>
+      <id>75040850</id>
+      <parentid>74517579</parentid>
+      <timestamp>2024-10-24T17:03:25Z</timestamp>
+      <contributor>
+        <username>EmptyBot</username>
+        <id>717975</id>
+      </contributor>
+      <minor/>
+      <comment>dr. tech.</comment>
+      <origin>75040850</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="24555" sha1="78ie9m48nzerayd4lhspz23ibc324ii" xml:space="preserve">'''Ekologia kulturowa''' - nauka o [[Adaptacja (biologia)|adaptacji]] człowieka do [[Środowisko społeczne|środowiska społecznego]] i fizycznego. Adaptacja człowieka odnosi się zarówno do procesów biologicznych, jak i kulturowych, które umożliwiają ludności przeżycie i [[Rozmnażanie|rozmnażanie się]] w danym lub zmieniającym się [[Środowisko|środowisku]]&lt;ref&gt;{{Cytuj |autor =Donald Joralemon |tytuł = Exploring medical anthropology |data = 2010 |data dostępu = 2019-11-26 |isbn = 978-0-205-69351-1 |wydanie = 3rd ed |miejsce = Upper Saddle River, NJ |wydawca = Prentice Hall |oclc = 277205447}}&lt;/ref&gt;. Można badać ją w [[Podejście diachroniczne|ujęciu diachronicznym]] (badanie bytów istniejących w różnych epokach) lub [[Podejście synchroniczne|synchronicznym]] (badanie obecnego systemu i jego elementów). Głównym argumentem jest to, że środowisko naturalne, w społeczeństwach lokalnych lub opierających się na [[Handel wymienny|handlu wymiennym]], częściowo od niego zależnych, w znacznym stopniu przyczynia się do rozwoju organizacji społecznej i innych [[Instytucja (socjologia)|instytucji]]. W sferze akademickiej, w połączeniu z badaniem [[Ekonomia polityczna|ekonomii politycznej]] oraz badaniem [[Ekonomia|ekonomii]] jako ustroju, staje się ona [[Ekologia polityczna|ekologią polityczną]], kolejną subdziedziną akademicką. Jest przydatna również w analizie wydarzeń historycznych, takich jak [[Historia Wyspy Wielkanocnej|Syndrom Wyspy Wielkanocnej]].
+
+== Historia ==
+Termin „ekologia kulturowa” został wprowadzony przez antropologa kulturowego [[Julian Steward|Juliana Stewarda]], który przedstawił go jako [[Metodologia|metodologię]] pozwalającą na badanie, w jaki sposób ludzkość dostosowuje się do różnorodnych środowisk. W ''Theory of Culture Change: The Methodology of Multilinear Evolution''&lt;ref name=":0"&gt;{{Cytuj |autor = Julian H. Steward |tytuł = The theory of culture change ; the methodology of multilinear evolution |data = 1963 |data dostępu = 2020-01-20 |wydawca = Univ. Press |oclc = 637635103}}&lt;/ref&gt;. Steward opisuje ekologię kulturową jako „sposoby, w jakie zmiana kulturowa jest wywoływana poprzez dostosowywanie się do środowiska”.  Kluczową kwestią jest to, że każda konkretna adaptacja człowieka jest częściowo odziedziczona historycznie i obejmuje technologie, praktyki i wiedzę, które pozwalają ludziom żyć w danym środowisku. Oznacza to, że pomimo wpływu, jaki środowisko wywiera na sposób ludzkiej adaptacji, nie jest ono jedynym determinującym ją czynnikiem. W ten sposób Steward wprowadza rozróżnienie pomiędzy [[Zmienna środowiskowa|zmiennymi środowiskowymi]] a wewnętrznym dostosowaniem [[Kultura|kultury]] rozwijającej się w danym środowisku. W perspektywie długoterminowej oznacza to, że środowisko i kultura są w pewnym sensie osobnymi ścieżkami ewolucyjnymi, a zdolność jednego z tych czynników do wywierania wpływu na drugi zależy od wewnętrznej struktury każdego z nich. To twierdzenie, że środowisko fizyczne i biologiczne wpływa na kulturę - okazało się kontrowersyjne, ponieważ implikuje element [[Determinizm środowiskowy|determinizmu środowiskowego]] wobec ludzkich działań, co niektórzy badacze nauk społecznych, w szczególności osoby piszące z perspektywy [[Marksizm|marksistowskiej]], uważają za problematyczne. Ekologia kulturowa uznaje, że uwarunkowania ekologiczne odgrywają znaczącą rolę w kształtowaniu kultur danego regionu.
+
+=== Metodologia zaproponowana przez Stewarda ===
+Zastosowana przez Stewarda metodologia polegała na:
+
+# Dokumentacji technologii i metod wykorzystywanych do eksploatacji środowiska w celu utrzymywania się z jego zasobów.
+# Obserwacji wzorców ludzkich zachowań / kultury związanych z korzystaniem ze środowiska.
+# Ocenie, w jaki sposób te wzorce zachowań wpłynęły na inne aspekty kultury (np. w jaki sposób, w regionie podatnym na suszę, duże zaniepokojenie związane z wzorcami opadów spowodowało, że stały się one jednym z podstawowych aspektów życia codziennego, i doprowadziło do rozwoju systemu wierzeń, w którym opady deszczu i woda zajmowały kluczową pozycję. Taki system przekonań może nie pojawić się w społeczeństwie, w którym obfite opady deszczu, wystarczające dla rozwoju roślinności, można uznać za coś oczywistego lub w którym praktykowano nawadnianie)&lt;ref name=":0" /&gt;.
+
+=== Wpływ na naukę ===
+Koncepcja ekologii kulturowej wypracowana przez Stewarda&lt;ref name=":0" /&gt; stała się popularna wśród antropologów i archeologów w połowie XX wieku, choć później spotkali się oni z krytyką ze względu na swój [[determinizm środowiskowy]]. Ekologia kulturowa była jednym z głównych założeń i czynników napędzających rozwój [[Archeologia procesualna|archeologii procesualnej]] w latach 60. XX wieku, ponieważ archeolodzy pojmowali zmianę kulturową w ramach technologii i wpływu wywieranego przez nią na adaptację środowiskową.
+
+== W antropologii ==
+Ekologia kulturowa w formie opracowanej przez Stewarda&lt;ref name=":0" /&gt; jest jedną z głównych subdyscyplin antropologii. Wywodzi się z prac [[Franz Boas|Franza Boasa]] i rozszerzyła się na wiele aspektów ludzkiego społeczeństwa, w szczególności podział bogactwa i władzy w społeczeństwie oraz to, jak wpływ wywiera na takie zachowania jak [[gromadzenie]] lub [[obdarowywanie]] (np. tradycja [[Potlacz|poltacz]] na północno-zachodnim wybrzeżu Ameryki Północnej).
+
+== Jako projekt interdyscyplinarny ==
+Jedna z koncepcji ekologii kulturowej powstałych w latach dwutysięcznych jest ogólną teorią, która traktuje [[Ekologia|ekologię]] jako [[paradygmat]] nie tylko dla [[Nauki przyrodnicze|nauk przyrodniczych]] i [[Antropologia|antropologicznych]], ale także dla [[Kulturoznawstwo|kulturoznawstwa]]. W ''Die Ökologie des Wissens'' [[Peter Finke]] wyjaśnia, że teoria ta łączy różne kultury wiedzy, które wyewoluowały w historii i które zostały podzielone na coraz bardziej wyspecjalizowane dyscypliny i subdyscypliny w ewolucji współczesnej nauki&lt;ref&gt;{{Cytuj |autor = Peter Finke |tytuł = Die Ökologie des Wissens. Exkursionen in eine gefährdete Landschaft |data = 2005}}&lt;/ref&gt;. W tym ujęciu ekologia kulturowa uznaje sferę kultury ludzkiej nie za odrębną, lecz współzależną i przekształcaną przez procesy ekologiczne i naturalne cykle energetyczne. Jednocześnie uznaje względną niezależność i autorefleksyjną dynamikę procesów kulturowych. Ze względu na to, że koncepcja zależności kultury od przyrody i uwzględnienie nieuniknionej obecności przyrody w kulturze zyskuje [[Interdyscyplinarność|interdyscyplinarne]] znaczenie, różnica między ewolucją kultury a ewolucją naturalną jest coraz bardziej zauważana przez ekologów kulturowych. W miejsce praw genetycznych, informacje i komunikacja stały się głównymi siłami napędowymi ewolucji kulturowej&lt;ref&gt;{{Cytuj |autor = Peter Finke |tytuł = Die Evolutionäre Kulturökologie: Hintergründe, Prinzipien und Perspektiven einer neuen Theorie der Kultur |czasopismo = Anglia - Zeitschrift für englische Philologie |data = 2006-01-07 |data dostępu = 2019-11-26 |issn = 0340-5222 |wolumin = 124 |numer = 1 |doi = 10.1515/angl.2006.175}}&lt;/ref&gt;. Przyczynowe deterministyczne prawa nie mają zatem zastosowania do kultury w ścisłym tego słowa znaczeniu, istnieją jednak wartościowe analogie, które można znaleźć pomiędzy procesami ekologicznymi i kulturowymi.
+
+[[Gregory Bateson]] jako pierwszy nakreślił takie analogie w ''Steps to an Ecology of Mind'', opierając je na ogólnych zasadach złożonych dynamicznych procesów życiowych, np. koncepcja pętli [[Sprzężenie zwrotne|sprzężenia zwrotnego]], która, w jego opinii, funkcjonowała zarówno pomiędzy umysłem i światem, jak i wewnątrz samego umysłu&lt;ref&gt;{{Cytuj |autor = Daniel Foxman, Gregory Bateson |tytuł = Steps to an Ecology of Mind |czasopismo = The Western Political Quarterly |data = 1973-06 |data dostępu = 2019-11-26 |issn = 0043-4078 |wolumin = 26 |numer = 2 |s = 345 |doi = 10.2307/446833}}&lt;/ref&gt;. Bateson nie postrzega umysłu ani jako autonomicznej, metafizycznej siły, ani jako zwykłej neurologicznej funkcji mózgu, lecz jako „odhierarchizowaną koncepcję wzajemnej zależności między (ludzkim) organizmem a jego (naturalnym) środowiskiem, podmiotem i przedmiotem, kulturą i przyrodą”, a zatem jako „synonim [[Cybernetyka|cybernetycznego]] systemu obwodów informacyjnych, które są istotne dla przetrwania gatunku”&lt;ref&gt;{{Cytuj |autor = Christa Grewe-Volpp |tytuł = Natur – Kultur – Text: Beiträge zu Ökologie und Literaturwissenschaft, ed. Catrin Gersdorf &amp; Sylvia Mayer |czasopismo = Anglia - Zeitschrift für englische Philologie |data = 2007-01 |data dostępu = 2019-11-26 |issn = 0340-5222 |wolumin = 125 |numer = 1 |doi = 10.1515/angl.2007.160}}&lt;/ref&gt;.
+
+Finke łączy te pomysły z koncepcjami z [[Teoria systemów|teorii systemów]]. Opisuje różne sekcje i podsystemy społeczeństwa jako „[[Ekosystem kulturowy|ekosystemy kulturowe]]” z własnymi procesami produkcji, konsumpcji i redukcji energii (zarówno fizycznej, jak i psychicznej). Dotyczy to także kulturowych ekosystemów sztuki i literatury, które podążają za swoimi wewnętrznymi siłami selekcji i samoodnawiania, ale pełnią także ważną funkcję w całym systemie kulturowym&lt;ref&gt;{{Cytuj |autor = Peter Finke |redaktor = Darrel P. Arnold |tytuł = A Brief Outline of Evolutionary Cultural Ecology |data = 2014 |miejsce = New York |wydawca = Routledge |praca = Traditions of Systems Theory}}&lt;/ref&gt;.
+
+== W literaturoznawstwie ==
+Wzajemne powiązania pomiędzy kulturą a [[Przyroda|przyrodą]] były szczególnym przedmiotem kultury literackiej, aż od jej archaicznych początków, pojawiając się w [[mit]]ach, [[rytuał]]ach, ustnie przekazywanych historiach, [[legenda]]ch i [[Baśń|baśniach]], w gatunkach [[Literatura pasterska|literatury pasterskiej]] oraz [[Poezja natury|poezji natury]]. Ważne teksty tej tradycji obejmują historie wzajemnych przemian między życiem ludzkim i nieludzkim, których najsłynniejszym zbiorem są ''Metamorfozy'' [[Owidiusz]]a, jeden z istotniejszych tekstów w całej historii literatury, oddziałujący na różne kultury&lt;ref&gt;{{Cytuj |autor = Ovidius Naso, Publius, (43 a. C.-ca. 17) |tytuł = Metamorfozy. |data = cop. 2004 |data dostępu = 2020-01-20 |isbn = 83-04-04736-5 |wydawca = Zakład Narodowy im. Ossolińskich |oclc = 749448730}}&lt;/ref&gt;. Ta uwaga poświęcana interakcjom między kulturą, a naturą stała się szczególnie widoczna w epoce [[romantyzm]]u, pozostając charakterystyczną dla literackich inscenizacji ludzkich doświadczeń aż do chwili obecnej.
+
+Wzajemna otwartość i symboliczne połączenie kultury i natury, umysłu i ciała, życia ludzkiego i nieludzkiego w sposób [[Holizm|holistyczny]], a jednocześnie radykalnie [[Pluralizm kulturowy|pluralistyczny]] wydaje się być jednym z istotnych sposobów funkcjonowania literatury i tworzenia wiedzy literackiej. Z tej perspektywy literaturę można opisać jako symboliczne medium szczególnie potężnej formy „ekologii kulturowej”&lt;ref&gt;{{Cytuj |autor = Hubert Zapf |tytuł = Literatur als kulturelle Ökologie |data = 2002-01-31 |data dostępu = 2019-11-26 |isbn = 978-3-11-094673-4 |miejsce = Berlin, Boston |wydawca = De Gruyter | doi=10.1515/9783110946734}}&lt;/ref&gt;. Teksty literackie przedstawiały i badały, w coraz nowszych scenariuszach, złożone sprzężenie zwrotne pomiędzy dominującymi systemami kulturowymi, a potrzebami i przejawami ludzkiej i nieludzkiej „natury”. Z tego paradoksalnego aktu regresji twórczej czerpały one swoistą moc innowacji i kulturowego samoodnawiania.
+
+== W geografii ==
+W geografii ekologia kulturowa rozwinęła się w odpowiedzi na podejście [[Carla O. Sauer]]a do „[[Morfologia krajobrazu|morfologii krajobrazu]]”. Szkoła Sauera została skrytykowana za nienaukowość, a później za utrzymywanie „[[Reifikacja|reifikowanej]]” lub „[[Superorganizm|superorganicznej]]” koncepcji kultury&lt;ref&gt;{{Cytuj |autor = Duncan, James S.; Johnson, Nuala Christina; Schein, Richard H. |tytuł = A companion to cultural geography |data = 2004 |data dostępu = 2019-11-26 |isbn = 1-4051-2888-7 |miejsce = Malden, MA |wydawca = Blackwell Pub |oclc = 55771220}}&lt;/ref&gt;. W ekologii kulturowej zastosowano pomysły z ekologii i teorii systemów, aby zrozumieć proces dostosowywania się ludzi do środowiska. Ci ekolodzy kulturowi skupili się na przepływach energii i materiałów, badając, w jaki sposób przekonania i instytucje istniejące w kulturze regulują wymiany pomiędzy nią, a otaczającą ją ekologią naturalną. Według tej perspektywy ludzie stanowią taką samą część ekologii, jak każdy inny organizm. Ważnymi praktykami tej formy ekologii kulturowej są [[Karl Butzer]] i [[David Stoddart]].
+
+Druga forma ekologii kulturowej wprowadziła [[Teoria decyzji|teorię decyzji]] z ekonomiki rolnictwa, szczególnie zainspirowaną twórczością [[Aleksander Chayanov|Aleksandra Chayanova]] i [[Ester Boserup]]. Przedmiotem badań tych ekologów kulturowych był sposób, w jaki grupy ludzkie podejmują decyzje o tym, jak mają wykorzystywać swoje środowisko naturalne. Byli szczególnie zainteresowani kwestią intensyfikacji rolnictwa, udoskonalając konkurencyjne modele [[Thomas Malthus|Thomasa Malthusa]] i Boserup. Znani ekolodzy kulturowi w tej drugiej tradycji to [[Harold Brookfield]] i [[Billie Lee Turner II]]&lt;ref&gt;{{Cytuj |autor = Harold Brookfield |tytuł = Intensification, and Alternative Approaches to Agricultural Change |czasopismo = Asia Pacific Viewpoint |data = 2001-08 |data dostępu = 2020-01-20 |issn = 1360-7456 |wolumin = 42 |numer = 2‐3 |s = 181–192 |doi = 10.1111/1467-8373.00143}}&lt;/ref&gt;. Począwszy od lat 80. ekologia kulturowa stała się przedmiotem krytyki ze strony [[Ekologia polityczna|ekologii politycznej]]. Politolodzy zarzucili, że ekologia kulturowa zignorowała związki między badanymi przez siebie systemami lokalnymi a globalną ekonomią polityczną. Dziś niewielu geografów określa się jako ekolodzy kulturowi, ale pomysły z ekologii kulturowej zostały przyjęte i rozwinięte przez ekologię polityczną, [[Nauka o zmianach gruntów|naukę o zmianach gruntów]] i [[Nauka o zrównoważonym rozwoju|naukę o zrównoważonym rozwoju]].
+
+== Koncepcje ekologii kulturowej ==
+=== Gatunek ludzki ===
+Książki o kulturze i ekologii zaczęły pojawiać się w latach 50. i 60. XX wieku. Jedną z pierwszych opublikowanych w Wielkiej Brytanii był ''Gatunek Homo sapiens'' zoologa [[Anthony Barnett|Anthony'ego Barnetta]], która ukazał się w 1950 r. z podtytułem ''Biologia człowieka'', jednakże dotyczyła znacznie węższego podzbioru tematów&lt;ref name=":1"&gt;{{Cytuj |autor = S. A. (Samuel Anthony) Barnett |tytuł = The human species, a biology of man. |data = 1950 |data dostępu = 2020-01-20 |wydawca = MacGibbon &amp; Kee |oclc = 2431432}}&lt;/ref&gt;. Książka obejmowała problematykę kulturowego wpływu niektórych wyróżniających się obszarów wiedzy o środowisku w zakresie zdrowia i chorób, żywności, wielkości i jakości populacji człowieka oraz różnorodności typów jednostek ludzkich i ich umiejętności. Barnett był zdania, że wybrane przez niego obszary informacji „są tematami, na które wiedza jest nie tylko pożądana, ale także potrzebna dorosłej osobie w XX wieku”. Następnie zwrócił uwagę na niektóre koncepcje leżące u podstaw ekologii człowieka w odniesieniu do problemów społecznych, przed którymi stoją jego czytelnicy w latach 50. XX wieku, a także na twierdzenie, że natura ludzka nie może się zmienić, co to twierdzenie może oznaczać i czy jest prawdziwe. Trzeci rozdział omawia bardziej szczegółowo niektóre aspekty genetyki człowieka.
+
+Potem następuje pięć rozdziałów o ewolucji człowieka i różnicach między grupami ludności (lub rasami) oraz między poszczególnymi mężczyznami i kobietami w czasach współczesnych, w odniesieniu do wzrostu populacji (temat „różnorodności ludzkiej”). Ostatnie rozdziały dotyczą różnych aspektów ludzkiej populacji (temat „życia i śmierci”). Tak jak w przypadku innych zwierząt, dla przetrwania człowieka konieczne jest przezwyciężenie niebezpieczeństw głodu i infekcji, jak również pozostanie [[Płodność|płodnym]]. Cztery końcowe rozdziały dotyczą zatem żywności, chorób oraz wzrostu i spadku populacji ludzkiej&lt;ref name=":1" /&gt;.
+
+Barnett spodziewał się, że jego koncepcja może zostać skrytykowana, ponieważ pomija opis cech człowieka, które wyraźnie odróżniają ludzkość od innych zwierząt. Może to spowodować wysunięcie kontrargumentu, że specyfika ludzkiego zachowania została zignorowana, bądź też, że pomijana jest psychologia człowieka lub że nie bierze się pod uwagę sposobu funkcjonowania ludzkiego umysłu. Uzasadniał swój ograniczony pogląd, nie tym, że przywiązano niewielką wagę do pominiętych tematów, lecz tym, że były one tak ważne, że by opisać, lub nawet streścić każdy z nich potrzebna by była osobna książka o podobnej objętości. Innymi słowy, autor został zaklasyfikowany do grona specjalistów akademickich i z tego powodu obawiał się przyjęcia częściowego, konceptualnego i specyficznego poglądu na zoologię człowieka&lt;ref name=":1" /&gt;.
+
+=== Ekologia ===
+W Ameryce Północnej rozpoczęły się również prace nad opracowaniem sposobów na dostosowanie kultury ludzkiej do realiów ekologicznych. W swoim wykładzie, zatytułowanym „[[Ekologia człowieka]]”, wygłoszonym w Londynie w 1957 r. na Uniwersytecie w Oregonie, [[Paul Sears]] zalecił „zwrócenie szczególnej uwagi na ekologię człowieka” i postulował „jej umiejętne zastosowanie w sprawach człowieka”. Sears był jednym z nielicznych znaczących ekologów, który z powodzeniem popularyzował wiedzę w tej dziedzinie. Badacz dokumentuje błędy, które popełnili amerykańscy rolnicy, tworząc warunki, które doprowadziły do katastrofalnego w skutkach [[Dust Bowl]]. Ta książka przyczyniła się do rozwoju ruchu ochrony gleb w Stanach Zjednoczonych&lt;ref&gt;{{Cytuj |autor = Paul B. (Paul Bigelow) Sears |tytuł = Deserts on the march |data = 1988 |data dostępu = 2020-01-20 |isbn = 0-933280-46-7 |wydanie = Island Press ed |miejsce = Washington, D.C. |wydawca = Island Press |oclc = 18415426}}&lt;/ref&gt;.
+
+=== Wpływ na przyrodę ===
+W tym samym czasie [[J.A. Lauwerys]] opublikował ''Man's Impact on Nature'', jako część serii ''Interdependence in Nature'' wydanej w 1969 roku&lt;ref&gt;{{Cytuj |autor = Joseph A. Lauwerys |tytuł = Man's impact on nature |data = 1969 |data dostępu = 2019-12-17 |wydawca = Aldus Books |oclc = 644543107}}&lt;/ref&gt;. Zarówno książka Lauwery'a, jak i publikacja Rusella&lt;ref&gt;{{Cytuj |autor = W.M.S Russel |tytuł = Man Nature and History |data = 1967 |miejsce = London |wydawca = Aldus Books}}&lt;/ref&gt; dotyczyły ekologii kulturowej, choć nie używały tego określenia. Nawet ''Beginnings and Blunders'', wydane w 1970 roku przez [[Polihistor|wszechstronnego badacza]], w tym zoologa, [[Lancelot Hogben|Lancelota Hogbena]], z podtytułem ''Before Science Begun'', używały antropologii jako tradycyjnego punktu odniesienia&lt;ref&gt;{{Cytuj |autor = Lancelot Hogben |tytuł = Beginnings and Blunders |data = 1970 |miejsce = London |wydawca = Heinemann}}&lt;/ref&gt;. Jednakże zaprezentowane tam poglądy wskazują na to, że bardziej trafnym tytułem, odzwierciedlającym to, jak Hogben przedstawił, w jaki sposób wczesne społeczeństwa dostosowały się do środowiska za pomocą narzędzi, technologii i [[Grupa społeczna|grup społecznych]], byłaby „ekologia kulturowa”. W 1973 roku fizyk Jacob Bronowski opublikował książkę ''The Ascent of Man'', stanowiącą podsumowanie trzynastoczęściowego serialu telewizyjnego BBC opisującego w szeroki sposób wpływ człowieka na ukształtowanie Ziemi i jej przyszłość&lt;ref&gt;{{Cytuj |autor = Jacob Bronowski |tytuł = The Ascent of Man |data = 1973 |miejsce = London |wydawca = BBC Publications}}&lt;/ref&gt;.
+
+=== Zmienianie Ziemi ===
+W latach 80. XX wieku dominowała koncepcja [[Funkcjonalna ekologia człowieka|funkcjonalnej ekologii człowieka]]. Stał się konwencjonalnym sposobem przedstawiania koncepcji naukowych w perspektywie ekologicznej dominacji człowieka jako gatunku w przeludnionym świecie, stawiając sobie za praktyczny cel stworzenie bardziej ekologicznej („zielonej”) kultury. Przykładem jest książka Iana Simmonsa ''Changing the Face of the Earth,'' wydana w 1989 roku&lt;ref name=":3"&gt;{{Cytuj |autor = I. G. (Ian Gordon) Simmons |tytuł = Changing the face of the earth : culture, environment, history |data = 1996 |data dostępu = 2020-01-20 |isbn = 0-631-19924-1 |wydawca = Blackwell |oclc = 1083063212}}&lt;/ref&gt;. Simmons był geografem, a jego książka była hołdem dla wpływu, który wywarło wielotomowe dzieło pod redakcją W. L.Thomasa ''Man's role in 'Changing the Face of the Earth''&lt;ref&gt;{{Cytuj |autor =  William Leroy Thomas |tytuł = Man's role in changing the face of the earth. |data = [1956] |data dostępu = 2020-01-20 |isbn = 0-226-79604-3 |miejsce = Chicago, |wydawca = Published for the Wenner-Gren Foundation for Anthropological Research and the National Science Foundation by the University of Chicago Press |oclc = 276231}}&lt;/ref&gt;.
+
+Książka Simmonsa była jedną z wielu interdyscyplinarnych publikacji o kulturze i środowisku w latach 70. i 80. XX wieku, które wywołały kryzys w klasycznej metodologii geografii w zakresie przedmiotu badań, subdziedzin akademickich i zakresu całej dziedziny&lt;ref name=":3" /&gt;. Problem ten rozwiązano poprzez oficjalne przyjęcie ram koncepcyjnych jako podejścia ułatwiającego organizację badań i nauczania, które zmieniają tradycyjne podziały tematyczne. Ekologia kulturowa jest w rzeczywistości szerokim obszarem pojęciowym który w ciągu ostatnich sześćdziesięciu lat pozwolił socjologom, fizykom, zoologom i geografom wejść na wspólną płaszczyznę intelektualną, wychodząc poza granice swoich specjalistycznych dziedzin.
+
+=== XXI wiek ===
+W pierwszej dekadzie XXI wieku pojawiają się publikacje dotyczące sposobów, dzięki którym ludzie mogliby rozwijać bardziej akceptowalne relacje kulturowe ze środowiskiem. Przykładem jest sacred ecology („[[uświęcona ekologia]]”), jeden z tematów, poruszanych w ramach ekologii kulturowej, wprowadzona przez Fikreta Berkesa w 1999 r.&lt;ref name=":2"&gt;{{Cytuj |autor = Peter J. Usher |tytuł = Sacred Ecology, Traditional Ecological Knowledge and Resource Management, by Fikret Berkes |czasopismo = ARCTIC |data = 2000-01-01 |data dostępu = 2019-12-17 |issn = 1923-1245 |wolumin = 53 |numer = 2 |doi = 10.14430/arctic887}}&lt;/ref&gt;. Proponuje ona korzystanie z doświadczeń mieszkańców Północnej Kanady i ich tradycyjnych sposobów życia w kształtowaniu nowego postrzegania środowiska przez mieszkańców miast. Ta szczególna koncepcja zależności ludzi i środowiska wywodzi się z różnych kulturowych poziomów lokalnej wiedzy na temat gatunków, miejsc oraz systemów zarządzania zasobami z wykorzystaniem lokalnych doświadczeń, instytucji społecznych z ich regułami i kodeksami zachowania oraz poglądów na świat ukształtowanych religię, etykę i szeroko pojęte systemy przekonań .
+
+Pomimo różnic w koncepcjach informacyjnych, wszystkie te publikacje niosą przesłanie, że kultura jest poszukiwaniem równowagi pomiędzy sposobem myślenia opartym na eksploatacji zasobów naturalnych a tym, który dąży do ich ochrony i zachowania. Jednym z wyrazistszych przykładów działania ekologii kulturowej są nieudane próby wprowadzenia europejskich praktyk rolniczych na niedostosowanych do tego glebach, w miejsce tradycyjnych dla danego regionu metod uprawy ziemi. Istnieje sacred ecology, związana ze świadomością ekologiczną, a zadaniem ekologii kulturowej jest inspirowanie mieszkańców miast do rozwijania bardziej akceptowalnych trwałych relacji kulturowych ze środowiskiem, w którym funkcjonują i które ich zaopatruje&lt;ref name=":2" /&gt;.
+
+=== Schemat edukacyjny ===
+[[Plik:Culturalecol wiki pl.svg]]
+
+== Przypisy ==
+{{Przypisy}}
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Etnologia i antropologia kulturowa]]
+[[Kategoria:Ekologia]]
+[[Kategoria:Historia]]
+[[Kategoria:Socjologia kultury]]</text>
+      <sha1>78ie9m48nzerayd4lhspz23ibc324ii</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Bohaterowie narodowi</title>
+    <ns>14</ns>
+    <id>4767586</id>
+    <revision>
+      <id>69618770</id>
+      <parentid>59367375</parentid>
+      <timestamp>2023-02-18T16:06:53Z</timestamp>
+      <contributor>
+        <username>AkaruiHikari</username>
+        <id>1127867</id>
+      </contributor>
+      <origin>69618770</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="538" sha1="k9duwzvaf8gsdaffz7tdwjpxpm59jed" xml:space="preserve">{{Opis kategorii
+ |grupuje        =
+ |uwagi          = W tej kategorii powinny znajdować się tylko osoby, których uznanie za bohaterów narodowych zostało opisane w samych artykułach z dobrym źródłem
+ |osobne_grupują =
+ |main           = [[Bohater narodowy]]
+ |portal         =
+ |wikiprojekt    = 
+ |zobacz         =
+ |związane       =
+ |siostrzane     =
+}}
+{{Commonscat|National heroes}}
+
+[[Kategoria:Historia]]
+[[Kategoria:Socjologia narodu]]
+[[Kategoria:Symbole narodowe]]
+[[Kategoria:Biografie według tytułów honorowych]]</text>
+      <sha1>k9duwzvaf8gsdaffz7tdwjpxpm59jed</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Polskie encyklopedie historyczne</title>
+    <ns>14</ns>
+    <id>4565011</id>
+    <revision>
+      <id>67536512</id>
+      <parentid>60850863</parentid>
+      <timestamp>2022-07-06T14:42:42Z</timestamp>
+      <contributor>
+        <username>Artur Andrzej</username>
+        <id>146248</id>
+      </contributor>
+      <comment>drobne redakcyjne</comment>
+      <origin>67536512</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="338" sha1="kvktqxpe0nc65evrrsfbowbzmr0mwli" xml:space="preserve">{{Opis kategorii
+ |grupuje        = 
+ |uwagi          = 
+ |osobne_grupują = 
+ |main           = 
+ |portal         = 
+ |wikiprojekt    = 
+ |zobacz         = 
+ |związane       = [[:Kategoria:Polskie słowniki historyczne|Polskie słowniki historyczne]]
+}}
+
+[[Kategoria:Polskie encyklopedie|Historyczne]]
+[[Kategoria:Historia|Encylopedie]]</text>
+      <sha1>kvktqxpe0nc65evrrsfbowbzmr0mwli</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Historia ludowa</title>
+    <ns>0</ns>
+    <id>5145302</id>
+    <revision>
+      <id>71870281</id>
+      <parentid>64483652</parentid>
+      <timestamp>2023-11-16T12:30:48Z</timestamp>
+      <contributor>
+        <username>Tarnoob</username>
+        <id>274492</id>
+      </contributor>
+      <comment>/* Linki zewnętrzne */ szablon</comment>
+      <origin>71870281</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1901" sha1="jux15yygu2t37z7nbegnirmbkl04y41" xml:space="preserve">'''Historia ludowa''', '''historia oddolna''' – nurt [[historia|historii]], badający i [[historiografia|przedstawiający]] historię z perspektywy [[masy|mas]], stojący w opozycji do tradycyjnego [[dyskurs]]u historycznego, zorientowanego wokół punktu widzenia [[elity|elit]] społecznych i politycznych{{odn|Gęsiarz|2019|s=21}}.
+
+== Przypisy ==
+{{Przypisy}}
+
+== Bibliografia ==
+* {{Cytuj |tytuł = Brakujący element świadomości? Historia oddolna w 10 lat po Apelu z Blois |autor = Michał Gęsiarz |url = https://sensushistoriae.epigram.eu/index.php/czasopismo/article/view/500/507 |czasopismo = Sensus Historiae |data = 2019 |wolumin = 36 |numer = 3 |issn = 2082-0860 |s = 21–33 |odn = tak}}
+
+== Linki zewnętrzne ==
+* {{Cytuj |tytuł = Nowa ludowa historia: charakterystyka i społeczno-polityczne korzenie współczesnych narracji o historii chłopów polskich |autor = Marta Gospodarczyk, Łukasz Kożuchowski |url = https://journals.pan.pl/Content/120058/Studia_Socjologiczne_2021_nr2_s.177_198.pdf |czasopismo = Studia Socjologiczne |data = 2021 |wolumin = 2 |numer = 241 |issn = 0039-3371 |s = 177–198}}
+* {{Cytuj |tytuł = Chmielnicki i Szela. Radykalnych romantyków zmagania z ludową historią Polski |autor = Piotr Kuligowski |url = https://czaskultury.pl/wp-content/uploads/woocommerce_uploads/2021/03/100-109_ChmielnickiISzela_PK_CzK_3_2016-ymw8yz.pdf |czasopismo = [[Czas Kultury]] |data = 2016 |wolumin = 32 |numer = 3 |issn = 0867-2148 |s = 100–109}}
+* {{Cytuj |tytuł = Globalna historia ludowa a problem niewoli w dawnej Polsce |autor = [[Kacper Pobłocki]] |url = https://www.pismowidok.org/pl/archiwum/2020/27-formatowanie-poznej-telewizji/globalna-historia-ludowa-a-problem-niewoli-w-dawnej-polsce1 |czasopismo = Widok. Teorie i Praktyki Kultury Wizualnej |data = 2020 |numer = 27 |issn = 2300-200X |s = 196–206}}
+
+{{Nauki historyczne}}
+
+[[Kategoria:Historia]]</text>
+      <sha1>jux15yygu2t37z7nbegnirmbkl04y41</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Komiksy historyczne</title>
+    <ns>14</ns>
+    <id>4712019</id>
+    <revision>
+      <id>74834454</id>
+      <parentid>67088532</parentid>
+      <timestamp>2024-09-26T06:37:53Z</timestamp>
+      <contributor>
+        <username>MalarzBOT</username>
+        <id>31007</id>
+      </contributor>
+      <minor/>
+      <comment>MalarzBOT: kategoria Komiksy według rodzaju została przeniesiona do [[:Kategoria:Komiksy według gatunku|Komiksy według gatunku]]</comment>
+      <origin>74834454</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="60" sha1="h4uc57gm0x88gykl4pabvsucsewc2i0" xml:space="preserve">[[Kategoria:Komiksy według gatunku]]
+[[Kategoria:Historia]]</text>
+      <sha1>h4uc57gm0x88gykl4pabvsucsewc2i0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Historia alternatywna</title>
+    <ns>14</ns>
+    <id>3680623</id>
+    <revision>
+      <id>67089055</id>
+      <parentid>45532806</parentid>
+      <timestamp>2022-05-05T13:16:21Z</timestamp>
+      <contributor>
+        <username>Piotrus</username>
+        <id>4734</id>
+      </contributor>
+      <minor/>
+      <comment>Dodano kategorię "Historia" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>67089055</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="55" sha1="0kocbar8uibceowgepk5qcnlrrqb06h" xml:space="preserve">[[Kategoria:Gatunki fantastyki]]
+[[Kategoria:Historia]]</text>
+      <sha1>0kocbar8uibceowgepk5qcnlrrqb06h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Historia według terytoriów zależnych</title>
+    <ns>14</ns>
+    <id>4933800</id>
+    <revision>
+      <id>67504443</id>
+      <parentid>67498283</parentid>
+      <timestamp>2022-07-02T18:47:13Z</timestamp>
+      <contributor>
+        <username>Swam pl</username>
+        <id>940509</id>
+      </contributor>
+      <minor/>
+      <comment>kat.</comment>
+      <origin>67504443</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="81" sha1="e66w9pqvjz0w1jqkyr35k2l90pkm6kq" xml:space="preserve">[[Kategoria:Historia| ]]
+[[Kategoria:Zagadnienia według terytoriów zależnych]]</text>
+      <sha1>e66w9pqvjz0w1jqkyr35k2l90pkm6kq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Historia</title>
+    <ns>0</ns>
+    <id>2079</id>
+    <revision>
+      <id>74966550</id>
+      <parentid>74954044</parentid>
+      <timestamp>2024-10-14T20:26:32Z</timestamp>
+      <contributor>
+        <username>Tarnoob</username>
+        <id>274492</id>
+      </contributor>
+      <comment>/* Linki zewnętrzne */ link do YouTube</comment>
+      <origin>74966550</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9815" sha1="r2f9ee1v79jqlv9c81k1klr8e218ias" xml:space="preserve">{{Przekierowanie|historyk|[[Historyk (ujednoznacznienie)|jego inne znaczenia]]}}
+[[Plik:Gyzis 006 (Ηistoria).jpeg|thumb|280px|Alegoria historii na obrazie [[Nikolaos Jizis|Nikolaosa Gyzisa]] pochodzącym z 1892 r.]]
+
+'''Historia''', dawniej: '''dziejoznawstwo'''&lt;ref&gt;{{otwarty dostęp}} ''[https://sjp.pwn.pl/doroszewski/dziejoznawstwo;5424673.html dziejoznawstwo]'' [w:] Słownik języka polskiego pod red. [[Witold Doroszewski|W. Doroszewskiego]], sjp.pwn.pl [dostęp 2022-12-19].&lt;/ref&gt; – nauka [[nauki humanistyczne|humanistyczna]] i [[nauki społeczne|społeczna]], która zajmuje się badaniem przeszłości, a w znaczeniu ścisłym badaniem działań i wytworów ludzkich, aż do najstarszych poświadczonych pismem świadectw, w odróżnieniu od [[prehistoria|prehistorii]], [[archeologia|archeologii]], [[Antropologia|antropologii]] lub [[historia naturalna|historii naturalnej]]. Wynikiem badań historycznych jest opis dziejów ([[historiografia]]).
+
+Metoda pracy historyka polega na badaniu zjawisk minionych poprzez krytyczną interpretację ich pozostałości i świadectw ([[Źródła historyczne|źródeł]]), w celu dotarcia do pewnych [[fakt]]ów, które ułożone chronologicznie przedstawiane są w postaci [[Narracja|narracji]].
+
+== Pojęcie, zakres i miejsce wśród innych nauk ==
+Historia jest najczęściej pojmowana w dwóch odrębnych znaczeniach: jako dzieje, przeszłe zdarzenia oraz jako wszelkie relacje o tej przeszłości (w tym [[historiografia]]).
+
+Wyraz „historia” pochodzi od [[język grecki|greckiego]] słowa {{grc|ἱστορία}} (''historía''), pierwotnie znaczącego „badanie, dochodzenie do wiedzy” oraz „wiedza zdobyta poprzez badanie”. [[Herodot]] użył tego słowa do określenia charakteru swojej pracy rozpoczynającej się słowami „Oto przedstawienie badań ({{w języku|grc|ἱστορίης ἀπόδεξις}} ''historíēs apódexis'') Herodota z Halikarnasu”. Od tego sformułowania bierze swój początek nazwa całej [[nauka|nauki]], mimo że popularny tytuł nadawany jego dziełu – {{grc|Ἱστορίαι}} (''Historíai'') – po polsku tłumaczony jest zazwyczaj jako ''[[Dzieje (Herodot)|Dzieje]]''.
+
+Tradycyjnie za okres podlegający badaniom historycznym uważa się dzieje od powstania cywilizacji opartej na przekazie pisemnym, dla wcześniejszych dziejów rezerwując termin [[prehistoria]]. Z takiego podejścia wynika chronologiczna rozbieżność początków historii na różnych obszarach świata i w różnych cywilizacjach. W ostatnich stuleciach przedmiot badań się jednak nieustannie poszerzał i pogłębiał, obejmując wszystkie kontynenty świata, również wiele kultur niepiśmiennych oraz nowe zagadnienia [[Antropologia fizyczna|antropologiczne]]. Metodologię historyczną cechuje poszukiwanie logicznej konstrukcji przyczynowo-skutkowej przy krytycznym podejściu do źródeł historycznych.
+
+Starożytni Grecy uważali historię za jedną ze sztuk. Historia nie jest łatwa do zaklasyfikowania wśród nauk. Na ogół jest klasyfikowana jako [[nauki humanistyczne|nauka humanistyczna]]. Jeśli jednak przyjąć jej cel czysto [[faktografia|faktograficzny]], polegający na ustaleniu biegu zdarzeń i wyjaśnieniu stosunku przyczynowo-skutkowego, staje się ona nauką nieomalże ścisłą (zobacz: [[Historiografia]]). Jednak widząc w niej naukę, która zajmuje się jednorazowymi wydarzeniami, a nie prawidłami – jej charakter ściśle naukowy staje się niejednoznaczny. Jeśli przyjąć jej umiejętność wskazywania na stosunek biegu zdarzeń do ewolucji cywilizacji, zauważymy, że ociera się ona o aspekty [[etyka|etyczno]]-społeczne, co zbliża ją do [[filozofia|filozofii]] lub [[socjologia|socjologii]] (zobacz: [[filozofia historii]]).
+
+== Specjalizacje ==
+Z zasadniczej odmienności źródeł dotyczących różnych epok i dziedzin ludzkiej działalności, a co za tym idzie wymagających odmiennego warsztatu, historia dzieli się na szereg specjalizacji.
+
+=== Epoki historyczne ===
+{{Osobny artykuł|Periodyzacja}}
+Podstawowy podział odpowiada w zasadzie klasycznemu podziałowi na epoki historyczne. Z tych samych założeń metodologicznych wyłącza się z zakresu badania historii czasy sprzed wynalezienia pisma ([[prehistoria|prehistorię]]). Klasyczny podział epok dla historii Europy wyróżnia:
+* [[starożytność]] – czasy do roku [[476]], czyli upadku [[Cesarstwo Rzymskie|Imperium Rzymskiego]]. Odróżnia się w niej przede wszystkim badania nad starożytnym [[Egipt]]em, nad kulturami [[Bliski Wschód|Bliskiego Wschodu]], nad starożytną [[Grecja|Grecją]] i nad [[Cesarstwo Rzymskie|Imperium Rzymskim]].
+* [[średniowiecze]] – czasy od starożytności do przełomu [[XIV wiek|XIV]] i [[XV wiek|XV]] wieku, czyli wynalezienia [[druk]]u przez [[Johannes Gutenberg|Gutenberga]] ([[1450]]) i odkrycia [[Ameryka|Ameryki]] ([[1492]]) dla zachodniej części Europy, a dla wschodniej części kontynentu – zdobycia [[Konstantynopol]]a przez [[Turcy|Turków]] [[1453]]. Średniowiecze dzieli się na wczesne średniowiecze (do [[V wiek|V]]–[[XII wiek|XII]] wieku), klasyczne ([[XII wiek|XII]]–[[XIV wiek|XIV]] wiek) i późne (wieki [[XIV wiek|XIV]]–[[XV wiek|XV]]). Istnieje pogląd głównie wśród niektórych historyków francuskich, że podział ten jest cywilizacyjnie sztuczny i należałoby okres średniowiecza rozciągnąć aż do [[Oświecenie (epoka)|oświecenia]].
+* [[Nowożytność|wczesna nowożytność]] – czasy od średniowiecza do przełomu [[XVIII wiek|XVIII]]–[[XIX wiek|XIX]] wieku, czyli do [[rewolucja francuska|rewolucji francuskiej]] ([[1789]]) lub do końca [[kongres wiedeński|kongresu wiedeńskiego]] ([[1815]]). W Polsce przyjęło się liczyć do trzeciego rozbioru Rzeczypospolitej ([[1795]]) lub do [[Wiosna Ludów|Wiosny Ludów]] ([[1848]]).
+* tzw. „długi wiek XIX” – jest to okres od rewolucji francuskiej do wybuchu [[I wojna światowa|I wojny światowej]]
+* [[historia najnowsza]] – od 1914 roku do dziś.
+
+[[Periodyzacja]] od lat należy do grupy ważnych problemów badawczych i [[metodologia historii|metodologicznych]] historii. Problem momentów początku i końca poszczególnych epok ma bogatą literaturę. Istnieją również koncepcję odrzucające klasyczny podział na epoki – m.in. koncepcja „[[długie trwanie|długiego trwania]]” [[Fernand Braudel|Fernanda Braudela]] i „[[długie średniowiecze|długiego średniowiecza]]” [[Jacques Le Goff|Jacques’a Le Goffa]]&lt;ref&gt;Kamil Janicki, ''[http://histmag.org/?id=1917 Bolączki periodyzacji]'', „[[Histmag]]”, 2.08.2008.&lt;/ref&gt;.
+
+=== Obszar badań ===
+Klasyczny podział na epoki, okazuje się nieprzydatny, gdy obiektem poznania historycznego staje się zjawisko o dłuższym trwaniu, którego zbadanie wymaga podejścia głęboko [[Językoznawstwo diachroniczne|diachronicznego]], na przestrzeni wielu epok. Pod tym względem wyróżnia się:
+{| width="60%"
+|----- valign="top"
+|
+* [[antropologia historyczna]]
+* [[archiwistyka]]
+* [[mikrohistoria]]
+* [[makrohistoria]]
+* [[geografia historyczna]]
+* [[historia administracji]]
+* [[historia lokalna]]
+* [[historia polityczna]]
+* [[historia gospodarcza]]
+* [[historia sztuki]]
+* [[historia muzyki]]
+* [[historia religii]]
+* [[Historia chrześcijaństwa|historia Kościoła]]
+* [[historia archiwalno-dokumentalistyczna]]
+* [[historia nauki]]
+|
+* [[Historia prawa|historia państwa i prawa]]
+* [[historia prawa]]
+* [[historia państwowości]]
+* [[historia idei]]
+* [[historia wojskowości]]
+* [[historia dyplomacji]]
+* [[historia społeczna]]
+* [[historia ludowa]]
+* [[historia książki]]
+* [[historia kultury materialnej]]
+* [[historia medycyny]]
+* [[historia doktryn politycznych i prawnych]]
+* [[metodologia historii]]
+* [[polityka historyczna]]
+* [[psychohistoria]]
+|}
+
+== Nauki pomocnicze historii ==
+{{Osobny artykuł|Nauki pomocnicze historii}}
+
+== Zobacz też ==
+{{Commonscat|History}}
+{{Wikicytaty|Historia}}
+{{wikisłownik|historia}}
+{{Wikibooks|Historia powszechna}}
+{{Wikibooks|Historia dla gimnazjum|Historia dla gimnazjum}}
+{{Portal Wikinews|Historia|historii}}
+{{Zobacz kategorię|Historycy}}
+* Najważniejsze zagadnienia bliskie: [[faktografia]], [[historiografia]], [[Filozofia historii|historiozofia]], [[historia historiografii]]
+* [[kalendarium]]
+
+== Przypisy ==
+{{Przypisy}}
+
+== Linki zewnętrzne ==
+&lt;!-- ============================================================ --&gt;
+&lt;!-- NIE DODAWAJ WIĘCEJ LINKÓW. WIKIPEDIA NIE JEST ZBIOREM LINKÓW --&gt;
+&lt;!-- ANI  MIEJSCEM   NA  TWOJĄ   (LUB  CZYJĄKOLWIEK)   REKLAMĘ!!! --&gt;
+&lt;!-- Jeżeli sądzisz, że Twój link może się przydać, zamiast tutaj --&gt;
+&lt;!-- umieść go najpierw na stronie dyskusji tego artykułu.  Linki --&gt;
+&lt;!-- umieszczone bez przeprowadzonej weryfikacji ZOSTANĄ USUNIĘTE --&gt;
+&lt;!-- WCZEŚNIEJ przeczytaj http://pl.wikipedia.org/wiki/WP:LZ      --&gt;
+&lt;!-- ============================================================ --&gt;
+* {{otwarty dostęp}} [[Krzysztof Zamorski (historyk)|Krzysztof Zamorski]], ''[https://www.youtube.com/watch?v=bwxnCQmD5mo Pojęcie historii]'', [[Centrum Kopernika Badań Interdyscyplinarnych]] – [[Uniwersytet Jagielloński]], kanał „Copernicus” na [[YouTube]], 22 grudnia 2018 [dostęp 2024-10-14]. 
+* [http://dzieje.pl Dzieje.pl – Portal historyczny Polskiej Agencji Prasowej]
+* [http://histmag.org Portal Histmag.org]
+* [http://historia.org.pl Portal Historia.org.pl]
+* [http://hnn.us History News Network – Amerykański portal dla historyków]
+* [http://phw.org.pl Historia Wojskowa – Portal Historyczno-Wojskowy]
+* [https://historia.fandom.com/pl/wiki/Historia_Wiki Polska Historia Wiki]
+* [http://www.historya.pl Historya.pl Historia oparta na źródłach]
+
+{{Nauki historyczne}}
+{{Nauki humanistyczne}}
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Historia| ]]</text>
+      <sha1>r2f9ee1v79jqlv9c81k1klr8e218ias</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Książki o historii</title>
+    <ns>14</ns>
+    <id>5531626</id>
+    <revision>
+      <id>71362053</id>
+      <parentid>71361957</parentid>
+      <timestamp>2023-09-26T21:08:32Z</timestamp>
+      <contributor>
+        <username>Marcelus</username>
+        <id>218633</id>
+      </contributor>
+      <minor/>
+      <comment>Dodano kategorię "Literatura faktu" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>71362053</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="94" sha1="3uxwgcketmibjmpiah2h3faczqrjbmf" xml:space="preserve">[[Kategoria:Historia]]
+[[Kategoria:Książki według tematyki]]
+[[Kategoria:Literatura faktu]]</text>
+      <sha1>3uxwgcketmibjmpiah2h3faczqrjbmf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Filmy o historii poszczególnych krajów</title>
+    <ns>14</ns>
+    <id>5577076</id>
+    <revision>
+      <id>72184026</id>
+      <timestamp>2023-12-13T21:05:57Z</timestamp>
+      <contributor>
+        <username>Odplewiacz</username>
+        <id>281739</id>
+      </contributor>
+      <comment>kat.</comment>
+      <origin>72184026</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="74" sha1="c2u8nww91aq6ffukwzhid6ee0hk4954" xml:space="preserve">[[Kategoria:Filmy według tematyki|Historia]]
+[[Kategoria:Historia|Filmy]]</text>
+      <sha1>c2u8nww91aq6ffukwzhid6ee0hk4954</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Podręczniki historii</title>
+    <ns>14</ns>
+    <id>5653147</id>
+    <revision>
+      <id>73636655</id>
+      <timestamp>2024-04-27T22:44:01Z</timestamp>
+      <contributor>
+        <username>Tarnoob</username>
+        <id>274492</id>
+      </contributor>
+      <comment>utworzenie</comment>
+      <origin>73636655</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="51" sha1="9jalr05zwsxdxxikub2xcmmfbkccutv" xml:space="preserve">[[Kategoria:Podręczniki|H]]
+[[Kategoria:Historia]]</text>
+      <sha1>9jalr05zwsxdxxikub2xcmmfbkccutv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Discovery Historia</title>
+    <ns>0</ns>
+    <id>696470</id>
+    <revision>
+      <id>74635522</id>
+      <parentid>74479823</parentid>
+      <timestamp>2024-08-28T16:37:11Z</timestamp>
+      <contributor>
+        <username>CommonsDelinker</username>
+        <id>69327</id>
+      </contributor>
+      <comment>[[commons:User:CommonsDelinker|CommonsDelinker]] zamienia link do pliku z [[Image:Discovery_Historia_logo.svg|Discovery_Historia_logo.svg]] na [[Image:Discovery_Historia_logo_2009.svg|Discovery_Historia_logo_2009.svg]]. Powód: [[:c:COM:FR|File renamed]]:</comment>
+      <origin>74635522</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="19720" sha1="qkaxndv524qutst7ir6pp2itmn51aj1" xml:space="preserve">{{inne znaczenia|2=[[Discovery History]]}}
+{{Stacja telewizyjna infobox
+ |nazwa            = Discovery Historia
+ |nazwa oryginalna = 
+ |grafika          = Discovery Historia logo 2009.svg
+ |opis grafiki     = 
+ |alt grafiki      = 
+ |data startu      = 15 listopada 2006 jako Discovery TVN Historia&lt;br /&gt;30 maja 2009 jako Discovery Historia
+ |data zakończenia = 
+ |format obrazu    = [[16:9]] [[SDTV]]
+ |właściciel       = [[TVN Warner Bros. Discovery]]
+ |system emisji    = 
+ |kraj nadawania   = {{państwo|POL}}
+ |język            = polski
+ |siedziba         = [[Media Business Centre]]&lt;br /&gt;[[Ulica Wiertnicza w Warszawie|ul. Wiertnicza]] 166&lt;br /&gt;02-952 [[Warszawa]]
+ |udziały w rynku  = 0,103% (grupa 4+) 0,103% (grupa 16-49)&lt;ref name="sierpień 2020"/&gt;(Sierpień 2020)
+ |poprzednia nazwa = Discovery TVN Historia
+ |zastąpił         = 
+ |zastąpiony       = 
+ |commons          = category:Discovery networks
+ |www              = https://www.discoverychannel.pl/program-tv.html?timezone=DHPO
+}}
+'''Discovery Historia''' (dawniej '''Discovery TVN Historia''') – telewizyjny kanał tematyczny o tematyce [[Historia|historycznej]]. Powstał przy współpracy programowej [[Discovery Communications|Discovery]] i [[TVN]], do których także należał do 30 maja 2009 roku. 30 maja 2009 roku prawdopodobnie z powodu [[Kryzys finansowy (2007–2009)|światowego kryzysu finansowego]] TVN, który był udziałowcem Discovery Historia, zdecydował się wycofać z inwestycji. Nie podano oficjalnego powodu odsprzedania udziałów, w komunikatach poinformowano jedynie o chęci włączenia kanału do portfolio Discovery Networks. Discovery Historia była kolejnym obok [[TVN Med]] i [[TVN Lingua]] kanałem, z którego w 2009 roku wycofał się [[TVN]], wcześniej zrezygnowano z emisji [[TVN Gra]]. Stacją kieruje [[Barbara Bilińska-Kępa]].
+
+== Oferta programowa ==
+Ramówkę wypełniają produkcje dokumentalne dotyczące historii Polski i świata, takie jak:
+
+=== produkcje i koprodukcje TVN&lt;ref&gt;Informacje za bazą witryny https://filmpolski.pl/fp/index.php, chyba że podano inaczej.&lt;/ref&gt; ===
+* ''[[Wrzesień 1939 (serial telewizyjny)|Wrzesień 1939]]'' (2007)
+* ''Było, nie było''&lt;ref&gt;{{Cytuj |tytuł = Biuro Prasowe Jasnej Góry - Discovery-Historia też broni Jasnej Góry |data dostępu = 2023-12-27 |opublikowany = www.jasnagora.com |url = http://www.jasnagora.com/wydarzenie-3591}}&lt;/ref&gt; (2007-2008)
+* ''Młodość [[Jan Paweł II|Jana Pawła II]]''&lt;ref&gt;W bazie Filmpolski ten dwuczęściowy dokument został wpisany jako dwie osobne produkcje: „Lolek” oraz „Przyniósł nam światło prawdziwe” (reż. Joanna Maro).&lt;/ref&gt; (2007, 2008)
+* ''Wkoło [[Wisła|Wisły]]'' (2007-2008)
+* ''Zwarte szeregi, czyli z archiwum'' [[Wytwórnia Filmowa „Czołówka”|Czołówki]]&lt;ref&gt;{{Cytuj |tytuł = Prawda po latach, czyli z archiwum "Czołówki" |data = 2010-05-31 |data dostępu = 2023-11-03 |opublikowany = Wprost |url = https://www.wprost.pl/kultura/300980/prawda-po-latach-czyli-z-archiwum-czolowki.html |język = pl}}&lt;/ref&gt; (2007-2008)
+* ''Bitwy żołnierza polskiego''&lt;ref&gt;{{Cytuj |tytuł = „Wrzesień 39” - nowy serial dokumentalny Discovery World |data dostępu = 2023-12-27 |opublikowany = histmag.org |url = https://histmag.org/Wrzesien-39-nowy-serial-dokumentalny-Discovery-World-5818}}&lt;/ref&gt; (2008-?)
+* ''Córki przestworzy'' (2008)
+* ''Historie lotnicze'' (2008)
+* ''Go west''&lt;ref&gt;{{Cytuj |tytuł = Historie telewizyjne |data dostępu = 2023-11-03 |opublikowany = wyborcza.pl |url = https://wyborcza.pl/alehistoria/7,121681,12356656,historie-telewizyjne.html}}&lt;/ref&gt; (2008)
+* ''Początki polskiej awiacji'' (2008)
+* ''Socjalistyczna Filmoteka Powiatowa''&lt;ref&gt;{{Cytuj |tytuł = Discovery Historia: Socjalistyczna Filmoteka Powiatowa |data = 2008-09-01 |opublikowany = portalmedialny.pl |url = https://www.portalmedialny.pl/art/11351/discovery-historia-socjalistyczna-filmoteka-powiatowa.html |język = pl}}&lt;/ref&gt; (2008)
+* ''[[Wielka wojna na wschodzie]]'' (2008)
+* ''[[W imieniu Polski Ludowej]]'' (2008)
+* ''Listy z płonącej Warszawy'' (2009)
+Emitowane są też popremierowo produkcje dla [[Canal+ Dokument]].
+
+=== produkcje zagraniczne ===
+* [[Pola Bitew]]
+* [[Nieznane oblicza wielkich polityków]]
+* [[Kolaboranci Trzeciej Rzeszy]]
+* [[Szpiegowskie porachunki]]
+* [[Nowoczesna wojna]]
+* [[Tajemnice Egiptu]]
+* [[Co wiedzieli starożytni?]]
+
+== Oglądalność ==
+Wszyscy 4+:
+{| class="wikitable"
+! || styczeń || luty || marzec || kwiecień || maj || czerwiec || lipiec || sierpień || wrzesień || październik || listopad || grudzień || cały rok
+|-
+! 2020
+| 0,084%&lt;ref name="styczeń 2020"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/fokus-tv-liderem-ogladalnosci-w-styczniu-adventure-najbardziej-w-dol | tytuł = Fokus TV liderem oglądalności w styczniu. Adventure najbardziej w dół | autor = Beata Czuma | opublikowany = WirtualneMedia.pl | data = 2020-02-20 | język = pl}}&lt;/ref&gt; || || 0,102%&lt;ref name="marzec 2020"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/ogladalnosc-kanalow-dokumentalnych-marzec-2020-fokus-tv_2 | tytuł = Fokus TV liderem oglądalności. TVN Turbo wyprzedziło Discovery Channel | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2020-04-24 | język = pl}}&lt;/ref&gt; || 0,129%&lt;ref name="kwiecień 2020"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/ogladalnosc-kanalow-dokumentalnych-kwiecien-2020-fokus-tv | tytuł = Fokus TV liderem oglądalności. TVN Turbo wyprzedziło TVP Historię | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2020-05-22 | język = pl}}&lt;/ref&gt; || 0,102%&lt;ref name="maj 2020"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/ogladalnosc-kanalow-dokumentalnych-maj-2020-fokus-tv | tytuł = Rekordowy maj Fokus TV. TVN Turbo wyprzedziło TVP Historię | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2020-06-29 | język = pl}}&lt;/ref&gt; || 0,104%&lt;ref name="czerwiec 2020"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/ogladalnosc-kanalow-dokumentalnych-i-polrocze-2020-fokus-tv_1 | tytuł = Rekordowe pierwsze półrocze Fokus TV. Canal+ Dokument zyskał najwięcej | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2020-07-31 | język = pl}}&lt;/ref&gt; || 0,108%&lt;ref name="lipiec 2020"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/ogladalnosc-kanalow-dokumentalnych-lipiec-2020-fokus-tv | tytuł = Duży wzrost Fokus TV w lipcu. TVN Turbo wyprzedziło TVP Historię | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2020-08-14 | język = pl}}&lt;/ref&gt; || 0,103%&lt;ref name="sierpień 2020"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/ogladalnosc-kanalow-dokumentalnych-sierpien-2020-fokus-tv | tytuł = Duży wzrost Fokus TV w sierpniu. TVN Turbo wyprzedziło TVP Historię | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2020-09-14 | język = pl}}&lt;/ref&gt; || || || || ||
+|-
+! 2019
+| 0,095%&lt;ref name="styczeń 2019"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/ogladalnosc-kanalow-dokumentalnych-styczen-2019-fokus-tv | tytuł = Fokus TV liderem kanałów dokumentalnych, TVP Historia wyprzedziła TVN Turbo | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2019-02-07 | język = pl}}&lt;/ref&gt; || 0,094%&lt;ref name="luty 2019"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/ogladalnosc-kanalow-dokumentalnych-luty-2019-fokus-tv | tytuł = Fokus TV liderem w lutym. Discovery Channel wyprzedziło TVP Historię i TVN Turbo | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2019-03-07 | język = pl}}&lt;/ref&gt; || 0,108%&lt;ref name="marzec 2019"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/ogladalnosc-kanalow-dokumentalnych-marzec-2019-fokus-tv | tytuł = Fokus TV liderem oglądalności. TVP Historia wyprzedziła TVN Turbo i Discovery Channel | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2019-04-05 | język = pl}}&lt;/ref&gt; || 0,102%&lt;ref name="kwiecień 2019"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/ogladalnosc-kanalow-dokumentalnych-kwiecien-2019-fokus-tv | tytuł = Fokus TV liderem oglądalności w kwietniu. TVP Historia wyprzedziła TVN Turbo | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2019-05-14 | język = pl}}&lt;/ref&gt; || 0,092%&lt;ref name="maj 2019"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/ogladalnosc-kanalow-dokumentalnych-maj-2019-fokus-tv | tytuł = Fokus TV liderem oglądalności w maju. TVP Historia wyprzedziła Discovery Channel i TVN Turbo | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2019-06-27 | język = pl}}&lt;/ref&gt; || 0,077%&lt;ref name="czerwiec 2019"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/ogladalnosc-kanalow-dokumentalnych-i-polrocze-2019-fokus-tv | tytuł = Fokus TV liderem oglądalności w I półroczu. TVP Historia wyprzedziła TVN Turbo | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2019-07-12 | język = pl}}&lt;/ref&gt; || 0,082%&lt;ref name="lipiec 2019"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/ogladalnosc-kanalow-dokumentalnych-lipiec-2019-fokus-tv | tytuł = Fokus TV liderem oglądalności. DTX najbardziej w dół | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2019-08-26 | język = pl}}&lt;/ref&gt; || || 0,095%&lt;ref name="wrzesień 2019"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/ogladalnosc-kanalow-dokumentalnych-wrzesien-2019-fokus-tv | tytuł = Fokus TV liderem oglądalności. DTX najbardziej w dół | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2019-10-22 | język = pl}}&lt;/ref&gt; || || || 0,108%&lt;ref name="rok 2019"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/ogladalnosc-kanalow-dokumentalnych-2019-rok-fokus-tv-liderem-opinie | tytuł = Fokus TV liderem oglądalności w 2019 roku. TVP Historia wyprzedziła TVN Turbo | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2020-01-10 | język = pl}}&lt;/ref&gt; || '''0,095'''%&lt;ref name="rok 2019"/&gt;
+|-
+! 2018
+| 0,09%&lt;ref name="styczeń 2018"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/fokus-tv-na-czele-kanalow-dokumentalnych-w-styczniu-2018-discovery-channel-wyprzedzil-tvp-historie | tytuł = Fokus TV na czele kanałów dokumentalnych w styczniu 2018, Discovery Channel wyprzedził TVP Historię | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2018-02-09 | język = pl}}&lt;/ref&gt; || 0,09%&lt;ref name="luty 2018"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/ogladalnosc-kanalow-dokumentalnych-luty-2018 | tytuł = Fokus TV najchętniej oglądany w lutym, Polsat Doku podwoił wynik | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2018-03-14 | język = pl}}&lt;/ref&gt; || 0,09%&lt;ref name="marzec 2018"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/ogladalnosc-kanalow-dokumentalnych-marzec-2018-fokus-tv | tytuł = Fokus TV najchętniej oglądany w marcu, Canal+ Discovery podwoił wynik | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2018-04-11 | język = pl}}&lt;/ref&gt; || 0,09%&lt;ref name="kwiecień 2018"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/ogladalnosc-kanalow-dokumentalnych-kwiecien-2018-fokus-tv | tytuł = Fokus TV najchętniej oglądany w kwietniu, Polsat Doku zyskał najwięcej | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2018-05-10 | język = pl}}&lt;/ref&gt; || 0,09%&lt;ref name="maj 2018"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/ogladalnosc-kanalow-dokumentalnych-maj-2018-fokus-tv | tytuł = Fokus TV na czele kanałów dokumentalnych, Discovery Channel wyprzedził TVP Historię | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2018-06-13 | język = pl}}&lt;/ref&gt; || 0,097%&lt;ref name="czerwiec 2018"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/ogladalnosc-kanalow-dokumentalnych-i-polrocze-2018-fokus-tv | tytuł = Fokus TV zdystansował konkurencję w I półroczu. TVP Historia wiceliderem | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2018-07-10 | język = pl}}&lt;/ref&gt; || 0,099%&lt;ref name="lipiec 2018"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/ogladalnosc-kanalow-dokumentalnych-lipiec-2018-fokus-tv | tytuł = Fokus TV na czele kanałów dokumentalnych w lipcu. Polsat Doku zyskał najwięcej | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2018-08-20 | język = pl}}&lt;/ref&gt; || 0,100%&lt;ref name="sierpień 2018"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/ogladalnosc-kanalow-dokumentalnych-sierpien-2018-fokus-tv | tytuł = Fokus TV liderem kanałów dokumentalnych, TVN Turbo liderem w 16-49 | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2018-09-11 | język = pl}}&lt;/ref&gt; || 0,089%&lt;ref name="wrzesień 2018"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/ogladalnosc-kanalow-dokumentalnych-wrzesien-2018-fokus-tv | tytuł = Fokus TV liderem we wrześniu, rekordowe wyniki TVN Turbo | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2018-10-09 | język = pl}}&lt;/ref&gt; || 0,093%&lt;ref name="październik 2018"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/ogladalnosc-kanalow-dokumentalnych-pazdziernik-2018-fokus-tv | tytuł = Fokus TV liderem w październiku. Rekord Polsat Doku | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2018-11-09 | język = pl}}&lt;/ref&gt; || 0,106%&lt;ref name="listopad 2018"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/ogladalnosc-kanalow-dokumentalnych-listopad-2018-fokus-tv | tytuł = Fokus TV liderem w listopadzie, Polsat Doku zyskał najwięcej | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2018-12-19 | język = pl}}&lt;/ref&gt; || 0,115%&lt;ref name="rok 2018"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/ogladalnosc-kanalow-dokumentalnych-2018-rok-fokus-tv | tytuł = Fokus TV zdystansował konkurencję w 2018 roku (dane kanałów dokumentalnych) | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2019-01-08 | język = pl}}&lt;/ref&gt; || '''0,095'''%&lt;ref name="rok 2018"/&gt;
+|-
+! 2017
+| 0,11%&lt;ref name="styczeń 2017"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/fokus-tv-liderem-kanalow-dokumentalnych-h2-z-najwiekszym-wzrostem | tytuł = Fokus TV liderem kanałów dokumentalnych, H2 z największym wzrostem | autor = mk | opublikowany = WirtualneMedia.pl | data = 2017-02-21 | język = pl}}&lt;/ref&gt; || 0,13%&lt;ref name="luty 2017"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/fokus-tv-i-tvp-historia-na-czele-kanalow-dokumentalnych-luty-2017 | tytuł = Fokus TV i TVP Historia na czele kanałów dokumentalnych | autor = mk | opublikowany = WirtualneMedia.pl | data = 2017-03-09 | język = pl}}&lt;/ref&gt; || 0,13%&lt;ref name="marzec 2017"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/fokus-tv-kanal-dokumentalny-marzec-2017-discovery-channel-wyprzedzil-tvp-historie | tytuł = Fokus TV liderem kanałów dokumentalnych. Discovery Channel wyprzedził TVP Historia | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2017-04-10 | język = pl}}&lt;/ref&gt; || 0,13%&lt;ref name="kwiecień 2017"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/fokus-tv-na-czele-ogladalnosci-w-kwietniu-tvp-historia-wyprzedzila-discovery-channel | tytuł = Fokus TV na czele oglądalności w kwietniu. TVP Historia wyprzedziła Discovery Channel | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2017-05-10 | język = pl}}&lt;/ref&gt; || 0,13%&lt;ref name="maj 2017"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/fokus-tv-liderem-ogladalnosci-kanalow-dokumentalnych | tytuł = Fokus TV liderem oglądalności. TVP Historia wyprzedziła Discovery Channel | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2017-06-19 | język = pl}}&lt;/ref&gt; || 0,12%&lt;ref name="czerwiec 2017"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/kanal-dokumentalny-i-polroczne-2017-wyniki-ogladalnosci-fokus-tv | tytuł = Fokus TV liderem oglądalności w I półroczu. Polsat Doku na końcu rankingu | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2017-07-12 | język = pl}}&lt;/ref&gt; || 0,11%&lt;ref name="lipiec 2017"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/ogladalnosc-kanalow-dokumentalnych-lipiec-2017-tvp-historia-i-discovery-channel-uzupelniaja-podium | tytuł = Fokus TV liderem kanałów dokumentalnych. TVP Historia i Discovery Channel uzupełniają podium | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2017-08-17 | język = pl}}&lt;/ref&gt; || 0,10%&lt;ref name="sierpień 2017"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/spadaja-rynkowe-udzialy-czolowych-stacji-dokumentalnych-fokus-i-tvp-historia-najchetniej-ogladane | tytuł = Spadają rynkowe udziały czołowych stacji dokumentalnych, Fokus i TVP Historia najchętniej oglądane | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2017-09-13 | język = pl}}&lt;/ref&gt; || 0,10%&lt;ref name="wrzesień 2017"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/wyniki-ogladalnosci-stacji-dokumentalnych-wrzesien-2017 | tytuł = Fokus TV nokautuje konkurencję wśród stacji dokumentalnych, BBC Brit z największym wzrostem | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2017-10-19 | język = pl}}&lt;/ref&gt; || 0,10%&lt;ref name="październik 2017"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/ogladalnosc-kanalow-dokumentalnych-pazdziernik-2017 | tytuł = Fokus TV nokautuje konkurencję, Discovery Channel wyprzedził TVP Historię | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2017-11-17 | język = pl}}&lt;/ref&gt; || 0,10%&lt;ref name="listopad 2017"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/fokus-tv-najchetniej-ogladany-w-listopad-2017-discovery-channel-wyprzedzil-tvp-historie | tytuł = Fokus TV najchętniej oglądany w listopadzie, Discovery Channel wyprzedził TVP Historię | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2017-12-15 | język = pl}}&lt;/ref&gt; || 0,11%&lt;ref name="rok 2017"&gt;{{Cytuj stronę | url = https://www.wirtualnemedia.pl/artykul/fokus-tv-liderem-ogladalnosci-w-2017-roku-tvp-historia-na-drugim-miejscu | tytuł = Fokus TV liderem oglądalności w 2017 roku. TVP Historia na drugim miejscu | autor = Michał Kurdupski | opublikowany = WirtualneMedia.pl | data = 2018-01-29 | język = pl}}&lt;/ref&gt; || '''0,11'''%&lt;ref name="rok 2017"/&gt;
+|}
+
+== Przypisy ==
+{{Przypisy}}
+
+== Linki zewnętrzne ==
+* {{Cytuj stronę | url = http://www.uczyc-sie-z-historii.pl/pl/aktualnosci/zobacz/306 | tytuł = Informacja o powstaniu nowego kanału | opublikowany = uczyc-sie-z-historii.pl | archiwum = https://web.archive.org/web/20100221043243/http://www.uczyc-sie-z-historii.pl/pl/aktualnosci/zobacz/306 | zarchiwizowano = 2010-02-21}}
+* {{Cytuj stronę | url = http://satinfo24.pl/discovery-historia-odswiezonym-wizerunkiem-10-lecie-kanalu/ | tytuł = Nowe logo Discovery Historia | opublikowany = satinfo24.pl | archiwum = https://web.archive.org/web/20161126003701/http://satinfo24.pl/discovery-historia-odswiezonym-wizerunkiem-10-lecie-kanalu/ | zarchiwizowano = 2016-11-26}}
+
+{{TVN Discovery Polska}}
+
+[[Kategoria:Discovery Historia| ]]
+[[Kategoria:Polskojęzyczne stacje telewizyjne]]
+[[Kategoria:Telewizyjne stacje dokumentalne]]
+[[Kategoria:Historia]]</text>
+      <sha1>qkaxndv524qutst7ir6pp2itmn51aj1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Archeologia</title>
+    <ns>14</ns>
+    <id>66755</id>
+    <revision>
+      <id>74806229</id>
+      <parentid>71465452</parentid>
+      <timestamp>2024-09-21T16:29:04Z</timestamp>
+      <contributor>
+        <username>Alan ffm</username>
+        <id>357169</id>
+      </contributor>
+      <comment>kat.</comment>
+      <origin>74806229</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="465" sha1="lkfpz8lqm79jiwl4wbnfrsjmi4lcnab" xml:space="preserve">{{Siostrzane projekty
+ |commons   = Category:Archaeology
+ |słownik   = 
+ |źródła    = 
+ |cytaty    = Kategoria:Archeologia
+ |news      = Kategoria:Archeologia
+ |books     = 
+ |podróże   = 
+}}
+{{Opis kategorii
+ |grupuje        =
+ |uwagi          =
+ |osobne_grupują =
+ |main           = [[Archeologia]]
+ |wikiprojekt    = [[Wikiprojekt:Archeologia|Archeologia]]
+ |zobacz         =
+ |związane       = [[:Kategoria:Historia|Historia]]
+}}
+
+[[Kategoria:Historia]]</text>
+      <sha1>lkfpz8lqm79jiwl4wbnfrsjmi4lcnab</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Pseudohistoria</title>
+    <ns>14</ns>
+    <id>5744432</id>
+    <revision>
+      <id>74874246</id>
+      <timestamp>2024-10-01T23:02:43Z</timestamp>
+      <contributor>
+        <username>Tarnoob</username>
+        <id>274492</id>
+      </contributor>
+      <comment>utworzenie</comment>
+      <origin>74874246</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="48" sha1="ogsply7r4mhzoogrovuutwb19x7d6y9" xml:space="preserve">[[Kategoria:Pseudonauka]]
+[[Kategoria:Historia]]</text>
+      <sha1>ogsply7r4mhzoogrovuutwb19x7d6y9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Pseudohistoria</title>
+    <ns>0</ns>
+    <id>1535716</id>
+    <revision>
+      <id>75314763</id>
+      <parentid>74876261</parentid>
+      <timestamp>2024-11-21T19:31:44Z</timestamp>
+      <contributor>
+        <username>Eurohunter</username>
+        <id>336163</id>
+      </contributor>
+      <comment>kolejność sekcji końcowych, [[WP:SK]]+[[WP:SK/ToS|ToS]]+[[WP:SK/mSK|mSK]]</comment>
+      <origin>75314763</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3204" sha1="98d0mcpuhu1ftkkyrs4fkharbjwr6kt" xml:space="preserve">'''Pseudohistoria''' – termin najczęściej określający zamieszczane w pewnych książkach tezy o podłożu [[historia|historycznym]], ale odbiegające od standardów [[metody historyczne|metod historycznych]] w taki sposób, by przedstawić ich wnioski w złym świetle. Prace, które przedstawiają kontrowersyjne wnioski dotyczące nowych, przypuszczalnych lub spornych dowodów historycznych, w szczególności dotyczące polityki, wojska czy religii, są często określane mianem pseudohistorii.
+
+== Cechy ==
+* Praca najczęściej ma podłoże polityczne, religijne itp.
+* Informacje o pracy nie są zamieszczone w [[czasopismo naukowe|czasopismach naukowych]] lub praca taka nie ma odpowiedniej [[recenzja naukowa|recenzji]]
+* Kluczowe dowody wspierające tezy postawione w książce są (musi być spełniona chociaż jedna cecha z poniższych):
+** przypuszczalne
+** kontrowersyjne
+** niepoprawne
+** źle uźródłowione
+** zinterpretowane w nieuzasadnionym świetle
+** wyolbrzymione
+** wyrwane z kontekstu
+** wypaczone, nieuczciwe
+* W pracy są przedstawione „nowe” interpretacje i wyjaśnienia wyników badań historycznych, które można uznać za pewne.
+* Praca odrzuca lub ignoruje zrecenzowane i dobrze udokumentowane konkurencyjne (i możliwie prostsze) wytłumaczenia lub interpretecje tych samych faktów, przykładowo opierając się na jednej lub wielu [[teorie spiskowe|teoriach spiskowych]]&lt;ref&gt;Robert Todd Carroll, [http://www.skepdic.com/pseudohs.html The skeptic’s dictionary]. Hoboken: John Wiley &amp; Sons (2003), s. 305.&lt;/ref&gt;.
+
+== Przykłady ==
+* ''[[Światy w kolizji]]'' ([[Immanuel Velikovsky]])
+* ''[[Nowa chronologia (Fomienko)|Nowa chronologia]]'' ([[Anatolij Fomienko]])
+* ''[[Hipoteza czasu widmowego]]'' ([[Heribert Illig]]);
+* ''[[1421 - rok, w którym Chińczycy odkryli Amerykę i opłynęli świat]]'' ([[Gavin Menzies]])
+* ''[[Dwa Babilony]]'' ([[Alexander Hislop]])
+* [[Kłamstwo oświęcimskie]]
+* [[Kłamstwo kołymskie]] (teorie negujące fakt istnienia [[Gułag|łagrów]] w Związku Sowieckim albo pomniejszające liczbę ofiar tychże obozów)
+* [[Protokoły mędrców Syjonu]]
+* [[Lemuria (fikcyjna kraina)|Teorie o Lemurii]]
+* Teorie [[Erich von Däniken|Ericha von Dänikena]] ([[paleoastronautyka]])
+* [[Towarzystwo Vril]]
+* [[Wincenty Kadłubek]]
+* [[Wywód jedynowłasnego państwa świata]] z 1633 roku
+* [[Zakon Syjonu]]
+* [[Zermatyzm]]
+* [[Turbosłowianie|Turbosłowiaństwo]] (znane też jako turbolechictwo)
+* [[Mit narodowy|Mity narodowe]]
+* [[Mit Przegranej Sprawy]]
+
+== Przypisy ==
+{{Przypisy}}
+
+== Linki zewnętrzne ==
+* [http://skepdic.com/pseudohs.html Wstęp do pseudohistorii] (en)
+* [http://www.tc.umn.edu/~allch001/papers/pseudo.pdf Pseudohistoria i pseudonauka] ([https://web.archive.org/web/20090918051321/http://www.tc.umn.edu/~allch001/papers/pseudo.pdf kopia w Archiwum Internetu]) (en)
+* [http://www.nizkor.org/hweb/orgs/american/skeptic-magazine/skeptic-13.html The Restoration of History] ([https://web.archive.org/web/20040223123821/https://www.nizkor.org/hweb/orgs/american/skeptic-magazine/skeptic-13.html kopia w Archiwum Internetu])(en)
+
+{{Nauki historyczne}}
+
+[[Kategoria:Historia]]
+[[Kategoria:Pseudohistoria| ]]</text>
+      <sha1>98d0mcpuhu1ftkkyrs4fkharbjwr6kt</sha1>
+    </revision>
+  </page>
+</mediawiki>

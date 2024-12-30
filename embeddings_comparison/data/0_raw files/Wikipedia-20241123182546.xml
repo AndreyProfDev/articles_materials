@@ -1,0 +1,1409 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="pl">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>plwiki</dbname>
+    <base>https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna</base>
+    <generator>MediaWiki 1.44.0-wmf.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Specjalna</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Dyskusja</namespace>
+      <namespace key="2" case="first-letter">Wikipedysta</namespace>
+      <namespace key="3" case="first-letter">Dyskusja wikipedysty</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Dyskusja Wikipedii</namespace>
+      <namespace key="6" case="first-letter">Plik</namespace>
+      <namespace key="7" case="first-letter">Dyskusja pliku</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Dyskusja MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Szablon</namespace>
+      <namespace key="11" case="first-letter">Dyskusja szablonu</namespace>
+      <namespace key="12" case="first-letter">Pomoc</namespace>
+      <namespace key="13" case="first-letter">Dyskusja pomocy</namespace>
+      <namespace key="14" case="first-letter">Kategoria</namespace>
+      <namespace key="15" case="first-letter">Dyskusja kategorii</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Dyskusja portalu</namespace>
+      <namespace key="102" case="first-letter">Wikiprojekt</namespace>
+      <namespace key="103" case="first-letter">Dyskusja wikiprojektu</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Moduł</namespace>
+      <namespace key="829" case="first-letter">Dyskusja modułu</namespace>
+      <namespace key="2600" case="first-letter">Wątek</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Kategoria:Organizacje</title>
+    <ns>14</ns>
+    <id>68571</id>
+    <revision>
+      <id>35092142</id>
+      <parentid>34953619</parentid>
+      <timestamp>2013-03-12T18:30:58Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>543400</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Addbot|Bot:]] Przenoszę 93 linków interwiki do [[d:|Wikidata]], znajdziesz je teraz w zasobie [[d:q5613113]]</comment>
+      <origin>35092142</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="324" sha1="8exac71nson3qaohpzglbdjj16mt4cc" xml:space="preserve">{{Opis kategorii
+ |grupuje        = {{Commonscat|Organizations}}
+ |uwagi          =
+ |osobne_grupują =
+ |main           = [[Organizacja]]
+ |portal         =
+ |wikiprojekt    =
+ |zobacz         =
+ |związane       = [[:Kategoria:Kategorie według organizacji|Kategorie według organizacji]]
+}}
+
+[[Kategoria:Społeczeństwo]]</text>
+      <sha1>8exac71nson3qaohpzglbdjj16mt4cc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Polityka</title>
+    <ns>14</ns>
+    <id>70919</id>
+    <revision>
+      <id>40650202</id>
+      <parentid>40644796</parentid>
+      <timestamp>2014-10-08T19:42:25Z</timestamp>
+      <contributor>
+        <username>Michał Ski</username>
+        <id>36630</id>
+      </contributor>
+      <minor/>
+      <comment>Wycofano edycje użytkownika [[Special:Contributions/Pit rock|Pit rock]] ([[User talk:Pit rock|dyskusja]]). Autor przywróconej wersji to [[User:Sławek Borewicz|Sławek Borewicz]].</comment>
+      <origin>40650202</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="277" sha1="80uj97ecthoykle1jjoi2nq4rk63x7a" xml:space="preserve">{{Siostrzane projekty
+ |commons   = Category:Politics
+ |słownik   =
+ |źródła    = Kategoria:Polityka
+ |cytaty    = Kategoria:Polityka
+ |news      = Kategoria:Polityka
+ |books     =
+ |podróże   =
+ |species   =
+ |wikiwerek =
+}}
+{{clear|right}}
+[[Kategoria:Społeczeństwo]]</text>
+      <sha1>80uj97ecthoykle1jjoi2nq4rk63x7a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Typologia społeczeństw</title>
+    <ns>14</ns>
+    <id>308165</id>
+    <revision>
+      <id>35932885</id>
+      <parentid>25839441</parentid>
+      <timestamp>2013-03-31T04:14:11Z</timestamp>
+      <contributor>
+        <username>EmausBot</username>
+        <id>344734</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: Przenoszę linki interwiki (2) do [[d:|Wikidata]], są teraz dostępne do edycji na [[d:Q8967514]]</comment>
+      <origin>35932885</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="59" sha1="4o23l5x6liu20b5e33o2epza3h7t0c9" xml:space="preserve">[[Kategoria:Społeczeństwo]]
+[[Kategoria:Makrosocjologia]]</text>
+      <sha1>4o23l5x6liu20b5e33o2epza3h7t0c9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Podróże</title>
+    <ns>14</ns>
+    <id>117277</id>
+    <revision>
+      <id>35928573</id>
+      <parentid>34842269</parentid>
+      <timestamp>2013-03-30T17:54:41Z</timestamp>
+      <contributor>
+        <username>KLBot2</username>
+        <id>478666</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: Przenoszę linki interwiki (37) do Wikidata, są teraz dostępne do edycji na [[:d:Q8894303]]</comment>
+      <origin>35928573</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="52" sha1="b1j98q07wsy05yoofd24goqk29h1zoj" xml:space="preserve">{{Commonscat|Travel}}
+
+[[Kategoria:Społeczeństwo]]</text>
+      <sha1>b1j98q07wsy05yoofd24goqk29h1zoj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Życie codzienne</title>
+    <ns>14</ns>
+    <id>93429</id>
+    <revision>
+      <id>36693124</id>
+      <parentid>35100420</parentid>
+      <timestamp>2013-06-12T18:11:53Z</timestamp>
+      <contributor>
+        <username>MatmaBot</username>
+        <id>150598</id>
+      </contributor>
+      <comment>przeniesienie interwiki do Wikidanych</comment>
+      <origin>36693124</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="59" sha1="fjdnql9naznl4srq15mau5dn4a0w8bp" xml:space="preserve">{{Commonscat|Personal life}}
+
+[[Kategoria:Społeczeństwo]]</text>
+      <sha1>fjdnql9naznl4srq15mau5dn4a0w8bp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Sport</title>
+    <ns>14</ns>
+    <id>66363</id>
+    <revision>
+      <id>71465439</id>
+      <parentid>50221953</parentid>
+      <timestamp>2023-10-07T16:25:19Z</timestamp>
+      <contributor>
+        <username>MalarzBOT</username>
+        <id>31007</id>
+      </contributor>
+      <minor/>
+      <comment>MalarzBOT: usuwam linki do portali: [[Wikipedia:Kawiarenka/Ogólne#Portale]]</comment>
+      <origin>71465439</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="499" sha1="1ky2h736p1yhr2fdykyaz1wtb95bcd5" xml:space="preserve">{{Siostrzane projekty
+ |commons   = Category:Sports
+ |słownik   =
+ |źródła    = Kategoria:Sport
+ |cytaty    = Kategoria:Sport
+ |news      = Kategoria:Sport
+ |books     = Kategoria:Sport
+ |podróże   =
+ |species   =
+ |wikiwerek =
+}}
+{{Opis kategorii
+ |grupuje        =
+ |uwagi          =
+ |osobne_grupują =
+ |main           = [[Sport]]
+ |wikiprojekt    =
+ |zobacz         =
+ |związane       = [[:Kategoria:Medycyna sportowa|medycyna sportowa]]
+}}
+{{clear|right}}
+
+[[Kategoria:Społeczeństwo]]</text>
+      <sha1>1ky2h736p1yhr2fdykyaz1wtb95bcd5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Ludność w prawie międzynarodowym</title>
+    <ns>14</ns>
+    <id>1454374</id>
+    <revision>
+      <id>14042900</id>
+      <parentid>14039653</parentid>
+      <timestamp>2008-09-11T13:18:58Z</timestamp>
+      <contributor>
+        <username>Eteru</username>
+        <id>18463</id>
+      </contributor>
+      <minor/>
+      <comment>[[Wikipedia:Narzędzia/HotCat|HotCat]]: Szybkie dodanie kategorii "Społeczeństwo"</comment>
+      <origin>14042900</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="65" sha1="gjnq9ka5iwd22candyq1k60q4o3vmgk" xml:space="preserve">[[Kategoria:Prawo międzynarodowe]]
+[[Kategoria:Społeczeństwo]]</text>
+      <sha1>gjnq9ka5iwd22candyq1k60q4o3vmgk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Geografia społeczno-ekonomiczna</title>
+    <ns>14</ns>
+    <id>640968</id>
+    <revision>
+      <id>35293242</id>
+      <parentid>34725660</parentid>
+      <timestamp>2013-03-14T10:33:52Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>543400</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Addbot|Bot:]] Przenoszę linki interwiki (43) do [[d:|Wikidata]], są teraz dostępne do edycji na [[d:q4026613]]</comment>
+      <origin>35293242</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="113" sha1="o6fcvnslxla7k8wy7faumzhfw7tmewx" xml:space="preserve">{{Commonscat|Economic geography}}
+
+[[Kategoria:Geografia| ]]
+[[Kategoria:Ekonomia]]
+[[Kategoria:Społeczeństwo]]</text>
+      <sha1>o6fcvnslxla7k8wy7faumzhfw7tmewx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Zbiorowości społeczne</title>
+    <ns>14</ns>
+    <id>153897</id>
+    <revision>
+      <id>36219961</id>
+      <parentid>29073663</parentid>
+      <timestamp>2013-04-20T14:21:48Z</timestamp>
+      <contributor>
+        <username>KLBot2</username>
+        <id>478666</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: Przenoszę linki interwiki (1) do Wikidata, są teraz dostępne do edycji na [[:d:Q9762448]]</comment>
+      <origin>36219961</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="78" sha1="ntsacv1yk07bw8njfvudwf1u8itlz56" xml:space="preserve">[[Kategoria:Społeczeństwo]]
+[[Kategoria:Etnologia i antropologia kulturowa]]</text>
+      <sha1>ntsacv1yk07bw8njfvudwf1u8itlz56</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wielokulturowość</title>
+    <ns>0</ns>
+    <id>1002955</id>
+    <revision>
+      <id>74237615</id>
+      <parentid>71410808</parentid>
+      <timestamp>2024-07-10T08:45:40Z</timestamp>
+      <contributor>
+        <username>MarcinWie123</username>
+        <id>1318523</id>
+      </contributor>
+      <comment>poprawa linków</comment>
+      <origin>74237615</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="19488" sha1="315to8ld3u0kekz6zbpxylqvtplbek8" xml:space="preserve">[[Plik:Reach Toronto.jpg|thumb|Pomnik ku czci wielokulturowości ({{W języku|en|Monument to Multiculturalism}}) w [[Toronto]], [[Kanada]]]]
+'''Wielokulturowość''' ([[język angielski|ang.]] ''multiculturalism'') – obecność wielu różnorodnych [[kultura|kultur]] w obrębie jednego państwa lub polityka państwa wobec [[różnorodność kulturowa|różnorodności kulturowej]]. Termin ma z jednej strony charakter opisowy, odnosi się do stanu faktycznego w wielu państwach, np. w Kanadzie, polegającego na istnieniu wielu różnych grup kulturowych, narodowych i religijnych w obrębie jednego państwa. Z drugiej strony wielokulturowość odnosi się do polityk prowadzonych przez państwa w celu wspierania i integrowania różnorodnych kultur funkcjonujących w obrębie jednego państwa (sens normatywny){{odn|Song|2016}}.
+
+Zwolennicy wielokulturowości w sensie normatywnym odrzucają ideał [[Tygiel narodów|tygla narodów]] ({{W języku|en|melting pot}}), w którym członkowie kultur mniejszościowych mają obowiązek asymilować się do jednej dominującej kultury. W jego miejsce postulują model, w którym wszystkie kultury, w tym te mniejszościowe mają prawo zachowywać swoją tożsamość i tradycje. Zwolennicy multikulturalizmu uznają, że tolerancja i akceptacja tożsamości kulturowej mniejszości nie wyklucza integracji imigrantów ze społeczeństwem, a wręcz umożliwia lepszą integrację, ponieważ gwarantuje równe i bardziej sprawiedliwe traktowanie każdego, niezależnie od pochodzenia{{odn|Song|2016}}.
+
+Politykę opartą na zasadzie oficjalnego uznania i wspierania wielokulturowości prowadzi od 1988 roku [[Kanada]]. W Europie można zaobserwować proces tworzenia się wielokulturowości od II połowy XX wieku w takich społeczeństwach jak [[Brytyjczycy|brytyjska]], [[Francuzi|francuska]] czy [[Niemcy (naród)|niemiecka]].
+
+== Geneza pojęcia ==
+[[Plik:Multiculturalismo.jpg|thumb|left|Dom z elementami ludzi z różnych państw, w tym Rosjan i Niemców, w [[Carambeí]] na [[Region Południowy (Brazylia)|południu Brazylii]], miasto o większości pochodzenia holenderskiego]]
+Pojęcie wielokulturowości stało się elementem debaty publicznej pod koniec lat 60. i na początku lat 70. XX wieku, gdy dwa państwa, [[Australia]] i [[Kanada]], zadeklarowały poparcie dla tej idei{{odn|Rattansi|2011|s=7}}. Do tego czasu Australia dopuszczała jedynie imigracje osób rasy białej, w 1971 uznano konieczność stworzenia społeczeństwa wielokulturowego, a w 1973 roku zniesiono rasowe kryteria dla imigrantów{{odn|Rattansi|2011|s=8}}. Imigrantów zachęcano do integracji, a nie do asymilacji, co miało oznaczać, że przyjmują oni wzorce kultury australijskiej, ale zachowują elementy kultury pochodzenia{{odn|Rattansi|2011|s=8}}. W Kanadzie polityka wielokulturowości wynikała z konfliktów pomiędzy społecznością francuskojęzyczną i anglojęzyczną. W 1969 roku uznano, że w kraju będą obowiązywać dwa języki oficjalne i dwie kultury: francuska i angielska. Pojawiła się wówczas kwestia innych społeczności żyjących w Kanadzie, zwłaszcza ludności rodzimej ([[Metysi kanadyjscy]] i [[Inuici]]){{odn|Kijewska-Trembecka|2019}}. W 1988 oficjalnie uznano prawa innych kultur, uchwalono tzw. ustawę o wielokulturowości ({{W języku|en|Canadian Multiculturalism Act}}), Kanada została uznana za państwo wielu kultur{{odn|Rattansi|2011|s=8}}{{odn|Kijewska-Trembecka|2019}}.
+
+W Europie idea wielokulturowości pojawia się po raz pierwszy w polityce ramowej dotyczącej integracji imigrantów uchwalonej w Wielkiej Brytanii w 1966 roku. Dokument ten był odpowiedzią na napływ imigrantów spoza Europy. Definiuje on integrację imigrantów jako „kulturową różnorodność połączoną z równością szans i atmosferą wzajemnej tolerancji”{{odn|Rattansi|2011|s=9}}.
+
+== Rodzaje polityk wielokulturowych ==
+[[Plik:Chinatown.london.700px.jpg|mały|Chińska dzielnica w Londynie]]
+Badacze zarysowali 8 punktów, które pozwalają na identyfikację danej polityki państwowej jako polityki wielokulturowej i stopnia w jakim dana polityka stosuje zasadę wielokulturowości{{odn|Kymlicka|2006|s=56}}{{odn|Rattansi|2011|s=16}}.
+
+# Konstytucyjna, prawna lub parlamentarna afirmacja wielokulturowości na poziomie władzy centralnej i/lub lokalnej.
+# Zastosowanie wielokulturowości na poziomie programów szkolnych.
+# Uwzględnienie reprezentacji różnych kultur i narodowości w mediach publicznych lub w instytucjach licencjonujących media.
+# Wyjątki prawne dotyczące sposobu ubioru lub obchodzenia świąt (np. dotyczące pracy w niedzielę).
+# Zezwolenie na podwójne obywatelstwo.
+# Wsparcie finansowe państwa dla organizacji kulturalnych i narodowych innych nie-dominujących kultur.
+# Wsparcie dla edukacji dwujęzycznej lub edukacji w języku macierzystym.
+# [[Akcja afirmatywna]] dla grup dyskryminowanych.
+
+Jeśli dane państwo stosuje przynajmniej 6 z 8 polityk uznaje się, że jest to „mocny” multikulturalizm, te, które stosują od 3 do 5 punktów (gdzie ocena połowiczna oznacza stosowanie pewnych elementów danej polityki) oceniane są jako multikulturalizm „umiarkowany”. Te, które stosują mniej niż 3 punkty, są uznane za „słaby” multikulturalizm. Przyjmując te kryteria uznaje się, że następujące państwa reprezentują różne typy multikulturalizmu{{odn|Rattansi|2011|s=17}}.
+
+{| class="wikitable" style="text-align:right"
+|+ Rodzaje polityk wielokulturowych
+! Rodzaj
+! Państwa
+|-
+| Mocny
+| [[Kanada]], [[Australia]]
+|-
+| Umiarkowany
+| [[Belgia]], [[Holandia]], [[Nowa Zelandia]], [[Szwecja]], [[Stany Zjednoczone|USA]], [[Wielka Brytania]]
+|-
+| Słaby
+| [[Austria]], [[Dania]], [[Francja]], [[Finlandia]], [[Niemcy]], [[Grecja]], [[Irlandia]], [[Włochy]], [[Portugalia]], [[Norwegia]], [[Hiszpania]], [[Szwajcaria]], [[Rosja]]
+|}
+
+== Wielokulturowość w różnych państwach ==
+=== USA ===
+[[Stany Zjednoczone]] są jednym z przykładów krajów wielokulturowych. Napływ [[imigrant]]ów z różnych stron świata spowodował powstanie mieszanki etnicznej, jak i mieszanki poglądów np. w USA zrodziło się [[chrześcijaństwo]] liberalne, jak i fundamentalne o skrajnie konserwatywnych poglądach (popierających [[chrześcijański rekonstrukcjonizm]]).
+
+=== Kanada ===
+[[Plik:Chinatown toronto spadina avenue.JPG|thumb|left|Chinatown w [[Toronto]]]]
+[[Kanada]] jest postrzegana jako wzorcowy kraj wielokulturowy. Wielokulturowość to oficjalna polityka rządu federalnego od 1988 roku (uchwalenie ustawy o wielokulturowości){{odn|Rattansi|2011|s=8}}. W 2016 roku wg oficjalnych danych w kraju mieszkali przedstawiciele 250 grup etnicznych, którzy mówili ok. 200 różnymi językami{{odn|Kijewska-Trembecka|2019}}. Kraj stał się wielokulturowy w XX wieku. W 1871 roku 84% imigrantów w Kanadzie pochodziło z Wysp Brytyjskich{{odn|Kijewska-Trembecka|2019}}. Do 1967 roku Kanada zezwalała na przyjazd jedynie osobom z USA i Europy. Imigracja spoza Europy i USA pojawiła się w latach 70{{odn|Kijewska-Trembecka|2019}}.
+
+Grupy etniczne otrzymują szeroką pomoc finansową i merytoryczną od władz federalnych i często prowincjonalnych. W ramach gabinetu rządowego istnieje osobna teka ministerialna ds. wielokulturowości. Popierane jest prywatne szkolnictwo w językach innych niż oficjalne i istnieje możliwość zakwalifikowania programów takich szkół w ramach prowincjonalnych systemów szkół podstawowych i średnich. Przykładem tego może być polonijna szkoła im. Henryka Sienkiewicza w [[Edmonton]]ie, w prowincji [[Alberta]]&lt;ref&gt;Andrzej M. Kobos, ''[http://www.abheritage.ca/albertans/articles/maria_chrzanowska.html Maria Chrzanowska: Polish Education Takes Root in Edmonton]'' [on-line], [w:] Alberta Online Encyclopedia [dostęp 2009-10-14].&lt;/ref&gt;. Organizowane są tzw. festiwale etniczne, podczas których różne grupy prezentują swoje kultury i tradycje{{odn|Kijewska-Trembecka|2019}}. W mediach promowane są różne kultury, rząd troszczy się o równą obecność przedstawicieli różnych kultur w mediach{{odn|Kijewska-Trembecka|2019}}. W latach 80. uchwalono prawo zakazujące dyskryminacji w miejscu pracy{{odn|Kijewska-Trembecka|2019}}.
+
+{{Zobacz też|Kultura Kanady|Kanadyjska Karta Praw i Swobód}}
+
+=== Niemcy ===
+[[Plik:Bundesarchiv Bild 183-01986-09083, Schwarza, kubanische Gastarbeiterin.jpg|thumb|upright=0.7|Pracowniczka gościnna (''[[Gastarbeiter]]'') z [[Kuba|Kuby]] pracująca w Fabryce w [[Niemiecka Republika Demokratyczna|NRD]]]]
+Multikulturalizm nigdy nie był oficjalną polityką rządu niemieckiego i nie budził uznania społeczeństwa niemieckiego. Nie był popierany przez niemieckie partie polityczne, z wyjątkiem [[Sojusz 90/Zieloni|Zielonych]], którzy w swoim programie jako jedyni pozytywnie odnoszą się do różnorodności kulturowej{{odn|Rattansi|2011|s=36}}. Na skutek imigracji zarobkowej do Niemiec kraj stał się jednak de facto wielokulturowy{{odn|Kraus|Schönwälder|2006|s=210}}. W 2017 roku w Niemczech zamieszkiwało ponad 19 mln osób z tłem migracyjnym, co stanowi 23% ludności Niemiec&lt;ref&gt;{{Cytuj stronę |url=https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Migration-Integration/Tabellen/liste-migrationshintergrund-geschlecht.html |tytuł=Bevölkerung nach Migrationshintergrund und Geschlecht |język=de |opublikowany=destatis.de |data dostępu=2019-04-22}}&lt;/ref&gt;. Największe grupy z tłem migracyjnym to osoby pochodzące z Turcji (2,7 mln), Polski (2,1 mln) i Rosji (1,3 mln)&lt;ref&gt;{{Cytuj stronę |url=https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Migration-Integration/Tabellen/migrationshintergrund-staatsangehoerigkeit-staaten.html |tytuł=Bevölkerung in Privathaushalten 2017 nach Migrationshintergrund |język=de |opublikowany=destatis.de |data dostępu=2019-04-22}}&lt;/ref&gt;.
+
+Tradycja niemiecka na początku XX wieku i po II wojnie uznawała, że przynależność do narodu niemieckiego jest dostępna tylko dla osób, których rodzice są Niemcami. Z tego względu imigranci spoza Europy, którzy przybywali do Niemiec po II wojnie światowej nie mieli szans na uzyskanie obywatelstwa. Po drugiej wojnie światowej do Niemiec na masową skalę przybywali imigranci ze wschodu ([[Niemiecka Republika Demokratyczna|NRD]], Europa Wschodnia). Byli oni jednak uznawani za Niemców, ponieważ mieli niemieckie korzenie{{odn|Jarausch|2013|s=425}}. Emigracja ze wschodnich Niemiec została zatrzymana przez budowę [[Mur Berliński|muru]]{{odn|Jarausch|2013|s=425}}.
+
+Ze względu na brak rąk do pracy rząd niemiecki został zmuszony do zawarcia umów z innymi państwami, w których regulował zasady rekrutacji zagranicznych pracowników (umowa z Włochami 1955, Grecją 1960, Turcją 1961){{odn|Jarausch|2013|s=425}}. Przybywający pracownicy byli traktowani jako [[Gastarbeiter]]zy, a więc osoby przybywające tymczasowo, nie wymagające integracji z niemiecką społecznością{{odn|Rattansi|2011|s=36}}. Większość pracowników była rekrutowana do prac nie wymagających wykształcenia, do których najtrudniej było znaleźć pracowników w Niemczech, po zakończeniu kontraktów mieli oni wrócić do krajów pochodzenia. Pracownicy osiadali na ogół w specjalnych hotelach robotniczych{{odn|Jarausch|2013|s=425}}. W 1973 roku w Niemczech było już 14 milionów imigrantów, 11 mln wyjechało z kraju w latach 70. na skutek kryzysu gospodarczego, 3 mln Turków pozostało jednak w kraju{{odn|Rattansi|2011|s=36}}. W kolejnych latach liczba imigrantów rosła i w 2011 roku liczba osób urodzonych za granicą wynosiła 9% populacji{{odn|Rattansi|2011|s=36}}. Pierwsze zmiany w prawie dotyczącym obywatelstwa uznające, że Niemcy są krajem imigrantów poczyniono w latach 90. XX wieku, a następnie w 2005 roku{{odn|Rattansi|2011|s=36}}.
+
+Imigracja tymczasowych pracowników osiadała głównie w dużych w miastach, imigranci osiadali na ogół w wybranych dzielnicach, co było wymuszone nieznajomością niemieckiego. W 1981 roku we [[Frankfurt nad Menem|Frankfurcie]] na 1000 mieszkańców przypadało 232 cudzoziemców, w [[Stuttgart|Stutttgarcie]] 181 cudzoziemców na 1000 mieszkańców, a w [[Monachium]] 173 na 1000{{odn|Jarausch|2013|s=427}}. Imigranci z [[Jugosławia|Jugosławii]], [[Włochy|Włoch]] i innych państw europejskich byli na ogół akceptowani, imigranci z [[Turcja|Turcji]] uznawani za „niezdolnych do integracji”{{odn|Jarausch|2013|s=427}}. W latach 80. XX wieku imigracja budziła niezadowolenie społeczne, w badaniach społecznych ustalono, że 4/5 mieszkańców RFN zgadzało się ze stwierdzeniem: „mamy obecnie zbyt wielu cudzoziemców” i domagało się ograniczenia imigracji{{odn|Jarausch|2013|s=428}}. Z drugiej strony dzieci imigrantów spotykały się z dyskryminacją i licznymi problemami wynikającymi m.in. z niedostatecznej znajomości [[Język niemiecki|języka niemieckiego]], 2/3 dzieci pracowników tymczasowych (Gastarbeiterów) nie kończyło szkoły{{odn|Jarausch|2013|s=429}}.
+
+Pod wpływem niechęci do imigracji konserwatywny rząd [[Helmut Kohl|Helmuta Kohla]] propagował hasło: „łódź jest pełna” i oferował cudzoziemcom specjalne talony w wysokości 10 500 marek na podróż powrotną do kraju pochodzenia. Około 140 tys. cudzoziemców wyjechało także w ramach programu wcześniejszych emerytur dla imigrantów. Wprowadzono także ograniczenia w programie łączenia rodzin i w prawie do [[azyl]]u{{odn|Jarausch|2013|s=430}}. Na krótko obniżyło to nieco liczbę cudzoziemców, ale wzrost gospodarczy i brak pracowników w latach 80. spowodował, że firmy ponownie zaczęły sprowadzać cudzoziemców{{odn|Jarausch|2013|s=430}}.
+
+W połowie października 2010 roku kanclerz Niemiec, [[Angela Merkel]] na spotkaniu z młodymi działaczami CDU stwierdziła, że ''polityka multikulti poniosła kompletną klęskę''. Kanclerz Niemiec powiedziała, że ''w praktyce teoria społeczeństwa wielokulturowego nie sprawdziła się''. Dotyczyć to ma szczególnie mniejszości muzułmańskiej. Również [[Horst Seehofer]], lider bawarskiej CSU powiedział, że ''imigranci z krajów arabskich i Turcji nie chcą się integrować''. ''Mulikulti nie żyje'' – stwierdził Seehofer&lt;ref&gt;{{Cytuj |url=http://www.bbc.co.uk/news/world-europe-11559451 |tytuł=Merkel says German multicultural society has failed – BBC News&lt;!-- Tytuł wygenerowany przez bota --&gt; |opublikowany=www.bbc.co.uk |język=en |data dostępu=2017-11-27}}&lt;/ref&gt;.
+
+Wypowiedzi niemieckich polityków można odczytywać jako wyraz braku poparcia dla polityki multikulturalizmu.
+
+=== Francja ===
+[[Plik:Isabelle Adjani Cannes 2018.jpg|thumb|left|[[Isabelle Adjani]], córka imigranta z [[Algieria|Algierii]]]]
+Po 1945 roku do Francji zaczęli przybywać imigranci z dawnych kolonii francuskich w Afryce Północnej. Odróżniali się oni od poprzednich fal imigrantów m.in. Polski, Rosji czy Hiszpanii ze względu na kolor skóry i wyznanie (islam){{odn|Rattansi|2011|s=32}}. W 1969 komisja ekspertów uznała, że robotnicy z [[Maghreb]]u mają być traktowani wyłącznie jako pracownicy tymczasowi, a ich przybycie do Francji i pobyt w tym kraju mają być ściśle kontrolowane przez państwo na podstawie umów międzynarodowych z państwami pochodzenia imigrantów{{odn|Rattansi|2011|s=32}}. Zarówno prawica, jak i lewica (partia komunistyczna) uznawała, że imigranci powinni powrócić do krajów pochodzenia po zakończeniu czasowego pobytu. W tym celu dzieci imigrantów były uczone arabskiego w szkołach{{odn|Rattansi|2011|s=33}}. W 1974 uchwalono ustawę zakazującą jakiejkolwiek imigracji do Francji spoza Europy{{odn|Rattansi|2011|s=33}}. W 1981 roku zakaz został zniesiony, przyznano także imigrantom z Afryki Północnej prawo do tworzenia własnych stowarzyszeń kulturalnych (prawa takie od dawna posiadali imigranci z Europy, np. z Polski){{odn|Rattansi|2011|s=34}}.
+
+W latach 70. Francja wrogo odnosiła się do idei wielokulturowości polegającej na afirmacji różnorodności kulturowej i narodowej{{odn|Rattansi|2011|s=31}}. Postawę wobec różnorodności kulturowej determinuje idea [[Laicyzm|laickości]]. We Francji istnieją dwa rozumienia laickości. Jedno z nich wyklucza afirmacje różnorodności kulturowej, oznacza bowiem, że przedstawiciele mniejszości religijnych nie powinni mieć prawa do publicznych modłów, noszenia określonych, religijnie umotywowanych, nakryć głowy, odmawiania konsumpcji niektórych rodzajów żywności w szkolnych restauracjach itd{{odn|Rattansi|2011|s=31}}. Z drugiej strony zwolennicy wielokulturowości interpretują laickość w bardziej łagodny sposób. Twierdzą, że laickość oznacza wolność do wyrażania własnej tożsamości w szkole i sferze publicznej w takim stopniu, w jakim nie stanowi to zagrożenia dla innych{{odn|Rattansi|2011|s=32}}.
+
+Wielokulturowość jest we Francji przedmiotem krytyki. W 2011 Prezydent Francji [[Nicolas Sarkozy]] stwierdził, że „za bardzo koncentrowaliśmy się na tożsamości osoby, która do nas przyjeżdża, zamiast na tożsamości kraju, który udziela jej gościny. Należy szanować różnice kulturowe, ale nie można doprowadzać do tego, by różne społeczności się od siebie separowały”&lt;ref&gt;{{Cytuj stronę |url=http://wyborcza.pl/1,75968,9108135,Nie_kleska__lecz_korekta_wielokulturowosci.html|tytuł=Nie klęska, lecz korekta wielokulturowości |nazwisko=Wojciechowski |imię=Marcin |data=2011-02-15 |opublikowany=wyborcza.pl |rok=2011 |data dostępu=2019-04-22 |odn=tak}}&lt;/ref&gt;.
+
+== Zobacz też ==
+{{Wikicytaty|dopełniacz=o wielokulturowości}}
+* [[organizacja wielokulturowa]]
+* [[naród]]
+
+== Przypisy ==
+{{Przypisy}}
+
+== Bibliografia ==
+* {{Cytuj książkę |nazwisko=Rattansi |imię=Ali|tytuł=Multiculturalism: A Very Short Introduction |isbn=9780199546039 |miejsce=Oxford Oxford University Press |rok=2011 |język=en| odn=tak}}
+* {{Cytuj książkę |tytuł=Multiculturalism and the welfare state: recognition and redistribution in contemporary democracies |inni=[[Will Kymlicka]] (red.) |nazwisko r=Kymlicka |imię r=Will| rozdział=Do multiculturalism policies erode the welfare state? |oclc=224120904 |miejsce=Syracuse, N.Y. |rok=2006|odn=tak}}
+* {{Cytuj książkę |nazwisko=Jarausch |imię=Konrad Hugo |tytuł=Po Hitlerze: powrót Niemców do cywilizowanego świata 1945-1995 |inni=Jacek Serwański (tłum.)|isbn=9788363795290 |miejsce=Poznań |rok=2013| odn=tak}}
+* {{Cytuj książkę |autor=Will Kymlicka (red).|tytuł=Multiculturalism and the welfare state: recognition and redistribution in contemporary democracies |rozdział=Multiculturalism in Germany: Rhetoric, Scattered Experiments and Future Chances |isbn=0199289174 |nazwisko r=Kraus |imię r=Peter|nazwisko2 r=Schönwälder |imię2 r=Karen |miejsce=Oxford |rok=2006| odn=tak}}
+* {{Cytuj pismo |nazwisko=Song |imię=Sarah |tytuł=Multiculturalism |url=https://plato.stanford.edu/entries/multiculturalism/ |czasopismo=Stanford Encyclopedia of Philosophy |rok=2016 |data = 2016-08-12 |język=en |issn=1095-5054 |data dostępu = 2018-01-17 |odn=tak}}
+* {{Cytuj pismo |autor link=Marta Kijewska-Trembecka|nazwisko=Kijewska-Trembecka |imię=Marta |tytuł=Jak zostać Kanadyjczykiem |url=http://www.miesiecznik.znak.com.pl/jak-zostac-kanadyjczykiem/ |czasopismo=Miesięcznik Znak |oznaczenie=styczeń 2019, nr 764 |rok=2019 |issn= |odn=tak}}
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Społeczeństwo]]
+[[Kategoria:Socjologia kultury]]</text>
+      <sha1>315to8ld3u0kekz6zbpxylqvtplbek8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Komunikacja</title>
+    <ns>14</ns>
+    <id>93953</id>
+    <revision>
+      <id>74214936</id>
+      <parentid>74214935</parentid>
+      <timestamp>2024-07-07T13:01:31Z</timestamp>
+      <contributor>
+        <username>LEJ P0 ŁYMPIE</username>
+        <id>1329775</id>
+      </contributor>
+      <comment>WIKIPEDIĘ LEJ PO ŁYMPIE!</comment>
+      <origin>74214936</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="59" sha1="19fcjsigi69lfqrskgetd09mb4jey05" xml:space="preserve">{{Commonscat|Communication}}
+
+[[Kategoria:Społeczeństwo]]</text>
+      <sha1>19fcjsigi69lfqrskgetd09mb4jey05</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Relacje społeczne</title>
+    <ns>14</ns>
+    <id>2071035</id>
+    <revision>
+      <id>22852348</id>
+      <timestamp>2010-08-19T20:48:50Z</timestamp>
+      <contributor>
+        <username>Tomasz Raburski</username>
+        <id>193408</id>
+      </contributor>
+      <comment>nowa</comment>
+      <origin>22852348</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="29" sha1="qy935jkdt6riz8vkubntox92u90sbm7" xml:space="preserve">[[Kategoria:Społeczeństwo]]</text>
+      <sha1>qy935jkdt6riz8vkubntox92u90sbm7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Gospodarka</title>
+    <ns>14</ns>
+    <id>458687</id>
+    <revision>
+      <id>36799513</id>
+      <parentid>36103869</parentid>
+      <timestamp>2013-06-19T18:24:02Z</timestamp>
+      <contributor>
+        <username>Sławek Borewicz</username>
+        <id>393402</id>
+      </contributor>
+      <comment>wymiana szablonu do Commons na szablon zbiorowy do projektów siostrzanych</comment>
+      <origin>36799513</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="649" sha1="absi57q6t5xa2bgpeozfxmbexc1rgez" xml:space="preserve">{{Opis kategorii
+ |grupuje        = 
+
+{{Siostrzane projekty
+ |commons   = Category:Business
+ |słownik   =
+ |źródła    =
+ |cytaty    = Kategoria:Gospodarka
+ |news      = Kategoria:Gospodarka
+ |books     =
+ |podróże   =
+ |species   =
+ |wikiwerek =
+}}
+
+ |uwagi          = Gospodarka – całokształt działalności prowadzonej w sferze [[Produkcja|produkcji]], podziału, obiegu i [[Konsumpcja|konsumpcji]] [[Dobra (ekonomia)|dóbr]] i [[Usługa|usług]].
+ |osobne_grupują =
+ |main           = [[Gospodarka]]
+ |portal         =
+ |wikiprojekt    =
+ |zobacz         = [[:Kategoria:Ekonomia]]
+ |związane       =
+}}
+
+
+[[Kategoria:Społeczeństwo]]</text>
+      <sha1>absi57q6t5xa2bgpeozfxmbexc1rgez</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Portal:Społeczeństwo</title>
+    <ns>100</ns>
+    <id>1875992</id>
+    <revision>
+      <id>74989450</id>
+      <parentid>74154115</parentid>
+      <timestamp>2024-10-18T11:08:54Z</timestamp>
+      <contributor>
+        <username>MalarzBOT</username>
+        <id>31007</id>
+      </contributor>
+      <minor/>
+      <comment>poprawiam [[Specjalna:Błędy składniowe/obsolete-tag]] (font)</comment>
+      <origin>74989450</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="29495" sha1="sp5axxe6sg1gwf52ho3lsnphfgr4arv" xml:space="preserve">{{Wygaszony portal}}
+__NOTOC__
+{{Wikipedia:Portal/nawigacja}}
+&lt;div style="display:block; vertical-align:top; width:99%; margin:5px 0 10px; padding:0 4px 0 5px;"&gt;
+&lt;h2 style="background-color:#f18e9d; color:#8b1345; text-align:center; font-weight:bold; font-size:150%; margin:0 -4px 5px -5px; padding:5px;"&gt;Społeczeństwo w polskojęzycznej Wikipedii&lt;/h2&gt;
+&lt;div style="font-size:95%"&gt;
+[[Plik:Utopia coloured2.png|100px|right]]
+W tym portalu prezentujemy wybrane zagadnienia dotyczące społeczeństwa. Niektóre obszary wiedzy (np. dotyczące organizacji czy ruchów społecznych) nie zostały zaprezentowane w postaci zbiorczych portali, ale można je znaleźć w ogólnej [[:Kategoria:Społeczeństwo|kategorii dotyczącej społeczeństwa]]. Jeżeli uważasz, że brakuje jakiejś dziedziny wiedzy, albo chciałbyś pomóc w opiece nad którymś z portali, zapraszamy na stronę dyskusji.
+
+Po prawej stronie znajdują się kategorie poszczególnych dziedzin wiedzy. Zaprezentowane zostały też wyróżnione, głównie ze względu na jakość, artykuły oraz ilustracje.
+
+''Będziemy wdzięczni za Twoją pomoc, szanowny czytelniku, w rozwijaniu artykułów związanych z poniżej przedstawionymi naukami. Przy każdej z nich zamieściliśmy odpowiednie strony odnoszące się do współpracy. Zapraszamy także do [[Wikipedia:Wikiprojekt|wikiprojektów]].''
+&lt;div style="text-align:right; margin: 0 10px 4px 0; clear:both;"&gt;{{odśwież}}&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+{| id="mp-strapline" style="width:100%; background:none; margin:-.8em 0 -.7em 0;"
+| style="font-size:130%; padding:10px 0; margin:0; text-align:left; white-space:nowrap;" | Kategoria główna:&lt;br /&gt;&amp;nbsp;[[:Kategoria:Społeczeństwo|Społeczeństwo]]
+| style="font-size:95%; padding:10px 0; margin:0; text-align:right; white-space:nowrap;" | Portale szczegółowe:
+: [[Portal:Biografie|Biografie]] · ([[Portal:Święci|Święci]] · [[Portal:Leonardo da Vinci|Leonardo da Vinci]])&lt;br /&gt;[[Portal:Polityka|Polityka]] · [[Portal:Monarchia|Monarchia]] · [[Portal:Partie polityczne|Partie]] · [[Portal:Unia Europejska|Unia Europejska]]&lt;br /&gt;[[Portal:Anarchizm|Anarchizm]] · [[Portal:Ateizm|Ateizm]] · [[Portal:LGBT|LGBT]] · [[Portal:Wolnomularstwo|Wolnomularstwo]] · [[Portal:Seks|Seks]]&lt;br /&gt;[[Portal:Harcerstwo|Harcerstwo]] · [[Portal:Wojsko|Wojsko]] · [[Portal:Zakony|Zakony]]&lt;br /&gt;[[Portal:Akwarystyka|Akwarystyka]] · [[Portal:Filatelistyka|Filatelistyka]] · [[Portal:Modelarstwo|Modelarstwo]] · [[Portal:Piwo|Piwo]]
+|}
+
+{| style="padding:3px; width:100%;" align=left
+|&lt;span style="font-size:150%; color:#8b1345;"&gt;[[Plik:P vip red.png|40px]] &amp;nbsp; '''Biografie'''&lt;/span&gt;
+|-
+| style="border:1px solid #a02d68; background-color:#f18e9d; padding:2px; text-align:center; font-size:130%; color:#222222; width:100%;" |&lt;div style="float:right; font-size:80%;"&gt;&lt;sup&gt;{{Edytuj|Portal:Biografie/Artykuł tygodnia|e}}&lt;/sup&gt;&lt;/div&gt; '''Wyróżniony artykuł'''
+|-
+| style="font-size:95%;" |{{Portal:Biografie/Artykuł tygodnia}}
+|-
+|colspan="2" style="padding:2px; text-align:left; width:100%;" | &lt;div style="float:right; margin:0 10px 4px 0;"&gt;&lt;big&gt;[[Plik:Portal grey.png|30px]]'''&amp;nbsp; &amp;nbsp; [[Portal:Biografie]]'''&lt;/big&gt;&lt;/div&gt;
+&lt;span style="font-size:100%; color:#80113f; font-weight:bold;"&gt;Polecamy artykuły:&lt;/span&gt;
+&lt;div style="font-size:90%;"&gt; &amp;nbsp; &amp;nbsp; '''[[Wikipedia:Artykuły na Medal|Medalowe artykuły]]: '''[[Henryk I Brodaty]] · [[George Patton]] · [[Heinz Guderian]] · [[Mieszko I]] · [[Gajusz Juliusz Cezar]] · [[Mieszko II Lambert]] · [[Muhammad Ali (pasza)]] · [[Jadwiga Jagiellonka (1457–1502)]] · [[Ramzes II]] · [[Zofia Holszańska]] · [[Margaret Thatcher]] · [[Henryk II Plantagenet]] · [[Giuseppe Garibaldi]] · [[Józef Piłsudski]] · [[Zofia Jagiellonka (1464–1512)]] · [[George McClellan]] · [[Stefan Czarniecki]] · [[Walery Sławek]] · [[Edward Śmigły-Rydz]] · [[Omar Bongo]] · [[Konstancja wodzisławska]] · [[Teodoro Obiang Nguema Mbasogo]] · [[Jan Muskata]] · [[Herodiada]] · [[Batszeba]] · [[Absalom (syn Dawida)]] · [[Adi Śankara]] · [[Ali ibn Abi Talib]] · [[Dionizy (Waledyński)]] · [[Giacomo Casanova]] · [[Luis de Góngora y Argote]] · [[William Wordsworth]] · [[William Butler Yeats]] · [[Samuel Taylor Coleridge]] · [[Zbigniew Herbert]] · [[Antoni Kucharczyk]] · [[Jacek Kaczmarski]] · [[Victor Hugo]] · [[William Shakespeare|William Szekspir]] · [[Antoni Lange]] · [[Jan Vermeer]] · [[bracia Quay]] · [[Antonio José (piosenkarz)]] · [[Isabella Augusta Gregory]] · [[Leconte de Lisle]] · [[John Frusciante]] · [[Henry Wadsworth Longfellow]] · [[Angelina Jolie]] · [[Don Rosa]] · [[Carl Barks]] · [[Henryk Zieliński]] · [[Marian Rejewski]] · [[Leonardo da Vinci]] · [[Edward Flatau]] · [[Constantin von Economo]] · [[Max Rothmann]] · [[Łucja Frey-Gottesman]] · [[Richard Dawkins]] · [[Bronislaw Onuf-Onufrowicz]] · [[Paweł Zagumny]] · [[Ronnie O’Sullivan]] · [[Peter Ebdon]] · [[Justine Henin]] · [[Adam Małysz]] · [[Simon Ammann]] · [[Dmitrij Wasiljew (skoczek narciarski)|Dmitrij Wasiljew]] · [[Rok Benkovič]] · [[Ville Kantee]] · [[Wayne Gretzky]] · [[Xabi Alonso]] · [[Kuba Rozpruwacz]] · [[Józef Gosławski]]'''&lt;br /&gt;&amp;nbsp; &amp;nbsp; [[Wikipedia:Dobre Artykuły|Dobre artykuły]]: '''[[Mahatma Gandhi]] • [[Roman Strzałkowski]] • [[Gabriel Czechowicz]] • [[Jerzy IV Hanowerski]] • [[Bolesław Bierut]] • [[Władysław Bartoszewski]] • [[Sławomir (książę obodrzycki)]] • [[Filip V Hiszpański]] • [[Dobrawa Przemyślidka]] • [[Drożko]] • [[Sweneld]] • [[Bezprym]] • [[Jan cieszyński]] • [[David Petraeus]] • [[Maria Kunegunda Wettyn]] • [[Elżbieta Mieszkówna]] • [[Vazul]] • [[Agnieszka Bolesławówna]] • [[Adelajda Kazimierzówna]] • [[Leon Kozłowski]] • [[Konstancja wrocławska]] • [[Sima Qian]] • [[Maria z Montferratu]] • [[Aspazja]] • [[Zhu Qizhen]] • [[Jakub Szydłowiecki (starszy)]] • [[Eufemia kujawska]] • [[Stefan Rowecki]] • [[Bolesław III Krzywousty]] • [[Jan Borgia (1498–1547/1549)|Giovanni Borgia (1498–1547/1549)]] • [[Fenenna kujawska]] • [[Symeon I]] • [[Samuel Komitopul]] • [[Irena z Larisy]] • [[Mojżesz Komitopul]] • [[Stefan Pierwszy Koronowany]] • [[Eadbald]] • [[Iwan Władysław]] • [[Yahya Jammeh]] • [[Faure Gnassingbé]] • [[Aleksander Prystor]] • [[Karl Ernst]] • [[Olga Romanowa (1895–1918)|Olga Nikołajewna Romanowa]] • [[Willi Münzenberg]] • [[Miranszah]] • [[Jędrzej Moraczewski|Jędrzej Moraczewski (polityk)]] • [[Stanisław Dubois]] • [[Rogwołod]] • [[J.R.R. Tolkien|John Ronald Reuel Tolkien]] • [[Rudyard Kipling]] • [[Terry Pratchett]] • [[Felice Beato]] • [[Han van Meegeren]] • [[Wojciech Kossak]] • [[Maria van Oosterwijk]] • [[Caravaggio]] • [[Bracia Seidenbeutlowie]] • [[Sharon Stone]] • [[Katie Holmes]] • [[Gina Lynn]] • [[Ernardo Gómez|Ernardo Gomez]] • [[Grzegorz Wagner (siatkarz)]] • [[Piotr Lipiński (siatkarz)]] • [[Sebastian Pęcherz-Devash|Sebastian Pęcherz]] • [[Wojciech Żaliński]] • [[Bojan Krkić]] • [[Kenny Dalglish]] • [[Fernando Torres]] • [[Duncan Edwards]] • [[Zinédine Zidane]] • [[Darren Bent]] • [[Cesc Fàbregas]] • [[Ronnie Wallwork]] • [[Antonio Cassano]] • [[Matthew Jarvis]] • [[Bacary Sagna]] • [[Liam Miller]] • [[Daniele De Rossi]] • [[Roman Pawluczenko]] • [[Mariusz Lewandowski]] • [[Ireneusz Jeleń]] • [[Alberto Paloschi]] • [[Riccardo Montolivo]] • [[Emile Heskey]] • [[Marek Hamšík]] • [[Adrian Frańczak]] • [[Lionel Messi]] • [[Karim Benzema]] • [[James Milner]] • [[David Villa]] • [[Marija Szarapowa]] • [[Andy Roddick]] • [[Eva Birnerová]] • [[Lleyton Hewitt]] • [[Jason Lamy Chappuis|Jason Lamy-Chappuis]] • [[Dmitrij Jaroszenko]] • [[Emil Hegle Svendsen]] • [[Gregor Schlierenzauer]] • [[Maria Hjorth]] • [[Stephen Hendry]] • [[Gordon Shedden]] • [[Elżbieta Przemyślidka (opatka)|Elżbieta (opatka w Pustiměřu)]] • [[Hieronim ze Strydonu]] • [[Matylda (opatka w Essen)]] • [[Maria Michał Kowalski|Jan Maria Michał Kowalski]] • [[Teofano (opatka w Essen)]] • [[Aleksy Romanow (1904–1918)|Aleksy Nikołajewicz Romanow]] • [[Bogumił z Dobrowa]] • [[Beniamin (Kazanski)|Weniamin (Kazanski)]] • [[Serafin z Sarowa|Serafim z Sarowa]] • [[Michael Jackson]] • [[John Cale]] • [[Krzysztof Raczkowski]] • [[Adrian Kowanek]] • [[Piotr Wiwczarek]] • [[Zbigniew Promiński]] • [[Tomasz Łosowski]] • [[Tomasz Wróblewski]] • [[Adam Darski]] • [[Doda (piosenkarka)|Dorota Rabczewska]] • [[Amy Lee]] • [[Dariusz Brzozowski]] • [[Hayari Miyake]] • [[Ernő Jendrassik]] • [[Georges Gilles de la Tourette]] • [[Max Lewandowsky]] • [[Josef Gerstmann]] • [[Władysław Leon Osmolski]] • [[Stefan Rosental]] • [[Isador Coriat]] • [[Samuel Goldflam]] • [[Edward Anthony Spitzka]] • [[Edward Charles Spitzka]] • [[Leonhard Euler]] • [[Johannes Kepler]] • [[Georg Forster]] • [[Jerzy Kotula]] • [[Oisín]] • [[Kakashi Hatake]] • [[Konstanty Schmidt-Ciążyński]] • [[Zygmunt Pawlaczyk]] • [[Henryk Jaskuła]] • [[Michał Hieronim Leszczyc-Sumiński]]
+&lt;/div&gt;
+|-style="border:1px solid #f1d18e;"
+|-
+|colspan="2" style="padding:2px; text-align:left; width:100%;" | &lt;div style="float:right; margin:0 10px 4px 0;"&gt;&lt;big&gt;[[Plik:Project.svg|30px]]'''&amp;nbsp; &amp;nbsp; [[Wikiprojekt:Biografie]]'''&lt;/big&gt;&lt;/div&gt;&lt;br /&gt;
+&lt;div style=font-size:100%;color:#80113f&gt;'''Zapraszamy do współpracy:'''&lt;/div&gt;
+&lt;div style=font-size:90%&gt;
+[[Wikipedia:Zalecenia edycji artykułów biograficznych|Zalecenia tworzenia haseł biograficznych]] &amp;nbsp; · [[Wikipedia:Propozycje tematów/Osoby|brakujące hasła biograficzne]] &amp;nbsp; · ([[:Kategoria:Biogramy do zrobienia|listy haseł biograficznych do napisania]]) &amp;nbsp; · [[:commons:Category:People|ilustracje do użycia w artykułach]] &amp;nbsp; · [http://toolserver.org/~daniel/WikiSense/CategoryIntersect.php?wikilang=pl&amp;wikifam=.wikipedia.org&amp;basecat=Biografie&amp;basedeep=5&amp;mode=rc&amp;hours=48&amp;nobots=on&amp;go=Skanuj&amp;format=html&amp;userlang=pl ostatnio edytowane hasła] &amp;nbsp; · [http://toolserver.org/~daniel/WikiSense/CategoryIntersect.php?wikilang=pl&amp;wikifam=.wikipedia.org&amp;basecat=Biografie&amp;basedeep=5&amp;mode=ts&amp;templates=%C5%B9r%C3%B3d%C5%82a&amp;go=Skanuj&amp;format=html&amp;userlang=pl artykuły wymagające weryfikacji] &amp;nbsp; · [[Wikipedia:Biblioteka/Biografie|biblioteczka wikipedystów]] &amp;nbsp; · [[:Kategoria:Infoboksy - biogramy|Infoboxy do stosowania w biogramach]] &amp;nbsp; · [[Wikipedia:Drzewo genealogiczne|tworzenie drzew genealogicznych w biogramach]]&lt;/div&gt;
+|-
+|colspan="2" |
+&lt;br /&gt;
+Portale biograficzne:&lt;br /&gt;
+&lt;big&gt;&lt;div class=center&gt;'''[[Portal:Święci|Święci]]''' ·  '''[[Portal:Leonardo da Vinci|Leonardo da Vinci]]''' · '''[[Portal:William Szekspir|William Szekspir]]'''&lt;/div&gt;&lt;/big&gt;
+|}
+
+{| style="padding:3px; width:100%;" align=left
+| &amp;nbsp; [[Plik:P vip red1.png|40px]] &amp;nbsp; &amp;nbsp; '''[http://toolserver.org/~daniel/WikiSense/CategoryIntersect.php?wikilang=pl&amp;wikifam=.wikipedia.org&amp;basecat=Biografie&amp;basedeep=5&amp;mode=rc&amp;hours=96&amp;onlynew=on&amp;go=Skanuj&amp;format=html&amp;userlang=pl Najnowsze artykuły]'''
+|-
+|colspan=2 style="border:1px solid #a02d68; background-color:#f18e9d; padding:2px; text-align:center; font-size:130%; color:#222222; width:100%;" |&lt;div style="float:right; font-size:80%;"&gt;&lt;sup&gt;{{Edytuj|Portal:Biografie/Kategorie artykułów|e}}&lt;/sup&gt;&lt;/div&gt;'''Kategorie'''
+|-
+|colspan="2" style="font-size:95%;" |&lt;div class="toc" style="float:right; width:220px;"&gt;'''Kategorie haseł [[:Kategoria:Biografie|biograficznych]]''':&lt;categorytree hideroot="on"&gt;Biografie&lt;/categorytree&gt;&lt;/div&gt;
+|}
+
+{| style="padding:3px; width:100%;" align=left
+|&lt;span style="font-size:150%; color:#8b1345;"&gt;[[Plik:P Flags red.png|40px]] &amp;nbsp; '''Polityka'''&lt;/span&gt;
+|-
+| style="border:1px solid #a02d68; background-color:#f18e9d; padding:2px; text-align:center; font-size:130%; color:#222222; width:100%;" |&lt;div style="float:right; font-size:80%;"&gt;&lt;sup&gt;{{Edytuj|Portal:Polityka/Artykuł|e}}&lt;/sup&gt;&lt;/div&gt; '''Wyróżniony artykuł'''
+|-
+|colspan="2" style="font-size:95%;" |{{Portal:Polityka/Artykuł}}
+|-
+|colspan="2" style="padding:2px; text-align:left; width:100%;" | &lt;div style="float:right; margin:0 10px 4px 0;"&gt;&lt;big&gt;[[Plik:Portal grey.png|30px]]'''&amp;nbsp; &amp;nbsp; [[Portal:Polityka]]'''&lt;/big&gt;&lt;/div&gt;
+&lt;span style="font-size:100%; color:#80113f; font-weight:bold;"&gt;&lt;br /&gt;Polecamy artykuły:&lt;/span&gt;
+&lt;div style="font-size:90%;"&gt; &amp;nbsp; &amp;nbsp; [[Wikipedia:Artykuły na Medal|Medalowe artykuły]]: [[ustrój polityczny Niemiec]] · [[ustrój polityczny Finlandii]]· [[Karta Polaka]] · [[Nasz Dom Izrael]] · [[wspólna polityka zagraniczna i bezpieczeństwa]] · [[Kryzys polityczny w Madagaskarze (2009)|zamieszki na Madagaskarze w 2009]] · [[Zamieszki po wyborach w Iranie|Zamieszki po wyborach w Iranie (2009)]] · [[Flaga Białorusi]]&lt;br /&gt;&amp;nbsp; &amp;nbsp; [[Wikipedia:Dobre Artykuły|Dobre artykuły]]: [[Ustrój polityczny Stanów Zjednoczonych]] • [[Likud]] • [[Szas]] • [[Ustrój polityczny Włoch]] • [[Ustrój polityczny Polski]] • [[Szczyt NATO w Strasburgu i Kehl 2009]] • [[Metoda Schulzego]] • [[Unia na rzecz Ruchu Ludowego]] • [[Wybory prezydenckie w Gabonie w 2009 roku]] • [[Stosunki polsko-tureckie]] • [[Zamieszki w Mołdawii (2009)]]&lt;/div&gt;
+|-
+|colspan="2" style="padding:2px; text-align:left; width:100%;" | &lt;div style="float:right; margin:0 10px 4px 0;"&gt;&lt;big&gt;[[Plik:Portal grey.png|30px]]'''&amp;nbsp; &amp;nbsp; [[Wikiprojekt:Polityka]]'''&lt;/big&gt;&lt;/div&gt;
+&lt;span style="font-size:100%; color:#80113f; font-weight:bold;"&gt;&lt;br /&gt;Zapraszamy do współpracy:&lt;/span&gt;
+&lt;div style="font-size:90%;"&gt;
+[[:Kategoria:User poli|wikipedyści znający terminologię politologiczną]]
+&amp;nbsp; · [[Wikipedia:Propozycje tematów/Polityka|brakujące hasła z dotyczące polityki]]
+&amp;nbsp; · [[:commons:Category:Politics|ilustracje do użycia w artykułach]]
+&amp;nbsp; · [http://toolserver.org/~daniel/WikiSense/CategoryIntersect.php?wikilang=pl&amp;wikifam=.wikipedia.org&amp;basecat=Polityka&amp;basedeep=5&amp;mode=rc&amp;hours=48&amp;nobots=on&amp;go=Skanuj&amp;format=html&amp;userlang=pl ostatnio edytowane hasła]
+&amp;nbsp; · [http://toolserver.org/~daniel/WikiSense/CategoryIntersect.php?wikilang=pl&amp;wikifam=.wikipedia.org&amp;basecat=Polityka&amp;basedeep=5&amp;mode=ts&amp;templates=%C5%B9r%C3%B3d%C5%82a&amp;go=Skanuj&amp;format=html&amp;userlang=pl artykuły wymagające weryfikacji]
+
+&lt;br clear="all"/&gt;
+[[:Kategoria:Portale związane z polityką|Portale związane z polityką]]:
+
+&lt;big&gt;'''[[Portal:Anarchizm|Anarchizm]]''' · '''[[Portal:Monarchia|Monarchia]]''' · '''[[Portal:Partie polityczne|Partie polityczne]]'''&lt;/big&gt;
+&lt;/div&gt;
+|}
+
+{| style="padding:3px; width:100%;" align=left
+| &amp;nbsp; [[Plik:P Flags red1.png|40px]] &amp;nbsp; &amp;nbsp; '''[http://toolserver.org/~daniel/WikiSense/CategoryIntersect.php?wikilang=pl&amp;wikifam=.wikipedia.org&amp;basecat=Polityka&amp;basedeep=5&amp;mode=rc&amp;hours=96&amp;onlynew=on&amp;go=Skanuj&amp;format=html&amp;userlang=pl Najnowsze artykuły]'''
+|-
+|colspan=2 align=center width=100% style="border:1px solid #a02d68; background-color:#f18e9d; padding:2px; text-align:center; font-size:130%; color:#222222;" |&lt;div style="float:right; font-size:80%;"&gt;&lt;sup&gt;{{Edytuj|Portal:Polityka/Kategorie|e}}&lt;/sup&gt;&lt;/div&gt;'''Kategorie'''
+|-
+|colspan="2" style="font-size:95%;" |
+'''&lt;small&gt;[[:Kategoria:Polityka|Hasła podstawowe z dziedziny polityki]]&lt;/small&gt;'''
+&lt;div class="toc" style="float:right; width:200px;"&gt;
+&lt;div style="text-align:right; margin:0 10px 4px 0;"&gt;
+'''Kategorie z dziedziny [[:Kategoria:Polityka|polityki]]''':&lt;categorytree hideroot="on"&gt;Polityka&lt;/categorytree&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+|}
+
+{| style="padding:3px; width:100%;" align=left
+|&lt;span style="font-size:150%; color:#8b1345;"&gt;[[Plik:P EU red.png|40px]] &amp;nbsp; '''Unia Europejska'''&lt;/span&gt;
+|-
+| style="border:1px solid #a02d68; background-color:#f18e9d; padding:2px; text-align:center; font-size:130%; color:#222222; width:100%;" |&lt;div style="float:right; font-size:80%;"&gt;&lt;sup&gt;{{Edytuj|Portal:Unia Europejska/Artykuły na medal|e}}&lt;/sup&gt;&lt;/div&gt; '''Wyróżniony artykuł'''
+|-
+|colspan="2" style="font-size:95%;" |{{Portal:Unia Europejska/Artykuły na medal}}
+|-
+|colspan="2" style="padding:2px; text-align:left; width:100%;" | &lt;div style="float:right; margin:0 10px 4px 0;"&gt;&lt;big&gt;[[Plik:Portal grey.png|30px]]'''&amp;nbsp; &amp;nbsp; [[Portal:Unia Europejska]]''' &lt;/big&gt;&lt;/div&gt;
+&lt;span style="font-size:100%; color:#80113f; font-weight:bold;"&gt;Polecamy artykuły:&lt;/span&gt;
+&lt;div style="font-size:90%;"&gt; &amp;nbsp; &amp;nbsp; [[Wikipedia:Artykuły na Medal|Medalowe artykuły]]: '''[[Wspólna polityka zagraniczna i bezpieczeństwa]]'''&lt;/div&gt;
+|-
+|colspan="2" style="padding:2px; text-align:left; width:100%;" | &lt;div style="float:right; margin:0 10px 4px 0;"&gt;&lt;big&gt;[[Plik:Project.svg|30px]]'''&amp;nbsp; &amp;nbsp; [[Wikiprojekt:Unia Europejska]]''' &lt;/big&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;span style="font-size:100%; color:#80113f; font-weight:bold;"&gt;Zapraszamy do współpracy:&lt;/span&gt;
+&lt;div style="font-size:90%;"&gt;
+[[Wikipedia:Propozycje tematów/Unia Europejska|brakujące hasła z muzyki]]
+&amp;nbsp; · [[:commons:Category:European Union|ilustracje do użycia w artykułach]]
+&amp;nbsp; · [http://toolserver.org/~daniel/WikiSense/CategoryIntersect.php?wikilang=pl&amp;wikifam=.wikipedia.org&amp;basecat=Unia_Europejska&amp;basedeep=5&amp;mode=rc&amp;hours=48&amp;nobots=on&amp;go=Skanuj&amp;format=html&amp;userlang=pl ostatnio edytowane hasła]
+&amp;nbsp; · [http://toolserver.org/~daniel/WikiSense/CategoryIntersect.php?wikilang=pl&amp;wikifam=.wikipedia.org&amp;basecat=Unia_Europejska&amp;basedeep=5&amp;mode=ts&amp;templates=%C5%B9r%C3%B3d%C5%82a&amp;go=Skanuj&amp;format=html&amp;userlang=pl artykuły wymagające weryfikacji]
+&lt;/div&gt;
+|}
+
+{| style="padding:3px; width:100%;" align=left
+| &amp;nbsp; [[Plik:P EU red1.png|40px]] &amp;nbsp; &amp;nbsp; '''[http://toolserver.org/~daniel/WikiSense/CategoryIntersect.php?wikilang=pl&amp;wikifam=.wikipedia.org&amp;basecat=Unia_Europejska&amp;basedeep=5&amp;mode=rc&amp;hours=96&amp;onlynew=on&amp;go=Skanuj&amp;format=html&amp;userlang=pl Najnowsze artykuły]'''
+|-
+|colspan=2 style="border:1px solid #a02d68; background-color:#f18e9d; padding:2px; text-align:center; font-size:130%; color:#222222; width:100%;" |&lt;div style="float:right; font-size:80%;"&gt;&lt;sup&gt;{{Edytuj|Portal:Unia Europejska/Kategorie|e}}&lt;/sup&gt;&lt;/div&gt;'''Kategorie'''
+|-
+|colspan="2" style="font-size:95%;" |&lt;div class="toc" style="float:right; width:220px;"&gt;'''Kategorie haseł dotyczących [[:Kategoria:Unia Europejska|Unii Europejskiej]]''':&lt;categorytree hideroot="on"&gt;Unia Europejska&lt;/categorytree&gt;&lt;/div&gt;
+|}
+
+{| style="padding:3px; width:100%;" align=left
+|&lt;span style="font-size:150%; color:#8b1345;"&gt;[[Plik:P military red.png|40px]] &amp;nbsp; '''Wojsko'''&lt;/span&gt;
+|-
+| style="border:1px solid #a02d68; background-color:#f18e9d; padding:2px; text-align:center; font-size:130%; color:#222222; width:100%;" |&lt;div style="float:right; font-size:80%;"&gt;&lt;sup&gt;{{Edytuj|Portal:Wojsko/ArtykułNaMedal|e}}&lt;/sup&gt;&lt;/div&gt; '''Wyróżniony artykuł'''
+|-
+|colspan="2" style="font-size:95%;" |{{Portal:Wojsko/ArtykułNaMedal}}
+|-
+|colspan="2" style="padding:2px; text-align:left; width:100%;" | &lt;div style="float:right; margin:0 10px 4px 0;"&gt;&lt;big&gt;[[Plik:Portal grey.png|30px]]'''&amp;nbsp; &amp;nbsp; [[Portal:Wojsko]]'''&lt;/big&gt;&lt;/div&gt;
+&lt;span style="font-size:100%; color:#80113f; font-weight:bold;"&gt;Polecamy artykuły:&lt;/span&gt;
+&lt;div style="font-size:90%;"&gt; &amp;nbsp; &amp;nbsp; [[Wikipedia:Artykuły na Medal|Medalowe artykuły]]: '''[[krążowniki lekkie typu K]] · [[torpedownia]] · [[3 Flotylla Okrętów]] · [[okręty projektu 1241]] · [[niszczyciel rakietowy]] · [[Huáscar (1865)|Huascar (1866)]] · [[Admirał Fłota Sowietskogo Sojuza Kuzniecow|Admirał Kuzniecow]] · [[alianckie środki desantowe w II wojnie światowej]] · [[krążowniki lotnicze projektu 1143]] · [[USS Wisconsin (BB-64)]] · [[HMS Warspite (1913)|HMS Warspite (1915)]] · [[artyleria okrętowa]] · [[uzbrojenie pancerników typu Iowa]] · [[niszczyciele projektu 56]] · [[niszczyciele rakietowe projektu 61]] · [[pancerniki typu Iowa]] · [[niszczyciele typu Tribal (1936)]] · [[HMS Royal Oak (1914)|HMS Royal Oak (1916)]] · [[USS Missouri (BB-63)]] · [[Retwizan]] · [[okręty podwodne typu Seawolf]] · [[USS Albacore (AGSS-569)]] · [[UGM-133 Trident II D-5]] · [[Douglas XB-42 Mixmaster]] · [[Nakajima J1N]] · [[North American F-86 Sabre]] · [[North American P-51 Mustang]] · [[MiG-3]] · [[General Dynamics F-111]] · [[katastrofa B-52 w bazie Fairchild]] · [[McDonnell Douglas F-4 Phantom II]] · [[Hawker Hunter]] · [[Eurofighter Typhoon]] · [[karabin Krag-Jørgensen]] · [[Vickers E]] · [[Panzerkampfwagen IV|PzKpfw IV]] · [[Schrapnellmine 35|mina typu S]] · [[karabin Jarmann M1884]] · [[MIM-104 Patriot]] · [[1 Pułk Szwoleżerów-Lansjerów Gwardii Cesarskiej]] · [[Korpus Ochrony Pogranicza]] · [[Garnizon Radom]] · [[8 Pułk Piechoty Legionów]] [[Order Virtuti Militari]] · [[Enigma]] · [[Able Archer 83]]&lt;br /&gt;&amp;nbsp; &amp;nbsp; [[Wikipedia:Dobre Artykuły|Dobre artykuły]]: [[1 Pułk Ułanów Krechowieckich]] • [[37 Łęczycki Pułk Piechoty]] • [[81 Pułk Strzelców Grodzieńskich]] • [[39 Pułk Piechoty Strzelców Lwowskich]] • [[14 Pułk Ułanów Jazłowieckich]] • [[USS Enterprise (CV-6)|SS "Enterprise" (CV-6)]] • [[CSS Albemarle|CSS "Albemarle"]] • [[USS Nicholas (DD-449)|USS "Nicholas" (DD-449)]] • [[USS Illinois (BB-65)|USS "Illinois" (BB-65)]] • [[USS Kentucky (BB-66)|USS "Kentucky" (BB-66)]] • [[HMS Ark Royal (1937)|HMS "Ark Royal" (1938)]] • [[USS Freedom (LCS-1)|USS "Freedom" (LCS-1)]] • [[Amerykańskie i radzieckie morskie systemy balistyczne]] • "[[Yakumo]]" • "[[Azuma (1899)]]" • [[USS Freedom (ID-3024)|USS "Freedom" (ID-3024)]] • [[U-754]] • [[Okręty podwodne typu Ohio|Okręty podwodne typu ''Ohio'']] • [[USS Porter (DD-59)|USS "Porter" (DD-59)]] • [[Nisshin (1903)|"Nisshin" (1904)]] • "[[Kasuga (1902)|Kasuga]]" •  [[USS Mercy (AH-4)]] • [[Niszczyciele rakietowe projektu 57]] • [[Krążowniki lekkie typu Swietłana]] • [[Krasnyj Krym (1915)|Krasnyj Krym]] • [[Okręty podwodne typu Skipjack]] • [[Karabin Kammerlader]] • [[Folland Gnat]] • [[Karabin przeciwpancerny PTRD]] • [[Casspir]] • [[Nabój Raufoss NM140 MP]] • [[Panzerkampfwagen I|PzKpfw I]] • [[Phalanx CIWS]] • [[122 mm haubica wz. 1938 (M-30)]] • [[Pocisk balistyczny]] • [[RSD-10 Pionier]] • [[Operacja Orchard]]'''&lt;/div&gt;
+|-
+|
+|-
+| colspan="2" style="padding:2px; text-align:left; width:100%;" | &lt;div style="float:right; margin:0 10px 4px 0;"&gt;&lt;big&gt;
+[[Plik:Project.svg|30px]]'''&amp;nbsp; &amp;nbsp; [[Wikiprojekt:Militaria]]'''&lt;/big&gt;&lt;/div&gt;&lt;br /&gt;
+&lt;div style=font-size:100%;color:#80113f&gt;'''Zapraszamy do współpracy:'''&lt;/div&gt;
+&lt;div style=font-size:90%&gt;
+[[:Kategoria:User woj|wikipedyści znający terminologię Wojskooznawczą]]
+&amp;nbsp; · [[Wikipedia:Propozycje tematów/Obronność i wojskowość|brakujące hasła dotyczące wojskowości]]
+&amp;nbsp; · [[:commons:Category:Military|ilustracje do użycia w artykułach]]
+&amp;nbsp; · [http://toolserver.org/~daniel/WikiSense/CategoryIntersect.php?wikilang=pl&amp;wikifam=.wikipedia.org&amp;basecat=Kinematografia&amp;basedeep=5&amp;mode=rc&amp;hours=48&amp;nobots=on&amp;go=Skanuj&amp;format=html&amp;userlang=pl ostatnio edytowane hasła]
+&amp;nbsp; · [http://toolserver.org/~daniel/WikiSense/CategoryIntersect.php?wikilang=pl&amp;wikifam=.wikipedia.org&amp;basecat=Kinematografia&amp;basedeep=5&amp;mode=ts&amp;templates=%C5%B9r%C3%B3d%C5%82a&amp;go=Skanuj&amp;format=html&amp;userlang=pl artykuły wymagające weryfikacji]
+&lt;/div&gt;
+|-
+|
+&lt;br /&gt;&lt;br /&gt;&amp;nbsp; &amp;nbsp; Portale Wojskowe: &lt;big&gt;'''[[Portal:Okręty]]'''&lt;/big&gt;
+|}
+
+{| style="padding:3px; width:100%;" align=left
+| &amp;nbsp; [[Plik:P military red1.png|40px]] &amp;nbsp; &amp;nbsp; '''[http://toolserver.org/~daniel/WikiSense/CategoryIntersect.php?wikilang=pl&amp;wikifam=.wikipedia.org&amp;basecat=Wojsko&amp;basedeep=5&amp;mode=rc&amp;hours=96&amp;onlynew=on&amp;go=Skanuj&amp;format=html&amp;userlang=pl Najnowsze artykuły]'''
+|-
+|colspan=2 align=center width=100% style="border:1px solid #a02d68; background-color:#f18e9d; padding:2px; text-align:center; font-size:130%; color:#222222;" |&lt;div style="float:right; font-size:80%;"&gt;&lt;sup&gt;{{Edytuj|Portal:Wojsko/Kategorie|e}}&lt;/sup&gt;&lt;/div&gt;'''Kategorie'''
+|-
+|colspan="2" style="font-size:95%;" |&lt;div class="toc" style="float:right; width:220px;"&gt;'''Kategorie z dziedziny [[:Kategoria:Wojsko|wojskowości]]''':&lt;categorytree hideroot="on"&gt;Wojsko&lt;/categorytree&gt;&lt;/div&gt;
+|}
+
+{| style="padding:3px;" align=left width=100%
+|&lt;span style="font-size:150%; color:#8b1345;"&gt;[[Plik:P rainbow flag red.png|40px]] &amp;nbsp; '''LGBT'''&lt;/span&gt;
+|-
+| style="border:1px solid #a02d68; background-color:#f18e9d; padding:2px; text-align:center; font-size:130%; color:#222222; width:100%;" |&lt;div style="float:right; font-size:80%;"&gt;&lt;sup&gt;{{Edytuj|Portal:LGBT/Artykuł miesiąca|e}}&lt;/sup&gt;&lt;/div&gt; '''Wyróżniony artykuł'''
+|-
+|colspan="2" style="font-size:95%;" |{{Portal:LGBT/Artykuł miesiąca}}
+|-
+|colspan="2" style="padding:2px; text-align:left; width:100%;" | &lt;div style="float:right; margin:0 10px 4px 0;"&gt;&lt;big&gt;[[Plik:Portal grey.png|30px]]'''&amp;nbsp; &amp;nbsp; [[Portal:LGBT]]'''&lt;/big&gt;&lt;/div&gt;
+|-
+|colspan="2" style="padding:2px; text-align:left; width:100%;" | &lt;div style="float:right; margin:0 10px 4px 0;"&gt;&lt;big&gt;[[Plik:Project.svg|30px]]'''&amp;nbsp; &amp;nbsp; [[Wikiprojekt:LGBT]]'''&lt;/big&gt;&lt;/div&gt;
+&lt;span style="font-size:100%; color:#80113f; font-weight:bold;"&gt;&lt;br /&gt;Zapraszamy do współpracy:&lt;/span&gt;
+&lt;div style="font-size:90%;"&gt;
+[[Wikipedia:Propozycje tematów/LGBT|brakujące hasła o LGBT]]
+&amp;nbsp; ·  [[:commons:Category:LGBT|ilustracje do użycia w artykułach]]
+&amp;nbsp; · [http://toolserver.org/~daniel/WikiSense/CategoryIntersect.php?wikilang=pl&amp;wikifam=.wikipedia.org&amp;basecat=LGBT&amp;basedeep=5&amp;mode=rc&amp;hours=48&amp;nobots=on&amp;go=Skanuj&amp;format=html&amp;userlang=pl ostatnio edytowane hasła]
+&amp;nbsp; · [http://toolserver.org/~daniel/WikiSense/CategoryIntersect.php?wikilang=pl&amp;wikifam=.wikipedia.org&amp;basecat=LGBT&amp;basedeep=5&amp;mode=ts&amp;templates=%C5%B9r%C3%B3d%C5%82a&amp;go=Skanuj&amp;format=html&amp;userlang=pl artykuły wymagające weryfikacji]
+&lt;/div&gt;
+|}
+
+{| style="padding:3px; width:100%;" align=left
+| &amp;nbsp; [[Plik:P rainbow flag red1.png|40px]] &amp;nbsp; &amp;nbsp; '''[http://toolserver.org/~daniel/WikiSense/CategoryIntersect.php?wikilang=pl&amp;wikifam=.wikipedia.org&amp;basecat=LGBT&amp;basedeep=5&amp;mode=rc&amp;hours=96&amp;onlynew=on&amp;go=Skanuj&amp;format=html&amp;userlang=pl Najnowsze artykuły]'''
+|-
+|colspan=2 style="border:1px solid #a02d68; background-color:#f18e9d; padding:2px; text-align:center; font-size:130%; color:#222222; width:100%;" |&lt;div style="float:right; font-size:80%;"&gt;&lt;sup&gt;{{Edytuj|Portal:LGBT/Kategorie artykułów|e}}&lt;/sup&gt;&lt;/div&gt;'''Kategorie'''
+|-
+|colspan="2" style="font-size:95%;" |
+'''&lt;small&gt;[[:Kategoria:LGBT|Hasła podstawowe z dziedziny LGBT]]&lt;/small&gt;'''
+&lt;div class="toc" style="float:right; width:200px;"&gt;
+&lt;div style="text-align:right; margin:0 10px 4px 0;"&gt;
+'''Kategorie z dziedziny [[:Kategoria:LGBT|LGBT]]''':&lt;categorytree hideroot="on"&gt;LGBT&lt;/categorytree&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+|}
+
+{| style="padding:3px; width:100%;" align=left
+|&lt;span style="font-size:150%; color:#8b1345;"&gt;[[Plik:WikiProject Scouting fleur-de-lis burgundy.png|40px]] &amp;nbsp; '''Harcerstwo'''&lt;/span&gt;
+|-
+| style="border:1px solid #a02d68; background-color:#f18e9d; padding:2px; text-align:center; font-size:130%; color:#222222; width:100%;" |&lt;div style="float:right; font-size:80%;"&gt;&lt;sup&gt;{{Edytuj|Portal:Harcerstwo/Artykuł miesiąca|e}}&lt;/sup&gt;&lt;/div&gt; '''Wyróżniony artykuł'''
+|-
+|style="font-size:95%;" |{{Portal:Harcerstwo/Artykuł miesiąca}}
+|-
+|colspan="2" style="padding:2px; text-align:left; width:100%;" | &lt;div style="float:right; margin:0 10px 4px 0;"&gt;&lt;big&gt;[[Plik:Portal grey.png|30px]]'''&amp;nbsp; &amp;nbsp; [[Portal:Harcerstwo]]'''&lt;/big&gt;&lt;/div&gt;
+&lt;br /&gt;
+|-
+|colspan="2" style="padding:2px; text-align:left; width:100%;" | &lt;div style="float:right; margin:0 10px 4px 0;"&gt;&lt;big&gt;[[Plik:Project.svg|30px]]'''&amp;nbsp; &amp;nbsp; [[Wikiprojekt:Harcerstwo]]'''&lt;/big&gt;&lt;/div&gt;
+&lt;br /&gt;
+&lt;span style="font-size:100%; color:#80113f; font-weight:bold;"&gt;Zapraszamy do współpracy:&lt;/span&gt;
+&lt;div style="font-size:90%;"&gt;
+[[:Kategoria:User harc|wikipedyści znający terminologię harcerską]]
+&amp;nbsp; · [[:commons:Category:Scouting|ilustracje do użycia w artykułach]]
+&amp;nbsp; · [http://toolserver.org/~daniel/WikiSense/CategoryIntersect.php?wikilang=pl&amp;wikifam=.wikipedia.org&amp;basecat=Harcerstwo&amp;basedeep=5&amp;mode=rc&amp;hours=48&amp;nobots=on&amp;go=Skanuj&amp;format=html&amp;userlang=pl ostatnio edytowane hasła]
+&amp;nbsp; · [http://toolserver.org/~daniel/WikiSense/CategoryIntersect.php?wikilang=pl&amp;wikifam=.wikipedia.org&amp;basecat=Harcerstwo&amp;basedeep=5&amp;tagcat=&amp;tagdeep=3&amp;mode=ts&amp;templates=%C5%B9r%C3%B3d%C5%82a&amp;size=512&amp;stubop=or&amp;links=4&amp;hours=12&amp;go=Skanuj&amp;format=html artykuły wymagające weryfikacji]
+&lt;/div&gt;
+&lt;br /&gt;
+|}
+
+{| style="padding:3px; width:100%;" align=left
+| &amp;nbsp; [[Plik:WikiProject Scouting fleur-de-lis pink.png|40px]] &amp;nbsp; &amp;nbsp; '''[http://toolserver.org/~daniel/WikiSense/CategoryIntersect.php?wikilang=pl&amp;wikifam=.wikipedia.org&amp;basecat=Harcerstwo&amp;basedeep=5&amp;mode=rc&amp;hours=96&amp;onlynew=on&amp;go=Skanuj&amp;format=html&amp;userlang=pl Najnowsze artykuły]'''
+|-
+|colspan=2 style="border:1px solid #a02d68; background-color:#f18e9d; padding:2px; text-align:center; font-size:130%; color:#222222; width:100%;" |&lt;div style="float:right; font-size:80%;"&gt;&lt;sup&gt;{{Edytuj|Portal:Harcerstwo/Kategorie artykułów|e}}&lt;/sup&gt;&lt;/div&gt; '''Kategorie'''
+|-
+|colspan="2" style="font-size:95%;" |&lt;div class="toc" style="float:right; width:220px;"&gt;'''Kategorie z dziedziny [[:Kategoria:Harcerstwo|harcerstwa]]''':&lt;categorytree hideroot="on"&gt;Harcerstwo&lt;/categorytree&gt;&lt;/div&gt;
+|}
+
+[[Kategoria:Portale|*]]
+[[Kategoria:Społeczeństwo| ]]</text>
+      <sha1>sp5axxe6sg1gwf52ho3lsnphfgr4arv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Historia społeczna</title>
+    <ns>14</ns>
+    <id>1667223</id>
+    <revision>
+      <id>51904771</id>
+      <parentid>35933665</parentid>
+      <timestamp>2018-01-20T18:53:07Z</timestamp>
+      <contributor>
+        <username>EmptyBot</username>
+        <id>717975</id>
+      </contributor>
+      <minor/>
+      <comment>Zmiana nazwy kategorii: Kategoria:Historia według specjalności → [[Kategoria:Historia według tematyki]]  (przy użyciu [[Wikipedysta:Tufor/Quick ReCat|QRC]])</comment>
+      <origin>51904771</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="111" sha1="dm7t6caw2tn2cl6ei6bx98f4cbacbvd" xml:space="preserve">{{Commonscat|Social history}}
+
+[[Kategoria:Historia według tematyki|Społeczna]]
+[[Kategoria:Społeczeństwo]]</text>
+      <sha1>dm7t6caw2tn2cl6ei6bx98f4cbacbvd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Rekordy</title>
+    <ns>14</ns>
+    <id>2494291</id>
+    <revision>
+      <id>35693981</id>
+      <parentid>34619110</parentid>
+      <timestamp>2013-03-17T12:24:54Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>543400</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Addbot|Bot:]] Przenoszę linki interwiki (36) do [[d:|Wikidata]], są teraz dostępne do edycji na [[d:q7312711]]</comment>
+      <origin>35693981</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="29" sha1="qy935jkdt6riz8vkubntox92u90sbm7" xml:space="preserve">[[Kategoria:Społeczeństwo]]</text>
+      <sha1>qy935jkdt6riz8vkubntox92u90sbm7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Strony przeglądowe – społeczeństwo</title>
+    <ns>14</ns>
+    <id>2688212</id>
+    <revision>
+      <id>49298058</id>
+      <parentid>31463858</parentid>
+      <timestamp>2017-05-09T00:44:51Z</timestamp>
+      <contributor>
+        <username>EmptyBot</username>
+        <id>717975</id>
+      </contributor>
+      <minor/>
+      <comment>EmptyBot przeniósł stronę [[Kategoria:Strony przeglądowe - społeczeństwo]] na [[Kategoria:Strony przeglądowe – społeczeństwo]], bez pozostawienia przekierowania pod starym tytułem: poprawna forma (przy użyciu [[Wikipedysta:Tufor/Quick ReCa...</comment>
+      <origin>49298058</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="81" sha1="nshg18e5ttzikmols398rqs9wvvzgl4" xml:space="preserve">[[Kategoria:Strony przeglądowe|Społeczeństwo]]
+[[Kategoria:Społeczeństwo| ]]</text>
+      <sha1>nshg18e5ttzikmols398rqs9wvvzgl4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Transkulturowość</title>
+    <ns>0</ns>
+    <id>2711039</id>
+    <revision>
+      <id>72478741</id>
+      <parentid>68170920</parentid>
+      <timestamp>2024-01-11T21:06:14Z</timestamp>
+      <contributor>
+        <username>EmptyBot</username>
+        <id>717975</id>
+      </contributor>
+      <minor/>
+      <comment>dr. tech.</comment>
+      <origin>72478741</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3874" sha1="jkyvhbeu7gnj41ntvkza2yccb35qqks" xml:space="preserve">'''Transkulturowość''' – koncepcja, która została stworzona przez filozofa [[Wolfgang Welsch|Wolfganga Welscha]]. Mówi, że dzisiejsze kultury w dużej mierze charakteryzuje mieszanie, przenikanie i hybrydyzacja, a kultury nie mają już sugerowanej wcześniej formy jednorodności i odrębności. Pojęcie transkulturowości jako nowej koncepcji kultury powstało w odpowiedzi na brak satysfakcji z koncepcji takich jak [[wielokulturowość]] i [[interkulturowość]].
+
+== Teoria ==
+Welsch uważa, że opis współczesnych kultur jako wysp lub sfer jest niezgodny z faktami i normatywnie zwodniczy&lt;ref name="artpierwszy"&gt;{{cytuj stronę|url=http://www2.uni-jena.de/welsch/Papers/transcultSociety.html|tytuł='Transculturality - the Puzzling Form of Cultures Today' by Wolfgang Welsch|archiwum=https://web.archive.org/web/20140714152831/http://www2.uni-jena.de/welsch/Papers/transcultSociety.html|data dostępu=2016-07-11|zarchiwizowano=2014-07-14}}&lt;/ref&gt;. Teoria mówi, że nasza tożsamość jest w dużej mierze zależna od „obcych” elementów. Częścią kultury jest wymiana różnych stylów życia, wartości i przekonań. Poprzez tę wymianę tworzą się nowe formy połączeń, które tworzą sieci.
+Ważnymi czynnikami tworzącymi te połączenia są [[środki masowego przekazu]] (które codziennie dostarczają wiadomości z całego świata) oraz [[transport]] (który umożliwia szybkie poruszanie się po świecie). Przyczynia się to do zwiększenia ilości kontaktów – w ciągu jednego dnia można dowiedzieć się więcej na temat zwyczajów i obyczajów innych kultur, niż było to możliwe wcześniej w ciągu tygodni lub nawet miesięcy. Koncepcję tę rozpatruje się na dwóch poziomach – makro i mikro.
+
+=== Poziom makro ===
+Koncepcja zakłada, że w dzisiejszych czasach kultury są ze sobą maksymalnie powiązane i związane ze sobą a style życia nie kończą się na granicach kultur narodowych, ale idą dalej, znajdując podobny wydźwięk w innych kulturach. Nowe formy powiązań są konsekwencją procesów migracji, materialnych i niematerialnych systemów komunikacji oraz gospodarczej współzależności i zależności.
+Ponadto, kultury dziś charakteryzuje hybrydyzacja: dla każdej z kultur wszystkie pozostałe stały się wewnętrznymi treściami lub ich satelitami. Przekłada się to między innymi na poziomie populacji, towarów i informacji. Można zauważyć to między innymi na przykładzie artykułów spożywczych, które do niedawna uznawane były za egzotyczne, a dziś stają się dostępne w każdej chwili i dla każdego&lt;ref name="artpierwszy" /&gt;.
+Dzisiaj w kulturze, w stosunkach wewnętrznych - wśród różnych sposobów życia - istnieje tyle obcości, ile w stosunkach zewnętrznych z innymi kulturami. Retoryka kultury regionalnej również jest determinowana transkulturowo - jest w dużej mierze symulowana i estetyczna. [[Folklor]] jest własnością stymulowaną dla samych uczestników - tubylców. 
+
+=== Poziom mikro ===
+Transkulturowość rozprzestrzenia się również na poziomie jednostki. Tożsamość jednostek kształtowana jest przez więcej niż jedną kulturę (to zjawisko jest coraz częstsze w następnych pokoleniach), coraz częściej celowo jednostki przyswajają sobie wiedzę należącą do szerszego kanonu wiedzy, kształtując swoją wiedzę i poglądy w oparciu o literaturę spoza własnego kręgu narodowego i kulturowego.
+
+== Przypisy ==
+{{Przypisy}}
+
+== Linki zewnętrzne ==
+* {{Cytuj stronę | url = http://www2.uni-jena.de/welsch/ | tytuł = strona oficjalna | opublikowany = www2.uni-jena.de | archiwum = https://web.archive.org/web/20121120073414/http://www2.uni-jena.de/welsch/ | zarchiwizowano = 2012-11-20}}, zawiera kilka kluczowych artykułów Welscha w przekładzie na język angielski.
+
+[[Kategoria:Społeczeństwo]]
+[[Kategoria:Socjologia kultury]]</text>
+      <sha1>jkyvhbeu7gnj41ntvkza2yccb35qqks</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Bezpieczeństwo</title>
+    <ns>14</ns>
+    <id>599649</id>
+    <revision>
+      <id>36123273</id>
+      <parentid>35276446</parentid>
+      <timestamp>2013-04-13T08:31:15Z</timestamp>
+      <contributor>
+        <username>KLBot2</username>
+        <id>478666</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: Przenoszę linki interwiki (1) do Wikidata, są teraz dostępne do edycji na [[:d:Q7022841]]</comment>
+      <origin>36123273</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="54" sha1="4l67tkn8s8y0qul6ifws5scl41gtfsm" xml:space="preserve">{{Commonscat|Security}}
+
+[[Kategoria:Społeczeństwo]]</text>
+      <sha1>4l67tkn8s8y0qul6ifws5scl41gtfsm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Problemy społeczne</title>
+    <ns>14</ns>
+    <id>2294152</id>
+    <revision>
+      <id>37395494</id>
+      <parentid>37393791</parentid>
+      <timestamp>2013-08-30T20:17:14Z</timestamp>
+      <contributor>
+        <username>Alan ffm</username>
+        <id>357169</id>
+      </contributor>
+      <comment>Anulowanie wersji 37393791 autora [[Special:Contributions/Dariusz Szwed|Dariusz Szwed]] ([[User talk:Dariusz Szwed|dyskusja]]) - nie stanowi elementu/efektu polityki</comment>
+      <origin>37395494</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="139" sha1="261rmczffqlz9hbe6ypfmpmmoh5xs31" xml:space="preserve">{{Opis kategorii
+ |grupuje        = Artykuły związane z [[Problem społeczny|problemami społecznymi]].
+}}
+
+[[Kategoria:Społeczeństwo]]</text>
+      <sha1>261rmczffqlz9hbe6ypfmpmmoh5xs31</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Transport</title>
+    <ns>14</ns>
+    <id>75806</id>
+    <revision>
+      <id>71465466</id>
+      <parentid>36959057</parentid>
+      <timestamp>2023-10-07T16:25:49Z</timestamp>
+      <contributor>
+        <username>MalarzBOT</username>
+        <id>31007</id>
+      </contributor>
+      <minor/>
+      <comment>MalarzBOT: usuwam linki do portali: [[Wikipedia:Kawiarenka/Ogólne#Portale]]</comment>
+      <origin>71465466</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="509" sha1="29cm5jnr5o5yo2d0q3kbbu02d8a9fj8" xml:space="preserve">{{Siostrzane projekty
+ |commons   = Category:Transport
+ |słownik   = Kategoria:Transport
+ |źródła    =
+ |cytaty    = Kategoria:Transport
+ |news      = Kategoria:Transport
+ |books     =
+ |podróże   =
+ |species   =
+ |wikiwerek =
+}}
+{{Opis kategorii
+ |grupuje        =
+ |uwagi          =
+ |osobne_grupują =
+ |main           = [[Transport]]
+ |wikiprojekt    =
+ |zobacz         =
+ |związane       = [[:Kategoria:Logistyka|Logistyka]]
+}}
+{{clear|right}}
+
+[[Kategoria:Technika]]
+[[Kategoria:Społeczeństwo]]</text>
+      <sha1>29cm5jnr5o5yo2d0q3kbbu02d8a9fj8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Prawo</title>
+    <ns>14</ns>
+    <id>69796</id>
+    <revision>
+      <id>40650271</id>
+      <parentid>40644780</parentid>
+      <timestamp>2014-10-08T19:53:12Z</timestamp>
+      <contributor>
+        <username>Michał Ski</username>
+        <id>36630</id>
+      </contributor>
+      <minor/>
+      <comment>Wycofano edycje użytkownika [[Special:Contributions/Pit rock|Pit rock]] ([[User talk:Pit rock|dyskusja]]). Autor przywróconej wersji to [[User:Tomasz Raburski|Tomasz Raburski]].</comment>
+      <origin>40650271</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="71" sha1="mhdmssw4tnp0y27ptf5yelt0cq3524h" xml:space="preserve">{{Portal:Prawo/info}}
+{{Commonscat|Law}}
+
+[[Kategoria:Społeczeństwo]]</text>
+      <sha1>mhdmssw4tnp0y27ptf5yelt0cq3524h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Społeczeństwo według państw</title>
+    <ns>14</ns>
+    <id>3018533</id>
+    <revision>
+      <id>62408782</id>
+      <parentid>37401851</parentid>
+      <timestamp>2021-02-21T17:11:47Z</timestamp>
+      <contributor>
+        <username>Wikipek</username>
+        <id>21425</id>
+      </contributor>
+      <minor/>
+      <comment>drobne redakcyjne</comment>
+      <origin>62408782</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="108" sha1="lk60f8fsggqqcvi4yfbdnegrmbzsi6x" xml:space="preserve">{{Commonscat|Society by country}}
+
+[[Kategoria:Społeczeństwo| ]]
+[[Kategoria:Zagadnienia według państw]]</text>
+      <sha1>lk60f8fsggqqcvi4yfbdnegrmbzsi6x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Gastronomia</title>
+    <ns>14</ns>
+    <id>3462175</id>
+    <revision>
+      <id>67032446</id>
+      <parentid>61196379</parentid>
+      <timestamp>2022-04-25T19:41:58Z</timestamp>
+      <contributor>
+        <username>Artur Andrzej</username>
+        <id>146248</id>
+      </contributor>
+      <comment>+</comment>
+      <origin>67032446</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="87" sha1="nwsoo43rtt0gb4gcz52znakjgow1cq0" xml:space="preserve">{{Commonscat|Cuisine}}
+
+[[Kategoria:Kultura odżywiania]]
+[[Kategoria:Społeczeństwo]]</text>
+      <sha1>nwsoo43rtt0gb4gcz52znakjgow1cq0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Sektor publiczny</title>
+    <ns>14</ns>
+    <id>3589682</id>
+    <revision>
+      <id>44230110</id>
+      <timestamp>2015-12-03T09:44:23Z</timestamp>
+      <contributor>
+        <username>Tomasz Raburski</username>
+        <id>193408</id>
+      </contributor>
+      <comment>nowa</comment>
+      <origin>44230110</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="29" sha1="qy935jkdt6riz8vkubntox92u90sbm7" xml:space="preserve">[[Kategoria:Społeczeństwo]]</text>
+      <sha1>qy935jkdt6riz8vkubntox92u90sbm7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Trzeci sektor</title>
+    <ns>14</ns>
+    <id>3589696</id>
+    <revision>
+      <id>44230193</id>
+      <timestamp>2015-12-03T09:51:40Z</timestamp>
+      <contributor>
+        <username>Tomasz Raburski</username>
+        <id>193408</id>
+      </contributor>
+      <comment>nowa</comment>
+      <origin>44230193</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="29" sha1="qy935jkdt6riz8vkubntox92u90sbm7" xml:space="preserve">[[Kategoria:Społeczeństwo]]</text>
+      <sha1>qy935jkdt6riz8vkubntox92u90sbm7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Społeczeństwo</title>
+    <ns>0</ns>
+    <id>75087</id>
+    <revision>
+      <id>71458643</id>
+      <parentid>70100152</parentid>
+      <timestamp>2023-10-07T11:34:55Z</timestamp>
+      <contributor>
+        <username>MalarzBOT</username>
+        <id>31007</id>
+      </contributor>
+      <minor/>
+      <comment>usuwanie szablonu {{[[Szablon:Portal|Portal]]}}</comment>
+      <origin>71458643</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5014" sha1="18y0hslfdysjtj3phfidy2fu375f90p" xml:space="preserve">'''Społeczeństwo''' – podstawowe pojęcie [[socjologia|socjologiczne]], jednakże niejednoznacznie definiowane. Terminem tym tradycyjnie ujmuje się dużą [[zbiorowość społeczna|zbiorowość społeczną]], zamieszkującą dane terytorium, posiadające wspólną [[kultura|kulturę]], wspólną [[Tożsamość kulturowa|tożsamość]] oraz sieć wzajemnych [[stosunek społeczny|stosunków społecznych]]. Społeczeństwo ponadto posiada własne [[instytucja (socjologia)|instytucje]] pozwalające mu na funkcjonowanie oraz formę organizacyjną w postaci [[państwo|państwa]], [[naród|narodu]] lub [[plemię|plemienia]].
+
+Termin ten w mowie potocznej często stosuje się dość swobodnie określając różne kategorie czy [[warstwa społeczna|warstwy społeczne]] np. „społeczeństwo górników”, „społeczeństwo nauczycieli”. Używa się go też na określenie całej żyjącej ludzkości, wówczas używa się określenia [[społeczeństwo globalne]].
+
+== Typologia społeczeństw ==
+Ze względu na duże różnice pomiędzy współczesnymi i historycznymi społeczeństwami wyróżnia się ze względu na stopień rozwoju społeczeństwa:
+* [[społeczeństwo tradycyjne|tradycyjne]] 
+* [[społeczeństwo przemysłowe|przemysłowe]] 
+* [[społeczeństwo postindustrialne|poprzemysłowe]]
+
+W przypadku społeczeństw tradycyjnych, terminem tym określa się formy społeczeństw przedindustrialnych i wyróżnia się różne formy ich rozwoju:
+* [[społeczeństwo acefaliczne]]
+* [[społeczeństwo zbieracko-myśliwskie]]
+* [[społeczeństwo rolnicze]]
+* [[społeczeństwo pierwotne]].
+
+[[Karol Marks]] wyróżniał dla tego okresu trzy następujące po sobie formacje społeczne: formację ''wspólnoty pierwotnej'', formację [[niewolnictwo|niewolniczą]] (formacja antyczna i [[azjatycki sposób produkcji|azjatycka]]) oraz formację [[feudalizm|feudalną]].
+
+W okresie formowania się społeczeństw przemysłowych powstawały takie jego określenia jak:
+* [[społeczeństwo masowe]]
+* [[społeczeństwo obywatelskie]]
+* [[społeczeństwo otwarte]]
+* [[społeczeństwo nowoczesne]] i [[społeczeństwo ponowoczesne|ponowoczesne]]
+* [[społeczeństwo pluralistyczne]]
+* [[społeczeństwo wielokulturowe]]
+* [[społeczeństwo demokratyczne]]
+* [[społeczeństwo komunistyczne]]
+* [[społeczeństwo totalitarne]]
+* [[Klasa społeczna|społeczeństwo klasowe]]
+* [[społeczeństwo kapitalistyczne]]
+* [[społeczeństwo produkcyjne]]
+* [[społeczeństwo miejskie]]
+* [[społeczeństwo wiejskie]].
+
+W przypadku społeczeństwa poprzemysłowego, które powstawać zaczęło w drugiej połowie [[XX wiek]]u, używa się też alternatywnych pojęć: 
+* [[globalna wioska]] 
+* [[społeczeństwo informacyjne]] 
+* [[społeczeństwo wiedzy]]
+* [[społeczeństwo mądrości]]
+* [[społeczeństwo innowacyjne]]
+* [[społeczeństwo transgresyjne]]
+* [[społeczeństwo ponowoczesne]]
+* [[społeczeństwo konsumpcyjne]]
+* [[społeczeństwo permisywne]]
+* [[społeczeństwo ryzyka]]
+* [[społeczeństwo sieciowe]].
+
+W literaturze pojawia się również określenie [[społeczeństwo zwierzęce|społeczeństwa zwierzęcego]] na odróżnienie uspołecznionych zbiorowości ludzkich od nieuspołecznionych zbiorowości tworzonych przez inne gatunki w ujęciu biologicznym.
+
+== Społeczeństwo a technika ==
+Istnieją trzy sposoby pojmowania stosunków techniki ze społeczeństwem. Pierwszy sposób polega na ukazaniu życia społecznego jako odbicia techniki lub nawet mieszania mechanizmów instrumentalnych i ludzkości. Drugi sposób jest rozwiązaniem idealizmu lub spirytualizmu, czyli totalnego oderwania ducha od materii. Technika jawi się jako byt autonomiczny i złowróżbny lub jako zwykła siła w służbie człowieka. Trzeci sposób polega na uznaniu stopnia zależności lub obojętności świata ludzkiego względem techniki. Rozwiązanie to otwiera drogę do nauk społecznych. Technika jawi się tutaj jako sposób bycia, tryb istnienia&lt;ref&gt;{{Cytuj |autor = Eric Maigret |tytuł = Socjologia komunikacji i mediów |data = 2012}}&lt;/ref&gt;.
+
+== Zobacz też ==
+{{Siostrzane projekty
+ |news=Portal:Społeczeństwo
+ |cytaty=Społeczeństwo
+ |commons=Category:Society
+ |słownik=społeczeństwo
+}}
+* [[grupa społeczna]]
+* [[społeczność]]
+
+== Przypisy ==
+{{Przypisy}}
+
+== Bibliografia ==
+* {{cytuj książkę |autor = Jan Turowski | tytuł = Socjologia. Wielkie struktury społeczne| wydawca = Towarzystwo Naukowe KUL | miejsce = Lublin | rok = 1994 }}
+* {{cytuj książkę |autor = [[Jerzy Szacki (socjolog)|Jerzy Szacki]] | tytuł = Historia myśli socjologicznej | wydawca = PWN | miejsce = Warszawa | rok = 2004 }}
+
+== Linki zewnętrzne ==
+* {{SEP | url = social-ontology/ | autor = Brian Epstein | tytuł = Social Ontology | data = 2018-03-21 | data dostępu = 2018-08-07 | tytuł polski = (Ontologia społeczna) }}
+
+{{Typy społeczeństw}}
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Społeczeństwo| ]]
+[[Kategoria:Podstawowe pojęcia socjologiczne]]
+[[Kategoria:Typologia społeczeństw]]</text>
+      <sha1>18y0hslfdysjtj3phfidy2fu375f90p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Społeczeństwo obywatelskie</title>
+    <ns>14</ns>
+    <id>3843313</id>
+    <revision>
+      <id>47610810</id>
+      <timestamp>2016-11-27T19:15:52Z</timestamp>
+      <contributor>
+        <username>Dariusz Szwed</username>
+        <id>26242</id>
+      </contributor>
+      <comment>kat.</comment>
+      <origin>47610810</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="29" sha1="qy935jkdt6riz8vkubntox92u90sbm7" xml:space="preserve">[[Kategoria:Społeczeństwo]]</text>
+      <sha1>qy935jkdt6riz8vkubntox92u90sbm7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Upamiętnienie</title>
+    <ns>14</ns>
+    <id>3889978</id>
+    <revision>
+      <id>48209080</id>
+      <timestamp>2017-01-16T20:50:31Z</timestamp>
+      <contributor>
+        <username>TR</username>
+        <id>66882</id>
+      </contributor>
+      <comment>+</comment>
+      <origin>48209080</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="29" sha1="qy935jkdt6riz8vkubntox92u90sbm7" xml:space="preserve">[[Kategoria:Społeczeństwo]]</text>
+      <sha1>qy935jkdt6riz8vkubntox92u90sbm7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Edukacja</title>
+    <ns>14</ns>
+    <id>4158553</id>
+    <revision>
+      <id>63288675</id>
+      <parentid>51057359</parentid>
+      <timestamp>2021-05-12T20:43:21Z</timestamp>
+      <contributor>
+        <username>Micga</username>
+        <id>11998</id>
+      </contributor>
+      <minor/>
+      <comment>kat.</comment>
+      <origin>63288675</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="29" sha1="qy935jkdt6riz8vkubntox92u90sbm7" xml:space="preserve">[[Kategoria:Społeczeństwo]]</text>
+      <sha1>qy935jkdt6riz8vkubntox92u90sbm7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Imprezy</title>
+    <ns>14</ns>
+    <id>5129896</id>
+    <revision>
+      <id>65078089</id>
+      <parentid>64258696</parentid>
+      <timestamp>2021-11-03T12:00:55Z</timestamp>
+      <contributor>
+        <username>Artur Andrzej</username>
+        <id>146248</id>
+      </contributor>
+      <comment>+</comment>
+      <origin>65078089</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="109" sha1="14eprtxa23rjgzld22g3o4sfovskjgd" xml:space="preserve">{{Commonscat|Organized events}}
+
+[[Kategoria:Wydarzenia]]
+[[Kategoria:Społeczeństwo]]
+[[Kategoria:Kultura]]</text>
+      <sha1>14eprtxa23rjgzld22g3o4sfovskjgd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Efekty psychologiczne i społeczne</title>
+    <ns>14</ns>
+    <id>5151311</id>
+    <revision>
+      <id>64573866</id>
+      <timestamp>2021-09-18T16:32:32Z</timestamp>
+      <contributor>
+        <username>Superjurek</username>
+        <id>527353</id>
+      </contributor>
+      <comment>[[Specjalna:Nowe strony|Nowa strona]]: [[Kategoria:Psychologia]] [[Kategoria:Społeczeństwo]]</comment>
+      <origin>64573866</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="55" sha1="q5tllh92rsn3ge7gjxluuy1m5benovv" xml:space="preserve">[[Kategoria:Psychologia]]
+[[Kategoria:Społeczeństwo]]</text>
+      <sha1>q5tllh92rsn3ge7gjxluuy1m5benovv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Nauki społeczne</title>
+    <ns>14</ns>
+    <id>111276</id>
+    <revision>
+      <id>71572505</id>
+      <parentid>71572160</parentid>
+      <timestamp>2023-10-21T22:35:45Z</timestamp>
+      <contributor>
+        <username>Tomasz Raburski</username>
+        <id>193408</id>
+      </contributor>
+      <minor/>
+      <comment>Wycofano edycję użytkownika [[Special:Contributions/Micga|Micga]] ([[User talk:Micga|dyskusja]]). Autor przywróconej wersji to [[User:Tomasz Raburski|Tomasz Raburski]].</comment>
+      <origin>37863033</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="310" sha1="co9gl24o42p8sg9imxv29ny5xpe8kfh" xml:space="preserve">{{Opis kategorii
+ |grupuje        =
+ |uwagi          =
+ |osobne_grupują =
+ |main           = [[Nauki społeczne]]
+ |portal         =
+ |wikiprojekt    =
+ |zobacz         =
+ |związane       =
+}}
+{{Commonscat|Social sciences}}
+
+&lt;!-- interwiki --&gt;
+
+[[Kategoria:Klasyfikacja nauk| ]]
+[[Kategoria:Społeczeństwo]]</text>
+      <sha1>co9gl24o42p8sg9imxv29ny5xpe8kfh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Interes publiczny</title>
+    <ns>0</ns>
+    <id>5593482</id>
+    <revision>
+      <id>73765049</id>
+      <parentid>73765047</parentid>
+      <timestamp>2024-05-13T07:04:44Z</timestamp>
+      <contributor>
+        <username>KrzysztofPoplawski</username>
+        <id>15468</id>
+      </contributor>
+      <minor/>
+      <origin>73765049</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6848" sha1="su1wlv6ek74jnmcbegb1o8o5beh3s2s" xml:space="preserve">'''Interes publiczny''' – jest jedną z najważniejszych [[Klauzula generalna|klauzul generalnych]] w [[System prawny Polski|prawodawstwie polskim]], ma bowiem charakter konstytucyjny&lt;ref&gt;{{Cytuj |autor = Artur Żurawik |tytuł = „Interes publiczny’’, ,,interes społeczny’’ i ,,interes społecznie uzasadniony’’. Pro´ba dookres´- lenia poje˛c´ |czasopismo = Ruch Prawniczy, Ekonomiczny i Socjologiczny |data = 2013 |data dostępu = 2024-05-12 |issn = 2543-9170 |wolumin = 75 |numer = 2 |s = 57–69 |doi = 10.14746/rpeis.2013.75.2.5 |url = https://pressto.amu.edu.pl/index.php/rpeis/article/view/15901 |język = pl}}&lt;/ref&gt;. Jako klauzula generalna jest pojęciem niedookreślonym, nieposiadającym zwartej, zapisanej formuły na gruncie obowiązującego prawa&lt;ref&gt;{{Cytuj |tytuł = II SA/Wa 488/10 - Wyrok WSA w Warszawie z 2010-07-13 |data dostępu = 2024-05-12 |opublikowany = www.orzeczenia-nsa.pl |url = https://www.orzeczenia-nsa.pl/wyrok/ii-sa-wa-488-10/sprawy_z_zakresu_informacji_publicznej_i_prawa_prasowego_dostep_do/24ec1ab/3.html?q=&amp;_haslo=Dostęp+do+informacji+publicznej&amp;_sad=Wojewódzki+Sąd+Administracyjny+w+Warszawie&amp;_skarzony=Prezes+Instytutu+Pamięci+Narodowej&amp;_okres=2010_07}}&lt;/ref&gt;&lt;ref name=":3"&gt;{{Cytuj |tytuł = I OSK 2111/13 - Wyrok NSA z 2014-01-10 |data dostępu = 2024-01-14 |opublikowany = www.orzeczenia-nsa.pl |url = https://www.orzeczenia-nsa.pl/wyrok/i-osk-2111-13/sprawy_z_zakresu_informacji_publicznej_i_prawa_prasowego_dostep_do/1383d50/24.html?_haslo=Dost%C4%99p+do+informacji+publicznej}}&lt;/ref&gt;. Pojęcie utożsamiane jest często z pojęciem „dobro wspólne”&lt;ref name=":1" /&gt;. W kontekście [[Interes|interesu]] definiowany jako potrzeby lub wartości dotyczące społeczeństwa jako ogółu&lt;ref name=":4"&gt;{{Cytuj |autor = Justyna Michalska |tytuł = Znaczenie interesu publicznego w zakresie realizacji prawa petycji |data = 2015 |data dostępu = 2024-05-12 |url = https://repozytorium.uni.wroc.pl/dlibra/publication/75124/edition/73258/znaczenie-interesu-publicznego-w-zakresie-realizacji-prawa-petycji-michalska-justyna}}&lt;/ref&gt; — jako przeciwieństwo interesu indywidualnego / prywatnego&lt;ref name=":2"&gt;{{Cytuj |autor = Marta Tużnik |tytuł = Interes publiczny czy interes prywatny w zasadzie in dubio pro tributario? |czasopismo = Studia Prawnoustrojowe |data = 2017 |data dostępu = 2024-01-14 |issn = 1644-0412 |numer = 35 |s = 91–102 |opublikowany = Wydawnictwo Uniwersytetu Warmińsko-Mazurskiego w Olsztynie |url = https://wpia.uwm.edu.pl/czasopisma/sites/default/files/uploads/Studia_Prawno_Ustrojowe/2017/35/91-102.pdf |język = pl}}&lt;/ref&gt;&lt;ref name=":3" /&gt; – taki, który nie jest ograniczony do pojedynczej jednostki czy grupy, ale ma na celu dobro / korzyść ogółu ludności&lt;ref name=":0"&gt;{{Cytuj |tytuł = Interes Publiczny: Wprowadzenie do Pojęcia {{!}} Magazyn Moja Firma |data = 2023-07-10 |data dostępu = 2024-01-14 |url = https://magazynmojafirma.pl/interes-publiczny-wprowadzenie-do-pojecia |język = pl-PL}}&lt;/ref&gt;&lt;ref name=":3" /&gt;. Odnosi się do wartości, które są wspólne i ważne dla całego [[Społeczeństwo|społeczeństwa]] takie jak [[sprawiedliwość]], [[wolność]], [[bezpieczeństwo]], pokój, [[niepodległość]] i [[suwerenność]] państwa, [[zdrowie publiczne]], utrzymanie równowagi finansowej systemu zabezpieczenia społecznego, ochrona konsumentów, usługobiorców i pracowników, uczciwość w transakcjach handlowych, zwalczanie nadużyć, [[Ochrona środowiska|ochrona środowiska naturalnego]] i miejskiego, zdrowie zwierząt, [[własność intelektualna]], cele [[Polityka społeczna|polityki społecznej]] i [[Polityka kulturalna|kulturalnej]] oraz ochrona narodowego dziedzictwa historycznego i artystycznego, zaufanie obywateli do organów władzy, [[prawa człowieka]] i [[Prawa obywatelskie|obywatela]]&lt;ref name=":1"&gt;{{Cytuj |tytuł = Interes publiczny – Encyklopedia Administracji Publicznej |data dostępu = 2024-01-14 |opublikowany = encyklopediaap.uw.edu.pl |url = http://encyklopediaap.uw.edu.pl/index.php/Interes_publiczny}}&lt;/ref&gt;. Jest to cel, który służy dobrobytowi i harmonijnemu funkcjonowaniu społeczeństwa&lt;ref name=":0" /&gt;. Jest to kategoria normatywna określania przesłanek w hipotezach lub dyspozycjach wielu przepisów z różnych dziedzin życia społeczno–gospodarczego.    
+
+Termin jest wykorzystywany w [[Akt prawny|aktach prawnych]]&lt;ref name=":4" /&gt;&lt;ref&gt;{{Cytuj |redaktor = Ryszard Balicki, Mariusz Jabłoński |tytuł = Teoretyczne i praktyczne aspekty realizacji prawa petycji |data = 2015 |data dostępu = 2024-05-13 |isbn = 978-83-61370-63-5 |opis = e-Monografie |miejsce = Wrocław |wydawca = E-Wydawnictwo. Prawnicza i Ekonomiczna Biblioteka Cyfrowa. Wydział Prawa, Administracji i Ekonomii Uniwersytetu Wrocławskiego}}&lt;/ref&gt;&lt;ref&gt;{{Cytuj |tytuł = Interes publiczny - Słownik pojęć - mikroPorady.pl - Biznesowe wsparcie z najlepszej strony |data dostępu = 2024-01-14 |opublikowany = mikroporady.pl |url = https://mikroporady.pl/slownik-pojec/interes-publiczny |język = pl}}&lt;/ref&gt; — wyrażony między innymi w [[Konstytucja Rzeczypospolitej Polskiej|Konstytucji Rzeczypospolitej Polskiej]] (art. 17 ust. 1, 22, 63, 213 ust. 1)&lt;ref name=":2" /&gt;. Wprost do pojęcia interesu publicznego odwołuje się także art. 3 pkt 1 ustawa z 6 września 2001 r. o dostępie do informacji publicznej (Dz.U z 2018 r. Nr 1330), czy w art. 3 ust. 2 ustawy o zagospodarowaniu przestrzennym (Dz.U z 2018 r. Nr 1945 ze zm.). W ostatnio wskazanym akcie zawarta jest także definicja  interesu publicznego. Zgodnie z nią przez interes publiczny należy rozumieć uogólniony cel dążeń i działań, uwzględniających zobiektywizowane potrzeby ogółu społeczeństwa lub lokalnych społeczności, związanych z zagospodarowaniem przestrzennym (art. 2 pkt 4)&lt;ref&gt;{{Cytuj |tytuł = Interes publiczny/społeczny (encyklopedyczny) – Wiedza i Edukacja Obywatelska |data dostępu = 2024-05-13 |url = http://wiep.pl/interes-publiczny-spoleczny-encyklopedyczny/ |język = pl-PL}}&lt;/ref&gt;.    
+
+Ochronę interesu publicznego zapewniają przepisy [[Kodeks karny|kodeksu karnego]] w art. 231, wspominając obowiązki ochrony interesu publicznego przez [[Funkcjonariusz publiczny|funkcjonariuszy publicznych]], między innymi posłów, senatorów, radnych. Według tego artykułu funkcjonariusz publiczny, który, przekraczając swoje uprawnienia lub nie dopełniając obowiązków, działa na szkodę interesu publicznego, podlega karze&lt;ref&gt;{{Cytuj |tytuł = Nadużycie uprawnień przez funkcjonariusza publicznego |data dostępu = 2024-05-13 |opublikowany = www.adwokat-skoczylas.pl |url = https://www.adwokat-skoczylas.pl/blog/naduzycie-uprawnien-przez-funkcjonariusza-publicznego |język = pl}}&lt;/ref&gt;. 
+
+== Przypisy ==
+{{Przypisy}}
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Społeczeństwo]]</text>
+      <sha1>su1wlv6ek74jnmcbegb1o8o5beh3s2s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Informacja</title>
+    <ns>14</ns>
+    <id>3276251</id>
+    <revision>
+      <id>72520747</id>
+      <parentid>63752891</parentid>
+      <timestamp>2024-01-15T21:30:33Z</timestamp>
+      <contributor>
+        <username>SpiderMum</username>
+        <id>16515</id>
+      </contributor>
+      <comment>nie można całej kategorii przenosić do tematycznych bez uprzedniego poprawnego "tradycyjnego" skategoryzowania jej zawartości</comment>
+      <origin>72520747</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="435" sha1="j07qja7cf0cpijq6vb41zo6uhd7khf6" xml:space="preserve">{{Opis kategorii
+ |grupuje        =
+ |uwagi          =
+ |osobne_grupują =
+ |main           = [[Informacja]]
+ |portal         =
+ |wikiprojekt    =
+ |zobacz         =
+ |związane       =
+ |siostrzane     = {{Siostrzane projekty
+  |commons   = Category:Information
+  |słownik   = 
+  |źródła    = 
+  |cytaty    = 
+  |news      =
+  |books     = 
+  |podróże   = 
+}}
+}}
+
+[[Kategoria:Kategorie tematyczne]]
+[[Kategoria:Społeczeństwo]]</text>
+      <sha1>j07qja7cf0cpijq6vb41zo6uhd7khf6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Koszty społeczne</title>
+    <ns>0</ns>
+    <id>5441213</id>
+    <revision>
+      <id>74913946</id>
+      <parentid>74913945</parentid>
+      <timestamp>2024-10-07T13:12:17Z</timestamp>
+      <contributor>
+        <username>KrzysztofPoplawski</username>
+        <id>15468</id>
+      </contributor>
+      <minor/>
+      <comment>Zamiana 1 czerwonych linków na szablon {{[[Szablon:Link-interwiki|Link-interwiki]]}}</comment>
+      <origin>74913946</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="10696" sha1="2i99mvpdo40yjx5o1efbu9qtojfaps1" xml:space="preserve">'''Koszty społeczne''' – [[Koszt (ekonomia)|koszt]] ponoszony przez całe [[społeczeństwo]]&lt;ref&gt;{{encyklopedia PWN |id = 3926347 |tytuł = koszt społeczny |data dostępu = 2023-03-15}}&lt;/ref&gt;. [[Termin]] ten jest różnie interpretowany przez samych zajmujących się tym tematem&lt;ref name=":0"&gt;{{Cytuj |tytuł = Koszt społeczny |data dostępu = 2023-03-15 |opublikowany = Encyklopedia Zarządzania |url = https://mfiles.pl/pl/index.php/Koszt_spo%C5%82eczny |język = pl}}&lt;/ref&gt;. W literaturze z obszaru [[Rachunkowość|rachunkowości]] używa się różnych terminów na opisanie kosztów o charakterze społecznym i środowiskowym: koszty zewnętrzne&lt;ref name=":1"&gt;{{Cytuj |autor = Dominik Jasinski, James Meredith, Kerry Kirwan |tytuł = A comprehensive review of full cost accounting methods and their applicability to the automotive industry |czasopismo = Journal of Cleaner Production |data = 2015-12 |data dostępu = 2023-03-15 |wolumin = 108 |s = 1123–1139 |doi = 10.1016/j.jclepro.2015.06.040 |url = https://linkinghub.elsevier.com/retrieve/pii/S0959652615007696 |język = en}}&lt;/ref&gt;&lt;ref name=":2"&gt;{{Cytuj |autor = Cornelia Dascalu, Chirata Caraiani, Camelia Iuliana Lungu, Florian Colceag, Gina Raluca Guse |tytuł = The externalities in social environmental accounting |czasopismo = International Journal of Accounting &amp; Information Management |data = 2010-01-01 |data dostępu = 2023-03-15 |issn = 1834-7649 |wolumin = 18 |numer = 1 |s = 19–30 |doi = 10.1108/18347641011023252 |url = https://www.researchgate.net/publication/46545238_The_externalities_in_social_environmental_accounting |język = en}}&lt;/ref&gt;&lt;ref name=":0" /&gt;, n''egatywne efekty zewnętrzne''&lt;ref&gt;{{Cytuj |autor = Fredrik Hartwig, Jonas Kågström, Arne Fagerström |tytuł = Sustainability Accounting for Externalities |czasopismo = Sustainability: The Journal of Record |data = 2019-06 |data dostępu = 2023-12-22 |issn = 1937-0695 |wolumin = 12 |numer = 3 |s = s. 159 |doi = 10.1089/sus.2019.0009 |url = https://www.researchgate.net/publication/335383302_Sustainability_Accounting_for_Externalities |język = en}}&lt;/ref&gt;&lt;ref name=":4"&gt;{{Cytuj |autor = Jeffrey Unerman, Jan Bebbington, Brendan O’dwyer |tytuł = Corporate reporting and accounting for externalities |czasopismo = Accounting and Business Research |data = 2018-07-29 |data dostępu = 2023-12-22 |issn = 0001-4788 |wolumin = 48 |numer = 5 |s = s. 500 |doi = 10.1080/00014788.2018.1470155 |url = https://www.researchgate.net/publication/325565534_Corporate_reporting_and_accounting_for_externalities |język = en}}&lt;/ref&gt;, ''negatywne społeczne efekty zewnętrzne''&lt;ref name=":4" /&gt; lub po prostu ''koszty społeczne''&lt;ref name=":2" /&gt;&lt;ref name=":3"&gt;{{Cytuj |autor = Ewelina Kuberska |tytuł = Koszt społeczny w rachunkowości |czasopismo = Zeszyty Naukowe Uniwersytetu Ekonomicznego w Krakowie / Cracow Review of Economics and Management |data = 2021-03-30 |data dostępu = 2023-03-15 |issn = 1898-6447 |numer = 4(988) |s = 7–24 |doi = 10.15678/ZNUEK.2020.0988.0401 |url = https://zeszyty-naukowe.uek.krakow.pl/article/view/2079 |język = pl}}&lt;/ref&gt;. Inna definicja opisuje je jako szkody bądź negatywne efekty wynikające z działań bądź podejmowanych decyzji jednostki gospodarczej ponoszone przez jednostki z tym niezwiązane&lt;ref&gt;{{Cytuj |autor = Dominik Jasinski, James Meredith, Kerry Kirwan |tytuł = A comprehensive review of full cost accounting methods and their applicability to the automotive industry |czasopismo = Journal of Cleaner Production |data = 2015-12 |data dostępu = 2023-12-22 |wolumin = 108 |s = s. 1124 |doi = 10.1016/j.jclepro.2015.06.040 |url = https://www.researchgate.net/publication/278795450_A_Comprehensive_Review_of_Full_Cost_Accounting_Methods_and_their_Applicability_to_the_Automotive_Industry |język = en}}&lt;/ref&gt;&lt;ref name=":1" /&gt;. Według definicji {{link-interwiki |William Kapp |tekst=Williama Kappa |Q=Q89061}} termin "'koszty społeczne ''odnosi się do wszystkich szkodliwych następstw i uszczerbków, które ponoszą osoby trzecie lub społeczeństwo w rezultacie procesów produkcji i za które nie jest łatwo obarczyć odpowiedzialnością poszczególne podmioty prawna i fizyczne''”&lt;ref&gt;{{Cytuj |autor = Emma Coolen |tytuł = Book Review: The Slave Trade Debate: Contemporary Writings For and Against; introduction by John Pinfold. Oxford: Bodleian Library, 2007. 398 pp. ISBN 978-1-85124-316-7. £12.99. - The Memoirs of Captain Hugh Crow: the Life and Times of a Slave Trade Captain; introduction by John Pinfold. Oxford: Bodleian Library, 2007. xxiv, 198 pp. ISBN 978-1-85124-321-1. £15.99. |czasopismo = African Research &amp;amp; Documentation |data = 2007 |data dostępu = 2023-03-15 |isbn = 978-1-85124-316-7 |issn = 0305-862X |wolumin = 105 |s = 82–83 |opublikowany = Cambridge University Library |doi = 10.1017/s0305862x0002375x |url = https://www.researchgate.net/publication/326305272_The_Social_Costs_of_Neoliberalism_-_Essays_on_the_Economics_of_K_William_Kapp |język = en}}&lt;/ref&gt;. 
+
+Zalicza się do nich: degradację środowiska, hałas i skutki estetyczne, resztkowe emisje do powietrza i wody, długoterminowe usuwanie odpadów, za które firmy nie ponoszą odpowiedzialności prawnej, oraz niekorzystny wpływ na ludzi, ich własność i dobrobyt, nieskompensowane skutki zdrowotne, zmianę lokalnej jakości życia, którą nie zawsze można zrównoważyć za pomocą systemów prawnych&lt;ref name=":2" /&gt;&lt;ref name=":3" /&gt;.   
+
+Określenie w ekonomii obejmuje wszystkie bezpośrednie i pośrednie straty poniesione przez osoby trzecie lub całe społeczeństwo w rezultacie [[Działalność gospodarcza|działalności ekonomicznej]] poszczególnych przedsiębiorstw&lt;ref name=":0" /&gt;.
+
+== Przykład kosztów społecznych ==
+=== Społeczne koszty stosowania kary pozbawienia wolności ===
+Do społecznych kosztów stosowania wobec przestępców kary pozbawienia wolności należą:
+
+* bezpośrednie koszty budowy oraz utrzymania więzienia,
+* koszty personelu,
+* koszty alternatywy utraconej wydajności uwięzionych ludzi&lt;ref&gt;{{Cytuj |autor = Robert Cooter |tytuł = Ekonomiczna analiza prawa |data = 2011 |data dostępu = 2023-03-15 |isbn = 978-83-255-2726-6 |wydanie = Wyd. 2, popr |miejsce = Warszawa |wydawca = Wydawnictwo C. H. Beck |s = s. 165-166 |oclc = 802690114 |url = https://wydawnictwo.ue.poznan.pl/books/978-83-8211-112-5/978-83-8211-112-5.pdf}}&lt;/ref&gt;.
+
+=== Społeczne koszty wstrzymania budowy obwodnicy Augustrowa ===
+Policzono także koszty społeczne, a więc te, które poniesie określona grupa ludzi, głównie użytkowników tych dróg oraz mieszkańców Wasilkowa i Augustowa. Liczono je jako utratę korzyści związanych z korzystaniem z obwodnicy, wynikających ze zmniejszenia kosztów eksploatacji pojazdów, czasu przejazdu, emisji zanieczyszczeń i hałasu na terenie zabudowanym, wypadków drogowych i ofiar, a także z obniżenia wartości nieruchomości. Tak rozumiane koszty społeczne wstrzymania na jeden rok budowy obwodnicy Wasilkowa wynoszą co najmniej 48 mln zł, zaś obwodnicy Augustowa – 98 mln zł. Koszty społeczne związane ze zmianą przebiegu drogi – opracowanie dokumentacji, wywłaszczenie i budowa drogi – szacowane dla obwodnicy Wasilkowa, przy pięciu latach opóźnienia, wyniosą 188,5 mln zł, a dla obwodnicy Augustowa, przy siedmiu latach opóźnienia (inna skala wywłaszczeń) – 2208 mln zł. Tyle społeczeństwo kosztuje wąskie, obiektowo-konserwatorskie, a nie procesowe podejście do ochrony środowiska&lt;ref&gt;{{Cytuj |autor = pk_admin_4niTZf8 |tytuł = Koszty społeczne |data dostępu = 2023-03-15 |opublikowany = PortalKomunalny.pl |url = https://portalkomunalny.pl/plus/artykul/koszty-spoleczne/ |język = pl-PL}}&lt;/ref&gt;.
+
+=== Koszty społeczne nadużywania alkoholu w Polsce ===
+Państwowa Agencja Rozwiązywania Problemów Alkoholowych wyceniła koszty społeczno-ekonomiczne wynikające z nadużycia alkoholu przez Polaków aż na 30,9 mln zł rocznie. przedwczesna śmiertelność. Według PARPA, tylko w tym wypadku koszty wynoszą 25,8 mld zł. Dla żadnej innej kategorii skutków nie przekraczają one 1 mld zł.&lt;ref&gt;{{Cytuj |tytuł = Ponad 30 mld zł wynoszą koszty społeczne nadużywania alkoholu w Polsce |data dostępu = 2023-03-15 |opublikowany = Wiadomości Handlowe |url = https://www.wiadomoscihandlowe.pl/artykul/ponad-30-mld-zl-wynosza-koszty-spoleczne-naduzywania-alkoholu-w-polsce |język = en}}&lt;/ref&gt;
+
+=== Społeczny koszt węgla ===
+Społeczny koszt węgla (SCC) to krańcowy koszt skutków spowodowanych emisją jednej dodatkowej tony gazu cieplarnianego (ekwiwalent dwutlenku węgla) w dowolnym momencie, obejmujący "nierynkowe" skutki dla środowiska i zdrowia ludzkiego&lt;ref&gt;{{Cytuj |tytuł = AR4 WGII Chapter 20: Perspectives on Climate Change and Sustainability - 20.6 Global and aggregate impacts |data = 2011-11-07 |data dostępu = 2023-03-15 |opublikowany = web.archive.org |url = https://web.archive.org/web/20111107145417/http://www.ipcc.ch/publications_and_data/ar4/wg2/en/ch20s20-6.html}}&lt;/ref&gt;.  Celem ustalenia ceny za tonę emitowanego CO2 jest pomoc decydentom lub innym ustawodawcom w ocenie, czy polityka mająca na celu ograniczenie zmian klimatu jest uzasadniona. Społeczny koszt emisji dwutlenku węgla to kalkulacja skoncentrowana na podejmowaniu działań naprawczych w zakresie zmian klimatu, które można uznać za formę zawodności rynku&lt;ref&gt;{{Cytuj |tytuł = Social Cost of Carbon 101 |data dostępu = 2023-03-15 |opublikowany = Resources for the Future |url = https://www.rff.org/publications/explainers/social-cost-carbon-101/ |język = en-US}}&lt;/ref&gt;.  Najnowsze badania szacują koszty ponad 300 USD za tonę CO 2 (/tCO2)&lt;ref&gt;{{Cytuj |autor = Jarmo S Kikstra, Paul Waidelich, James Rising, Dmitry Yumashev, Chris Hope, Chris M Brierley |tytuł = The social cost of carbon dioxide under climate-economy feedbacks and temperature variability |czasopismo = Environmental Research Letters |data = 2021-09-01 |data dostępu = 2023-03-15 |issn = 1748-9326 |wolumin = 16 |numer = 9 |s = 094037 |doi = 10.1088/1748-9326/ac1d0b |url = https://iopscience.iop.org/article/10.1088/1748-9326/ac1d0b}}&lt;/ref&gt;.  Międzyrządowy Zespół ds. Zmian Klimatu zasugerował, że cena emisji dwutlenku węgla ze 135 USD do 5 500 USD / tCO2 w 2030 r. i z 245 USD do 13 000 USD w 2050 r. (2010 USD) byłaby potrzebna, aby doprowadzić do emisji dwutlenku węgla, aby utrzymać się poniżej limitu 1,5 ° C. 
+
+== Przypisy ==
+{{Przypisy}}
+
+== Zobacz także ==
+
+* [[Efekty zewnętrzne]]
+* [[Problem kosztów społecznych]]
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Teoria ekonomii]]
+[[Kategoria:Koszty]]
+[[Kategoria:Społeczeństwo]]
+[[Kategoria:Rachunkowość]]</text>
+      <sha1>2i99mvpdo40yjx5o1efbu9qtojfaps1</sha1>
+    </revision>
+  </page>
+</mediawiki>

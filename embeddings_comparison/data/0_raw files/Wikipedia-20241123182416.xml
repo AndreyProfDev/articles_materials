@@ -1,0 +1,1725 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="pl">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>plwiki</dbname>
+    <base>https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna</base>
+    <generator>MediaWiki 1.44.0-wmf.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Specjalna</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Dyskusja</namespace>
+      <namespace key="2" case="first-letter">Wikipedysta</namespace>
+      <namespace key="3" case="first-letter">Dyskusja wikipedysty</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Dyskusja Wikipedii</namespace>
+      <namespace key="6" case="first-letter">Plik</namespace>
+      <namespace key="7" case="first-letter">Dyskusja pliku</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Dyskusja MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Szablon</namespace>
+      <namespace key="11" case="first-letter">Dyskusja szablonu</namespace>
+      <namespace key="12" case="first-letter">Pomoc</namespace>
+      <namespace key="13" case="first-letter">Dyskusja pomocy</namespace>
+      <namespace key="14" case="first-letter">Kategoria</namespace>
+      <namespace key="15" case="first-letter">Dyskusja kategorii</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Dyskusja portalu</namespace>
+      <namespace key="102" case="first-letter">Wikiprojekt</namespace>
+      <namespace key="103" case="first-letter">Dyskusja wikiprojektu</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Moduł</namespace>
+      <namespace key="829" case="first-letter">Dyskusja modułu</namespace>
+      <namespace key="2600" case="first-letter">Wątek</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Kategoria:Przestępcy</title>
+    <ns>14</ns>
+    <id>344675</id>
+    <revision>
+      <id>48193634</id>
+      <parentid>47550504</parentid>
+      <timestamp>2017-01-15T16:59:29Z</timestamp>
+      <contributor>
+        <username>MalarzBOT</username>
+        <id>31007</id>
+      </contributor>
+      <minor/>
+      <comment>MalarzBOT: przenosiny z kategorii Ludzie związani z mistyfikacjami do [[:Kategoria:Mistyfikatorzy|Mistyfikatorzy]]</comment>
+      <origin>48193634</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="747" sha1="117hdrxwbyok3o9vt6ufv796htjmu9g" xml:space="preserve">{{Opis kategorii
+ |grupuje        = {{Commonscat|Criminals}}
+Kategoria ta przeznaczona jest dla osób znanych głównie lub między innymi z powodu popełnienia przez nie przestępstwa, lub przestępstw kryminalnych.
+ |uwagi          =
+ |osobne_grupują =
+ |main           =
+ |portal         =
+ |wikiprojekt    =
+ |zobacz         = [[:Kategoria:Więźniowie|Więźniowie]]
+ |związane       = [[:Kategoria:Przestępstwa (wydarzenia)|Przestępstwa]]‎, [[:Kategoria:Ofiary przestępstw|Ofiary przestępstw]], [[:Kategoria:Przestępczość|Przestępczość]], [[:Kategoria:Organizacje przestępcze|Organizacje przestępcze]], [[:Kategoria:Mistyfikatorzy|Ludzie związani z mistyfikacjami]]
+}}
+
+[[Kategoria:Biografie]]
+[[Kategoria:Przestępczość]]</text>
+      <sha1>117hdrxwbyok3o9vt6ufv796htjmu9g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Strony przeglądowe – biografie</title>
+    <ns>14</ns>
+    <id>465564</id>
+    <revision>
+      <id>70248896</id>
+      <parentid>70248895</parentid>
+      <timestamp>2023-05-02T06:39:53Z</timestamp>
+      <contributor>
+        <username>Masur</username>
+        <id>24837</id>
+      </contributor>
+      <minor/>
+      <comment>Wycofanie edycji użytkownika [[Special:Contributions/95.49.27.5|95.49.27.5]] ([[User talk:95.49.27.5|dyskusja]]). Autor przywróconej wersji to [[User:MemicznyJanusz|MemicznyJanusz]].</comment>
+      <origin>49295738</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="69" sha1="ayjvxouq1izh7fud959cs0tp67d9f8r" xml:space="preserve">[[Kategoria:Strony przeglądowe|Biografie]]
+[[Kategoria:Biografie| ]]</text>
+      <sha1>ayjvxouq1izh7fud959cs0tp67d9f8r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Ofiary represji politycznych</title>
+    <ns>14</ns>
+    <id>1938860</id>
+    <revision>
+      <id>35569077</id>
+      <parentid>34553098</parentid>
+      <timestamp>2013-03-16T13:21:59Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>543400</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Addbot|Bot:]] Przenoszę linki interwiki (7) do [[d:|Wikidata]], są teraz dostępne do edycji na [[d:q6137834]]</comment>
+      <origin>35569077</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="62" sha1="kzl4t00ayamwpoe6lw2edkao5flbs3r" xml:space="preserve">[[Kategoria:Łamanie praw człowieka]]
+[[Kategoria:Biografie]]</text>
+      <sha1>kzl4t00ayamwpoe6lw2edkao5flbs3r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Ludzie według statusu</title>
+    <ns>14</ns>
+    <id>3071833</id>
+    <revision>
+      <id>38060521</id>
+      <timestamp>2013-12-03T14:01:03Z</timestamp>
+      <contributor>
+        <username>Bogic</username>
+        <id>138287</id>
+      </contributor>
+      <comment>kategoria</comment>
+      <origin>38060521</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="228" sha1="3mr0vqrigdfqilre5asc0jly72zqbo9" xml:space="preserve">{{Commonscat|People by status}}
+
+Ta kategoria zawiera listę ludzi charakteryzujących ich stan życiowy (mieszka, żyje lub zniknęła) lub przez ich sytuację społeczną (niewolnik, więzień).
+
+[[Kategoria:Biografie|Status]]</text>
+      <sha1>3mr0vqrigdfqilre5asc0jly72zqbo9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Sawanci</title>
+    <ns>14</ns>
+    <id>1523638</id>
+    <revision>
+      <id>74017923</id>
+      <parentid>39000415</parentid>
+      <timestamp>2024-06-16T00:17:34Z</timestamp>
+      <contributor>
+        <username>Osman&amp;Saud</username>
+        <id>1312594</id>
+      </contributor>
+      <origin>74017923</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="82" sha1="t8jt5bday0wo1zmrhwyjayn0diy5y8d" xml:space="preserve">[[Kategoria:Historia medycyny]]
+[[Kategoria:Inteligencja]]
+[[Kategoria:Biografie]]</text>
+      <sha1>t8jt5bday0wo1zmrhwyjayn0diy5y8d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Zwolennicy non violence</title>
+    <ns>14</ns>
+    <id>3151182</id>
+    <revision>
+      <id>45243698</id>
+      <parentid>45243690</parentid>
+      <timestamp>2016-03-07T08:57:00Z</timestamp>
+      <contributor>
+        <username>MastiBot</username>
+        <id>126431</id>
+      </contributor>
+      <minor/>
+      <comment>MastiBot przeniósł stronę [[Kategoria:Zwolennicy walki bez przemocy]] na [[Kategoria:Zwolennicy non violence]], bez pozostawienia przekierowania pod starym tytułem: Robot przeniósł strony z Kategoria:Zwolennicy walki bez przemocy do Kategoria:Zwo...</comment>
+      <origin>45243698</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="319" sha1="13pstppu9g756e6hk7x94t9hsqit72j" xml:space="preserve">{{Opis kategorii
+ |grupuje        = Kategoria ta grupuje aktywnych zwolenników '''[[non violence]]''', czyli walki bez przemocy.
+ |uwagi          =
+ |osobne_grupują =
+ |main           =
+ |portal         =
+ |wikiprojekt    =
+ |zobacz         =
+ |związane       =
+}}
+
+[[Kategoria:Biografie]]
+[[Kategoria:Non violence]]</text>
+      <sha1>13pstppu9g756e6hk7x94t9hsqit72j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Postacie fandomu</title>
+    <ns>14</ns>
+    <id>1738348</id>
+    <revision>
+      <id>39899641</id>
+      <parentid>17855933</parentid>
+      <timestamp>2014-07-17T13:52:32Z</timestamp>
+      <contributor>
+        <username>Cathy Richards</username>
+        <id>284016</id>
+      </contributor>
+      <minor/>
+      <comment>Dodano kategorię "Biografie" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>39899641</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="d0xojv22ji6et2eou00o30mk7a6e02c" xml:space="preserve">[[Kategoria:Fandom]]
+[[Kategoria:Biografie]]</text>
+      <sha1>d0xojv22ji6et2eou00o30mk7a6e02c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Osoby negujące Zagładę Żydów</title>
+    <ns>14</ns>
+    <id>2824435</id>
+    <revision>
+      <id>70064655</id>
+      <parentid>69214422</parentid>
+      <timestamp>2023-04-07T09:13:58Z</timestamp>
+      <contributor>
+        <username>MalarzBOT</username>
+        <id>31007</id>
+      </contributor>
+      <minor/>
+      <comment>MalarzBOT: kategoria Negacjonizm została przeniesiona do [[:Kategoria:Negowanie Zagłady Żydów|Negowanie Zagłady Żydów]]</comment>
+      <origin>70064655</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="109" sha1="10fzdd1zlpg09rqa9bprjfkamuuojub" xml:space="preserve">[[Kategoria:Negowanie Zagłady Żydów]]
+[[Kategoria:Propagatorzy teorii spiskowych]]
+[[Kategoria:Biografie]]</text>
+      <sha1>10fzdd1zlpg09rqa9bprjfkamuuojub</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Mistyfikatorzy</title>
+    <ns>14</ns>
+    <id>1724433</id>
+    <revision>
+      <id>48193632</id>
+      <parentid>48193611</parentid>
+      <timestamp>2017-01-15T16:59:24Z</timestamp>
+      <contributor>
+        <username>Malarz pl</username>
+        <id>19873</id>
+      </contributor>
+      <minor/>
+      <comment>zostawiono po dyskusji [[Wikipedia:Poczekalnia/kwestie techniczne/2016:11:18:Kategoria:Ludzie związani z mistyfikacjami]] i zmianie nazwy</comment>
+      <origin>48193632</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="50" sha1="aym9ghxwvpn5fswbrfxtltjyjrxjdyh" xml:space="preserve">[[Kategoria:Mistyfikacje]]
+[[Kategoria:Biografie]]</text>
+      <sha1>aym9ghxwvpn5fswbrfxtltjyjrxjdyh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Ludzie związani ze zbrodnią katyńską</title>
+    <ns>14</ns>
+    <id>3141071</id>
+    <revision>
+      <id>42097984</id>
+      <parentid>39078003</parentid>
+      <timestamp>2015-03-17T16:43:47Z</timestamp>
+      <contributor>
+        <username>Cathy Richards</username>
+        <id>284016</id>
+      </contributor>
+      <minor/>
+      <comment>Dodano kategorię "Biografie" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>42097984</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="56" sha1="jj0ko8yvvzxccknavc1srjuyvzr527x" xml:space="preserve">[[Kategoria:Zbrodnia katyńska]]
+[[Kategoria:Biografie]]</text>
+      <sha1>jj0ko8yvvzxccknavc1srjuyvzr527x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Małżonkowie premierów</title>
+    <ns>14</ns>
+    <id>1635256</id>
+    <revision>
+      <id>53737423</id>
+      <parentid>43340957</parentid>
+      <timestamp>2018-06-18T17:43:11Z</timestamp>
+      <contributor>
+        <username>Cathy Richards</username>
+        <id>284016</id>
+      </contributor>
+      <origin>53737423</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="241" sha1="ddkousam5o4m0eonpj6oiuk70id8ucr" xml:space="preserve">{{Opis kategorii
+ |grupuje        =
+ |uwagi          =
+ |osobne_grupują =
+ |main           =
+ |portal         =
+ |wikiprojekt    =
+ |zobacz         =
+ |związane       = [[:Kategoria:Pierwsze damy|Pierwsze damy]]
+}}
+
+[[Kategoria:Biografie]]</text>
+      <sha1>ddkousam5o4m0eonpj6oiuk70id8ucr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Osobowości internetowe</title>
+    <ns>14</ns>
+    <id>1749942</id>
+    <revision>
+      <id>43340959</id>
+      <parentid>35915604</parentid>
+      <timestamp>2015-08-05T23:38:40Z</timestamp>
+      <contributor>
+        <username>Doctore</username>
+        <id>413824</id>
+      </contributor>
+      <minor/>
+      <comment>Usunięto kategorię "Biografie według profesji"; Dodano kategorię "Biografie" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>43340959</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="73" sha1="40f8arak2dikdeuqm39j6bnn8o0jhdx" xml:space="preserve">[[Kategoria:Biografie|Internet]]
+[[Kategoria:Społeczność internetowa]]</text>
+      <sha1>40f8arak2dikdeuqm39j6bnn8o0jhdx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Skauci</title>
+    <ns>14</ns>
+    <id>142374</id>
+    <revision>
+      <id>49637667</id>
+      <parentid>43340966</parentid>
+      <timestamp>2017-06-19T12:49:12Z</timestamp>
+      <contributor>
+        <username>Andrzei111</username>
+        <id>603848</id>
+      </contributor>
+      <minor/>
+      <comment>Andrzei111 przeniósł stronę [[Kategoria:Biografie skautowe]] na [[Kategoria:Skauci]], bez pozostawienia przekierowania pod starym tytułem: zgodnie ze standardem</comment>
+      <origin>49637667</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="277" sha1="br59lyz4vf9c6nvoiobjnauwrt0nd40" xml:space="preserve">{{Opis kategorii
+ |grupuje        = Ta kategoria zbiera wybitnych instruktorów skautowych.
+ |uwagi          =
+ |osobne_grupują =
+ |main           =
+ |portal         =
+ |wikiprojekt    =
+ |zobacz         =
+ |związane       =
+}}
+
+[[Kategoria:Skauting]]
+[[Kategoria:Biografie]]</text>
+      <sha1>br59lyz4vf9c6nvoiobjnauwrt0nd40</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Propagandyści</title>
+    <ns>14</ns>
+    <id>3084316</id>
+    <revision>
+      <id>43340979</id>
+      <parentid>38227025</parentid>
+      <timestamp>2015-08-05T23:42:25Z</timestamp>
+      <contributor>
+        <username>Doctore</username>
+        <id>413824</id>
+      </contributor>
+      <minor/>
+      <comment>Usunięto kategorię "Biografie według profesji"; Dodano kategorię "Biografie" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>43340979</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="48" sha1="oxjjt3sd6xnl92y6r7wun3vtmsa9yho" xml:space="preserve">[[Kategoria:Biografie]]
+[[Kategoria:Propaganda]]</text>
+      <sha1>oxjjt3sd6xnl92y6r7wun3vtmsa9yho</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Osobowości telewizyjne</title>
+    <ns>14</ns>
+    <id>109405</id>
+    <revision>
+      <id>43340981</id>
+      <parentid>35106059</parentid>
+      <timestamp>2015-08-05T23:42:47Z</timestamp>
+      <contributor>
+        <username>Doctore</username>
+        <id>413824</id>
+      </contributor>
+      <minor/>
+      <comment>Usunięto kategorię "Biografie według profesji"; Dodano kategorię "Biografie" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>43340981</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="98" sha1="5jrw2ohppc3xk0gmigx69g2iatsl39y" xml:space="preserve">{{Commonscat|Television personalities}}
+
+[[Kategoria:Telewizja]]
+[[Kategoria:Biografie|Telewizja]]</text>
+      <sha1>5jrw2ohppc3xk0gmigx69g2iatsl39y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Filantropi</title>
+    <ns>14</ns>
+    <id>1664076</id>
+    <revision>
+      <id>43340984</id>
+      <parentid>36694666</parentid>
+      <timestamp>2015-08-05T23:43:41Z</timestamp>
+      <contributor>
+        <username>Doctore</username>
+        <id>413824</id>
+      </contributor>
+      <minor/>
+      <comment>Usunięto kategorię "Biografie według profesji"; Dodano kategorię "Biografie" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>43340984</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="81" sha1="ekmgrn0qn36ihhc0lqzi2g13r0frb7h" xml:space="preserve">{{Commonscat|Philanthropists}}
+
+[[Kategoria:Biografie]]
+[[Kategoria:Filantropia]]</text>
+      <sha1>ekmgrn0qn36ihhc0lqzi2g13r0frb7h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Filistrzy honoris causa polskich korporacji akademickich</title>
+    <ns>14</ns>
+    <id>1515713</id>
+    <revision>
+      <id>43340986</id>
+      <parentid>14757845</parentid>
+      <timestamp>2015-08-05T23:43:45Z</timestamp>
+      <contributor>
+        <username>Doctore</username>
+        <id>413824</id>
+      </contributor>
+      <minor/>
+      <comment>Usunięto kategorię "Biografie według profesji"; Dodano kategorię "Biografie" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>43340986</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="165" sha1="n51937dfqtz51togyj9g2b8d9x89pqk" xml:space="preserve">[[Kategoria:Korporacje akademickie]]
+[[Kategoria:Biografie]]
+Lista filistrów honoris causa polskich korporacji akademickich posiadających swoje hasła w Wikipedii:</text>
+      <sha1>n51937dfqtz51togyj9g2b8d9x89pqk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Sceptycy naukowi</title>
+    <ns>14</ns>
+    <id>3549056</id>
+    <revision>
+      <id>43889139</id>
+      <parentid>43625175</parentid>
+      <timestamp>2015-10-21T18:34:55Z</timestamp>
+      <contributor>
+        <username>Cathy Richards</username>
+        <id>284016</id>
+      </contributor>
+      <minor/>
+      <comment>Dodano kategorię "Biografie" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>43889139</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="56" sha1="7o09ipf2u7tsm6emxig5goj4dvv33r1" xml:space="preserve">[[Kategoria:Sceptycyzm naukowy]]
+[[Kategoria:Biografie]]</text>
+      <sha1>7o09ipf2u7tsm6emxig5goj4dvv33r1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Ofiary prześladowań religijnych</title>
+    <ns>14</ns>
+    <id>3571979</id>
+    <revision>
+      <id>69143082</id>
+      <parentid>61897744</parentid>
+      <timestamp>2022-12-27T17:17:54Z</timestamp>
+      <contributor>
+        <username>KoverasLupus</username>
+        <id>434263</id>
+      </contributor>
+      <comment>zbędna kat. nadrzędna</comment>
+      <origin>69143082</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="102" sha1="kav50oyrstald020znqyexfpnly2dxz" xml:space="preserve">[[Kategoria:Biografie]]
+[[Kategoria:Łamanie praw człowieka]]
+[[Kategoria:Prześladowania religijne]]</text>
+      <sha1>kav50oyrstald020znqyexfpnly2dxz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Biografie według narodowości</title>
+    <ns>14</ns>
+    <id>71577</id>
+    <revision>
+      <id>69420294</id>
+      <parentid>68737251</parentid>
+      <timestamp>2023-01-25T22:52:56Z</timestamp>
+      <contributor>
+        <username>Chrumps</username>
+        <id>6748</id>
+      </contributor>
+      <comment>szablon</comment>
+      <origin>69420294</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="383" sha1="lbv0ucixst6mbf8x0ndt1dzdiavcoza" xml:space="preserve">{{Opis kategorii
+ |grupuje        = {{Commonscat|People by country}}
+ |uwagi          = 
+ |main           = 
+ |portal         = 
+ |wikiprojekt    = 
+ |zobacz         = 
+ |związane       = [[:Kategoria:Biografie według państw|Biografie według państw]]
+}}
+{{kategoria-kontener}}
+{{Spis treści kategoria}}
+[[Kategoria:Biografie|*]]
+[[Kategoria:Zagadnienia według narodowości| ]]</text>
+      <sha1>lbv0ucixst6mbf8x0ndt1dzdiavcoza</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Biografie według państw</title>
+    <ns>14</ns>
+    <id>2836619</id>
+    <revision>
+      <id>44979332</id>
+      <parentid>43774761</parentid>
+      <timestamp>2016-02-07T10:07:06Z</timestamp>
+      <contributor>
+        <username>Adamt</username>
+        <id>60242</id>
+      </contributor>
+      <comment>drobne techniczne</comment>
+      <origin>44979332</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="340" sha1="hq8jgbruefrokospa12rw8gidup86af" xml:space="preserve">{{Commonscat|People by country}}
+{{Opis kategorii
+ |grupuje        = 
+ |uwagi          = 
+ |main           = 
+ |portal         = 
+ |wikiprojekt    = 
+ |zobacz         = [[:Kategoria:Honorowi obywatele]]
+ |związane       = [[:Kategoria:Biografie według narodowości]]
+}}
+
+[[Kategoria:Biografie|*]]
+[[Kategoria:Zagadnienia według państw]]</text>
+      <sha1>hq8jgbruefrokospa12rw8gidup86af</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Biografie według profesji</title>
+    <ns>14</ns>
+    <id>403057</id>
+    <revision>
+      <id>58126864</id>
+      <parentid>58077103</parentid>
+      <timestamp>2019-11-29T08:26:37Z</timestamp>
+      <contributor>
+        <username>Nadzik</username>
+        <id>775131</id>
+      </contributor>
+      <comment>Wycofano ostatnią zmianę treści (wprowadzoną przez [[Specjalna:Wkład/Krzycho999|Krzycho999]]) i przywrócono wersję 53595257 autorstwa Openbk</comment>
+      <origin>58126864</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="82" sha1="64zc9hvo7n4i3pddoc14ym4n8u13piq" xml:space="preserve">{{Commonscat|People by occupation}}
+
+[[Kategoria:Biografie|*]]
+[[Kategoria:Praca]]</text>
+      <sha1>64zc9hvo7n4i3pddoc14ym4n8u13piq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Biografie według położeń geograficznych</title>
+    <ns>14</ns>
+    <id>546824</id>
+    <revision>
+      <id>74482379</id>
+      <parentid>44979337</parentid>
+      <timestamp>2024-08-04T21:32:02Z</timestamp>
+      <contributor>
+        <username>Mathieu Mars .bot</username>
+        <id>843696</id>
+      </contributor>
+      <minor/>
+      <comment>Mathieu Mars .bot przeniósł(-osła) stronę [[Kategoria:Biografie według regionów]] do [[Kategoria:Biografie według położeń geograficznych]], bez pozostawienia przekierowania pod starym tytułem: standaryzacja (przy użyciu [[WP:QRC|QRC]])</comment>
+      <origin>44979337</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="25" sha1="arkm2yiiq88ka87dmtoxygcugkhggja" xml:space="preserve">[[Kategoria:Biografie|*]]</text>
+      <sha1>arkm2yiiq88ka87dmtoxygcugkhggja</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Biografie według religii i wyznań</title>
+    <ns>14</ns>
+    <id>936768</id>
+    <revision>
+      <id>69796985</id>
+      <parentid>44979340</parentid>
+      <timestamp>2023-03-06T19:23:42Z</timestamp>
+      <contributor>
+        <username>Adamt</username>
+        <id>60242</id>
+      </contributor>
+      <minor/>
+      <comment>Zmiana nazwy kategorii: Kategoria:Religie → [[Kategoria:Religia]]  (przy użyciu [[WP:QRC|QRC]])</comment>
+      <origin>69796985</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="82" sha1="57ysj3bhtwei7ki6rsz1uiln19d59gz" xml:space="preserve">{{Commonscat|People by religion}}
+
+[[Kategoria:Biografie|*]]
+[[Kategoria:Religia]]</text>
+      <sha1>57ysj3bhtwei7ki6rsz1uiln19d59gz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Biografie według sposobu śmierci</title>
+    <ns>14</ns>
+    <id>1344633</id>
+    <revision>
+      <id>69420300</id>
+      <parentid>68841520</parentid>
+      <timestamp>2023-01-25T22:54:04Z</timestamp>
+      <contributor>
+        <username>Chrumps</username>
+        <id>6748</id>
+      </contributor>
+      <comment>szablon</comment>
+      <origin>69420300</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="348" sha1="23zyhl3tiq96ur2ixt6nqa5kikw5zln" xml:space="preserve">{{Commonscat|Dead people by manner of death}}
+
+{{Opis kategorii
+ |grupuje        =
+ |uwagi          =
+ |osobne_grupują =
+ |main           = 
+ |portal         =
+ |wikiprojekt    =
+ |zobacz         =
+ |związane       = [[:kategoria:Przyczyny śmierci|Przyczyny śmierci]]
+}}
+{{kategorie tematyczne}}
+[[Kategoria:Biografie|*]]
+[[Kategoria:Śmierć]]</text>
+      <sha1>23zyhl3tiq96ur2ixt6nqa5kikw5zln</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Biografie według osiągnięć i zasług</title>
+    <ns>14</ns>
+    <id>938026</id>
+    <revision>
+      <id>44979345</id>
+      <parentid>36123314</parentid>
+      <timestamp>2016-02-07T10:08:00Z</timestamp>
+      <contributor>
+        <username>Adamt</username>
+        <id>60242</id>
+      </contributor>
+      <comment>drobne techniczne</comment>
+      <origin>44979345</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="25" sha1="arkm2yiiq88ka87dmtoxygcugkhggja" xml:space="preserve">[[Kategoria:Biografie|*]]</text>
+      <sha1>arkm2yiiq88ka87dmtoxygcugkhggja</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Biografie według epok i okresów historycznych</title>
+    <ns>14</ns>
+    <id>939640</id>
+    <revision>
+      <id>53703809</id>
+      <parentid>44979361</parentid>
+      <timestamp>2018-06-13T17:09:32Z</timestamp>
+      <contributor>
+        <username>Chrumps</username>
+        <id>6748</id>
+      </contributor>
+      <minor/>
+      <comment>drobne techniczne</comment>
+      <origin>53703809</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="63" sha1="pjgv6ynccktpd67y2rqdj5fjie7vsqh" xml:space="preserve">[[Kategoria:Biografie|*]]
+[[Kategoria:Historia według epok| ]]</text>
+      <sha1>pjgv6ynccktpd67y2rqdj5fjie7vsqh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Biografie według miejsca urodzenia</title>
+    <ns>14</ns>
+    <id>3668824</id>
+    <revision>
+      <id>46800401</id>
+      <parentid>46280102</parentid>
+      <timestamp>2016-09-13T09:34:46Z</timestamp>
+      <contributor>
+        <username>Starscream</username>
+        <id>39288</id>
+      </contributor>
+      <comment>to sie przyda w podkategorii</comment>
+      <origin>46800401</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="85" sha1="lbq2s1r0aigash0lubxbt1csjlh4hls" xml:space="preserve">[[Kategoria:Biografie|*]]
+[[Kategoria:Zagadnienia według położeń geograficznych]]</text>
+      <sha1>lbq2s1r0aigash0lubxbt1csjlh4hls</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Pierwowzory postaci literackich</title>
+    <ns>14</ns>
+    <id>1409697</id>
+    <revision>
+      <id>46565722</id>
+      <parentid>36067154</parentid>
+      <timestamp>2016-08-11T08:08:57Z</timestamp>
+      <contributor>
+        <ip>83.0.186.128</ip>
+      </contributor>
+      <origin>46565722</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="57" sha1="337ijl7idh5afhgs9g5681hv24yg984" xml:space="preserve">[[Kategoria:Postacie literackie]]
+[[Kategoria:Biografie]]</text>
+      <sha1>337ijl7idh5afhgs9g5681hv24yg984</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Ludzie związani z CERN</title>
+    <ns>14</ns>
+    <id>3528542</id>
+    <revision>
+      <id>46756003</id>
+      <parentid>43333236</parentid>
+      <timestamp>2016-09-06T22:15:27Z</timestamp>
+      <contributor>
+        <username>Cathy Richards</username>
+        <id>284016</id>
+      </contributor>
+      <minor/>
+      <comment>Dodano kategorię "Biografie" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>46756003</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="42" sha1="8i7nobwh6jv0592jofmpiixuaes1ssn" xml:space="preserve">[[Kategoria:CERN]]
+[[Kategoria:Biografie]]</text>
+      <sha1>8i7nobwh6jv0592jofmpiixuaes1ssn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Listy biograficzne</title>
+    <ns>14</ns>
+    <id>2994053</id>
+    <revision>
+      <id>47539617</id>
+      <parentid>47481366</parentid>
+      <timestamp>2016-11-20T12:04:44Z</timestamp>
+      <contributor>
+        <username>Alan ffm</username>
+        <id>357169</id>
+      </contributor>
+      <comment>kat.</comment>
+      <origin>47539617</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="55" sha1="4d8o18lc764yz8h8lx6zvehjpmc136j" xml:space="preserve">[[Kategoria:Listy|Biografie]]
+[[Kategoria:Biografie|!]]</text>
+      <sha1>4d8o18lc764yz8h8lx6zvehjpmc136j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Członkowie organizacji</title>
+    <ns>14</ns>
+    <id>2838581</id>
+    <revision>
+      <id>47569072</id>
+      <parentid>47569047</parentid>
+      <timestamp>2016-11-23T23:37:48Z</timestamp>
+      <contributor>
+        <username>Alan ffm</username>
+        <id>357169</id>
+      </contributor>
+      <comment>kat.</comment>
+      <origin>47569072</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="49" sha1="or0ici8xfu2vvyvznwti9usrfz8p937" xml:space="preserve">[[Kategoria:Organizacje]]
+[[Kategoria:Biografie]]</text>
+      <sha1>or0ici8xfu2vvyvznwti9usrfz8p937</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Patroni</title>
+    <ns>14</ns>
+    <id>3872265</id>
+    <revision>
+      <id>49732136</id>
+      <parentid>48024923</parentid>
+      <timestamp>2017-06-28T16:05:35Z</timestamp>
+      <contributor>
+        <username>Cathy Richards</username>
+        <id>284016</id>
+      </contributor>
+      <minor/>
+      <comment>Usunięto kategorię "Święci chrześcijańscy"; Dodano kategorię "Biografie" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>49732136</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23" sha1="svcj33vwnmnq70of8eypvtaqoq99b3y" xml:space="preserve">[[Kategoria:Biografie]]</text>
+      <sha1>svcj33vwnmnq70of8eypvtaqoq99b3y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Ludzie związani z UNESCO</title>
+    <ns>14</ns>
+    <id>3135580</id>
+    <revision>
+      <id>50061031</id>
+      <parentid>38891911</parentid>
+      <timestamp>2017-08-05T09:54:02Z</timestamp>
+      <contributor>
+        <username>Cathy Richards</username>
+        <id>284016</id>
+      </contributor>
+      <minor/>
+      <comment>Dodano kategorię "Biografie" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>50061031</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="1po4as4ki58hphc3hwi91fbll1rg500" xml:space="preserve">[[Kategoria:UNESCO]]
+[[Kategoria:Biografie]]</text>
+      <sha1>1po4as4ki58hphc3hwi91fbll1rg500</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:LGBT (biografie)</title>
+    <ns>14</ns>
+    <id>1392179</id>
+    <revision>
+      <id>63461881</id>
+      <parentid>59659228</parentid>
+      <timestamp>2021-05-27T10:16:19Z</timestamp>
+      <contributor>
+        <username>Gytha</username>
+        <id>68885</id>
+      </contributor>
+      <comment>opis zgodny z wielokrotnymi dyskusjami, także w DNU</comment>
+      <origin>63461881</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="245" sha1="azekdzij7qbagvoim39m6u0p854x07t" xml:space="preserve">{{Opis kategorii
+ |grupuje        = W kategorii nie należy umieszczać biogramów osób [[LGBT]], jeśli ten aspekt nie dotyczy publicznej strefy ich działalności.
+}}
+{{Commonscat|LGBT people}}
+[[Kategoria:LGBT|Osoby]]
+[[Kategoria:Biografie]]</text>
+      <sha1>azekdzij7qbagvoim39m6u0p854x07t</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Ostatni znani użytkownicy języka</title>
+    <ns>14</ns>
+    <id>4305966</id>
+    <revision>
+      <id>68673280</id>
+      <parentid>53680714</parentid>
+      <timestamp>2022-11-06T13:00:25Z</timestamp>
+      <contributor>
+        <ip>37.30.12.161</ip>
+      </contributor>
+      <origin>68673280</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="337" sha1="4g3od65hjk9pn8n3j8mpyzwmhl3cf3o" xml:space="preserve">{{Opis kategorii
+ |grupuje        = 
+Kategoria gromadzi biografie osób będących ostatnimi znanymi użytkownikami swojego języka ojczystego.
+ |uwagi          =
+ |osobne_grupują =
+ |main           = 
+ |portal         =
+ |wikiprojekt    =
+ |zobacz         =
+ |związane       =
+}}
+[[Kategoria:Biografie]]
+[[Kategoria:Języki wymarłe]]</text>
+      <sha1>4g3od65hjk9pn8n3j8mpyzwmhl3cf3o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Bliźnięta</title>
+    <ns>14</ns>
+    <id>4322927</id>
+    <revision>
+      <id>57525387</id>
+      <parentid>53859188</parentid>
+      <timestamp>2019-09-23T09:44:03Z</timestamp>
+      <contributor>
+        <username>Artur Andrzej</username>
+        <id>146248</id>
+      </contributor>
+      <comment>+</comment>
+      <origin>57525387</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="78" sha1="afvsvwt8ddo0scuo6ioqootskc4l143" xml:space="preserve">{{Commonscat|Human twins}}
+{{Spis treści kategoria}}
+
+[[Kategoria:Biografie]]</text>
+      <sha1>afvsvwt8ddo0scuo6ioqootskc4l143</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Biografie według wieków</title>
+    <ns>14</ns>
+    <id>4330503</id>
+    <revision>
+      <id>63616361</id>
+      <parentid>62883098</parentid>
+      <timestamp>2021-06-08T12:07:14Z</timestamp>
+      <contributor>
+        <username>Tarnoob</username>
+        <id>274492</id>
+      </contributor>
+      <comment>szablon</comment>
+      <origin>63616361</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="129" sha1="t785qk5ipv2q3jk61uyr78709y8uhbp" xml:space="preserve">{{Commonscat|People by century}}
+{{Kategoria dla kategorii}}
+
+[[Kategoria:Biografie|*]]
+[[Kategoria:Zagadnienia według wieków]]</text>
+      <sha1>t785qk5ipv2q3jk61uyr78709y8uhbp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Słowniki biograficzne</title>
+    <ns>14</ns>
+    <id>3999579</id>
+    <revision>
+      <id>55879834</id>
+      <parentid>55879829</parentid>
+      <timestamp>2019-02-12T19:07:36Z</timestamp>
+      <contributor>
+        <username>Gower</username>
+        <id>86170</id>
+      </contributor>
+      <comment>Dodano kategorię "Biografie" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>55879834</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47" sha1="cb6q3x5s77rnwinqbhdu5mg4ry3odmb" xml:space="preserve">[[Kategoria:Słowniki]]
+[[Kategoria:Biografie]]</text>
+      <sha1>cb6q3x5s77rnwinqbhdu5mg4ry3odmb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Uczestnicy pojedynków</title>
+    <ns>14</ns>
+    <id>4048892</id>
+    <revision>
+      <id>57555123</id>
+      <parentid>50026625</parentid>
+      <timestamp>2019-09-26T10:34:41Z</timestamp>
+      <contributor>
+        <username>Cathy Richards</username>
+        <id>284016</id>
+      </contributor>
+      <minor/>
+      <comment>Dodano kategorię "Biografie" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>57555123</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47" sha1="op1avxyrlrhx0vp84z2b68nhw4qxn3c" xml:space="preserve">[[Kategoria:Pojedynki]]
+[[Kategoria:Biografie]]</text>
+      <sha1>op1avxyrlrhx0vp84z2b68nhw4qxn3c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Hobbyści</title>
+    <ns>14</ns>
+    <id>4721784</id>
+    <revision>
+      <id>58872985</id>
+      <timestamp>2020-02-23T11:05:17Z</timestamp>
+      <contributor>
+        <username>Duży Bartek</username>
+        <id>166082</id>
+      </contributor>
+      <comment>N</comment>
+      <origin>58872985</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="43" sha1="6zpbt85ibmvfhl3997izlnh5tttquds" xml:space="preserve">[[Kategoria:Biografie]]
+[[Kategoria:Hobby]]</text>
+      <sha1>6zpbt85ibmvfhl3997izlnh5tttquds</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Propagatorzy teorii spiskowych</title>
+    <ns>14</ns>
+    <id>4190629</id>
+    <revision>
+      <id>67510640</id>
+      <parentid>59775378</parentid>
+      <timestamp>2022-07-03T09:46:54Z</timestamp>
+      <contributor>
+        <username>Wikipek</username>
+        <id>21425</id>
+      </contributor>
+      <minor/>
+      <comment>{{Commonscat}}</comment>
+      <origin>67510640</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="90" sha1="ip5pffnk3z4jlalibb8nz2qltkj4tsq" xml:space="preserve">{{Commonscat|Conspiracy theorists}}
+
+[[Kategoria:Teorie spiskowe]]
+[[Kategoria:Biografie]]</text>
+      <sha1>ip5pffnk3z4jlalibb8nz2qltkj4tsq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Osoby skazane na karę śmierci</title>
+    <ns>14</ns>
+    <id>623633</id>
+    <revision>
+      <id>60388982</id>
+      <parentid>60381916</parentid>
+      <timestamp>2020-07-12T21:11:20Z</timestamp>
+      <contributor>
+        <username>Cathy Richards</username>
+        <id>284016</id>
+      </contributor>
+      <minor/>
+      <comment>Usunięto kategorię "Biografie według sposobu śmierci"; Dodano kategorię "Biografie" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>60388982</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="79" sha1="i14ws2xqsoqluiit7yl6fpq65y9gwvo" xml:space="preserve">{{Spis treści kategoria}}
+
+[[Kategoria:Biografie]]
+[[Kategoria:Kara śmierci]]</text>
+      <sha1>i14ws2xqsoqluiit7yl6fpq65y9gwvo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Ludzie związani z Juliuszem Słowackim</title>
+    <ns>14</ns>
+    <id>4729951</id>
+    <revision>
+      <id>61200968</id>
+      <parentid>58976833</parentid>
+      <timestamp>2020-10-27T21:07:23Z</timestamp>
+      <contributor>
+        <username>SpiderMum</username>
+        <id>16515</id>
+      </contributor>
+      <minor/>
+      <comment>Dodano kategorię "Biografie" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>61200968</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="55" sha1="n9m8cxct0w7g0hnx5x0om8zvghhaa5i" xml:space="preserve">[[Kategoria:Juliusz Słowacki]]
+[[Kategoria:Biografie]]</text>
+      <sha1>n9m8cxct0w7g0hnx5x0om8zvghhaa5i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Szambelanowie</title>
+    <ns>14</ns>
+    <id>4061257</id>
+    <revision>
+      <id>61635966</id>
+      <parentid>50184028</parentid>
+      <timestamp>2020-12-10T17:33:17Z</timestamp>
+      <contributor>
+        <username>Cathy Richards</username>
+        <id>284016</id>
+      </contributor>
+      <minor/>
+      <comment>Dodano kategorię "Biografie" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>61635966</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47" sha1="0fbk4lja9gmlp8dryfv9h83m161e432" xml:space="preserve">[[Kategoria:Monarchia]]
+[[Kategoria:Biografie]]</text>
+      <sha1>0fbk4lja9gmlp8dryfv9h83m161e432</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Hrabiowie</title>
+    <ns>14</ns>
+    <id>1529732</id>
+    <revision>
+      <id>65493857</id>
+      <parentid>65430436</parentid>
+      <timestamp>2021-12-01T17:04:04Z</timestamp>
+      <contributor>
+        <username>Jakubkaja</username>
+        <id>335098</id>
+      </contributor>
+      <minor/>
+      <comment>Usunięto kategorię "Szlachta"; Dodano kategorię "Tytuły szlacheckie" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>65493857</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="104" sha1="k6t7ans3ucxj9gvpdg0xj9ntuq3s8ji" xml:space="preserve">{{Commonscat|Counts}}
+
+[[Kategoria:Tytuły szlacheckie]]
+[[Kategoria:Biografie]]
+[[Kategoria:Heraldyka]]</text>
+      <sha1>k6t7ans3ucxj9gvpdg0xj9ntuq3s8ji</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Pretendenci</title>
+    <ns>14</ns>
+    <id>1734843</id>
+    <revision>
+      <id>70092205</id>
+      <parentid>61635972</parentid>
+      <timestamp>2023-04-11T14:33:02Z</timestamp>
+      <contributor>
+        <username>Kaliningradzki</username>
+        <id>1210715</id>
+      </contributor>
+      <minor/>
+      <comment>kat.</comment>
+      <origin>70092205</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="279" sha1="se5bep0ruv53wqbb58pyvqjlhp7as0g" xml:space="preserve">{{Opis kategorii
+ |grupuje        =
+ |uwagi          =
+ |osobne_grupują =
+ |main           =
+ |portal         =
+ |wikiprojekt    =
+ |zobacz         =
+ |związane       = [[:Kategoria:Władcy|Władcy]]
+}}
+
+[[Kategoria:Szlachta]]
+[[Kategoria:Monarchiści]]
+[[Kategoria:Biografie]]</text>
+      <sha1>se5bep0ruv53wqbb58pyvqjlhp7as0g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Właściciele polskich bibliotek prywatnych</title>
+    <ns>14</ns>
+    <id>4437604</id>
+    <revision>
+      <id>61636029</id>
+      <parentid>55507932</parentid>
+      <timestamp>2020-12-10T17:44:16Z</timestamp>
+      <contributor>
+        <username>Cathy Richards</username>
+        <id>284016</id>
+      </contributor>
+      <minor/>
+      <comment>Dodano kategorię "Biografie" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>61636029</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="66" sha1="a2onefrzajrontgv8aaawh5yc7417z6" xml:space="preserve">[[Kategoria:Biblioteki prywatne w Polsce]]
+[[Kategoria:Biografie]]</text>
+      <sha1>a2onefrzajrontgv8aaawh5yc7417z6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Ludzie związani z dziennikarstwem</title>
+    <ns>14</ns>
+    <id>4511285</id>
+    <revision>
+      <id>61754655</id>
+      <parentid>56395215</parentid>
+      <timestamp>2020-12-23T14:50:08Z</timestamp>
+      <contributor>
+        <username>SpiderMum</username>
+        <id>16515</id>
+      </contributor>
+      <minor/>
+      <comment>Dodano kategorię "Biografie" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>61754655</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="52" sha1="osm25y9n6vbebj9xzpz3pg6xbkhd1oy" xml:space="preserve">[[Kategoria:Dziennikarstwo]]
+[[Kategoria:Biografie]]</text>
+      <sha1>osm25y9n6vbebj9xzpz3pg6xbkhd1oy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Polihistorzy</title>
+    <ns>14</ns>
+    <id>4949378</id>
+    <revision>
+      <id>73015040</id>
+      <parentid>64267045</parentid>
+      <timestamp>2024-02-29T10:46:54Z</timestamp>
+      <contributor>
+        <username>Artur Andrzej</username>
+        <id>146248</id>
+      </contributor>
+      <comment>+</comment>
+      <origin>73015040</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="105" sha1="lhn3hf71th7kt2p8vlq2c4k1ltpk82j" xml:space="preserve">{{Commonscat|Polymaths}}
+{{Spis treści kategoria}}
+
+[[Kategoria:Biografie]]
+[[Kategoria:Historia nauki]]</text>
+      <sha1>lhn3hf71th7kt2p8vlq2c4k1ltpk82j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Krajoznawcy</title>
+    <ns>14</ns>
+    <id>5057835</id>
+    <revision>
+      <id>62919468</id>
+      <timestamp>2021-04-05T19:21:09Z</timestamp>
+      <contributor>
+        <username>TR</username>
+        <id>66882</id>
+      </contributor>
+      <comment>+</comment>
+      <origin>62919468</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="51" sha1="bk67s6z8v14c694wkk7x9s4xtlgg8xn" xml:space="preserve">[[Kategoria:Biografie]]
+[[Kategoria:Krajoznawstwo]]</text>
+      <sha1>bk67s6z8v14c694wkk7x9s4xtlgg8xn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Osoby związane z Mikołajem Kopernikiem</title>
+    <ns>14</ns>
+    <id>5130421</id>
+    <revision>
+      <id>64263705</id>
+      <timestamp>2021-08-09T12:01:33Z</timestamp>
+      <contributor>
+        <username>Tarnoob</username>
+        <id>274492</id>
+      </contributor>
+      <comment>utworzenie</comment>
+      <origin>64263705</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="55" sha1="gtu1wcqcawtg2976htvl5ptink7k5eq" xml:space="preserve">[[Kategoria:Mikołaj Kopernik]]
+[[Kategoria:Biografie]]</text>
+      <sha1>gtu1wcqcawtg2976htvl5ptink7k5eq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Wyjątkowe przypadki medyczne</title>
+    <ns>14</ns>
+    <id>5142069</id>
+    <revision>
+      <id>64424590</id>
+      <timestamp>2021-08-30T11:30:01Z</timestamp>
+      <contributor>
+        <username>BasileusAutokratorPL</username>
+        <id>761283</id>
+      </contributor>
+      <comment>[[Wikipedia:Poczekalnia/kwestie techniczne/2021:07:25:Kategoria:Ewenementy medyczne]]</comment>
+      <origin>64424590</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="55" sha1="lgvyey3j5vj0t5ik41zmtxelsmhntg9" xml:space="preserve">[[Kategoria:Historia medycyny]]
+[[Kategoria:Biografie]]</text>
+      <sha1>lgvyey3j5vj0t5ik41zmtxelsmhntg9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Trojaczki</title>
+    <ns>14</ns>
+    <id>5174799</id>
+    <revision>
+      <id>65048084</id>
+      <parentid>65047943</parentid>
+      <timestamp>2021-11-02T17:38:42Z</timestamp>
+      <contributor>
+        <username>Lowdown</username>
+        <id>277561</id>
+      </contributor>
+      <comment>commons</comment>
+      <origin>65048084</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47" sha1="mp2h98gqt5eo87hwkal6uj9jlifbvnv" xml:space="preserve">{{commonscat|Triplets}}
+[[Kategoria:Biografie]]</text>
+      <sha1>mp2h98gqt5eo87hwkal6uj9jlifbvnv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Członkowie Rady do Spraw Muzeów</title>
+    <ns>14</ns>
+    <id>3570350</id>
+    <revision>
+      <id>65541628</id>
+      <parentid>43965779</parentid>
+      <timestamp>2021-12-07T21:51:05Z</timestamp>
+      <contributor>
+        <username>SpiderMum</username>
+        <id>16515</id>
+      </contributor>
+      <comment>podaj dalej</comment>
+      <origin>65541628</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="400" sha1="8912mo3oisu45u570309fz28bptibra" xml:space="preserve">{{Opis kategorii
+ |grupuje        = Kategoria skupia dawnych i aktualnych członków [[Rada do Spraw Muzeów|Rady do Spraw Muzeów]] przy polskim Ministrze Kultury i Dziedzictwa Narodowego.
+ |uwagi          =
+ |osobne_grupują =
+ |main           =
+ |portal         =
+ |wikiprojekt    =
+ |zobacz         =
+ |związane       =
+ |siostrzane     =
+}}
+
+[[Kategoria:Muzea w Polsce]]
+[[Kategoria:Biografie]]</text>
+      <sha1>8912mo3oisu45u570309fz28bptibra</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Uczestnicy projektu Manhattan</title>
+    <ns>14</ns>
+    <id>5190142</id>
+    <revision>
+      <id>65542067</id>
+      <timestamp>2021-12-07T22:52:45Z</timestamp>
+      <contributor>
+        <username>Tarnoob</username>
+        <id>274492</id>
+      </contributor>
+      <comment>utworzenie</comment>
+      <origin>65542067</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="64" sha1="6qj4we3u0fbfrpsmkrz6ibda6f46mtq" xml:space="preserve">[[Kategoria:Amerykańska broń atomowa]]
+[[Kategoria:Biografie]]</text>
+      <sha1>6qj4we3u0fbfrpsmkrz6ibda6f46mtq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Ludzie związani z Fryderykiem Chopinem</title>
+    <ns>14</ns>
+    <id>4724704</id>
+    <revision>
+      <id>65898864</id>
+      <parentid>58904772</parentid>
+      <timestamp>2022-01-09T13:05:03Z</timestamp>
+      <contributor>
+        <username>Cathy Richards</username>
+        <id>284016</id>
+      </contributor>
+      <minor/>
+      <comment>Dodano kategorię "Biografie" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>65898864</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="53" sha1="d72b4ye3tbcv7rib87qn2riiaxkcxjx" xml:space="preserve">[[Kategoria:Fryderyk Chopin]]
+[[Kategoria:Biografie]]</text>
+      <sha1>d72b4ye3tbcv7rib87qn2riiaxkcxjx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Ludzie związani z Zygmuntem Krasińskim</title>
+    <ns>14</ns>
+    <id>5132810</id>
+    <revision>
+      <id>65898868</id>
+      <parentid>64295746</parentid>
+      <timestamp>2022-01-09T13:05:40Z</timestamp>
+      <contributor>
+        <username>Cathy Richards</username>
+        <id>284016</id>
+      </contributor>
+      <minor/>
+      <comment>Dodano kategorię "Biografie" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>65898868</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="56" sha1="8dgscl4wva4zi5grfvydrxlmhopq6n4" xml:space="preserve">[[Kategoria:Zygmunt Krasiński]]
+[[Kategoria:Biografie]]</text>
+      <sha1>8dgscl4wva4zi5grfvydrxlmhopq6n4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Ludzie związani z jeździectwem</title>
+    <ns>14</ns>
+    <id>4708869</id>
+    <revision>
+      <id>66060173</id>
+      <parentid>58678742</parentid>
+      <timestamp>2022-01-22T20:11:41Z</timestamp>
+      <contributor>
+        <username>Cathy Richards</username>
+        <id>284016</id>
+      </contributor>
+      <minor/>
+      <comment>Dodano kategorię "Biografie" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>66060173</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="50" sha1="bcfnn62nr65w28oo30t073dy2p5q9xy" xml:space="preserve">[[Kategoria:Jeździectwo]]
+[[Kategoria:Biografie]]</text>
+      <sha1>bcfnn62nr65w28oo30t073dy2p5q9xy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Obdżektorzy</title>
+    <ns>14</ns>
+    <id>5332286</id>
+    <revision>
+      <id>69705231</id>
+      <parentid>69705027</parentid>
+      <timestamp>2023-02-26T09:50:00Z</timestamp>
+      <contributor>
+        <username>AkaruiHikari</username>
+        <id>1127867</id>
+      </contributor>
+      <origin>69705231</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="71" sha1="2o1819rimnafja2ojz3tywck5ixjsny" xml:space="preserve">[[Kategoria:Biografie]]
+[[Kategoria:Odmowa odbycia służby wojskowej]]</text>
+      <sha1>2o1819rimnafja2ojz3tywck5ixjsny</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Biografie według płci</title>
+    <ns>14</ns>
+    <id>5379718</id>
+    <revision>
+      <id>68839030</id>
+      <timestamp>2022-11-24T15:32:09Z</timestamp>
+      <contributor>
+        <username>Matinee71</username>
+        <id>959291</id>
+      </contributor>
+      <comment>[[Specjalna:Nowe strony|Nowa strona]]: [[Kategoria:Biografie]] [[Kategoria:Płeć]]</comment>
+      <origin>68839030</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="d5onp8d274jzpguao3ifuojkzr37nsb" xml:space="preserve">[[Kategoria:Biografie]]
+[[Kategoria:Płeć]]</text>
+      <sha1>d5onp8d274jzpguao3ifuojkzr37nsb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Biografie według daty urodzenia</title>
+    <ns>14</ns>
+    <id>592599</id>
+    <revision>
+      <id>69420311</id>
+      <parentid>59019146</parentid>
+      <timestamp>2023-01-25T22:56:13Z</timestamp>
+      <contributor>
+        <username>Chrumps</username>
+        <id>6748</id>
+      </contributor>
+      <comment>szablon</comment>
+      <origin>69420311</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="253" sha1="l48wdy11f0k7hbezrhb9u4omq7y1qf0" xml:space="preserve">Zobacz [[Wikiprojekt:Anomalie w datach urodzin i śmierci|listę biogramów, których prawdopodobnie brakuje w podkategoriach]].
+{{Kategoria dla kategorii}}
+{{Commonscat|Births by year}}
+
+[[Kategoria:Biografie| ]]
+[[Kategoria:Zagadnienia według czasu]]</text>
+      <sha1>l48wdy11f0k7hbezrhb9u4omq7y1qf0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Biografie według daty śmierci</title>
+    <ns>14</ns>
+    <id>587936</id>
+    <revision>
+      <id>69420313</id>
+      <parentid>46264395</parentid>
+      <timestamp>2023-01-25T22:56:45Z</timestamp>
+      <contributor>
+        <username>Chrumps</username>
+        <id>6748</id>
+      </contributor>
+      <comment>szablon</comment>
+      <origin>69420313</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="253" sha1="1l8rthgh3irq0yqfh1uf6rpqgv4gjxt" xml:space="preserve">Zobacz [[Wikiprojekt:Anomalie w datach urodzin i śmierci|listę biogramów, których prawdopodobnie brakuje w podkategoriach]].
+{{kategoria dla kategorii}}
+{{Commonscat|Deaths by year}}
+
+[[Kategoria:Biografie| ]]
+[[Kategoria:Zagadnienia według czasu]]</text>
+      <sha1>1l8rthgh3irq0yqfh1uf6rpqgv4gjxt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Osoby na czarnej liście UE</title>
+    <ns>14</ns>
+    <id>5499270</id>
+    <revision>
+      <id>70858324</id>
+      <timestamp>2023-07-16T12:17:26Z</timestamp>
+      <contributor>
+        <username>AkaruiHikari</username>
+        <id>1127867</id>
+      </contributor>
+      <comment>[[Specjalna:Nowe strony|Nowa strona]]: [[Kategoria:Czarna lista UE]] [[Kategoria:Biografie]]</comment>
+      <origin>70858324</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="53" sha1="5ax1aro0gvivxvugwb9h5zwy6u62ahe" xml:space="preserve">[[Kategoria:Czarna lista UE]]
+[[Kategoria:Biografie]]</text>
+      <sha1>5ax1aro0gvivxvugwb9h5zwy6u62ahe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Ludzie według przedsiębiorstw</title>
+    <ns>14</ns>
+    <id>5544048</id>
+    <revision>
+      <id>71688914</id>
+      <parentid>71688912</parentid>
+      <timestamp>2023-11-04T10:11:31Z</timestamp>
+      <contributor>
+        <username>Alan ffm</username>
+        <id>357169</id>
+      </contributor>
+      <minor/>
+      <comment>Alan ffm przeniósł stronę [[Kategoria:Biografie według przedsiębiorstwa]] do [[Kategoria:Ludzie według przedsiębiorstw]]: bardziej adekwatnie</comment>
+      <origin>71688912</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="59" sha1="h08tme8l6h9oc2tx5tmz8c6yjoez3px" xml:space="preserve">[[Kategoria:Biografie|*]]
+[[Kategoria:Przedsiębiorstwa| ]]</text>
+      <sha1>h08tme8l6h9oc2tx5tmz8c6yjoez3px</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Sybiracy</title>
+    <ns>14</ns>
+    <id>1783422</id>
+    <revision>
+      <id>71918388</id>
+      <parentid>71918340</parentid>
+      <timestamp>2023-11-22T19:33:14Z</timestamp>
+      <contributor>
+        <ip>37.109.149.7</ip>
+      </contributor>
+      <comment>kat.</comment>
+      <origin>71918388</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="216" sha1="i1b03hqyulmhibbw8p8todiya3efe35" xml:space="preserve">: [[:Kategoria:Sybiracy]] obejmuje zarówno rodowitych mieszkańców Syberii, jak i zesłańców na Sybir niezależnie od narodowości i pochodzenia!
+
+[[Kategoria:Ludzie związani z Syberią]]
+[[Kategoria:Biografie]]</text>
+      <sha1>i1b03hqyulmhibbw8p8todiya3efe35</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Biografie według miejsca śmierci</title>
+    <ns>14</ns>
+    <id>5652071</id>
+    <revision>
+      <id>73614707</id>
+      <timestamp>2024-04-25T20:50:04Z</timestamp>
+      <contributor>
+        <username>ElCet</username>
+        <id>888772</id>
+      </contributor>
+      <comment>[[Specjalna:Nowe strony|Nowa strona]]: [[Kategoria:Biografie|*]] [[Kategoria:Zagadnienia według położeń geograficznych]]</comment>
+      <origin>73614707</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="85" sha1="lbq2s1r0aigash0lubxbt1csjlh4hls" xml:space="preserve">[[Kategoria:Biografie|*]]
+[[Kategoria:Zagadnienia według położeń geograficznych]]</text>
+      <sha1>lbq2s1r0aigash0lubxbt1csjlh4hls</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Ludzie związani z twórczością J.R.R. Tolkiena</title>
+    <ns>14</ns>
+    <id>3075881</id>
+    <revision>
+      <id>73931952</id>
+      <parentid>73928745</parentid>
+      <timestamp>2024-06-06T03:15:16Z</timestamp>
+      <contributor>
+        <username>Piotrus</username>
+        <id>4734</id>
+      </contributor>
+      <minor/>
+      <comment>Dodano kategorię "Biografie" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>73931952</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="52" sha1="2txmf2bqi7efgy53eg8goa3emviphfx" xml:space="preserve">[[Kategoria:J.R.R. Tolkien]]
+[[Kategoria:Biografie]]</text>
+      <sha1>2txmf2bqi7efgy53eg8goa3emviphfx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Osoby związane z magią</title>
+    <ns>14</ns>
+    <id>5708092</id>
+    <revision>
+      <id>74272461</id>
+      <timestamp>2024-07-15T11:58:39Z</timestamp>
+      <contributor>
+        <username>Happa</username>
+        <id>306775</id>
+      </contributor>
+      <comment>nowa kategoria</comment>
+      <origin>74272461</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="135" sha1="hlf453lz09azldxlut46eyvji8pqoxe" xml:space="preserve">Kategoria ta grupuje osoby związane z magią rozumianą jako zjawisko nadprzyrodzone
+[[Kategoria:Magia]]
+[[Kategoria:Biografie|Magia]]</text>
+      <sha1>hlf453lz09azldxlut46eyvji8pqoxe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>John Barleycorn, czyli wspomnienia alkoholika</title>
+    <ns>0</ns>
+    <id>5767493</id>
+    <revision>
+      <id>75247945</id>
+      <parentid>75239923</parentid>
+      <timestamp>2024-11-16T10:01:52Z</timestamp>
+      <contributor>
+        <username>PBbot</username>
+        <id>616438</id>
+      </contributor>
+      <comment>wstawienie {{Kontrola autorytatywna}}</comment>
+      <origin>75247945</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6418" sha1="ofx7hvdik7b3ai6ssnhmby0nwi8hdq1" xml:space="preserve">{{Książka infobox
+ |tytuł              = John Barleycorn, czyli wspomnienia alkoholika
+ |tytuł oryginalny   = John Barleycorn
+ |grafika            = 
+ |opis grafiki       = 
+ |alt grafiki        = 
+ |autor              = Jack London
+ |tematyka           = alkoholizm
+ |typ utworu         = autobiografia
+ |data powstania     = 1913
+ |miejsce wydania    = Stany Zjednoczone
+ |język              = angielski
+ |data wydania       = 
+ |wydawca            = 
+ |poprzednia         = 
+ |następna           = 
+ |commons            = 
+ |wikiźródła         = 
+ |wikicytaty         = 
+}}
+'''John Barleycorn, czyli wspomnienia alkoholika''' (ang. ''John Barleycorn'') – autobiograficzna powieść [[Jack London|Jacka Londona]], w której opisano zarówno przyjemności, jak i dramatyczne zmagania autora z [[Alkoholizm|alkoholizmem]]. Opublikowana w 1913 roku, tytuł nawiązuje do [[Wielka Brytania|brytyjskiej]] piosenki ludowej ''[[John Barleycorn]]'', będącej personifikacją alkoholu.
+
+== Tematyka ==
+Powieść porusza tematy męskości i męskiej przyjaźni, ukazując alkohol jako element scalający społeczne relacje i rytuały, ale także jako niebezpieczne uzależnienie. London wspomina o różnych etapach życia, w których alkohol odgrywał istotną rolę: od młodości, gdy pracował jako marynarz, po lata dojrzałości, kiedy stał się bogatym, uznanym pisarzem. Autor ukazuje, jak alkohol wpływał na niego na różne sposoby – od dodawania odwagi i poczucia przynależności do grupy po stwarzanie zagrożenia i komplikacji zdrowotnych.
+
+== Rola alkoholu ==
+Alkohol stanowi tutaj nie tylko część codziennego życia, ale też czynnik, który pozwala Londowi badać granice swojej osobowości i zdolności twórcze. Autor opisuje, jak alkohol pomagał mu zyskać pewność siebie, ale również jak jego uzależniająca natura ograniczała go i odbierała mu zdrowie. Powieść ukazuje ambiwalencję: London opisuje alkohol jako inspirację dla swojej twórczości, lecz także jako niebezpieczny element życia. ''John Barleycorn'' jest więc zarówno refleksją nad czasami i kulturą Londona, jak i przestrogą przed zgubnym wpływem alkoholu.
+
+== Biała Logika ==
+W książce pojawia się motyw „Białej Logiki” – mrocznej, nihilistycznej wizji świata, którą London utożsamia z oślepiającą jasnością alkoholu&lt;ref name=":0"&gt;{{Cytuj |tytuł = Jack London, John Barleycorn, czyli wspomnienia alkoholika – CM Klasyka |data = 2019-11-14 |data dostępu = 2024-11-14 |url = https://www.cmklasyka.pl/jack-london-john-barleycorn-czyli-wspomnienia-alkoholika/ |język = pl}}&lt;/ref&gt;. Autor sugeruje, że pod wpływem alkoholu pojawia się „białe światło”, które odsłania przed nim prawdę o życiu i jego ulotności. Dopiero w ostatnich rozdziałach powieści London konfrontuje tę „większą prawdę” z „mniejszą prawdą” codziennego życia, dzięki której możliwe jest przetrwanie.
+
+== Widzenie „różowych słoni” ==
+Powieść ''John Barleycorn, czyli wspomnienia alkoholika'' jest też jednym z pierwszych tekstów, w którym pojawia się opis różowych słoni jako stereotypowych halucynacji alkoholowych&lt;ref&gt;{{Cytuj |autor = Jack London |tytuł = John Barleycorn, czyli wspomnienia alkoholika |data = 2019 |isbn = 9788366022775 |miejsce = Warszawa |wydawca = Wydawnictwo CM}}&lt;/ref&gt;. London opisuje typ pijanego człowieka, który zatacza się niepewnie i widzi różowe słonie czy niebieskie myszy – karykaturę skrajnego upojenia alkoholowego. Kontrastuje to z bardziej introspektywnym rodzajem „upicia”, który cechuje narratora – tutaj alkohol staje się nie tyle fizycznym, co mentalnym doświadczeniem, odsłaniającym przed nim wizje życia pozbawionego sensu i celu.
+
+== Tłumaczenia na język polski i wydania ==
+Książkę na język polski przełożyła [[Antonina Sokolicz]] pod tytułem ''John Barleycorn, czyli wspomnienia alkoholika''. Pierwsze polskie wydanie ukazało się w 1926&lt;ref&gt;{{Cytuj |tytuł = https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma9912092757305606&amp;context=L&amp;vid=48OMNIS_NLOP:48OMNIS_NLOP&amp;lang=pl&amp;search_scope=NLOP_IZ_NZ&amp;adaptor=Local%20Search%20Engine&amp;tab=LibraryCatalog&amp;query=any,contains,john%20barleycorn&amp;sortby=date_d&amp;facet=frbrgroupid,include,9011746656669926630&amp;offset=0 |data dostępu = 2024-11-14 |opublikowany = katalogi.bn.org.pl |url = https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma9912092757305606&amp;context=L&amp;vid=48OMNIS_NLOP:48OMNIS_NLOP&amp;lang=pl&amp;search_scope=NLOP_IZ_NZ&amp;adaptor=Local%20Search%20Engine&amp;tab=LibraryCatalog&amp;query=any,contains,john%20barleycorn&amp;sortby=date_d&amp;facet=frbrgroupid,include,9011746656669926630&amp;offset=0 |język = en}}&lt;/ref&gt;. Następne miały miejsce w 1949&lt;ref&gt;{{Cytuj |tytuł = https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma991049042279705066&amp;context=L&amp;vid=48OMNIS_NLOP:48OMNIS_NLOP&amp;lang=pl&amp;search_scope=NLOP_IZ_NZ&amp;adaptor=Local%20Search%20Engine&amp;tab=LibraryCatalog&amp;query=any,contains,john%20barleycorn&amp;sortby=date_d&amp;facet=frbrgroupid,include,9011746656669926630&amp;offset=0 |data dostępu = 2024-11-14 |opublikowany = katalogi.bn.org.pl |url = https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma991049042279705066&amp;context=L&amp;vid=48OMNIS_NLOP:48OMNIS_NLOP&amp;lang=pl&amp;search_scope=NLOP_IZ_NZ&amp;adaptor=Local%20Search%20Engine&amp;tab=LibraryCatalog&amp;query=any,contains,john%20barleycorn&amp;sortby=date_d&amp;facet=frbrgroupid,include,9011746656669926630&amp;offset=0 |język = en}}&lt;/ref&gt;, 1957 (wyd. Iskry)&lt;ref&gt;{{Cytuj |tytuł = https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma9912980598605606&amp;context=L&amp;vid=48OMNIS_NLOP:48OMNIS_NLOP&amp;lang=pl&amp;search_scope=NLOP_IZ_NZ&amp;adaptor=Local%20Search%20Engine&amp;tab=LibraryCatalog&amp;query=any,contains,john%20barleycorn&amp;sortby=date_d&amp;facet=frbrgroupid,include,9011746656669926630&amp;offset=0 |data dostępu = 2024-11-14 |opublikowany = katalogi.bn.org.pl |url = https://katalogi.bn.org.pl/discovery/fulldisplay?docid=alma9912980598605606&amp;context=L&amp;vid=48OMNIS_NLOP:48OMNIS_NLOP&amp;lang=pl&amp;search_scope=NLOP_IZ_NZ&amp;adaptor=Local%20Search%20Engine&amp;tab=LibraryCatalog&amp;query=any,contains,john%20barleycorn&amp;sortby=date_d&amp;facet=frbrgroupid,include,9011746656669926630&amp;offset=0 |język = en}}&lt;/ref&gt; oraz w 2019&lt;ref name=":0" /&gt;.
+
+== Przypisy ==
+{{Przypisy}}
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Twórczość Jacka Londona]]
+[[Kategoria:Amerykańskie powieści]]
+[[Kategoria:Biografie]]
+[[Kategoria:Powieści z 1913]]</text>
+      <sha1>ofx7hvdik7b3ai6ssnhmby0nwi8hdq1</sha1>
+    </revision>
+  </page>
+</mediawiki>

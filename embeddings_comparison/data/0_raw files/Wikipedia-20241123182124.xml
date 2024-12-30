@@ -1,0 +1,1243 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="pl">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>plwiki</dbname>
+    <base>https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna</base>
+    <generator>MediaWiki 1.44.0-wmf.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Specjalna</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Dyskusja</namespace>
+      <namespace key="2" case="first-letter">Wikipedysta</namespace>
+      <namespace key="3" case="first-letter">Dyskusja wikipedysty</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Dyskusja Wikipedii</namespace>
+      <namespace key="6" case="first-letter">Plik</namespace>
+      <namespace key="7" case="first-letter">Dyskusja pliku</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Dyskusja MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Szablon</namespace>
+      <namespace key="11" case="first-letter">Dyskusja szablonu</namespace>
+      <namespace key="12" case="first-letter">Pomoc</namespace>
+      <namespace key="13" case="first-letter">Dyskusja pomocy</namespace>
+      <namespace key="14" case="first-letter">Kategoria</namespace>
+      <namespace key="15" case="first-letter">Dyskusja kategorii</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Dyskusja portalu</namespace>
+      <namespace key="102" case="first-letter">Wikiprojekt</namespace>
+      <namespace key="103" case="first-letter">Dyskusja wikiprojektu</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Moduł</namespace>
+      <namespace key="829" case="first-letter">Dyskusja modułu</namespace>
+      <namespace key="2600" case="first-letter">Wątek</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Redaktor naukowy</title>
+    <ns>0</ns>
+    <id>145227</id>
+    <revision>
+      <id>45734819</id>
+      <parentid>39671726</parentid>
+      <timestamp>2016-05-09T21:16:43Z</timestamp>
+      <contributor>
+        <username>Masur</username>
+        <id>24837</id>
+      </contributor>
+      <minor/>
+      <comment>Prośba o źródła, drobne techniczne</comment>
+      <origin>45734819</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2174" sha1="etnsbyc5huac6r5l91b1ivlcc8dprl4" xml:space="preserve">{{dopracować|źródła=2016-05}}
+'''Redaktor naukowy''' zwany też często '''edytorem naukowym''' – osoba zajmująca się [[nauka|naukowym]] opracowaniem tekstów przed ich wydaniem. Przygotowuje [[autor]]om wymagania dotyczące formy i zawartości artykułów. Ujednolica i sprawdza pod kątem poprawności zapis lub kieruje tekst do ponownej redakcji. Dba o spoistość merytoryczną, w tym jednakową notację symboli oraz jednoznaczne przypisanie definicji pojęciom w całej książce lub czasopiśmie naukowym. Współpracuje z [[recenzja naukowa|recenzentami]] oraz koordynuje ich działania.
+
+Jego rola jest inna, niż [[redaktor techniczny|redaktora technicznego]], który zajmuje się techniczną (skład, grafika) stroną przygotowań wydawniczych.
+
+W [[czasopismo naukowe|czasopismach naukowych]] zwykle działają grupy redaktorów naukowych, które dzielą się pracą według klucza tematycznego lub terytorialnego. Redaktorzy naukowi tworzą radę redakcyjną (''editorial board'') czasopisma, która wspólnie uzgadnia ogólne zalecenia, do których powinni stosować się autorzy. Prace napływające do poszczególnych redaktorów są przez nich wstępnie oceniane, a następnie odsyłane do zwykle dwóch recenzentów. Na podstawie recenzji redaktorzy decydują, czy zwrócić publikację do poprawy, czy też całkowicie ją odrzucić, nie dopuszczając do druku (zob. [[recenzja naukowa|''peer review'']]).
+
+W książkach naukowych pisanych przez wielu autorów rola redaktorów jest nieco inna. Redaktorzy ustalają zwykle listę potencjalnych autorów, do których zwracają się z prośbą o napisanie określonego fragmentu (zwykle jednego rozdziału) książki. Fragmenty te są kierowane do recenzentów tak jak publikacje, przy czym zadaniem recenzentów jest w tym przypadku raczej wyłapanie ew. błędów i niedociągnięć, niż decydowanie o odrzuceniu bądź przyjęciu fragmentu. Wnioski z recenzji są odsyłane do autorów, którzy nanoszą odpowiednie poprawki, które wracają do redaktorów nadających ostateczny kształt książki.
+
+[[Kategoria:Nauka]]
+[[Kategoria:Zawody]]
+[[Kategoria:Poligrafia]]
+[[Kategoria:Piśmiennictwo]]</text>
+      <sha1>etnsbyc5huac6r5l91b1ivlcc8dprl4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Synergia</title>
+    <ns>0</ns>
+    <id>134213</id>
+    <revision>
+      <id>72313336</id>
+      <parentid>71678083</parentid>
+      <timestamp>2023-12-24T16:26:17Z</timestamp>
+      <contributor>
+        <username>PBbot</username>
+        <id>616438</id>
+      </contributor>
+      <comment>wstawienie {{Kontrola autorytatywna}}</comment>
+      <origin>72313336</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4946" sha1="1rqjk8w14ktscemx9yldw2jrswy5tkw" xml:space="preserve">'''Synergia''', '''synergizm''', '''synergiczność''', '''efekt synergiczny'''&lt;ref group=uwaga&gt;Także '''efekt synergistyczny''', zwłaszcza [[synergizm (farmakologia)|w farmakologii]], oraz efekt synergetyczny.&lt;/ref&gt; (z {{gr.|συνεργία}} współpraca&lt;ref&gt;[https://archive.is/20150711160922/http://www.slownik-online.pl/kopalinski/45FCA86F72994BCA4125659A007D53A2.php ''Słownik wyrazów obcych''].&lt;/ref&gt;) – współdziałanie różnych czynników, którego efekt jest większy niż suma poszczególnych oddzielnych działań. Termin ten jest pojęciem ogólnym, mającym zastosowanie w wielu różnych dziedzinach. Poniżej podano tylko kilka przykładów.
+
+== W psychologii społecznej ==
+Synergiczność działań, efekt organizacyjny – wspólne działanie dające większe lub nowe efekty; działania uzupełniają się poprzez [[kooperacja|kooperację]] (współpracę) i [[synchronizacja|synchronizację]]. Efekt zorganizowanej pracy zespołowej, który jest większy niż suma efektów [[czyn|działań indywidualnych]]. W wyniku synergii powstaje efekt organizacyjny będący przeciętną nadwyżką korzyści przypadającą na członka zespołu współdziałającego z pozostałymi osobami, w porównaniu z korzyścią możliwą do osiągnięcia w działaniu indywidualnym.
+Na przykład: Dwie osoby, działając razem, są w stanie przesunąć ciężką szafę o 10 metrów. Każda z nich osobno mogłaby przesunąć ją nie więcej niż np. 3 metry. Zatem maksymalna suma działań indywidualnych jest równa 2&amp;nbsp;×&amp;nbsp;3&amp;nbsp;m = 6 m, natomiast efekt działań wspólnych wynosi 10 m i jest większy niż suma działań indywidualnych.
+
+== W ekonomii, biznesie i zarządzaniu ==
+Integracja działań wielu podmiotów kreujących produkt zmniejsza koszty jego przygotowania i promocji, a zwiększa szanse rynkowego zakresu (czyli zyski). Efekty są nieproporcjonalnie większe w porównaniu z sytuacją, gdy każdy z podmiotów działa oddzielnie. W biznesie mamy do czynienia z synergią, gdy kilka firm lub grup pracuje razem i osiąga większy sukces niż pracując osobno&lt;ref&gt;{{Cytuj stronę|url = http://dictionary.cambridge.org/dictionary/english-polish/synergy|tytuł = Cambridge dictionary|autor =|opublikowany = |język = |data dostępu = 2015-01-23}}&lt;/ref&gt;.
+
+Sytuacja, w której realizacja kilku projektów równocześnie daje organizacji większe zyski (lub częściej niższe koszty operacyjne) niż realizacja tych projektów oddzielnie. Spowodowane to jest możliwością wspólnego zamawiania zasobów do projektów, wynajmu maszyn, wykorzystania wiedzy ekspertów dla kilku zbieżnych ze sobą przedsięwzięć realizowanych w tym samym czasie.
+
+== W chemii i farmakologii ==
+[[Synergizm (chemia)|Synergizm w chemii]] to wzajemne wzmocnienie działania kilku substancji, gdy występują one razem w danym środowisku.
+
+W farmakologii twierdzono, że dwa (czasem kilka) słabo działające na pacjenta leki po zaaplikowaniu ich razem dają silniejszy efekt. [[Synergizm (farmakologia)|Synergizm w tym przypadku]] może polegać zarówno na interakcji substancji czynnych poszczególnych leków na poziomie biochemicznym, jak też na synergistycznej odpowiedzi organizmu na leczenie (na poziomie fizjologicznym).
+
+== W nauce i technice ==
+Kilka oderwanych informacji dotyczących pewnego zdarzenia pojedynczo zawiera niewiele merytorycznej treści. Odpowiednie informacje połączone razem, pozwalają zrozumieć całe zdarzenie poprzez logiczne powiązanie faktów, a nawet (dzięki [[Interpolacja (matematyka)|interpolacji]]) odtworzyć brakujące informacje.
+
+Prowadzone są badania nad [[synergia węglowo-jądrowa|synergią węglowo-jądrową]].
+
+[[Michio Kaku]] w swojej książce ''[[Wizje, czyli jak nauka zmieni świat w XXI wieku]]'' (1997) stawia tezę o synergii [[Mechanika kwantowa|mechaniki kwantowej]], [[Biologia molekularna|biologii molekularnej]] i techniki komputerowej w nauce.
+
+== W teologii ==
+Synergizm jest również jednym z pojęć podstawowych dla [[katolicyzm|teologii katolickiej]] oraz [[prawosławie|prawosławnej]]. Oznacza ona współpracę natury i łaski Bożej. Według tradycyjnej nauki katolickiej łaska jest czymś, co przychodzi do człowieka z nieba, z wolnej decyzji Boga. Następnie uzdalnia ona ludzką naturę do tego, aby człowiek za pomocą wolnej woli oraz uczynków mógł przekraczać swój grzeszny stan i wznosić się wyżej, w kierunku świętości. Między naturą a łaską istnieje zależność oraz równowaga. Przeakcentowanie roli łaski bez uwzględnienia współpracy ludzkich wysiłków prowadzi do [[kwietyzm]]u albo [[predestynacja|predestynacji]], natomiast przeakcentowanie ludzkich wysiłków z pominięciem uprzedniości i konieczności łaski prowadzi do [[pelagianizm]]u.
+
+== Zobacz też ==
+{{Wikisłownik|synergia}}
+* [[synergizm]]
+
+== Uwagi ==
+{{Uwagi}}
+
+== Przypisy ==
+{{Przypisy}}
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Nauka]]</text>
+      <sha1>1rqjk8w14ktscemx9yldw2jrswy5tkw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Dokumenty naukowe</title>
+    <ns>14</ns>
+    <id>928084</id>
+    <revision>
+      <id>69314684</id>
+      <parentid>35914172</parentid>
+      <timestamp>2023-01-13T03:27:53Z</timestamp>
+      <contributor>
+        <username>Sławek Borewicz</username>
+        <id>393402</id>
+      </contributor>
+      <minor/>
+      <comment>Dodano kategorię "Dokumenty" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>69314684</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="106" sha1="ebo0o62bqj4yaxrnj8d1sfy2omun0hl" xml:space="preserve">{{Commonscat|Scientific books}}
+
+[[Kategoria:Nauka]]
+[[Kategoria:Proza użytkowa]]
+[[Kategoria:Dokumenty]]</text>
+      <sha1>ebo0o62bqj4yaxrnj8d1sfy2omun0hl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Finansowanie nauki</title>
+    <ns>14</ns>
+    <id>1251025</id>
+    <revision>
+      <id>15499373</id>
+      <parentid>11473873</parentid>
+      <timestamp>2009-01-10T20:02:30Z</timestamp>
+      <contributor>
+        <username>Gbylski</username>
+        <id>67596</id>
+      </contributor>
+      <minor/>
+      <comment>[[Wikipedia:Narzędzia/HotCat|HotCat]]: Szybkie dodanie kategorii "Finanse"</comment>
+      <origin>15499373</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="41" sha1="q8ck1jp0gznqd02jko89mxus7plxzzy" xml:space="preserve">[[Kategoria:Nauka]]
+[[Kategoria:Finanse]]</text>
+      <sha1>q8ck1jp0gznqd02jko89mxus7plxzzy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Szkolnictwo wyższe</title>
+    <ns>14</ns>
+    <id>431393</id>
+    <revision>
+      <id>64171975</id>
+      <parentid>63288644</parentid>
+      <timestamp>2021-07-27T16:25:38Z</timestamp>
+      <contributor>
+        <username>KoverasLupus</username>
+        <id>434263</id>
+      </contributor>
+      <comment>kat.</comment>
+      <origin>64171975</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="94" sha1="gxa248vavcpzr5eua5wk85lir484bn2" xml:space="preserve">{{Commonscat|Universities and colleges in France}}
+
+[[Kategoria:Nauka]]
+[[Kategoria:Oświata]]</text>
+      <sha1>gxa248vavcpzr5eua5wk85lir484bn2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Organizacje naukowe</title>
+    <ns>14</ns>
+    <id>671988</id>
+    <revision>
+      <id>35302890</id>
+      <parentid>32610448</parentid>
+      <timestamp>2013-03-14T12:14:09Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>543400</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Addbot|Bot:]] Przenoszę linki interwiki (46) do [[d:|Wikidata]], są teraz dostępne do edycji na [[d:q7156796]]</comment>
+      <origin>35302890</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="107" sha1="5vb7l17hj7odcf9ovmzrk1hx1bflw31" xml:space="preserve">{{Commonscat|Scientific societies}}
+
+[[Kategoria:Organizacje według dziedzin|Nauka]]
+[[Kategoria:Nauka|O]]</text>
+      <sha1>5vb7l17hj7odcf9ovmzrk1hx1bflw31</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Patronat naukowy</title>
+    <ns>0</ns>
+    <id>1610993</id>
+    <revision>
+      <id>66056531</id>
+      <parentid>49160873</parentid>
+      <timestamp>2022-01-22T12:37:51Z</timestamp>
+      <contributor>
+        <username>Xev34</username>
+        <id>1107000</id>
+      </contributor>
+      <comment>dopracować</comment>
+      <origin>66056531</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="440" sha1="rd4t6hlfm3gid7cpwsbf8xi8oriydyb" xml:space="preserve">{{Dopracować|źródła=2022-01}}
+
+'''Patronat naukowy''' – forma sprawowania opieki merytorycznej nad osobą (np. [[promotor]] - doktorant), instytucją (np. [[uniwersytet]] - [[szkoła średnia]]) lub elementami [[kultura|kultury]] (np. konsultacje biegłych historyków w powieściach osadzonych w czasach minionych). Oparty jest zwykle na [[umowa|umowie]] o współpracy, jasno określającej zobowiązania stron.
+
+[[Kategoria:Nauka]]</text>
+      <sha1>rd4t6hlfm3gid7cpwsbf8xi8oriydyb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Nauka według państw</title>
+    <ns>14</ns>
+    <id>1370000</id>
+    <revision>
+      <id>35445294</id>
+      <parentid>34417253</parentid>
+      <timestamp>2013-03-15T14:20:30Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>543400</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Addbot|Bot:]] Przenoszę linki interwiki (54) do [[d:|Wikidata]], są teraz dostępne do edycji na [[d:q6940026]]</comment>
+      <origin>35445294</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="113" sha1="khw6osui780ix2tgw24udplshfiyop3" xml:space="preserve">{{Commonscat|Science and technology by country}}
+
+[[Kategoria:Nauka| ]]
+[[Kategoria:Zagadnienia według państw]]</text>
+      <sha1>khw6osui780ix2tgw24udplshfiyop3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Specjalność naukowa</title>
+    <ns>0</ns>
+    <id>2035991</id>
+    <revision>
+      <id>48483803</id>
+      <parentid>23023183</parentid>
+      <timestamp>2017-02-09T21:02:48Z</timestamp>
+      <contributor>
+        <username>Sebek Adamowicz</username>
+        <id>491269</id>
+      </contributor>
+      <minor/>
+      <comment>drobne redakcyjne</comment>
+      <origin>48483803</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="608" sha1="hcs5oc8yr0nwr57gwhpmfnk5rtfg7r7" xml:space="preserve">'''Specjalność naukowa''' – względnie trwale uprawiana przez uczonych część jednej lub kilku [[Dyscyplina naukowa|dyscyplin naukowych]] wyodrębniona ze względu na koncentrowanie uwagi na węższym fragmencie rzeczywistości lub rozpatrywanie go w węższym aspekcie, bądź stosowanie szczególnych metod badawczych. 
+
+Specjalnościami naukowymi są, w dziedzinie [[Nauki ekonomiczne|nauk ekonomicznych]], np.: [[zarządzanie strategiczne]], [[zarządzanie finansami]], techniki organizatorskie, [[marketing bezpośredni]], [[rachunkowość zarządcza]], [[prawo gospodarcze]].
+
+[[Kategoria:Nauka]]</text>
+      <sha1>hcs5oc8yr0nwr57gwhpmfnk5rtfg7r7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Naukowcy</title>
+    <ns>14</ns>
+    <id>194009</id>
+    <revision>
+      <id>39897418</id>
+      <parentid>37492094</parentid>
+      <timestamp>2014-07-17T08:08:19Z</timestamp>
+      <contributor>
+        <username>Sławek Borewicz</username>
+        <id>393402</id>
+      </contributor>
+      <comment>- szablon (jest podpięta)</comment>
+      <origin>39897418</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="89" sha1="0h1knnxtfjyktj9zjgog0sd8d8spnm4" xml:space="preserve">{{Commonscat|Scientists}}
+
+[[Kategoria:Nauka| ]]
+[[Kategoria:Biografie według profesji]]</text>
+      <sha1>0h1knnxtfjyktj9zjgog0sd8d8spnm4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Popularyzacja nauki</title>
+    <ns>14</ns>
+    <id>2483844</id>
+    <revision>
+      <id>35919245</id>
+      <parentid>34369219</parentid>
+      <timestamp>2013-03-30T02:27:15Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>543400</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Addbot|Bot:]] Przenoszę linki interwiki (21) do [[d:|Wikidata]], są teraz dostępne do edycji na [[d:q8717312]]</comment>
+      <origin>35919245</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="42" sha1="arxra9gtgv9y4n6w1xab5jnu11ky9e4" xml:space="preserve">[[Kategoria:Nauka]]
+[[Kategoria:Oświata]]</text>
+      <sha1>arxra9gtgv9y4n6w1xab5jnu11ky9e4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Oprogramowanie naukowe</title>
+    <ns>14</ns>
+    <id>1466430</id>
+    <revision>
+      <id>42827234</id>
+      <parentid>35466746</parentid>
+      <timestamp>2015-06-04T16:12:15Z</timestamp>
+      <contributor>
+        <username>Tar Lócesilion</username>
+        <id>327902</id>
+      </contributor>
+      <minor/>
+      <comment>Usunięto kategorię "Oprogramowanie"; Dodano kategorię "Oprogramowanie użytkowe" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>42827234</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="82" sha1="ig5fdg2awcv810dp1qcubr9j9bsaaag" xml:space="preserve">[[Kategoria:Oprogramowanie użytkowe|Naukowe, oprogramowanie]]
+[[Kategoria:Nauka]]</text>
+      <sha1>ig5fdg2awcv810dp1qcubr9j9bsaaag</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Nauka w Unii Europejskiej</title>
+    <ns>14</ns>
+    <id>945025</id>
+    <revision>
+      <id>35357484</id>
+      <parentid>33964923</parentid>
+      <timestamp>2013-03-14T22:00:19Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>543400</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Addbot|Bot:]] Przenoszę linki interwiki (7) do [[d:|Wikidata]], są teraz dostępne do edycji na [[d:q7031265]]</comment>
+      <origin>35357484</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="65" sha1="7sc17nyj7q734mlno1c16902arvjg4c" xml:space="preserve">[[Kategoria:Unia Europejska]]
+[[Kategoria:Nauka|Unia Europejska]]</text>
+      <sha1>7sc17nyj7q734mlno1c16902arvjg4c</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Strony przeglądowe – nauka</title>
+    <ns>14</ns>
+    <id>1427297</id>
+    <revision>
+      <id>49297853</id>
+      <parentid>31463663</parentid>
+      <timestamp>2017-05-09T00:37:11Z</timestamp>
+      <contributor>
+        <username>EmptyBot</username>
+        <id>717975</id>
+      </contributor>
+      <minor/>
+      <comment>EmptyBot przeniósł stronę [[Kategoria:Strony przeglądowe - nauka]] na [[Kategoria:Strony przeglądowe – nauka]], bez pozostawienia przekierowania pod starym tytułem: poprawna forma (przy użyciu [[Wikipedysta:Tufor/Quick ReCat|QRC]])</comment>
+      <origin>49297853</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="61" sha1="f76dv5o07kunax1toapala09r4posj6" xml:space="preserve">[[Kategoria:Strony przeglądowe|Nauka]]
+[[Kategoria:Nauka| ]]</text>
+      <sha1>f76dv5o07kunax1toapala09r4posj6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Teorie</title>
+    <ns>14</ns>
+    <id>2858128</id>
+    <revision>
+      <id>35755758</id>
+      <parentid>34653788</parentid>
+      <timestamp>2013-03-18T00:09:12Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>543400</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Addbot|Bot:]] Przenoszę linki interwiki (49) do [[d:|Wikidata]], są teraz dostępne do edycji na [[d:q6488282]]</comment>
+      <origin>35755758</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="19" sha1="mibkh6fry0byg349rvhpq39emi7lb5p" xml:space="preserve">[[Kategoria:Nauka]]</text>
+      <sha1>mibkh6fry0byg349rvhpq39emi7lb5p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Klasyfikacja nauk</title>
+    <ns>14</ns>
+    <id>3057566</id>
+    <revision>
+      <id>37863089</id>
+      <parentid>37862995</parentid>
+      <timestamp>2013-11-09T20:32:46Z</timestamp>
+      <contributor>
+        <username>Sławek Borewicz</username>
+        <id>393402</id>
+      </contributor>
+      <comment>[[Kategoria:Nauka| ]]</comment>
+      <origin>37863089</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21" sha1="efx9tp6f7b5ldlnwmw55x5fb6akjjqx" xml:space="preserve">[[Kategoria:Nauka| ]]</text>
+      <sha1>efx9tp6f7b5ldlnwmw55x5fb6akjjqx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Bóstwa nauki</title>
+    <ns>14</ns>
+    <id>3102818</id>
+    <revision>
+      <id>67919302</id>
+      <parentid>39658170</parentid>
+      <timestamp>2022-08-27T21:39:49Z</timestamp>
+      <contributor>
+        <username>Matinee71</username>
+        <id>959291</id>
+      </contributor>
+      <minor/>
+      <comment>Usunięto kategorię "Bóstwa"; Dodano kategorię "Bóstwa według domeny" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>67919302</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="305" sha1="tr7w2b1m9vzqogd418mg2sd99ytt3yr" xml:space="preserve">{{Opis kategorii
+ |grupuje        = Bóstwa pisma, nauk matematycznych, przyrodniczych, ścisłych itp.
+ |uwagi          =
+ |osobne_grupują =
+ |main           =
+ |portal         =
+ |wikiprojekt    =
+ |zobacz         =
+ |związane       =
+}}
+
+[[Kategoria:Bóstwa według domeny|Nauka]]
+[[Kategoria:Nauka]]</text>
+      <sha1>tr7w2b1m9vzqogd418mg2sd99ytt3yr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Działalność naukowa</title>
+    <ns>14</ns>
+    <id>3319190</id>
+    <revision>
+      <id>41130847</id>
+      <timestamp>2014-12-06T13:44:52Z</timestamp>
+      <contributor>
+        <username>Sławek Borewicz</username>
+        <id>393402</id>
+      </contributor>
+      <comment>[[Specjalna:Nowe strony|Nowa strona]]: [[Kategoria:Nauka]]</comment>
+      <origin>41130847</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="19" sha1="mibkh6fry0byg349rvhpq39emi7lb5p" xml:space="preserve">[[Kategoria:Nauka]]</text>
+      <sha1>mibkh6fry0byg349rvhpq39emi7lb5p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Otwarta nauka</title>
+    <ns>14</ns>
+    <id>3676205</id>
+    <revision>
+      <id>45473699</id>
+      <timestamp>2016-04-03T22:15:05Z</timestamp>
+      <contributor>
+        <username>Tar Lócesilion</username>
+        <id>327902</id>
+      </contributor>
+      <comment>+</comment>
+      <origin>45473699</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="49" sha1="84hn8r1npga78zvyp6cy0a6lrfwqayh" xml:space="preserve">[[Kategoria:Otwarta treść]]
+[[Kategoria:Nauka]]</text>
+      <sha1>84hn8r1npga78zvyp6cy0a6lrfwqayh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nauka</title>
+    <ns>0</ns>
+    <id>3749435</id>
+    <revision>
+      <id>75132799</id>
+      <parentid>75132741</parentid>
+      <timestamp>2024-11-04T10:55:46Z</timestamp>
+      <contributor>
+        <username>Msz2001</username>
+        <id>491947</id>
+      </contributor>
+      <minor/>
+      <comment>Wycofano edycję użytkownika [[Special:Contributions/DMGJohnPawel|DMGJohnPawel]] ([[User talk:DMGJohnPawel|dyskusja]]). Autor przywróconej wersji to [[User:Tarnoob|Tarnoob]].</comment>
+      <origin>74916830</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="56294" sha1="00t7rfqr7pprkdnxqjwnna11ga6dq3f" xml:space="preserve">{{Inne znaczenia}}
+[[Plik:Gerson-TZSP-Nauka.jpg|mały|[[Wojciech Gerson]] (1831–1901), ''Nauka'' (1870)]]
+[[Plik:Lupa.na.encyklopedii.jpg|mały|[[Lupa]] – [[narzędzie]] m.in. badań naukowych, wynalezione w XVII-wiecznej [[Europa|Europie]]]]
+[[Plik:Science and Mechanics Nov 1931 cover.jpg|mały|Okładka ''[[Everyday Science and Mechanics]]'' z 1931 roku]]
+
+'''Nauka''' – różnie [[Definicja|definiowany]] element [[Kultura|kultury]], odznaczający się dążeniem do [[Wiedza|wiedzy]]&lt;ref name="epwn"&gt;{{Encyklopedia PWN | id = 3946164 | tytuł = nauka | data dostępu = 2023-03-18}}&lt;/ref&gt;. Wieloznaczność pojęcia nauki ma kilka przyczyn:
+* brak powszechnie uznanej definicji wiedzy; te najczęstsze odwołują się do [[Prawda|prawdy]], która również jest rozumiana różnie;
+* nie wszystkie dążenia do wiedzy są nazywane nauką – zjawiska o spornym statusie to np. [[filozofia]] czy [[teologia]]; występują też zjawiska [[Pseudonauka|pseudonauk]], [[Paranauka|paranauk]] i [[Protonauka|protonauk]], których dążenia do wiedzy są uznawane za niepoprawne;
+* wielopoziomowość terminu – nauka to zarówno:
+** ogół różnych [[Badania naukowe|badań]] i odkryć;
+** część tego zjawiska ([[meronim]]): bardziej szczegółowa [[Dyscyplina naukowa|dyscyplina]], co nadaje sens [[Liczba mnoga|liczbie mnogiej]] tego słowa; przykładowo mówi się o [[Nauki ścisłe|naukach ścisłych]], [[Nauki humanistyczne|humanistycznych]] czy [[Nauki empiryczne|empirycznych]];
+* inne użycia tego słowa w [[Język polski|języku polskim]], np. nazywa się tak [[uczenie się]] lub [[nauczanie]], niekoniecznie treści naukowych – przykładem jest tu [[Kazanie|kaznodziejstwo]]&lt;ref&gt;{{Sjp PWN|nauka|2487587|2023-09-16}}&lt;/ref&gt;.
+
+Próba definicji nauki to jeden z celów [[Filozofia nauki|filozofii nauki]], konkretniej jej [[Epistemologia|epistemologicznej]] części. Przykładowym zagadnieniem jest tu [[problem demarkacji]] – próba identyfikacji pseudonauk i paranauk przez ogólne kryterium, czyli ścisłe określenie [[Metoda naukowa|metody naukowej]]. Przez to epistemologia nauki przenika się z [[Metodologia|metodologią]] – innym działem [[Naukoznawstwo|naukoznawstwa]].
+
+Pod względem poznawczym nauka wydaje się być wiedzą najlepszą, najbardziej adekwatnie opisującą [[rzeczywistość]]. Ten wysoki status poznawczy nauka zawdzięcza [[metoda naukowa|metodom]], jakie stosuje, oraz [[Styl naukowy|językowi]], jakim się posługuje. „Ważnymi elementami «naukowości» są język i metoda. Zdaniem wielu, zarówno naukowców jak i filozofów, to właśnie te dwa elementy decydują o tym, czy coś jest naukowe, czy nie”&lt;ref&gt;[[Michał Heller|M. Heller]], ''Filozofia nauki'', Wyd. Naukowe Papieskiej Akademii Teologicznej w Krakowie, Kraków 1992, s. 11.&lt;/ref&gt;. Nauka formułuje [[Prawo nauki|prawa]] i [[Teoria naukowa|teorie]]. Wymagają one uzasadnienia; w przypadku nauk empirycznych polega ono na konfrontacji przewidywań na nich opartych z rezultatami doświadczenia, czyli z wynikami obserwacji, pomiarów i eksperymentów. „Nauka rodzi się z dążenia do uzyskania wyjaśnień systematycznych, a równocześnie podlegających kontroli w oparciu o dane (...)”&lt;ref name="PWN 1961"&gt;[[Ernest Nagel|E. Nagel]], ''Struktura nauki'', PWN, Warszawa 1961, s. 13.&lt;/ref&gt;.
+
+[[Historia nauki]] sięga [[Prehistoria|prehistorii]] – ludzie [[paleolit]]yczni gromadzili podstawowe informacje o otaczającym ich [[Środowisko|środowisku]], o [[Arytmetyka elementarna|działaniach arytmetycznych]] i rachubie [[czas]]u, np. cykliczności zjawisk [[Astronomia|astronomicznych]] jak [[Faza Księżyca|fazy Księżyca]]. [[Starożytność]] to początki nauki rozumianej ściślej – utrwalania wiedzy przez [[pismo]]. Wtedy też pojawili się ściśle rozumiani [[Naukowiec|naukowcy]] jak [[Archimedes]] z [[Syrakuzy|Syrakuz]]. Zręby nauk powstały zarówno w [[Stary Świat|Starym Świecie]], jak i [[Nowy Świat|Nowym]]; przykładowo [[Majowie]] wytworzyli [[Kalendarz Majów|własny kalendarz]].
+
+Nauka jest uprawiana w różnych językach; część tych używanych w tym celu nie zawiera jednak pojęcia nauki w polskim rozumieniu. Przykładowo w tradycjach [[Język angielski|angielskiej]] i [[Język francuski|francuskiej]] najbliższym znaczeniowo terminem jest ''science''; obejmuje on głównie matematykę i [[Nauki przyrodnicze|przyrodoznawstwo]], bez humanistyki&lt;ref name="epwn" /&gt;. Pojęcie nauki nie jest jednak typowo polskie; podobne znaczenie ma [[Język niemiecki|niemieckie]] ''Wissenschaft''&lt;ref name="epwn" /&gt;.
+
+== Płaszczyzny ujmowania nauki ==
+Nauka nie jest jedynie wiedzą naukową, dlatego pełne zrozumienie, czym jest nauka, wymaga uwzględnienia aż siedmiu jej aspektów, w których może być ujmowana&lt;ref&gt;[[Jan Such (filozof)|J. Such]], M. Szcześniak, ''Filozofia nauki'', Wyd. Naukowe UAM (wyd. V), Poznań 2006, s. 9-10.&lt;/ref&gt;&lt;ref&gt;Por. [[Michał Heller|M. Heller]], ''Filozofia nauki'', Wyd. Naukowe Papieskiej Akademii Teologicznej w Krakowie, Kraków 1992, s. 10-11.&lt;/ref&gt;. Nauka to:
+* Pewien gatunek wiedzy, to znaczy „wiedza naukowa”, różniąca się od wiedzy potocznej i innych gatunków wiedzy ludzkiej.
+* Pewien rodzaj działalności: „działalność naukowo-badawcza”. Działalność ta nazywana jest często „praktyką naukową”, której rezultatem jest właśnie wiedza naukowa.
+* Określony sposób badania rzeczywistości, czyli „[[Metoda naukowa|metoda]] naukowo-badawcza”.
+* Zespół uczonych i naukowców, którzy zawodowo poznają świat, inaczej mówiąc, „społeczność naukowa”.
+* Zespół instytucji naukowych, to znaczy „instytucja naukowa” złożona z akademii nauk, szkół wyższych oraz rozmaitych instytutów naukowo-badawczych, wdrażających osiągnięcia naukowe do różnych dziedzin życia społecznego.
+* „Świadomość naukowa” istniejąca obok takich form świadomości społecznej, jak świadomość polityczna, prawna, religijna, filozoficzna, etyczna czy estetyczna.
+* Składnik siły wytwórczej nowoczesnego społeczeństwa, „naukowa siła wytwórcza”. Poczynając od połowy XIX w., nauka zaczyna bezpośrednio uczestniczyć w wytwarzaniu najnowocześniejszych urządzeń technicznych, takich jak samoloty, rakiety, lasery, elektrownie atomowe, maszyny liczące, urządzenia telekomunikacyjne itp., stając się tym samym siłą wytwórczą społeczeństwa.
+
+Powyższe aspekty nauki są przedmiotem badania przede wszystkim [[filozofia nauki|filozofii nauki]], zwanej też teorią nauki (niekiedy metodologią nauk) lub nauką o nauce&lt;ref&gt;[[Stanisław Ossowski (socjolog)|M. i S. Ossowscy]], ''Nauka o nauce'', w: S. Ossowski, ''O nauce'', PWN, Warszawa 1967, s. 91-102.&lt;/ref&gt;, czyli [[Naukoznawstwo|metanauką]]. „Naukami pokrewnymi lub pomocniczymi w stosunku do filozofii nauki są m.in. [[historia nauki]], [[socjologia nauki]], [[psychologia nauki]], [[logika]] i oczywiście [[filozofia]]”&lt;ref&gt;[[Michał Heller|M. Heller]], ''Filozofia nauki'', Wyd. Naukowe Papieskiej Akademii Teologicznej w Krakowie, Kraków 1992, s. 12.&lt;/ref&gt;.
+
+== Gatunki wiedzy ludzkiej ==
+[[Plik:Schemat, Gatunki wiedzy ludzkiej.svg|thumb|250px]]
+
+{{zobacz też|Problem demarkacji}}
+Ogólnie wiedzę ludzką można podzielić na pięć gatunków&lt;ref&gt;[[Jan Such (filozof)|J. Such]], M. Szcześniak, ''Filozofia nauki'', Wyd. Naukowe UAM (wyd. V), Poznań 2006, s. 37-44.&lt;/ref&gt;&lt;ref&gt;[[Jan Such (filozof)|J. Such]], ''Wstęp do metodologii ogólnej nauk'', Wyd. Naukowe UAM, Poznań 1973, s. 15.&lt;/ref&gt;:
+# w. potoczna,
+# w. naukowa,
+# w. artystyczno-literacka,
+# w. spekulatywna,
+# w. irracjonalna.
+
+'''1.''' Wiedza potoczna, powszechna, zdroworozsądkowa jest najstarszym gatunkiem wiedzy ludzkiej. Pojawiła się wraz z człowiekiem – [[człowiek rozumny|homo sapiens]]. Dotyczy rzeczywistości bezpośrednio związanej z człowiekiem, koncentrując się na tym, co jest dla niego użyteczne. Wyrażana jest w nieprecyzyjnym, wieloznacznym, języku potocznym. O niższym stopniu racjonalności wiedzy potocznej w stosunku do wiedzy naukowej świadczy fakt, że nie spełnia ona mocnej zasady racjonalności (zwanej zasadą racjonalnego uznawania przekonań) [Czytaj: Rozdz. 3 Wiedza naukowa, kryterium 1.]. Wiedza potoczna stwierdza fakty, ale ich nie wyjaśnia. Zasadniczym kryterium wiedzy potocznej jest zdrowy rozsądek.
+
+Wiedza potoczna nie jest wynikiem świadomego stosowania jakiejś metody badań, lecz stanowi produkt uboczny praktycznej działalności ludzi. Dotyczy ona zjawisk i przedmiotów dostępnych bezpośredniej obserwacji, co istotnie ogranicza jej zasięg, zwłaszcza w porównaniu z wiedzą naukową, penetrującą coraz to głębsze poziomy budowy materii i coraz to większe obszary świata&lt;ref&gt;J. [[Jan Such (filozof)|Such]], ''Wiedza naukowa a wiedza potoczna'', w: B. Kotowa, J. Such, (red.), ''Kulturowe konteksty poznania'', Wyd Naukowe Instytutu UAM, Poznań 1995, s. 23-31.&lt;/ref&gt;.
+
+'''2.''' [[Ernest Nagel]] (filozof nauki) twierdzi, że wiedza naukowa, „to po prostu «uporządkowana» lub «zorganizowana» wiedza zdroworozsądkowa”&lt;ref&gt;[[Ernest Nagel|E. Nagel]], ''Struktura nauki'', PWN, Warszawa 1961, s. 12.&lt;/ref&gt;. W [[Europa|Europie]] powstała około 2 500 lat temu. Nauka poddaje wszystkie swoje twierdzenia metodycznej kontroli (stosuje określone [[metoda naukowa|metody naukowe]]) poprzez wielokrotne sprawdzanie ustalonych wyników, podczas gdy wiedza potoczna jest oparta na zdrowym rozsądku, który składa się zarówno z sądów prawdziwych, dobrze potwierdzonych, jak też z przesądów utrwalonych przez lata. Wiedza naukowa zarówno opisuje, jak też dąży do wyjaśniania zjawisk. Ma charakter teoretyczny: bada nie tylko obserwowalne cechy rzeczy, zjawisk, lecz dociera do głębszych mechanizmów, przyczyn zjawisk i praw nimi rządzących. Z uwagi na swoją precyzję [[twierdzenie naukowe|twierdzenia naukowe]] łatwiej jest [[falsyfikacja|sfalsyfikować]], wykazać ich fałszywość. Twierdzenia naukowe można wszechstronnie sprawdzać i potwierdzać. Wiedza naukowa jest wiedzą znacznie pewniejszą niż wiedza potoczna i prawdziwszą od pozostałych gatunków wiedzy ludzkiej&lt;ref group="uwaga"&gt;Bardziej szczegółowego porównania wiedzy zdroworozsądkowej i naukowej dokonuje [[Ernest Nagel|E. Nagel]] w pracy ''Struktura nauki'', PWN, Warszawa 1961, s. 11-22. Praca ta niemal w całości jest poświęcona problematyce "natury wyjaśnień naukowych, ich logicznej struktury, wzajemnych relacji, funkcji, jakie spełniają w badaniu i ich roli w systematyzacji wiedzy", s. 8.&lt;/ref&gt;.
+
+'''3.''' Wiedza artystyczno-literacka związana jest z literaturą i sztuką. Obejmuje zakres działalności teoretycznej i praktycznej w [[sztuka|sztuce]] i [[literatura|literaturze]] ([[epika]], [[liryka]] i [[dramat]]). Wiedza ta dostarcza pewnych informacji o świecie, zwłaszcza o psychice i osobowości ludzkiej. Literatura i sztuka docierają także do tych warstw i wymiarów złożonego życia ludzkiego, które nie poddają się jak dotąd dokładnej analizie naukowej, opartej na ściśle ustalonych faktach. Ze względu na swój obrazowo-[[zmysł]]owy sposób wyrazu są one na ogół łatwo dostępne – podobnie zresztą jak wiedza potoczna – szerokim rzeszom społeczeństwa, niezależnie od poziomu wykształcenia.
+[[Plik:Skierniewice dwrzec-2.jpg|thumb|280px|Postać [[Stanisław Wokulski|Stanisława Wokulskiego]], bohatera [[Lalka (powieść)|''Lalki'']] [[Bolesław Prus|Bolesława Prusa]], na dworcu w [[Skierniewice|Skierniewicach]]]]
+
+'''4.''' Wiedza spekulatywna zawarta jest głównie w [[mitologia|mitologii]] oraz systemach spekulatywnych filozofii i [[religia|religii]]. Sposób myślenia charakterystyczny dla wiedzy spekulatywnej miał miejsce np. w VI w. p.n.e. w społeczności greckiej, w okresie tzw. jedności filozofii i nauki. Filozofia określana była jako „wszechnauka”, a to pociągało za sobą ogólnikowość i spekulatywność rozważań o rzeczywistości. Były to rozważania oparte na myśleniu [[Abstrakcja (filozofia)|abstrakcyjnym]], oderwane od doświadczenia, nieliczące się z rzeczywistością. Dopiero później (około IV w. p.n.e. - [[Arystoteles]]) pojawiła się wiedza oparta na logice i doświadczeniu. Spowodowało to powstawanie pierwszych nauk szczegółowych: astronomii, geometrii, [[statyka|statyki]], logiki, medycyny i innych nauk&lt;ref&gt;Zob. [[Michał Heller|M. Heller]], ''Filozofia nauki'', Wyd. Naukowe Papieskiej Akademii Teologicznej w Krakowie, Kraków 1992, s. 14.&lt;/ref&gt;.
+
+Cztery wymienione gatunki wiedzy ludzkiej: potoczna, naukowa, artystyczno-literacka, spekulatywna – tworzą wiedzę racjonalną. Wiedza racjonalna jest wiedzą intersubiektywną, tzn. intersubiektywnie komunikowalną oraz intersubiektywnie sprawdzalną.
+Wiedza intersubiektywnie komunikowalna to wiedza dostępna dla każdego normalnego odpowiednio przygotowanego podmiotu (człowieka) poznającego.
+Z kolei wiedza intersubiektywnie sprawdzalna to wiedza podlegająca publicznej kontroli przez podmioty (ludzi) dysponujące odpowiednimi kwalifikacjami.
+
+'''5.''' Wiedza irracjonalna jest nieuchwytna dla rozumu lub czasem sprzeczna z rozumem. Nie spełnia ona nie tylko mocnej, lecz także słabej zasady racjonalności. Droga jej poznania pozbawiona jest intersubiektywności. Jest trudna do [[komunikacja werbalna|zwerbalizowania]] i przekazywania innym (nie jest intersubiektywnie komunikowalna) i w konsekwencji nie podlega publicznej kontroli. Zalicza się tu [[ezoteryka|wiedzę ezoteryczną]], poznanie [[Mistycyzm|mistyczne]], które uzyskuje się na drodze bezpośredniego kontaktu z rzeczywistością nadprzyrodzoną, oraz poznanie oparte na irracjonalnej [[intuicja|intuicji]] (w ujęciu [[Henri Bergson|Bergsona]]).
+
+Także niektóre rodzaje pseudonauki stanowią fragmenty wiedzy irracjonalnej, które pozorują wiedzę naukową, przybierając odpowiednią postać językową, naśladującą sformułowania naukowe&lt;ref&gt;[[Karl Popper|K. Popper]], ''Problem demarkacji'', "Zagadnienia filozoficzne w nauce", XVII, 1995, s. 27-33.&lt;/ref&gt;.
+
+Natomiast paranauka to pewna otoczka wiedzy naukowej, tzn. wiedza, która nie spełnia wszystkich kryteriów wiedzy naukowej. Z paranauki często uczeni czerpią pomysły i [[hipoteza|hipotezy]]. W tym sensie stanowi ona „przedsionek” wiedzy naukowej. Paranauka tak rozumiana spełnia słabą zasadę racjonalności (zasadę intersubiektywności) i tym różni się od pseudonauki. Paranauka nie spełnia jednak mocnej zasady racjonalności (zasady racjonalnego uznawania przekonań)&lt;ref&gt;[[Jan Such (filozof)|J. Such]], M. Szcześniak, ''Filozofia nauki'', Wyd. Naukowe UAM (wyd. V), Poznań 2006, s. 43-44.&lt;/ref&gt;.
+
+== Wiedza naukowa (kryteria naukowości wiedzy) ==
+Jednym z zadań metanauki jest wyodrębnienie wiedzy naukowej spośród pozostałych gatunków wiedzy ludzkiej. W tym celu formułuje się wyróżniki wiedzy naukowej zwane zwykle kryteriami naukowości wiedzy. Ponieważ wiedza naukowa genetycznie wywodzi się z wiedzy potocznej, zatem ustalając kryteria wiedzy naukowej, ma się na uwadze przede wszystkim to, co różni ją od wiedzy potocznej.
+
+Do kryteriów naukowości wiedzy należą&lt;ref&gt;[[Jan Such (filozof)|J. Such]], ''O rodzajach wiedzy'', s. 5-19, „Człowiek i Społeczeństwo” nr 2, 1986, s. 5-19.&lt;/ref&gt;:
+
+'''1.''' Mocna (lub mocniejsza) zasada racjonalności: zasada racjonalnego uznawania przekonań. Stwierdza ona, że stopień przekonania, z jakim głoszony jest dany pogląd ([[twierdzenie]], [[hipoteza]], [[prawo nauki|prawo]], teoria), powinien odpowiadać stopniowi jego (jej) uzasadnienia. Stopień przekonania nie powinien być większy od stopnia uzasadnienia, gdyż inaczej popada się w [[dogmatyzm]]. Nie powinien też być mniejszy, gdyż wtedy wpada się w przesadny [[sceptycyzm]]. Mocna zasada racjonalności, spełniana jedynie w nauce, ma zatem dwa ostrza: jedno skierowane przeciwko dogmatyzmowi, drugie – przeciwko przesadnemu sceptycyzmowi. Zasada ta pozwala uczonemu formułować wszelkie teorie, także mało prawdopodobne, nie wolno mu jednak przedstawiać wstępnych hipotez roboczych jako teorie dojrzałe i dobrze uzasadnione (dogmatyzm), ale także nie wolno poglądu dobrze uzasadnionego przedstawiać jako wstępnej hipotezy roboczej (przesadny sceptycyzm). Inaczej uczony nie mógłby formułować nowych śmiałych hipotez, gdyż przynajmniej początkowo są one słabo uzasadnione, a zatem mało pewne.
+[[Plik:Prof. Kazimierz Ajdukiewicz.jpg|thumb|Prof. [[Kazimierz Ajdukiewicz]] (1890–1963), [[Filozofia|filozof]] i logik]]
+
+[[Kazimierz Ajdukiewicz]] (filozof i logik), który zasadę tę wyraźnie sformułował, pisze:
+
+{{Cytat
+ |treść = Otóż racjonalna postawa wobec przyjmowanych twierdzeń wymaga tego, aby stanowczość, z jaką je głosimy, stanowczość dająca się mierzyć wielkością ryzyka, które w imię tych twierdzeń gotowi jesteśmy wziąć na siebie, była proporcjonalna do stopnia ich uzasadnienia. Znaczy to, że im bardziej surowe i bezlitosne były próby, którym dane twierdzenie poddawaliśmy i wobec których się ono ostało, tym bardziej stanowczo wolno nam je przyjmować. (…) Racjonalna postawa wobec głoszonych twierdzeń nie wymaga więc tego, by twierdzenia te były dobrze uzasadnione. Wymaga tylko tego, aby je podawać ze skromnością odpowiadającą stopniowi ich uzasadnienia. Takiej racjonalnej postawy wymaga naukowa cenzura od wygłaszania twierdzeń, aby je uznać za godne opublikowania, niekoniecznie zaś tego, by były one bardzo dobrze uzasadnione”&lt;ref&gt;[[Kazimierz Ajdukiewicz|K. Ajdukiewicz]], ''Język i poznanie'', t. II, PWN, Warszawa 1965, s. 269.&lt;/ref&gt;.
+}}
+
+Obok mocnej zasady racjonalności wyróżnia się słabą zasadę racjonalności, zwaną zasadą intersubiektywności, na którą składają się intersubiektywna komunikowalność oraz intersubiektywna sprawdzalność. Zasada ta nie stanowi wyraźnego wyróżnika wiedzy naukowej, gdyż jest spełniona w pewnej mierze przez wszystkie gatunki wiedzy racjonalnej, tzn. odróżnia wiedzę racjonalną od wiedzy irracjonalnej&lt;ref&gt;[[Kazimierz Ajdukiewicz|K. Ajdukiewicz]], ''Zagadnienia i kierunki filozofii'', Wyd. Czytelnik, 1949, s. 49-50.&lt;/ref&gt;.
+
+'''2.''' Uporządkowanie logiczne wiedzy naukowej. Polega ono na systematyzacji twierdzeń za pomocą relacji wynikania (konsekwencji): z założeń wyjściowych wyprowadza się [[Rozumowanie dedukcyjne|dedukcyjnie]] (czyli na mocy praw logiki) twierdzenia pochodne, które z tych pierwszych wynikają. W ten sposób nauka buduje teorie naukowe w postaci systemów dedukcyjnych, złożonych z zasad wyjściowych ([[aksjomat]]ów, postulatów) oraz twierdzeń z nich wynikających. Wiedza potoczna nie odznacza się takim uporządkowaniem logicznym. Może w niej natomiast występować uporządkowanie innego rodzaju, np. alfabetyczne, gdzie dobrym przykładem jest książka telefoniczna, zawierająca spisy telefonów instytucji publicznych i osób prywatnych, uszeregowane alfabetycznie.
+
+'''3.''' Zdolność do samokrytycyzmu i samokontroli. Europejska wiedza naukowa powstała wówczas, gdy pierwsi filozofowie greccy ([[Tales z Miletu]] i jego uczniowie ze [[Jońska filozofia przyrody|Szkoły Jońskiej]]) zaczęli krytycznie odnosić się do wiedzy zdobytej przez ich przodków i nauczycieli, a także do wiedzy uzyskiwanej przez nich samych. Krytycyzm i samokrytycyzm postawy naukowej sprawia, że nauka nie jest nigdy zadowolona z uzyskanych wyników i nieustannie dąży do nowych lepszych rezultatów poznawczych, co sprawia, iż żaden wynik wiedzy naukowej nie jest wiecznotrwały i każdy wchodzi do skarbnicy wiedzy naukowej tylko na tak długo, dopóki nauka nie uzyska lepszego wyniku. W nauce jest zatem tak jak w [[technika|technice]], gdzie urządzenia techniczne są stale zastępowane przez urządzenia coraz lepsze, to znaczy coraz bardziej wydajne i coraz bardziej oszczędne pod względem ekonomicznym. W tym kontekście wiedza potoczna i pozostałe gatunki wiedzy pozanaukowej mają charakter bardziej [[apologia|apologetyczny]]: w większym stopniu ufają swoim dotychczasowym ustaleniom i są raczej zadowolone z osiągniętych wyników.
+Nie wszystkich uczonych i nie zawsze stać na odpowiedni krytycyzm i dystans wobec swoich poglądów. Ale krytyka, której nie jest w stanie przeprowadzić sam inicjator nowych pomysłów, jest realizowana w ramach szerszej społeczności naukowej, która dokonuje (powinna dokonywać) bezlitosnej selekcji nowo formułowanych hipotez i przypuszczeń.
+
+'''4.''' Wysoka moc eksplanacyjna, tzn. wyjaśniająca. Nauka nie tylko opisuje zjawiska, czyli odpowiada na pytanie „jak” zjawiska przebiegają, lecz także wyjaśnia przebieg zjawisk, czyli odpowiada na pytanie „dlaczego” zjawiska zachodzą tak a nie inaczej. Wyjaśnianie zjawisk (a także praw rządzących zjawiskami) wymaga sięgnięcia do głębszych warstw rzeczywistości, wymaga poznania przyczyn zjawisk, praw nimi rządzących oraz mechanizmów wewnętrznych ich przebiegu. Dlatego wiedza potoczna, ślizgająca się jakby po powierzchni [[zjawisko|zjawisk]], ma – w odróżnieniu od nauki – niską moc wyjaśniającą. „[I] właśnie specyficznym celem nauki jest organizacja i klasyfikacja wiedzy w oparciu o zasady wyjaśniające”&lt;ref name="PWN 1961" /&gt;.
+
+Według Karla R. [[Karl Popper|Poppera]] wielka moc wyjaśniająca wiedzy naukowej wynika z faktu, że nauka buduje teorie i prawa naukowe o coraz większej zawartości informacyjnej (logicznej i [[empiryzm|empirycznej]]). Wyznaczona jest ona przez ogólność i ścisłość twierdzeń: im twierdzenie jest bardziej ogólne i bardziej ścisłe, tym ma większą zawartość informacyjną, co pociąga coraz większą moc wyjaśniania. „Uważam, że celem nauki jest poszukiwanie dobrych wyjaśnień dla wszystkiego, co według nas potrzebuje wyjaśnienia”&lt;ref&gt;[[Karl Popper|K. Popper]], ''Wiedza obiektywna. Ewolucyjna teoria epistemologiczna'', PWN, Warszawa 1992, s. 249.&lt;/ref&gt;.
+
+'''5.''' Wysoki stopień uteoretycznienia (teoretyczności) wiedzy naukowej (kryterium ściśle związane z poprzednim). Teorie naukowe – w odróżnieniu od wiedzy potocznej – nie opisują bezpośrednio zjawisk rzeczywistych obserwowalnych [[zmysł]]owo, z którymi stykamy się na co dzień, lecz opisują ich uproszczone modele zwane niekiedy typami idealnymi. Tak na przykład [[mechanika klasyczna]] w swym najbardziej ogólnym sformułowaniu nie jest mechaniką ciał fizycznych, lecz „mechaniką punktów materialnych”, czyli konstruktów teoretycznych pozbawionych rozciągłości, aczkolwiek wszystkie obiekty rzeczywiste podstawiane za [[punkt materialny|punkty materialne]] w konkretnych zastosowaniach mechaniki mają pewne rozmiary przestrzenne. Stąd np. w [[fizyka|fizyce]] mamy tak wiele pojęć dotyczących bezpośrednio nie obiektów rzeczywistych, lecz ich wyidealizowanych modeli, jak „punkt materialny”, „[[ciało doskonale sztywne]]”, „[[ciało doskonale czarne]]”, „[[Swobodny spadek|spadek swobodny]]”, „[[układ inercjalny]]”, „[[ciecz idealna]]”, „[[gaz doskonały]]” itp. Właśnie dzięki temu, że wiedza naukowa ma charakter teoretyczny (i zarazem idealizacyjny), może ona sięgać do głębszych poziomów rzeczywistości i opisywać bardziej istotne czynniki przemian, pomijać zaś czynniki drugorzędne, uboczne, przypadkowe, nieodgrywające istotnej roli w przebiegu opisywanych zjawisk.
+
+Nauka, stosując metody modelowania, [[Abstrakcja (filozofia)|abstrakcji]] i [[Idealizacja (psychologia poznawcza)|idealizacji]], pomija w zjawiskach aspekty mniej istotne, by docierać do wewnętrznych mechanizmów i prawidłowości, ukrytych przed naszymi zmysłami.
+
+'''6.''' Wysoka moc przewidywania (moc prognostyczna) wiedzy. Wiedza naukowa dostarcza znacznie lepszych, niż inne gatunki wiedzy, środków służących celom niezawodnego oraz dokładnego przewidywania w wielu dziedzinach. Przewidywanie natomiast jest nieodzownym warunkiem skutecznego działania, stąd także wielkie znaczenie praktyczne wiedzy naukowej.
+
+'''7.''' Wysoka moc [[Heurystyka (zarządzanie)|heurystyczna]] polega na płodności osiągniętej wiedzy naukowej w procesie zdobywania nowej wiedzy&lt;ref&gt;[[Imre Lakatos|I. Lakatos]], ''Pisma z filozoficznych nauk empirycznych'', PWN, Warszawa 1995, s. 110-113.&lt;/ref&gt;. Zgromadzona dotąd wiedza naukowa stanowi zawsze nieodzowny i potężny instrument zdobywania nowej wiedzy. Większa niż w innych gatunkach użyteczność wiedzy naukowej jest związana z takimi jej walorami, jak wysoki stopień usystematyzowania, ogólności, ścisłości, uteoretycznienia oraz wysoka moc prognostyczna i eksplanacyjna.
+[[Plik:Inside the CERN LHC tunnel.jpg|thumb|320px|Tunel we wnętrzu [[Wielki Zderzacz Hadronów|Wielkiego Zderzacza Hadronów]] ([[akcelerator cząstek|akceleratora cząstek]]), otwarty we wrześniu 2008 r. w [[CERN]].]]
+
+Wymienione najważniejsze kryteria naukowości wiedzy nie wyczerpują całej ich listy. Nie dają się też one skonkretyzować ani uściślić (w drodze np. wskazania jak wysoki poziom usystematyzowania, ogólności, ścisłości itp. powinny osiągnąć nowo formułowane twierdzenia, aby mogły być włączone do nauki), dopóki mowa jest o nauce w ogóle. Rozmaite bowiem działy nauk na różnych szczeblach ich rozwoju stawiają formułowanym w ich ramach twierdzeniom niejednakowo surowe wymagania pod wskazanymi wyżej (siedmioma) względami. Można to wytłumaczyć tym, że kryteria naukowości wiedzy są, po pierwsze, historycznie zmienne, a po drugie, zrelatywizowane do dyscypliny, wobec tego nie mają ponadczasowego (ponadhistorycznego, uniwersalnego) znaczenia. Jeśli pragnie się je uściślić lub skonkretyzować, to trzeba przejść na grunt rozważań dotyczących poszczególnych działów nauk lub nawet pojedynczych dyscyplin naukowych. W miarę rozwoju nauki, rosną też wymagania stawiane kryteriom naukowości wiedzy.
+
+'''Kryteria naukowości, odróżniające wiedzę naukową od pozostałych rodzajów wiedzy, mogą być ujmowane zarazem jako cele poznania naukowego.'''
+
+== Cele poznania naukowego oraz funkcje społeczne nauki ==
+Wiedza naukowa zawdzięcza swój wysoki status poznawczy temu, że nauka jest nastawiona na zdobywanie prawdy niebanalnej, do której trudno jest dotrzeć, ale która jest zarazem interesująca teoretycznie oraz użyteczna praktycznie. Jest interesująca teoretycznie, gdyż służy wypełnianiu przez naukę jej funkcji teoretycznej: wyjaśnianiu i zrozumieniu zjawisk i procesów zachodzących w świecie. Jest użyteczna praktycznie, gdyż służy pełnieniu przez naukę jej drugiej ważnej funkcji społecznej – funkcji praktycznej: przewidywaniu zachodzenia i przebiegu zjawisk. Przewidywanie jest określane mianem funkcji praktycznej nauki z uwagi na to, że bez przewidywania tego, co ma zajść nie ma skutecznego działania, czyli przekształcania rzeczywistości zgodnie z potrzebami człowieka&lt;ref&gt;Por. [[Władysław Krajewski (filozof)|W. Krajewski]], ''Współczesna filozofia naukowa'', rozdz. 5/E. ''Aksjologia (cele) nauki'', Wyd. Uniwersytet Warszawski, Wydział Filozofii i Socjologii, Warszawa 2005. s. 90-95.&lt;/ref&gt;. Specyficzna funkcja praktyczna nauki polega zatem na dostarczaniu pozostałym układom społecznym, z układem gospodarczym (czyli produkcyjnym) na czele, wiedzy oraz umiejętności, zapewniających im efektywne funkcjonowanie. Jest to przede wszystkim wiedza technicznoużytkowa o charakterze [[predykcja|predykcyjnym]], gdyż bez przewidywania nie ma skutecznego działania&lt;ref&gt;[[Jerzy Kmita|J. Kmita]], ''Szkice z teorii poznania naukowego'', PWN, Warszawa 1976, s. 93-98.&lt;/ref&gt;.
+Wyjaśnianie i zrozumienie zjawisk jest niemożliwe bez założenia, że celem osiągalnym nauki jest poznanie prawdziwe, do którego nauka zmierza. Celem dążeń naukowych jest prawda&lt;ref group="uwaga"&gt;U Karla Poppera prawda przybiera postać prawdoupodobnienia. Zob. [[Karl Popper|K. Popper]], ''Wiedza obiektywna. Ewolucyjna teoria epistemologiczna'', PWN, Warszawa 1992, rozdz. 2, §§ 6-11, s. 65-86. Zobacz też A. Motycka, s. 12-22.&lt;/ref&gt;. Według rekonstrukcji stanowisk Einsteina i Poppera, przeprowadzonej przez [[Jan Such (filozof)|Jana Sucha]], prawda naukowa powinna spełniać co najmniej pięć ważnych walorów poznawczych&lt;ref&gt;[[Jan Such (filozof)|J. Such]], ''Problemy weryfikacji wiedzy'', PWN, Warszawa 1975, s. 7-8.&lt;/ref&gt;.
+
+Są nimi:
+# ogólność (wysoki stopień ogólności),
+# dokładność, ścisłość, precyzja (wysoki stopień ścisłości, dokładności),
+# wysoka informacyjna zawartość,
+# wysoka prostota logiczna,
+# pewność [[epistemologia|epistemologiczna]].
+
+'''1.''' Twierdzenie jest tym ogólniejsze, im szerszy jest jego [[Podmiot (filozofia)|podmiot]]. Na przykład twierdzenie „wszystkie kruki są czarne” jest ogólniejsze, niż twierdzenie „wszystkie kruki żyjące w Polsce są czarne”. Uczeni nie poprzestają nigdy na formułowaniu twierdzeń jednostkowych, tzn. dotyczących pojedynczych zjawisk. Twierdzenia jednostkowe (oraz szczegółowe, zwane też egzystencjalnymi) służą w nauce przeważnie jako przesłanki do uogólnień ([[Rozumowanie indukcyjne|indukcyjnych]] i innych), w których wyniku uzyskuje się twierdzenia o dużym szczeblu ogólności, niekiedy twierdzenia uniwersalne, dotyczące (przynajmniej w domniemaniu) wszystkich zjawisk zachodzących w świecie. Na przykład uczony, mając solidne podstawy do przypuszczenia, że „wszystkie ciała się przyciągają”, nie będzie formułować twierdzeń w rodzaju: „wszystkie planety się przyciągają” lub „wszystkie cygara się przyciągają”, lecz sformułuje – jak to uczynił [[Isaac Newton|Newton]] – „prawo powszechnej grawitacji”. Nawet tzw. nauki idiograficzno-nomologiczne (zwane dawniej [[idiografizm|idiograficznymi]]), jak historia, nie ograniczają się do formułowania twierdzeń jednostkowych, lecz poszukują prawdziwych twierdzeń ogólnych: praw lub generalizacji historycznych&lt;ref&gt;[[Jan Such (filozof)|J. Such]], ''Problemy weryfikacji wiedzy'', PWN, Warszawa 1975, s. 38-42.&lt;/ref&gt;.
+
+'''2.''' Z kolei dokładność (ścisłość) twierdzenia zależy od jego orzecznika: im [[orzecznik]] jest węższy, tym twierdzenie jest dokładniejsze. Na przykład z dwóch twierdzeń: „wszystkie kruki są czarne” oraz „wszystkie kruki są czarne lub białe”, dokładniejsze jest to pierwsze, gdyż ma węższy orzecznik: jednoznacznie stwierdza, że wszystkie kruki są czarne. Podobnie, z dwu twierdzeń, z których jedno głosi, że „wszystkie ciała grawitują” (tzw. jakościowe prawo grawitacji, znane np. [[Mikołaj Kopernik|Kopernikowi]]), drugie zaś, że „wszystkie ciała grawitują z siłą wyznaczoną przez wzór F = m&lt;sup&gt;1&lt;/sup&gt; x m&lt;sup&gt;2&lt;/sup&gt;&lt;big&gt;/&lt;/big&gt;r&lt;sup&gt;2&lt;/sup&gt; (ilościowe [[Prawo powszechnego ciążenia|prawo grawitacji]] sformułowane przez Newtona), znacznie bardziej precyzyjne jest to drugie, gdyż dokładnie wyznacza wielkość siły grawitacyjnej działającej między masami. Na tym przykładzie widać, że matematyka stanowi potężny środek zawężania orzecznika i tym samym uściślania twierdzeń, dzięki temu że przekształca twierdzenia (w tym prawa) jakościowe w twierdzenia (prawa) ilościowe, dlatego też wszędzie tam, gdzie jest to możliwe, nauka nadaje swoim twierdzeniom ścisłą postać matematyczną.
+
+'''3.''' Informacyjna zawartość [[empiryzm|empiryczna]] (treść empiryczna w ujęciu Poppera)&lt;ref&gt;[[Karl Popper|K. Popper]], ''Logika odkrycia naukowego'', PWN, Warszawa 1977, rozdz. VI § 35, s. 101-102.&lt;/ref&gt;. Treść empiryczna teorii wyznaczona jest przez klasę jej potencjalnych falsyfikatorów. Twierdzenia naukowe (w tym prawa) oraz ich [[zbiór|zbiory]] (w tym teorie) wiele i dokładnie mówią o rzeczywistości. Informacyjna zawartość twierdzenia zależy zarówno od ogólności, jak też od ścisłości twierdzenia: im twierdzenie jest bardziej ogólne i bardziej ścisłe, tym wyższa jest jego informacyjna zawartość. Z kolei informacyjna zawartość twierdzenia czy teorii wyznacza stopień jego (jej) sprawdzalności, zwłaszcza sprawdzalności negatywnej czyli falsyfikowalności. Z tego powodu Popper uznał wysoką informacyjną zawartość (logiczną i empiryczną treść) twierdzeń (w tym praw i teorii naukowych) za podstawowy cel poznawczy nauki&lt;ref&gt;[[Karl Popper|K. Popper]], ''Logika odkrycia naukowego'', PWN, Warszawa 1977, s. 112.&lt;/ref&gt;.
+Rekonstrukcję stanowiska Poppera w kwestii celów poznania naukowego reprezentuje poniższy schemat&lt;ref group="uwaga"&gt;Schemat opracowany na podstawie: [[Jan Such (filozof)|J. Such]], M. Szcześniak, 2006, s. 46.&lt;/ref&gt;:
+
+[[Plik:Schemat Poppera.svg|500px|central]]
+
+Nauka zatem – według niego – buduje teorie o coraz większej informacyjnej zawartości, czyli o coraz większej empirycznej treści, a to znaczy takie, które mówią coraz więcej o świecie&lt;ref&gt;[[Karl Popper|K. Popper]], ''Logika odkrycia naukowego'', PWN, Warszawa 1977, s. 101-112.&lt;/ref&gt;. Dlatego też teorie naukowe mają olbrzymią ilość zastosowań w różnych dziedzinach. Klasycznym przykładem jest [[mechanika klasyczna|mechanika Newtona]], która wraz z teorią grawitacji wyjaśnia takie zjawiska, jak ruchy [[ciało niebieskie|ciał niebieskich]] (w tym [[planeta|planet]]), ''Logika odkrycia naukowego'' (PWN, Warszawa 1977), [[pływy morskie|pływy]] (tzn. przypływy i odpływy) mórz i oceanów, spadanie ciał, ruch wahadła, stabilność mostów, prace maszyn itd.
+
+'''4.''' Prostota logiczna teorii jest wyznaczona przez ilość założeń wyjściowych ([[aksjomat]]ów, postulatów, zasad) teorii oraz ilość jej twierdzeń pochodnych (wyznaczających informacyjną zawartość teorii): im mniejsza jest liczba założeń wyjściowych teorii i większa liczba twierdzeń pochodnych, tym teoria jest bardziej prosta (i zwarta) logicznie, w związku z czym, odznacza się także większą doskonałością wewnętrzną&lt;ref&gt;[[Jan Such (filozof)|J. Such]], ''Multiformity of Science'', Wyd. Rodopi, Amsterdam – New York, NY 2004, s. 106.&lt;/ref&gt;&lt;ref&gt;[[Gottfried Wilhelm Leibniz|G. W. Leibniz]], ''New Essays on Human Understanding'', Cambridge University Press, Cambridge 1981, s. 285.&lt;/ref&gt;.
+
+{{Cytat
+ |treść = Naukowe tworzenie pojęć i metoda naukowa różnią się od wiedzy potocznej jedynie większą ścisłością pojęć i wnioskowań, staranniejszym i bardziej systematycznym doborem materiału doświadczalnego, a także oszczędnością w sensie logicznym. Należy przez to rozumieć dążenie do ufundowania wszystkich pojęć i relacji na możliwie najmniejszej liczbie niezależnych od siebie logicznie podstawowych pojęć i aksjomatów&lt;ref&gt;[[Albert Einstein|A. Einstein]], ''Pisma filozoficzne'', De Agostini Altaya, Warszawa 2001, s. 232.&lt;/ref&gt;.
+}}
+
+Prostota logiczna teorii uznawana jest przez [[Albert Einstein|Alberta Einsteina]] za główny cel wewnętrzny (poznawczy), do którego zmierza nauka. Stawia ona uporządkowaniu logicznemu wiedzy naukowej [Czytaj: rozdz. 3, kryterium 2] formułowanej w teoriach naukowych dwa mocne postulaty dotyczące uporządkowania logicznego teorii naukowych: nowa teoria zastępująca dotychczasową w danej dziedzinie powinna być od niej po pierwsze, teorią o większej ilości twierdzeń pochodnych (wyznaczających zawartość informacyjną teorii) oraz, po drugie, teorią zawierającą mniej twierdzeń wyjściowych (zasad, aksjomatów). Wyraża to schemat&lt;ref&gt;[[Jan Such (filozof)|J. Such]], ''Na czym polega piękno ogólnej teorii względności'', s. 45-62, "Studia Metodologiczne" nr 33, 2014, s. 47.&lt;/ref&gt;:
+
+[[Plik:Schemat, Prostota logiczna.svg|600px|central]]
+Spełnienie obydwu podanych postulatów jest możliwe jedynie pod warunkiem, że twierdzenia wyjściowe nowej teorii są logicznie mocniejsze (tzn. zawierają więcej konsekwencji logicznych, czyli twierdzeń z niej wynikających), niż twierdzenia wyjściowe wcześniejszej teorii. Na przykład [[ogólna teoria względności]], która zastąpiła mechanikę klasyczną oraz teorię grawitacji Newtona, spełnia oba postulaty.
+
+{{Cytat
+ |treść = Celem nauki jest, po pierwsze, możliwie najbardziej pełne uchwycenie doznań zmysłowych w całej ich różnorodności, po drugie jednak osiągnięcie tego celu przy zastosowaniu minimum pierwotnych pojęć i relacji (dążenie do możliwie największej logicznej jednolitości obrazu świata względnie logicznej prostoty jego podstaw)&lt;ref&gt;[[Albert Einstein|A. Einstein]], ''Pisma filozoficzne'', De Agostini Altaya, Warszawa 2001, s. 199-200.&lt;/ref&gt;.
+}}
+
+Prostota logiczna – obok dwu walorów, uwzględnianych przez informacyjną zawartość (ogólność i ścisłość) – bierze pod uwagę także ilość założeń wyjściowych teorii, które łącznie składają się na „doskonałość wewnętrzną teorii” (wyrażenie Einsteina). Schemat hierarchii celów poznawczych Einsteina&lt;ref group="uwaga"&gt;Schemat opracowany na podstawie: [[Jan Such (filozof)|J. Such]], M. Szcześniak, 2006, s. 47.&lt;/ref&gt; ma zatem postać:
+
+[[Plik:Schemat Einsteina.svg|500px|central]]
+
+Wzrastająca prostota logiczna kolejno budowanych w nauce teorii pociąga za sobą niestety wzrastającą złożoność matematyczną teorii, co utrudnia zrozumienie wiedzy naukowej przez laika.
+
+{{Cytat
+ |treść = Rozwój [nauki&lt;ref group="uwaga"&gt;Einstein, rozwój nauki przedstawia na przykładzie ewolucji fizyki, jako najbardziej rozwiniętej nauki: „Fizyka jest rozwijającym się logicznym systemem myślowym, którego podstawy nie mogą być metodą indukcyjną wydestylowane z doznań, można je uzyskać jedynie jako swobodny twór myśli.” [[Albert Einstein|A. Einstein]], s. 230.&lt;/ref&gt;] zachodzi w kierunku rosnącej prostoty podstaw logicznych. Aby przybliżyć się do tego celu, musimy pogodzić się z tym, że podstawy logiczne będą coraz dalsze od doznań, a droga logiczna od podstaw do tych konsekwencji, które znajdują korelat w doznaniach zmysłowych, będzie coraz trudniejsza i dłuższa&lt;ref&gt;[[Albert Einstein|A. Einstein]], ''Pisma filozoficzne'', De Agostini Altaya, Warszawa 2001, s. 230.&lt;/ref&gt;.
+}}
+
+Stąd słynne powiedzenie (przypisywane Einsteinowi), które brzmi paradoksalnie, gdy się nie uwzględni dwóch rozważanych rodzajów prostoty, logicznej i matematycznej: „Nauka dlatego jest tak złożona, że jest tak prosta”. Paradoksalność powyższej wypowiedzi znika przy prostym uzupełnieniu: „Nauka dlatego jest tak złożona matematycznie, że jest tak prosta logicznie”&lt;ref&gt;[[Jan Such (filozof)|J. Such]], ''Na czym polega piękno ogólnej teorii względności'', s. 45-62, "Studia Metodologiczne" nr 33, 2014, s. 51.&lt;/ref&gt;.
+
+'''5.''' Pewność epistemologiczna (z gr. ''epistēmē'' – wiedza) twierdzeń i teorii naukowych. Kolejne teorie naukowe następujące po sobie w danej dziedzinie mają coraz lepsze uzasadnienie w doświadczeniu, są coraz lepiej ugruntowane w faktach. Uczeni (różnych specjalności) w zasadzie godzą się na takie stwierdzenie w przekonaniu, że rozwój wiedzy naukowej prowadzi do teorii o coraz większym stopniu prawdziwości oraz coraz większym stopniu pewności. Natomiast wśród filozofów nauki, metodologów toczą się ostre spory na ten temat&lt;ref group="uwaga"&gt;Najczęściej jest tak, że zwolennicy zasady korespondencji (tacy jak A. [[Albert Einstein|Einstein]], N. [[Niels Bohr|Bohr]], K. [[Karl Popper|Popper]], [[Imre Lakatos|I. Lakatos]], J. [[Giedymin]], J. [[Jerzy Kmita|Kmita]], W. [[Władysław Krajewski (filozof)|Krajewski]], L. [[Nowak]], [[Jan Such (filozof)|J. Such]]) są przekonani, że nauka realizuje postęp poznawczy, natomiast przeciwnicy tej zasady (tacy jak [[Pierre Duhem|P. Duhem]], T. [[Thomas Kuhn|Kuhn]], [[Paul Feyerabend|P. Feyerabend]], N. Hanson, [[Stephen Toulmin|S. Toulmin]], [[Stefan Amsterdamski|S. Amsterdamski]]) wyrażają w tej kwestii rozmaite wątpliwości. Główny kłopot polega na tym, że nikomu (tzn. żadnej szkole metodologicznej) nie udało się wprowadzić ilościowego pojęcia stopnia potwierdzenia ([[Sprawdzanie|konfirmacji]]) teorii przez doświadczenie. W związku z powyższym w ocenie teorii naukowych można jedynie w sposób zasadny i rozsądny posługiwać się „stopniem porównawczym” w ocenie przybliżenia teorii naukowej do prawdy oraz ustaleniem stopnia jej pewności. Wynika stąd, że także zwolennik [[Zasada odpowiedniości|zasady korespondencji]] czuje się uprawniony co najwyżej do orzekania, że dana teoria (np. znajdująca się w relacji korespondencji do swej poprzedniczki) jest od niej prawdziwsza i pewniejsza, przynajmniej pod pewnymi względami, bez próby określenia absolutnego stopnia jej przybliżenia do prawdy.&lt;/ref&gt;.
+
+Pięć wymienionych celów poznawczych sprawia, że nauka, osiągając je, dochodzi do prawdy niebanalnej, tzn. interesującej teoretycznie i zarazem użytecznej praktycznie, co pozwala nauce pełnić dwie ważne funkcje społeczne: funkcję teoretyczną polegającą na coraz lepszym rozumieniu świata oraz funkcję praktyczną polegającą na dostarczaniu ludziom coraz lepszych, tzn. coraz dokładniejszych i bardziej pewnych, przewidywań służących skutecznemu działaniu.
+
+Karl R. Popper główny cel nauki określa różnie w zależności od kontekstu rozważań. W jednym miejscu celem nauki jest poszukiwanie prawdy (prawdoupodobnienie)&lt;ref&gt;Zob. [[Karl Popper|K. Popper]], ''Wiedza obiektywna. Ewolucyjna teoria epistemologiczna'', PWN, Warszawa 1992, rozdz. 2, §§ 6-11, s. 65-86.&lt;/ref&gt;&lt;ref&gt;[[Imre Lakatos|I. Lakatos]], ''Pisma z filozoficznych nauk empirycznych'', PWN, Warszawa 1995, s. 243-244, 261-269.&lt;/ref&gt;, w innym – poszukiwanie dobrych wyjaśnień&lt;ref&gt;Zob. [[Karl Popper|K. Popper]], ''Wiedza obiektywna. Ewolucyjna teoria epistemologiczna'', PWN, Warszawa 1992, s. 248-264.&lt;/ref&gt;, w jeszcze innym – budowanie twierdzeń o wysokiej informacyjnej zawartości (z tym, że najczęściej Popper używa w tym sensie określenia „treść teorii")&lt;ref&gt;[[Karl Popper|K. Popper]], ''Logika odkrycia naukowego'', PWN, Warszawa 1977, s. 112, 305, 318 (przypis 8), 322, i inne.&lt;/ref&gt;.
+
+== Klasyfikacja nauk ==
+{{zobacz też|Klasyfikacja nauk|Dziedzina nauki}}
+
+[[Klasyfikacja nauk]] wyróżnia m.in. [[Dychotomia|dychotomię]]:
+* [[nauki formalne]], inaczej [[A priori|aprioryczne]] lub [[Dedukcja|dedukcyjne]];
+* [[nauki empiryczne]], inaczej [[A posteriori|aposterioryczne]] lub [[Obserwacja (metoda badawcza)|obserwacyjne]]; bywały też nazywane [[Rozumowanie indukcyjne|indukcyjnymi]], choć [[Albert Einstein]] i [[Karl Popper]] podkreślali, że korzystają one też z [[Metoda hipotetyczno-dedukcyjna|metody hipotetyczno-dedukcyjnej]]{{fakt|data=2023-09}}.
+
+Istnieją przy tym dyscypliny z pogranicza jak [[fizyka matematyczna]] czy [[informatyka]], do której zalicza się zarówno rozważania abstrakcyjne ([[teoria obliczeń]]), jak i [[Eksperyment|doświadczenia]] z użyciem [[komputer]]ów. Inna para [[Zbiór|zbiorów]] nauk, zwykle uznawanych za rozłączne, to:
+* [[nauki ścisłe]] – część nauk formalnych i empirycznych obejmująca [[Matematyka|matematykę]] i nauki oparte na niej, np. na [[Metody ilościowe|metodach ilościowych]];
+* [[nauki humanistyczne]] – przede wszystkim jest to część badań empirycznych poświęcona działalności [[Człowiek (rodzaj)|człowieka]] ([[Kultura|kulturze]]); włącza się też do nich rozważania bardziej formalne, nad [[Implikacja logiczna|konsekwencjami]] pewnych treści – przykłady to [[dogmatyka prawa]] czy [[teologia dogmatyczna]]{{fakt|data=2023-09}}.
+
+Ta [[typologia]] nie jest już dychotomią, ponieważ nie jest wyczerpująca – nie jest [[Pokrycie zbioru|pokryciem]] zbioru nauk; [[psychologia]] obejmuje badania, które nie są ani ścisłe, ani humanistyczne, przynajmniej ''sensu stricto'', np. niektóre [[Metody jakościowe|analizy jakościowe]]{{fakt|data=2023-09}}. Teologia również nie jest nauką ścisłą, przy czym bywa włączana do nauk, ale nie do humanistycznych, np. w zestawieniu [[Dziedzina nauki|dziedzin nauki]] używanym w polskich przepisach. Inne szerokie kategorie to [[nauki podstawowe]] – inaczej teoretyczne lub czyste – i [[nauki stosowane]]. Podane kategoryzacje bywają mieszane; przykładowo:
+* we wspomnianym zestawieniu dziedzin nauki figurują równorzędnie obok siebie nauki humanistyczne i [[Nauki społeczne|społeczne]] uważane za część empirycznych;
+* jedna z kategorii [[Nagroda Fundacji na rzecz Nauki Polskiej|Nagrody Fundacji na rzecz Nauki Polskiej]] jest przyznawana za badania [[Suma zbiorów|z obu tych obszarów]]; w latach 1992–2010 rozdzielano też nagrody dla przedstawicieli nauk ścisłych i [[Nauki przyrodnicze|przyrodniczych]], uważanych za część empirycznych.
+
+[[Klasyfikacja naukowa|Klasyfikacja]] nauk polega na wyodrębnianiu – na podstawie określonych kryteriów – głównych działów nauki, a następnie na ich podziale na dyscypliny szczegółowe. Najczęściej stosowane są kryteria przedmiotowe (różnice w przedmiocie badania) oraz metodologiczne (różnice w metodach badawczych). Ważne są również rodzaj stawianych problemów i formułowanych twierdzeń oraz sposób uzasadniania twierdzeń, a także typ wyjaśniania, zadania i cele. Klasyfikacja jest zawsze podporządkowana określonym celom, takim jak funkcje pełnione przez naukę w społeczeństwie, potrzeby dydaktyki, bibliotekoznawstwa itd. Poszukuje się klasyfikacji naturalnych, to znaczy takich, które grupują nauki podobne pod wieloma względami, ważnymi z określonego punktu widzenia&lt;ref&gt;[[Jan Such (filozof)|J. Such]], ''Problemy klasyfikacji nauk'', w: E. Zielonacka-Lis (red.), ''Nauki pogranicza'', Wyd. Naukowe Instytutu Filozofii UAM, Poznań 1998, s. 37-50.&lt;/ref&gt;&lt;ref&gt;Por. [[Adam Grobler|A. Grobler]], Rozdz. III. ''Typy nauk i ich odmienności metodologiczne'', s. 209-251.&lt;/ref&gt;&lt;ref&gt;Zob. też [[Michał Heller|M. Heller]], ''Filozofia nauki'', Wyd. Naukowe Papieskiej Akademii Teologicznej w Krakowie, Kraków 1992, s. 13, 18-20.&lt;/ref&gt;.
+[[Plik:Schemat, Klasyfikacja nauk.svg|thumb|center|500px]]
+
+Ogólna klasyfikacja nauk&lt;ref group="uwaga"&gt;Schemat opracowany na podstawie: [[Jan Such (filozof)|J. Such]], ''Problemy klasyfikacji nauk'', w: E. Zielonacka-Lis (red.), ''Nauki pogranicza'', Wyd. Naukowe Instytutu Filozofii UAM, Poznań 1998, s. 41.&lt;/ref&gt;.
+
+Schemat ma charakter [[dychotomia|dychotomiczny]] (z wyjątkiem podziału nauk stosowanych). Na każdym poziomie podziału zastosowano kilka [[Kryterium klasyfikacyjne|kryteriów]]. Na przykład przy podziale nauk na matematyczne i empiryczne brano pod uwagę nie tylko przedmiot i metodę, lecz również rodzaj formułowanych twierdzeń i sposób ich uzasadniania.
+
+* Nauki teoretyczne prowadzą badania podstawowe, czysto poznawcze. Ich głównym celem jest cel teoretyczny. Nastawione są na poszukiwanie prawdy. Jednocześnie dostarczają naukom stosowanym (technicznym, rolniczym, ekonomicznym, medycznym, pedagogicznym, naukom o sporcie i rekreacji) wiedzy wdrażanej do praktyki przemysłowej, rolniczej, medycznej itp.
+* '''I''' Nauki matematyczne (formalne, dedukcyjne, aprioryczne) zajmują się ogólnymi strukturami, które umożliwiają ścisły ilościowy i jakościowy opis rzeczywistości. Należą do nich matematyka i logika z jej głównym działem – logiką matematyczną, teoria mnogości, algebra, geometria i inne.
+* Nauki empiryczne (indukcyjne, realne, aposterioryczne) odwołują się do doświadczenia, tzn. obserwacji, eksperymentu i pomiaru.
+* Nauki przyrodnicze – nauki o przyrodzie nieożywionej i ożywionej.
+* '''IV''' Nauki społeczno-humanistyczne, to nauki o człowieku jako istocie społecznej oraz o społeczeństwie ludzkim. Należą tu np.: psychologia, socjologia, historia, nauki o kulturze, nauki polityczne, nauki prawnicze (prawoznawstwo), językoznawstwo. Niekiedy ten rodzaj nauk nazywany jest zamiennie: „nauki społeczne” lub „nauki humanistyczne”. Zazwyczaj jednak dokonuje się rozróżnienia na „nauki humanistyczne”, czyli nauki o człowieku ustalające fakty oraz „nauki społeczne” odkrywające prawa w społeczności ludzkiej.
+* '''II''' Nauki fizyczne zajmują się materią nieożywioną. Należą do nich: fizyka eksperymentalna i teoretyczna (m.in. mechanika klasyczna i relatywistyczna, elektrodynamika klasyczna i kwantowa, fizyka atomowa i jądrowa, astronomia, kosmologia), chemia doświadczalna i teoretyczna (m.in. chemia ogólna, chemia organiczna, chemia nieorganiczna, chemia analityczna) oraz nauki o Ziemi (np. geografia, geologia, geofizyka, mineralogia, oceanologia).
+* '''III''' Nauki biologiczne w szerokim sensie badają materię ożywioną. Są to: biologia doświadczalna (np. biochemia, biofizyka, biotechnologia, biologia systematyczna, mikrobiologia, ekologia), teoretyczna i ewolucyjna.
+
+Nauki '''I - IV''', to klasyczne nauki teoretyczne (cztery wielkie działy nauk teoretycznych), a współcześnie należy wymienić jeszcze '''V''' nauki stykowe oraz '''VI''' nauki integracyjne (ponieważ nauki stykowe oraz kompleksowe powstają zazwyczaj na styku nauk teoretycznych, to także one same mają charakter raczej teoretyczny).
+
+* '''V''' Nauki stykowe, to nauki pograniczne, np.: biofizyka, chemia fizyczna, biochemia, biogeografia, geofizyka, geochemia. Powstają one na pograniczu dwóch lub więcej nauk klasycznych, zazwyczaj pokrewnych i łączą w badaniach rozmaite aspekty z tych odrębnych dziedzin.
+* '''VI''' Nauki integracyjne (kompleksowe) można by również nazwać naukami stykowymi, ale w pewnym ogólniejszym znaczeniu. Należą do nich np.: [[cybernetyka]], [[synergetyka]], [[Chaos (matematyka)|teoria chaosu]], [[teoria informacji]], teoria komunikacji, ogólna teoria układów. Nauki te łączą różne strony zjawisk badanych dotąd nawet przez bardzo odległe od siebie dyscypliny. Cybernetyka, to nauka o sterowaniu i łączności w żywych organizmach i maszynach, we wszelkiego rodzaju układach. To nauka na styku teorii i praktyki po części matematyczna, po części empiryczna, zarówno biologiczna, jak i fizyczna. Z kolei synergetyka, to nauka o procesach samoorganizacji nie tylko w układach żywych, ale też w mechanizmach fizycznych i chemicznych.
+
+Istnieją dwie przeciwstawne tendencje w rozwoju nauki: tendencja do integracji i dyferencjacji. Dyferencjacja nauk jest procesem dominującym ze względu na nieustannie rozrastające się dziedziny badań i powstające wciąż nowe specjalności.
+
+Nauki stosowane (praktyczne, aplikatywne) prowadzą badania wdrożeniowe, rozwojowe. Nastawione są na cel praktyczny. Należą tu:
+* '''VII''' – N. techniczne, inżynieryjne (np. teoria o zmęczeniu materiału).
+* '''VIII''' – N. rolnicze, w szerokim sensie: nauki ogrodnicze, leśne, rolne.
+* '''IX''' – N. ekonomiczne: część nauk ekonomicznych należy do nauk społecznych, np. ekonomia polityczna, ekonometria. W tym dziale natomiast mieszczą się nauki ekonomiczne mające bezpośrednie zastosowanie praktyczne, np. ekonomia przemysłu, rolnictwa, handlu.
+* '''X''' – N. medyczne: należą tu m.in. podstawowe nauki medyczne, np. anatomia, fizjologia, nauki o zdrowiu, farmacja, a także wiedza fizyczna, biologiczna, psychologiczna, służąca medycynie.
+* '''XI''' – N. pedagogiczne – nauki o wychowaniu, np. dydaktyka, teoria wychowania, oświata dorosłych.
+* '''XII''' – N. rekreacyjne – nauki o sporcie, wypoczynku, rekreacji.
+
+W XVIII i XIX w. nauki stosowane były uważane za gorszy rodzaj nauk, gdyż nauce przypisywano wtedy cele czysto poznawcze, natomiast praktykę, produkcję, technikę „traktowano z góry”.
+
+Na temat klasyfikowania nauk toczą się dyskusje i spory, jednak każda z propozycji klasyfikacji zawiera jakieś mankamenty. Najczęściej dotyczy to nauk z pogranicza różnych dyscyplin. Dynamiczny rozwój nauki sprawia, że każda istniejąca klasyfikacja wymaga modyfikacji i dostosowania do przemian zachodzących w nauce&lt;ref group="uwaga"&gt;Na temat wcześniejszych klasyfikacji nauk zob. W. Krajewski, ''Jedność i wielopoziomowość przyrody'', w: W. Krajewski i W. Strawiński (red.), ''O uniwersalności i jedności nauki'', Wyd. Centrum Uniwersalizmu, Uniwersytet Warszawski, Warszawa 1993, rozdz. 2. ''Klasyfikacja nauk i rodzaje procesów w przyrodzie (Rys historyczny)'', s. 23-29.&lt;/ref&gt;.
+
+== Zobacz też ==
+{{Siostrzane projekty
+ |commons = Category:Science
+ |cytaty = Nauka
+ |słownik = nauka
+}}
+* [[rodzaje twierdzeń naukowych]]
+* [[uzasadnianie twierdzeń naukowych]]
+* [[humanizm]]
+
+== Uwagi ==
+{{Uwagi}}
+
+== Przypisy ==
+{{Przypisy}}
+
+== Bibliografia ==
+* Ajdukiewicz K., ''Zagadnienia i kierunki filozofii'', Wyd. Czytelnik, 1949.
+* Ajdukiewicz K., ''Język i poznanie'', t. II, PWN, Warszawa 1965.
+* [[Stefan Amsterdamski|Amsterdamski S.]], ''Tertium non datur? Szkice i polemiki'', PWN, Warszawa 1994.
+* Butryn S., ''Albert Einstein o nauce, jej funkcjach i celach'', s. 349-357, „Zagadnienia Naukoznawstwa” 3 (189), 2011.
+* Einstein A., ''Pisma filozoficzne'', De Agostini Altaya, Warszawa 2001.
+* Grabowski M., ''Istotne i nieistotne w nauce'', Wyd. Rolewski, Toruń 1998.
+* [[Adam Grobler|Grobler A.]], ''Metodologia nauk'', Wyd. Aureus - Wyd. ZNAK, Kraków 2008.
+* [[Michał Heller|Heller M.]], ''Filozofia nauki'', Wyd. Naukowe Papieskiej Akademii Teologicznej w Krakowie, Kraków 1992.
+* Kmita J., ''Szkice z teorii poznania naukowego'', PWN, Warszawa 1976.
+* Kotowa B., Such J., (red.), ''Kulturowe konteksty poznania'', Wyd Naukowe Instytutu UAM, Poznań 1995.
+* Krajewski W. i Strawiński W., ''O uniwersalności i jedności nauki'', Centrum Uniwersalizmu, Uniwersytet Warszawski, Warszawa 1993.
+* Krajewski W., ''Współczesna filozofia naukowa'', rozdz. 5/E. ''Aksjologia (cele) nauki'', s. 90-95, Wyd. Uniwersytet Warszawski, Wydział Filozofii i Socjologii, Warszawa 2005.
+* Lakatos I., ''Pisma z filozoficznych nauk empirycznych'', PWN, Warszawa 1995.
+* [[Gottfried Wilhelm Leibniz|Leibniz G. W.]], ''New Essays on Human Understanding'', Cambridge University Press, Cambridge 1981.
+* Motycka A., ''Główny problem epistemologiczny filozofii nauki'', rozdz. ''Nauka a prawda'', s. 12-22, Wyd. Zakład Ossolińskich, Wrocław 1990.
+* Nagel E., ''Struktura nauki'', PWN, Warszawa 1961.
+* Ossowski S., ''O nauce'', PWN, Warszawa 1967.
+* Popper K., ''Logika odkrycia naukowego'', PWN, Warszawa 1977.
+* Popper K., ''Wiedza obiektywna. Ewolucyjna teoria epistemologiczna'', PWN, Warszawa 1992.
+* Such J., ''Wstęp do metodologii ogólnej nauk'', Wyd. Naukowe UAM, Poznań 1973.
+* Such J., ''Problemy weryfikacji wiedzy'', PWN, Warszawa 1975.
+* Such J., ''O rodzajach wiedzy'', s. 5-19, „Człowiek i Społeczeństwo” nr 2, 1986.
+* Such J., ''Multiformity of Science'', Wyd. Rodopi, Amsterdam – New York, NY 2004.
+* Such J., M. Szcześniak, ''Filozofia nauki'', Wyd. Naukowe UAM (wyd. V), Poznań 2006.
+* Such J., ''Na czym polega piękno ogólnej teorii względności'', s. 45-62, "Studia Metodologiczne" nr 33, 2014.
+* "Zagadnienia filozoficzne w nauce", XVII, Wyd. Naukowe PAT, Kraków 1995.
+* Zielonack-Lis E., (red.nauk.), ''Nauki pogranicza'', Wyd. Naukowe Instytutu Filozofii UAM, Poznań 1998.
+
+== Linki zewnętrzne ==
+* {{otwarty dostęp}} Marcin Koszowy, ''[http://www.ptta.pl/pef/pdf/n/nauka.pdf Nauka]'', [[Powszechna Encyklopedia Filozofii]], Polskie Towarzystwo Tomasza z Akwinu, ptta.pl [dostęp 2024-05-16].
+* {{otwarty dostęp}} Nagrania na [[YouTube]] [dostęp 2024-10-07]:
+** [[Adam Grobler]], ''[https://www.youtube.com/watch?v=c94IOKyQD_g Czym jest nauka?]'', [[Centrum Kopernika Badań Interdyscyplinarnych]] – [[Uniwersytet Jagielloński]], kanał „Copernicus” , 24 marca 2020.
+** [[Karolina Głowacka]] i Adrian Kuźniar, ''[https://www.youtube.com/watch?v=uZzN5jrdTqU Wiarygodność nauki – czy teorie naukowców musimy przyjmować na wiarę?]'', kanał „Radio Naukowe”, 19 września 2024.
+* {{SEP | url = scientific-unity/ | autor = Jordi Cat | tytuł = The Unity of Science | data = 2017-08-16 | data dostępu = 2018-01-17}}
+
+{{Główne obszary nauki}}
+{{Naukoznawstwo}}
+{{Epistemologia}}
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Nauka| ]]</text>
+      <sha1>00t7rfqr7pprkdnxqjwnna11ga6dq3f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Listy związane z nauką</title>
+    <ns>14</ns>
+    <id>4139394</id>
+    <revision>
+      <id>50875060</id>
+      <parentid>50798679</parentid>
+      <timestamp>2017-11-08T18:18:23Z</timestamp>
+      <contributor>
+        <username>Sławek Borewicz</username>
+        <id>393402</id>
+      </contributor>
+      <minor/>
+      <comment>nowy klucz sortowania [[Kategoria:Listy]]: "nauka" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>50875060</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47" sha1="2q7f7vru7hoe3dk0op7lwt33x336vvy" xml:space="preserve">[[Kategoria:Listy|nauka]]
+[[Kategoria:Nauka|*]]</text>
+      <sha1>2q7f7vru7hoe3dk0op7lwt33x336vvy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Polityka naukowa</title>
+    <ns>0</ns>
+    <id>1164820</id>
+    <revision>
+      <id>68672225</id>
+      <parentid>66596559</parentid>
+      <timestamp>2022-11-06T10:58:35Z</timestamp>
+      <contributor>
+        <username>Dtworzydlo</username>
+        <id>1186646</id>
+      </contributor>
+      <comment>/* growthexperiments-addlink-summary-summary:2|0|1 */</comment>
+      <origin>68672225</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6827" sha1="6upt5d3xsko7z9b8g3georhichh89t5" xml:space="preserve">'''Polityka naukowa''' – definiowana jest jako działalność państwa oraz innych instytucji publicznych mająca na celu takie wpływanie na [[Nauka|naukę]], które w sposób optymalny przyczyni się do [[Wzrost gospodarczy|wzrostu gospodarczego]] i [[Rozwój społeczny|rozwoju społecznego]] przy jak najlepszym wykorzystaniu środków na [[badania naukowe]]. Często do szeroko rozumianej polityki naukowej zalicza się także [[Polityka innowacyjna|politykę innowacyjną]], której zadaniem jest wprowadzanie wyników badań naukowych, wynalazków i usprawnień do praktyki gospodarczej. Jest to jedna z najmłodszych dziedzin [[Polityka gospodarcza|polityki gospodarczej]], ukształtowała się dopiero w latach pięćdziesiątych ubiegłego stulecia.
+
+== Historia ==
+Przełomową datą jest rok 1935, kiedy to wydano pracę J.D. Bernala pt. „The Social Function of Science” („Społeczna funkcja nauki”), ujmującą całościowo problemy nauki we współczesnym świecie. W 1967 r. we Frascati (Włochy) odbyła się konferencja przedstawicieli krajów skupionych w [[OECD]], w trakcie której wypracowano wiele zaleceń i definicji dotyczących polityki naukowej, będących podstawą obecnego rozwoju tej dziedziny. Dzięki ustaleniom z 1967 r. w wielu krajach, także w krajach rozwijających się, utworzono organy decyzyjne a szczeblu rządowym odpowiedzialne za politykę naukową.
+
+== Założenia ==
+Działania podejmowane w ramach polityki naukowej:
+* określenie celów, które nauka ma osiągnąć w toku prowadzonych badań
+* przekształcenia w strukturze organizacyjnej nauki
+* tworzenie warunków sprzyjających rozwijaniu efektywnej działalności naukowej
+* kształtowanie rozwiązań ułatwiających [[Wdrażanie technologii|wdrażanie osiągnięć nauki]] do praktyki gospodarczej
+
+Procedura formułowania założeń polityki naukowej, dokonywana przez instytucje publiczne, wymaga określonych działa rozpoznawczych, dotyczących:
+* potencjału naukowo-badawczego kraju
+* stanu kadry pracowniczej z wyższym wykształceniem
+* struktury potencjału naukowego
+* regionalnego rozmieszczenia potencjału naukowego
+* planów badań i prac rozwojowych
+* sytuacji materialnej pracowników nauki
+* obowiązujących przepisów prawnych, mających wpływ na funkcjonowanie nauki
+
+Przy formułowaniu celów polityki naukowej należy uwzględniać:
+* rosnące koszty badań naukowych i prac rozwojowych
+* skrócenie cyklu życia poszczególnych produktów i technologii
+* wzrastającą kompleksowość nauki i techniki
+
+== Klasyfikacja celów polityki naukowej ==
+Klasyfikacji celów można dokonać na kilka sposobów.
+
+I. Klasyfikacja rodzajowa stosowana w krajach [[Organizacja Współpracy Gospodarczej i Rozwoju|OECD]]:
+* cele militarne
+* cele społeczne
+* cele ekonomiczne
+* cele naukowe
+
+II. Klasyfikacja na podstawie okresu, którego dotyczą cele.
+
+1. '''Cele strategiczne''' (długookresowe):
+* przemiany strukturalne w gospodarce
+* zwiększenie liczby innowacji przemysłowych
+* podnoszenie konkurencyjności wyrobów na rynkach międzynarodowych
+* zwiększenie liczby miejsc pracy i poprawa jej warunków
+* poprawa opieki zdrowotnej
+
+2. '''Cele taktyczne''' (obejmują działania bieżące):
+* polepszanie obsługi informacyjnej i konsultacyjnej
+* wzmacnianie bazy naukowej
+* zwiększenie popytu na innowacje służące społeczeństwu
+
+== Typy polityki naukowej ==
+1.'''partycypacja''' – polega na finansowym wspieraniu badań za pośrednictwem wyspecjalizowanych instytucji i funduszy
+
+2.'''regulacja''' – zadaniem władzy państwowej jest określenie ram oddziaływań służących realizacji polityki naukowej (np. ustalanie wielkości środków w budżecie na naukę lub określanie zasad funkcjonowania uczelni)
+
+3.'''popieranie''' – oddziaływanie pośrednie na [[Jednostka badawczo-rozwojowa|jednostki badawczo-rozwojowe]] i organizacje samorządowe nauki w celu zapewnienia im uczestnictwa w realizacji polityki naukowej państwa, przy pozostawieniu tym instytucjom w sprawie tematów i zadań badawczych
+
+* popieranie instytucjonalne (podmiotowe)
+* popieranie projektowe
+* udzielanie pomocy
+
+== Instrumenty polityki naukowej ==
+1. '''Instrumenty o charakterze ogólnym''' – oddziałujące na cały proces badawczy, łącznie z wdrażaniem osiągnięć nauki do praktyki gospodarczej, np.
+
+* Dotacje i subwencje rządowe
+
+* Umowy uzgodnione
+
+* Kontrakty programowe
+
+2. '''Instrumenty wyspecjalizowane''' – oddziałujące jedynie na pewne elementy procesu badawczego, np.
+
+* Ulgi finansowe
+
+* Premie za innowacje
+
+=== Instrumenty polityki naukowej stosowane w Polsce ===
+1. '''Związane z [[polityka podatkowa|polityką podatkową]]:'''
+
+* Zaliczanie do kosztów uzyskania przychodów wydatków poniesionych przez podatników na prowadzenie badań naukowych lub prac badawczo-rozwojowych
+
+* Zaliczanie do kosztów uzyskania przychodów wydatków poniesionych przez podatnika na zakup wyników badań (o ile następuje nabycie praw majątkowych)
+
+* Zaliczanie do kosztów uzyskania przychodów nieinwestycyjnych wydatków wdrożeniowych poniesionych przez podatnika
+
+* Odliczanie w całości lub w części od dochodu przed opodatkowaniem, do wysokości 50% tego dochodu, wydatków inwestycyjnych związanych z wdrożeniem patentów, licencji, [[know-how]] oraz wyników krajowych prac naukowych
+
+* Odliczanie od dochodu do opodatkowania wydatków poniesionych na innowacyjne inwestycje w okresie dłuższym niż jeden rok podatkowy
+
+* Ulgi podatkowe dla osób fizycznych – autorów nowych rozwiązań innowacyjnych
+
+2. '''Instrumenty finansowe i organizacyjne:'''
+
+* Przyśpieszona [[amortyzacja]]
+
+* Ulgi i preferencje kredytowe (związane z gwarancjami państwa)
+
+* Wprowadzenie nowych rozwiązań prawnych i instytucjonalnych na rynku kapitałowym
+
+* Ubezpieczanie inwestorów przy wdrażaniu nowych technologii
+
+* Koordynacja polityki licencyjnej z polityką naukową
+
+* Przepisy o wynalazczości
+
+== Instytucje ==
+W Polsce organem pomocniczym [[Ministerstwo Nauki i Szkolnictwa Wyższego|ministra nauki i szkolnictwa wyższego]] w zakresie polityki naukowej państwa jest [[Komitet Polityki Naukowej]] (KPN), działający w oparciu o [[Prawo o szkolnictwie wyższym i nauce|ustawę z dnia 20 lipca 2018 r. – Prawo o szkolnictwie wyższym i nauce]]&lt;ref&gt;Art. 340 ustawy Prawo o szkolnictwie wyższym i nauce ({{Dziennik Ustaw|2022|574}})&lt;/ref&gt;.
+
+== Przypisy ==
+{{Przypisy}}
+
+== Źródła ==
+* ''Polityka gospodarcza'', pod red. B. Winiarskiego, Warszawa 1999.
+
+* Moszkowicz K., ''Polityka innowacyjna w krajach wysoko rozwiniętych'', Wrocław 1995.
+
+* ''Nauka, technologia, gospodarka: wzajemne powiązania i globalne tendencje rozwoju'', pod red. A. Kuklińskiego, Warszawa 1995.
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Nauka]]
+[[Kategoria:Polityka gospodarcza]]</text>
+      <sha1>6upt5d3xsko7z9b8g3georhichh89t5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Akademickie i naukowe sieci komputerowe</title>
+    <ns>14</ns>
+    <id>853748</id>
+    <revision>
+      <id>57414436</id>
+      <parentid>57410504</parentid>
+      <timestamp>2019-09-04T21:12:48Z</timestamp>
+      <contributor>
+        <username>Fallaner</username>
+        <id>501569</id>
+      </contributor>
+      <comment>Wycofano ostatnią zmianę treści (wprowadzoną przez [[Specjalna:Wkład/81.15.177.194|81.15.177.194]]) i przywrócono wersję 51306063 autorstwa SpiderMum</comment>
+      <origin>57414436</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="55" sha1="606ollvqviypk232v52zr64odqgmpci" xml:space="preserve">[[Kategoria:Sieci rozległe]]
+[[Kategoria:Nauka|Sieci]]</text>
+      <sha1>606ollvqviypk232v52zr64odqgmpci</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Europejski kodeks postępowania na rzecz uczciwości badań naukowych</title>
+    <ns>0</ns>
+    <id>5509585</id>
+    <revision>
+      <id>72754098</id>
+      <parentid>71470083</parentid>
+      <timestamp>2024-02-03T01:32:35Z</timestamp>
+      <contributor>
+        <username>InternetowyGołąb</username>
+        <id>807929</id>
+      </contributor>
+      <comment>dopracować, sk</comment>
+      <origin>72754098</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5033" sha1="eda8kc7a3c55frjovba45cq1d7659ln" xml:space="preserve">{{Dopracować|więcej przypisów=2024-02}}
+
+'''Europejski kodeks postępowania na rzecz uczciwości badań naukowych''' [[Europejska Federacja Akademii Nauk (ALLEA)|Europejskiej Federacji Akademii Nauk]] - ALLEA (''European Code of Conduct for Research Integrity of All European Academies'') oraz [[Europejska Fundacja Nauki|Europejskiej Fundacji Nauki]] (ESF) został opublikowany w 2011 r. i zmieniony w 2017 r. Ostatnia wersja pochodzi z 2023 roku&lt;ref&gt;{{Cytuj |autor = ALLEA |tytuł = The European Code of Conduct for Research Integrity |data = 2023 |data dostępu = 2023-08-15 |url = https://allea.org/code-of-conduct/}}&lt;/ref&gt;.
+
+Preambuła podkreśla, że badania to systematyczne poszukiwanie wiedzy poprzez analizę, obserwację i myślenie, mające na celu lepsze zrozumienie świata i nas samych&lt;ref&gt;{{Cytuj |autor = ALLEA |tytuł = The European Code of Conduct for Research Integrity |data = 2023 |data dostępu = 2023-08-15 |url = https://allea.org/wp-content/uploads/2023/06/European-Code-of-Conduct-Revised-Edition-2023.pdf |język = en}}&lt;/ref&gt;. Kodeks ten obowiązuje w różnych dziedzinach naukowych, umożliwiając współpracę między naukowcami, niezależnie od granic społecznych czy politycznych. Jest to dokument o aktualnej wartości, który kładzie nacisk na etyczne, prawne i zawodowe obowiązki badaczy oraz instytucji finansujących badania, dając elastyczność w kontekście zmieniających się warunków społecznych, politycznych i technologicznych. Jego celem jest utrzymanie wysokich standardów badań poprzez samoregulację w środowisku naukowym i akademickim.
+
+Kodeks opisuje dobre praktyki badawcze w następujących zakresach:
+
+*Środowisko badawcze
+
+*Szkolenia, nadzór i mentoring
+
+*Procedury badawcze
+
+*Zabezpieczenia
+
+*Praktyki i zarządzanie danymi
+
+*Współpraca
+
+*Publikacja i rozpowszechnianie
+
+*Przeglądanie, ocenianie i edytowanie
+
+== Zasady dobrej praktyki badawczej ==
+
+* '''Rzetelność''' w zapewnianiu jakości badań, odzwierciedlona w projekcie, metodologii, analizie i wykorzystaniu zasobów.
+* '''Uczciwość''' w opracowywaniu, podejmowaniu, recenzowaniu, raportowaniu i komunikowaniu badań w sposób przejrzysty, sprawiedliwy, pełny i bezstronny.
+* '''Szacunek''' dla współpracowników, uczestników badań, społeczeństwa, ekosystemów, dziedzictwa kulturowego i środowiska.
+* '''Odpowiedzialność''' za badania od pomysłu do publikacji, za zarządzanie nimi i ich organizację, za szkolenia, nadzór i mentoring oraz za ich szerszy wpływ.
+
+== Nadużycia w badaniach i inne niedopuszczalne praktyki ==
+=== Nadużycia w badaniach (tzw. FFP): ===
+*'''Fabrykacja''' to wymyślanie rezultatów i rejestrowanie ich tak, jakby były prawdziwe.
+
+*'''Fałszerstwo''' to manipulowanie materiałami badawczymi, sprzętem lub procesami albo zmienianie, pomijanie lub zatajanie danych lub wyników bez uzasadnienia.
+
+*'''Plagiat''' to wykorzystywanie pracy i pomysłów innych osób bez podania właściwego źródła, naruszając w ten sposób prawa pierwotnego autora (autorów) do ich wyników intelektualnych.
+
+=== Inne naruszenia dobrych praktyk badawczych (wyliczenie niewyczerpujące): ===
+*Manipulowanie autorstwem lub odbieranie roli innych badaczy w publikacjach.
+
+*Ponowna publikacja istotnych części własnych wcześniejszych publikacji, w tym tłumaczeń, bez
+
+należytego uznania lub zacytowania oryginału ("autoplagiat").
+
+*Wybiórcze cytowanie w celu poprawy własnych wyników lub zadowolenia redaktorów, recenzentów lub
+
+współpracowników.
+
+*Nieujawnianie wyników badań.
+
+*Zagrożenie uzależnieniem badań od fundatorów (sponsorów) lub raportowania wyników promujących stronniczość.
+
+*Niepotrzebne rozszerzanie bibliografii badania.
+
+*Oskarżanie naukowca o niewłaściwe postępowanie lub inne naruszenia w złośliwy sposób.
+
+*Fałszywe przedstawianie osiągnięć badawczych.
+
+*Wyolbrzymianie znaczenia i praktycznego zastosowania ustaleń.
+
+*Opóźnianie lub niedozwolone utrudnianie pracy innym badaczom.
+
+*Nadużywanie stażu pracy w celu zachęcania do naruszania rzetelności badań.
+
+*Ignorowanie domniemanych naruszeń rzetelności badawczej przez inne osoby lub ukrywanie niewłaściwych reakcji na niewłaściwe postępowanie lub inne naruszenia ze strony instytucji.
+
+*Zakładanie lub wspieranie czasopism, które podważają kontrolę jakości badań ("czasopisma drapieżne").
+
+== Stała Grupa Robocza ALLEA ds. Nauki i Etyki ==
+'''Stała Grupa Robocza ALLEA ds. Nauki i Etyki''' została utworzona w celu zgromadzenia ekspertów z akademii w Europie i zapewnienia im platformy do ciągłej debaty na temat etyki i uczciwości badań. Grupa spotyka się regularnie, a także zwołuje spotkania tematyczne w szerszym gronie, zazwyczaj we współpracy z innymi odpowiednimi organizacjami, takimi jak [[Komisja Europejska]], [[Europejska Fundacja Nauki]] (ESF), [[Międzynarodowa Rada Nauki]] (ICSU) i [[UNESCO]].
+
+== Przypisy ==
+{{Przypisy}}
+
+[[Kategoria:Nauka]]
+[[Kategoria:Organizacje]]
+[[Kategoria:Polska Akademia Nauk]]</text>
+      <sha1>eda8kc7a3c55frjovba45cq1d7659ln</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Naukoznawstwo</title>
+    <ns>14</ns>
+    <id>5528277</id>
+    <revision>
+      <id>71303965</id>
+      <timestamp>2023-09-19T21:37:47Z</timestamp>
+      <contributor>
+        <username>Tarnoob</username>
+        <id>274492</id>
+      </contributor>
+      <comment>utworzenie</comment>
+      <origin>71303965</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="19" sha1="mibkh6fry0byg349rvhpq39emi7lb5p" xml:space="preserve">[[Kategoria:Nauka]]</text>
+      <sha1>mibkh6fry0byg349rvhpq39emi7lb5p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Karto-Teka Gdańska</title>
+    <ns>0</ns>
+    <id>5741494</id>
+    <revision>
+      <id>74981017</id>
+      <parentid>74946922</parentid>
+      <timestamp>2024-10-16T20:57:55Z</timestamp>
+      <contributor>
+        <username>Destrotop</username>
+        <id>1220941</id>
+      </contributor>
+      <comment>/* Autorzy „Karto-Teki Gdańskiej”http://karto-teka.ptft.pl/dla-autorow/nasi-autorzy.html */</comment>
+      <origin>74981017</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4667" sha1="0jr0uemnued0to3f66btj3y4weijndv" xml:space="preserve">'''Karto-Teka Gdańska''' – półrocznik naukowy wydawany przez [[Pomorskie Towarzystwo Filozoficzno-Teologiczne]] oraz [[Wydział Filologiczny Uniwersytetu Gdańskiego]]. Pismo wychodzi od 2017 roku&lt;ref name=":0"&gt;[https://gdansk.gedanopedia.pl/gdansk/?title=KARTO-TEKA_GDA%C5%83SKA,_pismo gedanopedia.pl]
+&lt;/ref&gt;. Problematyka podejmowana na łamach półrocznika obejmuje zagadnienia z obszaru filozofii, religioznawstwa, antropologii kulturowej, historii i teologii.Każdy numer pisma zawiera stałe działy: Artykuły (temat przewodni numeru), Varia, Archiwum humanistyki, Recenzje i polemiki oraz sprawozdania&lt;ref name=":1"&gt;http://karto-teka.ptft.pl/numer-7/numer-7-artykul-13.html
+
+&lt;/ref&gt;. Każdy artykuł półrocznika podlega procedurze recenzowania. Podstawową wersją pisma jest wersja internetowa&lt;ref&gt;{{Cytuj |tytuł = Karto-Teka |data dostępu = 2024-09-26 |opublikowany = karto-teka.ptft.pl |url = http://karto-teka.ptft.pl/}}&lt;/ref&gt;. Informacja o ilości pobrań i wejść na stronę czasopisma jest ogólnie dostępna&lt;ref&gt;{{Cytuj |tytuł = Uniweryteckie Czasopisma Naukowe |data dostępu = 2024-09-26 |opublikowany = czasopisma.bg.ug.edu.pl |url = https://czasopisma.bg.ug.edu.pl/index.php/karto-teka}}&lt;/ref&gt;. Czasopismo znajduje się na liście czasopism punktowanych przez MEiN&lt;ref&gt;[https://arianta.pl/#/czasopismo/50421 Arianta - Naukowe i branżowe polskie czasopisma elektroniczne]&lt;/ref&gt;.
+
+== Historia ==
+Półrocznik powstał z inicjatywy naukowców o interdyscyplinarnych zainteresowaniach, związanych z pomorskimi środowiskami naukowymi i działających w ramach [[Pomorskie Towarzystwo Filozoficzno-Teologiczne|Pomorskiego Towarzystwa Filozoficzno-Teologicznego]]&lt;ref name=":2"&gt;https://www.ptft.pl/&lt;/ref&gt;. Bezpośrednimi założycielami byli Zbyszek Dymarski i Maria Urbańska-Bożek, która kieruje pismem od chwili jego powstania.
+
+== Cele i zadania ==
+Pismo ma charakter interdyscyplinarny. Publikowane są w nim artykuły z zakresu szeroko pojętych nauk humanistycznych i społecznych, ze szczególnym nachyleniem ku filozofii, teologii, religioznawstwu oraz antropologii kulturowej. Nad utrzymaniem linii programowej czuwa Rada Naukowa, w skład której wchodzą uczeni z Polski i innych krajów&lt;ref name=":3"&gt;http://karto-teka.ptft.pl/pismo/rada-naukowa.html&lt;/ref&gt;. Rada Redakcji&lt;ref name=":4"&gt;http://karto-teka.ptft.pl/pismo/redakcja.html&lt;/ref&gt; podejmuje starania, by każdy numer półrocznika miał temat przewodni.
+
+== Autorzy „Karto-Teki Gdańskiej”&lt;ref name=":5"&gt;http://karto-teka.ptft.pl/dla-autorow/nasi-autorzy.html&lt;/ref&gt; ==
+
+
+{{kolumny
+|col1=
+* Dariusz Barbaszyński
+* Agnieszka Bednarek-Bohdziewicz
+* Tomasz Biłka OP
+* [[Aleksander Bobko]]
+* [[Tarzycjusz Buliński]]
+* Anna Chęćka
+* Hieronim Chojnacki
+* Grzegorz Chrzanowski OP
+* {{link-interwiki|Frank Decker|Q=Q1443130|tekst=Frank Decker?&lt;small&gt;&lt;sup&gt;(inne języki)&lt;/sup&gt;&lt;/small&gt;}}
+* [[Janusz Dobieszewski]]
+* Maciej Dombrowski
+* Łukasz Dominiak
+* Andrzej Draguła
+* [[Wojciech Gajewski (historyk)|Wojciech Gajewski]]
+* [[Tomasz Gałuszka|Tomasz Gałuszka OP]]
+* Monika Humeniuk
+* [[Henryk Elzenberg (filozof)|Henryk Elzenberg]]
+* Marcin Grodzki
+* [[Gunnar Heinsohn]]
+* {{link-interwiki|Paweł Horodecki|Q=Q11181454|tekst=Paweł Horodecki?&lt;small&gt;&lt;sup&gt;(inne języki)&lt;/sup&gt;&lt;/small&gt;}}
+* Marzenna Jakubczak
+* bp [[Michał Janocha]]
+* Dominik Jarczewski OP
+* Hieronim Kaczmarek OP
+|col2=
+* [[Michał Roch Kaczmarczyk|Michał Kaczmarczyk]]
+* Zbigniew Kaźmierczyk
+* [[Lilianna Kiejzik]]
+* [[Edmund Kizik]]
+* [[Jan Andrzej Kłoczowski|Kłoczowski Jan Andrzej  OP]]
+* [[Piotr Kostyło]]
+* [[Władysław Krajewski (filozof)|Władysław Krajewski]]
+* Olga Kubińska
+* Zbigniew Landowski
+* [[Andrzej C. Leszczyński]]
+* Grzegorz Lewicki
+* [[Józef Majewski]]
+* [[Krzysztof Mech]]
+* Justyna Melonowska
+* Katarzyna Mirgos
+* Elżbieta Mikiciuk
+* Michał Mrozek OP
+* Ks. [[Krzysztof Niedałtowski]]
+* Marek Nowak OP
+* Małgorzata Obrycka
+* Tomasz Olczyk
+* Grzegorz Ojcewicz
+* [[Katarzyna Pachniak]]
+* [[Michał Paluch]] OP
+|col3=
+* [[Henryk Paprocki]]
+* Romuald Piekarski
+* Weronika Piróg
+* [[Jerzy Prokopiuk]]
+* Piotr Przybysz
+* Kacper Pyż
+* Jacek Aleksander Prokopski
+* Edyta Puchalska
+* Marian Pułtuski
+* [[Adam Regiewicz]]
+* [[Piotr Sikora (teolog)|Piotr Sikora]]
+* [[Jan Skoczyński]]
+* [[Adam Synowiecki]]
+* Ewa Szumilewicz
+* [[Karol Tarnowski]]
+* [[Karol Toeplitz]]
+* [[Lech Witkowski]]
+* Michał Woroniecki
+* Andrzej Woziński
+* Michał Wróblewski
+* Urszula Zbrzeźniak
+* Marta Znaniecka
+* Bogusław Żyłko
+}}
+
+== Przypisy ==
+{{Przypisy}}
+
+{{SORTUJ:Destrotop/Karto-Teka Gdańska}}
+[[Kategoria:Czasopisma w Polsce]]
+[[Kategoria:Nauka]]
+[[Kategoria:Prasa w Gdańsku]]</text>
+      <sha1>0jr0uemnued0to3f66btj3y4weijndv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Terminologia naukowa</title>
+    <ns>14</ns>
+    <id>5779779</id>
+    <revision>
+      <id>75307423</id>
+      <timestamp>2024-11-20T19:58:41Z</timestamp>
+      <contributor>
+        <username>Chrumps</username>
+        <id>6748</id>
+      </contributor>
+      <comment>kat.</comment>
+      <origin>75307423</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="46" sha1="566444fpsqqdjccvbhd8jfcdqmnhq8i" xml:space="preserve">[[Kategoria:Terminologia]]
+[[Kategoria:Nauka]]</text>
+      <sha1>566444fpsqqdjccvbhd8jfcdqmnhq8i</sha1>
+    </revision>
+  </page>
+</mediawiki>

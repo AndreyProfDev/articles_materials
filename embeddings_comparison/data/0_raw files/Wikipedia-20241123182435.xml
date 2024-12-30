@@ -1,0 +1,1377 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="pl">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>plwiki</dbname>
+    <base>https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna</base>
+    <generator>MediaWiki 1.44.0-wmf.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Specjalna</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Dyskusja</namespace>
+      <namespace key="2" case="first-letter">Wikipedysta</namespace>
+      <namespace key="3" case="first-letter">Dyskusja wikipedysty</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Dyskusja Wikipedii</namespace>
+      <namespace key="6" case="first-letter">Plik</namespace>
+      <namespace key="7" case="first-letter">Dyskusja pliku</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Dyskusja MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Szablon</namespace>
+      <namespace key="11" case="first-letter">Dyskusja szablonu</namespace>
+      <namespace key="12" case="first-letter">Pomoc</namespace>
+      <namespace key="13" case="first-letter">Dyskusja pomocy</namespace>
+      <namespace key="14" case="first-letter">Kategoria</namespace>
+      <namespace key="15" case="first-letter">Dyskusja kategorii</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Dyskusja portalu</namespace>
+      <namespace key="102" case="first-letter">Wikiprojekt</namespace>
+      <namespace key="103" case="first-letter">Dyskusja wikiprojektu</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Moduł</namespace>
+      <namespace key="829" case="first-letter">Dyskusja modułu</namespace>
+      <namespace key="2600" case="first-letter">Wątek</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Kategoria:Logika</title>
+    <ns>14</ns>
+    <id>65983</id>
+    <revision>
+      <id>36126589</id>
+      <parentid>35758775</parentid>
+      <timestamp>2013-04-13T11:51:35Z</timestamp>
+      <contributor>
+        <username>KLBot2</username>
+        <id>478666</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: Przenoszę linki interwiki (5) do Wikidata, są teraz dostępne do edycji na [[:d:Q7217201]]</comment>
+      <origin>36126589</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="106" sha1="nyr68n4f1kmzbe2w45ucoc0bpzr4ncg" xml:space="preserve">{{Commonscat|Logic}}
+
+[[Kategoria:Filozofia]]
+[[Kategoria:Nauki ścisłe]]
+[[Kategoria:Metodologia nauki]]</text>
+      <sha1>nyr68n4f1kmzbe2w45ucoc0bpzr4ncg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Kierunki filozoficzne</title>
+    <ns>14</ns>
+    <id>444819</id>
+    <revision>
+      <id>35942263</id>
+      <parentid>34757431</parentid>
+      <timestamp>2013-03-31T18:33:47Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>543400</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Addbot|Bot:]] Przenoszę linki interwiki (45) do [[d:|Wikidata]], są teraz dostępne do edycji na [[d:q8943158]]</comment>
+      <origin>35942263</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23" sha1="hhijszvm6ch4eoho4a67s2be6pfaqkz" xml:space="preserve">[[Kategoria:Filozofia]]</text>
+      <sha1>hhijszvm6ch4eoho4a67s2be6pfaqkz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Instytucje filozoficzne</title>
+    <ns>14</ns>
+    <id>446084</id>
+    <revision>
+      <id>35942291</id>
+      <parentid>29035620</parentid>
+      <timestamp>2013-03-31T18:36:18Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>543400</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Addbot|Bot:]] Przenoszę linki interwiki (2) do [[d:|Wikidata]], są teraz dostępne do edycji na [[d:q9019036]]</comment>
+      <origin>35942291</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="67" sha1="h9p93ewcibtu5tr528vmzu9caoea4m2" xml:space="preserve">[[Kategoria:Filozofia]]
+[[Kategoria:Organizacje naukowe|Filozofia]]</text>
+      <sha1>h9p93ewcibtu5tr528vmzu9caoea4m2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Filozofia</title>
+    <ns>0</ns>
+    <id>1519</id>
+    <revision>
+      <id>75309169</id>
+      <parentid>75005659</parentid>
+      <timestamp>2024-11-21T02:01:07Z</timestamp>
+      <contributor>
+        <username>Renamed user 667b60d892bb0a7a03ff68623b6de1eb</username>
+        <id>1354751</id>
+      </contributor>
+      <minor/>
+      <comment>/* Różnorodność filozofii */ Dodanie linku</comment>
+      <origin>75309169</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="30328" sha1="5wzylxrcdcp4ity4825cmwdbrjvzwpa" xml:space="preserve">[[Plik:Hortus Deliciarum, Die Philosophie mit den sieben freien Künsten.JPG|mały|[[Herrada z Landsbergu]], ''[[Hortus deliciarum]]'', ''Philosophia et septem artes liberales'']]
+[[Plik:Rembrandt Harmensz. van Rijn 038.jpg|mały|[[Rembrandt]], ''Medytujący filozof'', 1632]]
+[[Plik:Le Penseur in the Jardin du Musée Rodin, Paris March 2014.jpg|mały|[[Auguste Rodin]], ''[[Myśliciel]]'', 1902]]
+{{Listen| filename = 8 - Filozofia.mp3 |title = Rozmowa o filozofii |type = speech |description = Odcinek podkastu Nasze Źródła z Andrzejem Serafinem i Markiem Sławińskim}}
+
+'''Filozofia''' ({{greka|φιλοσοφία}} od: {{greka|φίλος}} – „miły, ukochany” i {{greka|σοφία}} – „mądrość”, tłumaczone jako „umiłowanie mądrości”) – różnie definiowany element [[Kultura|kultury]] umysłowej. Obejmuje te krytyczne rozważania, które nie są oparte na [[Wiara religijna|wierze]] i nie należą do żadnej z nauk [[Nauki formalne|formalnych]] ani [[Nauki empiryczne|empirycznych]]. Bywa zaliczana do [[Nauka|nauk]] i kontrastowana z [[Nauki szczegółowe|naukami szczegółowymi]]. Czasem definiuje się ją:
+* jako systematyczną refleksję nad podstawowymi problemami i ideami, dążącą do poznania ich istoty, a także do [[Holizm|całościowego]] zrozumienia świata{{odn|Audi|2006|s=336}};
+* przez wyliczenie – jako teorię [[byt]]u, [[Poznanie|poznania]] i [[Wartość (filozofia)|wartości]], czyli [[Ontologia|ontologię]] z [[Metafizyka|metafizyką]], [[Epistemologia|epistemologię]] i [[Aksjologia|aksjologię]], a czasem też [[Logika|logikę]] i [[Dialektyka|dialektykę]].
+
+Zakres znaczeniowy filozofii ewoluował&lt;ref name="epwn"&gt;{{Encyklopedia PWN | id = 3900997 | tytuł = filozofia | data dostępu = 2023-03-18}}&lt;/ref&gt; i w latach 20. XXI wieku pozostaje on wieloznaczny:
+* w [[Starożytna Grecja|starożytnej Grecji]], gdzie pojawił się po raz pierwszy, był on synonimem nauki;
+* w [[Średniowiecze|średniowieczu]] filozofię kontrastowano z [[Teologia|teologią]], [[Nauki prawne|prawoznawstwem]] i [[Medycyna|medycyną]], uznając za synonim [[Sztuki wyzwolone|sztuk wyzwolonych]]&lt;ref&gt;{{otwarty dostęp}} [[Jan Woleński]], ''[https://filozofuj.eu/jan-wolenski-filozofia-i-nauka/ Filozofia i nauka. Konflikt czy symbioza?]'', filozofuj.eu, 8 września 2016 [dostęp 2023-03-18].&lt;/ref&gt;;
+* najpóźniej w czasach [[Nowożytność|nowożytnych]] filozofia zaczęła być kontrastowana z [[Nauki empiryczne|naukami empirycznymi]], a czasem z nauką w ogóle{{fakt|data=2023-02}}.
+
+Filozofia wyłoniła się najpóźniej w [[Starożytność|starożytności]], niezależnie na co najmniej trzech obszarach [[Eurazja|Eurazji]]: w basenie [[Morze Śródziemne|Morza Śródziemnego]], na [[Subkontynent indyjski|subkontynencie indyjskim]] oraz w [[Chiny|Chinach]], przez co wyróżnia się trzy tradycje filozoficzne: [[Filozofia Zachodu|zachodnią]] i dwie wschodnie: [[Filozofia indyjska|indyjską]] oraz [[Filozofia chińska|chińską]]. Ta pierwsza występowała nie tylko w [[Europa|Europie]], ale również na innych obszarach kultury greckiej, [[Filozofia hellenistyczna|hellenistycznej]], [[Filozofia rzymska|rzymsko]]-[[Filozofia bizantyńska|bizantyjskiej]] oraz [[Filozofia świata islamu|islamskiej]]. Nazwy pozostałych dwóch tradycji także opisują obszar tylko w przybliżeniu, ponieważ myśl indyjską – związaną z [[hinduizm]]em – rozwijano także w innych miejscach [[Azja|Azji]], a idee chińskie dotarły też do innych obszarów [[Azja Wschodnia|Azji Wschodniej]]. Geograficzne granice tych filozofii zatarły się w epoce [[Globalizacja|globalizacji]].
+
+Filozofia wywarła wpływ na inne obszary kultury jak [[polityka]], [[religia]], [[sztuka]] i ściśle rozumiana nauka. Najpóźniej od XX wieku wpływowym filozofom przyznaje się nagrody opisane w [[#Nagrody|osobnej sekcji]].
+
+== Główne działy ==
+W tradycji zachodniej wyróżnia się kilka centralnych obszarów filozofii{{odn|Audi|2006|s=326–327}}:
+* [[ontologia]] i [[metafizyka]] – dotyczą natury [[byt]]u i [[rzeczywistość|rzeczywistości]];
+* [[epistemologia]], in. gnoseologia lub teoria poznania – zajmuje się problemem [[poznanie|poznania]], [[wiedza|wiedzy]], [[prawda|prawdy]] i ich relacji do [[rzeczywistość|rzeczywistości]],
+* [[aksjologia]] – nauka o wartościach;
+** [[etyka]] – czyli kwestie dotyczące dobra i zła, norm postępowania, cnót,
+** [[estetyka]] – dotyczy piękna i przeżyć z nim związanych,
+* [[logika]], zwłaszcza [[logika filozoficzna]] kontrastowana z [[Logika matematyczna|matematyczną]] – nauka o regułach poprawnego rozumowania i uzasadniania twierdzeń;
+* [[historia filozofii (nauka)|historia filozofii]] – czyli [[Historiografia|naukę historyczną]] zajmującą się [[Historia filozofii|dziejami filozofii]],.
+
+Poszczególne dyscypliny filozoficzne, często zawierają elementy kilku dyscyplin centralnych, np. [[filozofia społeczna]] obejmuje kwestie etyczne, ontologiczne i epistemologiczne. Inne dziedziny to:
+{| width=100%
+|- valign=top
+|width=25%|
+* [[antropologia filozoficzna]]
+* [[filozofia czasu]]
+* [[filozofia przestrzeni]]
+* [[filozofia historii]]
+* [[filozofia przyrody]]
+|width=25%|
+* [[filozofia umysłu]]
+* [[filozofia percepcji]]
+* [[filozofia języka]]
+* [[filozofia nauki]]
+** [[filozofia matematyki]]
+** [[filozofia biologii]]
+** [[filozofia chemii]]
+** [[filozofia fizyki]]
+|width=25%|
+* [[filozofia społeczna]]
+* [[filozofia edukacji]]
+* [[filozofia polityczna]]
+* [[filozofia prawa]]
+|width=25%|
+* [[filozofia techniki]]
+* [[filozofia kultury]]
+* [[filozofia religii]]
+* [[filozofia medycyny]]
+* [[metafilozofia]]
+|}
+
+== Różnorodność filozofii ==
+Pojęcia ''filozofii'' i ''filozofa'' pojawiły się w [[Starożytna Grecja|starożytnej Grecji]] ok. VI/V w. p.n.e. Po raz pierwszy poświadczone są u [[Herodot]]a&lt;ref&gt;Herodot, ''Dzieje'', I,30,2.&lt;/ref&gt;{{odn|Maryniarczyk|Krąpiec|2000|s=1}}. Początkowo oznaczały szeroko rozumianą ciekawość intelektualną i poszukiwanie wiedzy. Ściślejszy sens terminom nadał [[Sokrates]], [[Platon]], a za nim [[Arystoteles]]. Celem filozofii miała być [[teoria]] ({{grc|θεωρία}}, ''theorίa)'', czyli poznanie prawdziwej [[rzeczywistość|rzeczywistości]], w odróżnieniu od wiedzy pozornej czy przemijającej ({{grc|δόξα}}, ''[[doksa]]''), a także od wiedzy praktycznej ({{grc|πρᾶξις}}, ''[[praksis]]''){{odn|Maryniarczyk|Krąpiec|2000|s=1}}. W dalszym swoim rozwoju, znaczenie terminu ''filozofia'' ulegało znaczącym zmianom i nie można go definiować w oderwaniu od jego historii{{odn|Schnädelbach|1995|s=58}}.
+
+=== Filozofia jako forma poznania i oświecenia ===
+Ze względu na cele jakie sobie stawia, filozofię można ujmować albo jako przedsięwzięcie poznawcze na podobieństwo [[nauka|nauki]] albo też jako formę [[iluminacja (filozofia)|oświecenia]], samowiedzy czy przemiany tożsamości{{odn|Martens|Schnädelbach|1995|s=52–56}}. Oba znaczenia terminu filozofia często się przenikają w dziełach i życiu poszczególnych filozofów.
+
+Filozofia rozumiana jako nauka, stawia sobie za zadanie [[prawda|prawdziwe]] poznanie danego przedmiotu. Z tak rozumianej filozofii wywodzą się współczesne szczegółowe dyscypliny naukowe. [[Leszek Kołakowski]] zaproponował podział typów filozofii, ze względu na cele poznawcze jakie sobie stawia:
+* podejście tradycyjne{{odn|Kołakowski|2000|s=21–22}} – filozofia ma być najbardziej ogólną z nauk, wykraczającą poza każdą z dyscyplin szczegółowych i łączącą je w całość. Bierze pod uwagę osiągnięcia poszczególnych nauk i tworzy ich syntezę, pozwalając na całościowy, pełniejszy ogląd świata.
+* podejście transcendentalne{{odn|Kołakowski|2000|s=19–21}} – w tym ujęciu filozofia jest odrębną dyscypliną, nie opierającą się na żadnej z nauk szczegółowych, i w przeciwieństwie do nich, nie opierającą się na żadnych, niepodważalnych założeniach (ma być „bezzałożeniowa”), podważając wszelkie zastane założenia.
+* podejście scjentystyczne{{odn|Kołakowski|2000|s=18–19}} – w tym ujęciu, najwyższą wartość poznawczą przypisuje się [[nauka|nauce]], w szczególności naukom ścisłym i przyrodniczym. Filozofia była wartościowa o ile przygotowywała rozwój nauk empirycznych. Wraz z wykształceniem się samodzielnych, szczegółowych dyscyplin naukowych, filozofia powinna zanikać, zastępowana przez myślenie naukowe i ograniczyć się do [[filozofia nauki|filozofii]] i [[Metodologia|metodologii nauk]];
+* podejście funkcjonalne{{odn|Kołakowski|2000|s=22}} – filozofia jest pewną formą [[dyskurs]]ywnego formułowania [[światopogląd|poglądów na świat]]. Jest ona jednym z wielu dyskursów. Jej punkt widzenia nie jest ani ogólniejszy ani uprzywilejowany, ale jest odrębny od innych dyskursów (np. religijnego).
+
+Z kolei „Filozofia jako oświecenie” nastawiona jest na przemianę filozofującego podmiotu, który może być rozumiany indywidualnie lub zbiorowo (np. społeczeństwo). Filozofia ma być formą osiągania samowiedzy, środkiem przemiany podmiotu zgodnie z określonym [[system wartości|systemem wartości]]{{odn|Martens|Schnädelbach|1995|s=52–56}}, lub też formą [[Działalność lecznicza|terapii]]{{odn|Kołakowski|2000|s=30}}.
+
+=== Paradygmaty filozofii ===
+Zasadnicze zmiany w sposobie filozofowania i zainteresowaniach filozofii określić można mianem zmiany [[paradygmat]]ów. Wyróżnić można trzy, następujące po sobie paradygmaty: ontologiczny, mentalistyczny i lingwistyczny. Różnice między nimi można przedstawić w tabeli{{odn|Schnädelbach|1995|s=90}}:
+
+{| class="wikitable"
+|-
+| '''Paradygmat''' || '''ontologiczny''' || '''mentalistyczny''' || '''lingwistyczny'''
+|-
+| ''dziedzina'' || byt || świadomość || język
+|-
+|''przedmiot'' || jestestwo || świadomość || zdania/wypowiedzi
+|-
+|''początek'' || zdziwienie || wątpienie || konfuzja
+|-
+|''pytanie wyjściowe'' || co istnieje? || co mogę wiedzieć? || co mogę zrozumieć?
+|}
+
+Trzeba tu jednak wyraźnie zaznaczyć, iż obecnie paradygmaty te się przenikają. I tak np. problem świadomości nie sprowadza się już jedynie do wiedzy, ale także do zrozumienia (co i jak mogę zrozumieć?). Język nie wiąże się już tylko z przedmiotem, ale także podmiotem jako tym, który partycypuje w języku.
+
+==== Paradygmat ontologiczny ====
+Paradygmat ontologiczny był pierwszym modelem uprawiania filozofii. Do dziś, dla wielu osób, pozostaje wzorcem filozofii jako takiej. Stąd filozofia uprawiana w paradygmacie ontologicznym określana jest mianem ''filozofii klasycznej''{{odn|Maryniarczyk|Krąpiec|2000|s=3–11}}. Centralną dyscypliną takiej filozofii jest [[metafizyka klasyczna|metafizyka]]{{odn|Swieżawski|2000|s=XI}}. Paradygmat ontologiczny dominował w [[filozofia starożytna|starożytności]] i [[filozofia średniowieczna|średniowieczu]]. Swoją rozwiniętą postać uzyskał w twórczości [[Platon]]a i [[Arystoteles]]a{{odn|Schnädelbach|1995|s=66}}, a współcześnie obecny jest m.in. w [[neotomizm]]ie.
+
+W paradygmacie ontologicznym, filozofia jest nauką o [[byt|bycie]] i jego formach. Filozofowanie wychodzi od przedmiotu, zajmuje się zasadniczymi formami jego istnienia. Zasadniczym jej pytaniem jest „co istnieje?”{{odn|Schnädelbach|1995|s=79}} Arystoteles definiował taką filozofię, jako „wiedzę rozważającą byt jako byt”&lt;ref&gt;Arystoteles, ''[[Metafizyka (Arystoteles)|Metafizyka]]'', IV.1.&lt;/ref&gt;.
+
+==== Paradygmat mentalistyczny ====
+Zasadniczy zwrot filozoficzny dokonał się we wczesnej nowożytności i łączony jest przede wszystkim z filozofią [[René Descartes|Kartezjusza]]{{odn|Schnädelbach|1995|s=79}}. Charakterystyczny dla nich typ filozofowania jest jednak starszy i jego początki można odnaleźć już u starożytnych [[sceptycyzm|sceptyków]]{{odn|Schnädelbach|1995|s=79}}.
+
+O ile filozofia nastawiona ontologicznie zajmowała się przedmiotem i jego istnieniem, to filozofia mentalistyczna postawiła pod znakiem zapytania możliwość prawdziwego poznania. Filozofia taka wskazywała, że nim możemy określić jaki jest byt, należy najpierw określić czy prawdziwe poznanie jest możliwe i jakie są jego warunki. Zasadniczym jej pytaniem jest „co można poznać?”, „co można wiedzieć?”{{odn|Schnädelbach|1995|s=79}}. Stąd też, zamiast ontologii, w paradygmacie mentalistycznym zaczęto uprzywilejowywać epistemologię.
+
+Również w tym okresie, tworzono systemy filozoficzne z rozbudowaną teorią bytu. Punktem wyjścia było jednak [[wątpienie]]. Dopiero rozstrzygając zasadnicze kwestie epistemologiczne (jakiego rodzaju wiedza jest wiedzą pewną), filozofowie przystępowali do stawiania tez ontologicznych. Przykładem rozwiniętej tradycji mentalistycznej jest [[klasyczna filozofia niemiecka]], obejmująca twórczość takich filozofów jak [[Immanuel Kant]], [[Johann Gottlieb Fichte]], [[Friedrich Wilhelm Joseph von Schelling]] i [[Georg Wilhelm Friedrich Hegel]]{{odn|Schnädelbach|1995|s=82–89}}.
+
+W opinii niektórych nurtów filozoficznych, zmiana paradygmatu na mentalistyczny oznaczała upadek filozofii. [[Tomizm|Tomiści]] krytykowali filozofię nowożytną, za rezygnację z zajmowania się bytem, i skupienie się na świecie subiektywnych idei{{odn|Maryniarczyk|Krąpiec|2000|s=26}}. Miało to oznaczać rezygnację z autonomii dyscypliny, i odejście od jej klasycznego programu wyznaczonego przez Arystotelesa{{odn|Maryniarczyk|Krąpiec|2000|s=2}}. Dla [[marksizm|marksistów]] mentalistyczny zwrot w filozofii był oznaką ''burżuazyjnej ideologii'', ukrywającej prawdziwą postać świata{{odn|Schnädelbach|1995|s=79}}.
+
+==== Paradygmat lingwistyczny ====
+Pogłębiona refleksja nad źródłami poznania, jaką rozwijano w nowożytności, doprowadziła do rosnącego przekonania o dominującej w tym procesie roli [[język (mowa)|języka]]. Stąd, na początku XX wieku nastąpił tzw. „[[zwrot lingwistyczny]]” w filozofii, który doprowadził do ukształtowania się paradygmatu lingwistycznego. Centralną postacią w tym procesie był [[Ludwig Wittgenstein]]. Filozofowie zwrócili uwagę, że język jest zasadniczym [[Środek komunikacji|medium]] zapośredniczającym wyjaśnianie świata i w konsekwencji filozofia powinna się skupić na jego analizie{{odn|Schnädelbach|1995|s=90–91}}.
+
+Zadanie to podjęła szczególnie [[filozofia analityczna]]. Lingwistyczny charakter miały też takie nurty jak [[pozytywizm logiczny]] czy [[postmodernizm (filozofia)|postmodernizm]] (szczególnie [[dekonstrukcja|dekonstrukcjonizm]]). Ukształtowanie się paradygmatu lingwistycznego wiązało się też ze znacznym rozwojem [[filozofia języka|filozofii języka]]. Zdaniem filozofów paradygmatu lingwistycznego, wiele problemów, którymi dotychczas zajmowała się filozofia było pseudoproblemami, wynikającymi z nieprecyzyjnego zdefiniowania używanych pojęć. Prawdziwym zadaniem filozofii jest natomiast oddzielanie pseudoproblemów od problemów prawdziwych, czyli określenie co może zostać poznane i wyjaśnione, i jak można o tym sensownie mówić. Filozofia ma więc pełnić funkcję porządkującą i przygotowującą grunt pod badania naukowe nauk szczegółowych. Ma zajmować się analizą ich języka (języka nauki, języka etyki) i usuwać problemy językowe{{odn|Schnädelbach|1995|s=95}}.
+
+Paradygmat lingwistyczny, podobnie jak mentalistyczny, jest krytykowany przez tomistów za zerwanie z klasyczną ideą filozofii, jeszcze dalsze (w stosunku do filozofii mentalistycznej) odejście w subiektywizm, popadanie w [[irracjonalizm]] i jest określany jako upadek filozofii{{odn|Maryniarczyk|Krąpiec|2000|s=33}}.
+
+== Filozofia a inne dziedziny ==
+Filozofia jest często ujmowana jako metadyscyplina – najbardziej ogólna z dziedzin wiedzy, wyznaczająca ich podstawy metodologiczne i warunki funkcjonowania{{odn|Audi|2006|s=332}}. Z drugiej strony jest ona dyscypliną autonomiczną – mającą własną problematykę i metody badawcze. Już u swoich korzeni w starożytnej Grecji zasadniczym problemem były kwestie odróżniania filozofii od innych dziedzin działalności ludzkiej. Filozofia powstała poprzez odróżnienie od [[mit]]u. Podobnie jak mit, zajmowała się wyjaśnianiem podstawowych kwestii dotyczących rzeczywistości. Mit czynił to jednak metodami [[poezja|poetyckimi]], opierał się na [[wyobraźnia|wyobraźni]] i [[wiara religijna|wierze]], natomiast filozofia starała się to robić poprzez [[Racjonalizm filozoficzny|racjonalne rozumowanie]]. Zgodnie z tym wyjaśnienie początków świata w ''[[Theogonia|Theogonii]]'' [[Hezjod]]a ma charakter mityczny, a za pierwszego filozofa, starającego się rozumowo wyjaśnić przyczyny wszechrzeczy, uznaje się [[Tales z Miletu|Talesa z Miletu]]&lt;ref&gt;{{cytuj książkę |nazwisko = Reale |imię = Giovanni |tytuł = Historia filozofii starożytnej |tom = 1 |wydawca = Wydawnictwo KUL |miejsce = Lublin |rok = 2000 |strony = 70–72}}&lt;/ref&gt;.
+
+Współcześnie szczególnych problemów nastręcza odróżnienie filozofii od [[nauka|nauki]] i [[teologia|teologii]]. [[Bertrand Russell]] wskazywał, że filozofia jest dyscypliną pośrednią między nimi, atakowaną przez każdą ze stron{{odn|Russell|2000|s=8}}. Podobnie jak teologia, zajmuje się pytaniami, na które nauka nie potrafi udzielić odpowiedzi, a jej rozważania mają charakter spekulatywny. W przeciwieństwie jednak do teologii, nie przyjmuje dogmatycznych założeń, a przyjmuje bliską nauce postawę krytyczną i dążącą do wyjaśnienia.
+
+=== Filozofia a nauka ===
+W [[starożytność|starożytności]] nie było podziału między filozofią a nauką. Narodziły się one razem w VI w. p.n.e.{{odn|Russell|2000|s=23}} Arystoteles nie widział istotnej różnicy między rozważaniami na temat państwa a botaniką. Być może około [[II wiek p.n.e.|II wieku p.n.e.]] z filozofii wyodrębniły się [[prawo]] i [[medycyna]], a na pewno stało się to w [[średniowiecze|średniowieczu]]. Wtedy jednak też nie było ostrego rozróżnienia, choć czasem mówiono o filozofii jako wiedzy niepochodzącej z objawienia wyższego stopnia i nauce jako wiedzy niepochodzącej z objawienia niższego stopnia. Jeszcze [[Mikołaj Kopernik|Kopernik]] oddawał swoje dzieło pod osąd filozofów, a intencje jego pracy były filozoficzne (por. [[filozofia polska]]).
+
+Dopiero później, po opracowaniu [[metoda naukowa|metody naukowej]], coraz ostrzej zarysowywał się podział. Do dzisiaj istnieją różne koncepcje stosunku filozofii do nauki, które można rozmieścić na skali, gdzie jednym końcem będzie teza, że filozofii w ogóle nie ma ([[Pozytywizm logiczny|neopozytywizm]]), a drugim klasyfikacje, które do filozofii zaliczają całą naukę ([[neotomizm]]).
+Mówi się, że nauka ma duży wpływ na tendencje w filozofii. Platon tworzył pod wrażeniem geometrii, Arystotelesa inspirowały astronomia i biologia, a Leibniza – matematyka. Paradoksalnie najdłużej trwają jednak te koncepcje filozoficzne, które nie bazują na rozwiązaniach naukowych, a jak pokazuje [[XX wiek|XX]]-wieczna [[filozofia nauki]], koncepcja nauki jako dziedziny jasnych i ostatecznych rozwiązań, co do których istnieje powszechna zgoda badaczy, jest też modelem dalekim od realnej praktyki naukowej.
+
+Z drugiej strony można zauważyć, że gdy filozofia opanuje jakiś obszar do punktu, w którym zaczyna spełniać standardy nauki, obszar ten wydziela się z niej i staje się autonomiczną dziedziną naukową. Tak się stało na przykład z [[psychologia|psychologią]] i [[socjologia|socjologią]], wyodrębnionymi z filozofii na przełomie wieku [[XIX wiek|XIX]] i [[XX wiek|XX]]. Z filozofii wyłoniły się pewne koncepcje, które stały się później [[hipoteza]]mi ściśle naukowymi jak [[atomizm]], który dodatkowo został potwierdzony, tj. stał się [[paradygmat]]em badawczym. W XIX wieku jedna z dyscyplin filozofii – [[logika]] – stała się dziedziną [[Matematyka|matematyki]]. Filozofia zajmuje się też samą definicją naukowości – zwaną [[Problem demarkacji|problemem demarkacji]] – i posłużyła krytyce koncepcji, które postulowano jako naukowe, np. [[marksizm]]u i [[Psychoanaliza|psychoanalizy]].
+
+=== Filozofia a religia ===
+[[Religia|Religie]], podobnie jak doktryny filozoficzne, odpowiadają na najbardziej podstawowe pytania o naturę i sens świata czy życia. Robią to inaczej niż filozofia, która jest oparta na [[rozum]]ie, natomiast religia opiera się na [[Wiara religijna|wierze]] w [[objawienie]]. Wierzenia religijne mają nadto charakter partykularny i przyjmują postać konkretnej [[doktryna religijna|doktryny religijnej]]. Z kolei filozofia (w szczególności [[filozofia religii]]) zajmuje się takimi pojęciami jak [[Bóg]], [[absolut]], [[religia]], [[sacrum]] w najbardziej ogólnym sensie{{odn|Anzenbacher|1992|s=30–31}}. Rozumową analizą treści wiary religijnej zajmuje się [[teologia]]. Stosunki między tymi dwoma zjawiskami kształtowały się różnie{{odn|Anzenbacher|1992|s=32–33}} – zdarzały się zarówno wzajemne wpływy, jak i opozycja:
+* pewne religie czerpią z filozofii, opierając na niej teologię. Niektóre nurty filozoficzne przekształciły się w religie; przykładem jest [[religia ludzkości]] [[Auguste Comte|Auguste’a Comte’a]];
+* niektóre kierunki filozofii inspirują się religią; nazywa się je [[Filozofia religijna|filozofią religijną]]. Przykładem jest [[filozofia chrześcijańska]];
+* część [[Patrystyka|myślicieli wczesnochrześcijańskich]], np. [[Tertulian]]{{odn|Swieżawski|2000|s=331–336}}, była wroga filozofii jako myśli pogańskiej, niemożliwej do pogodzenia z [[Biblia|Pismem Świętym]]. Pogodzenie obu tradycji – myśli chrześcijańskiej i filozofii – trwało aż do średniowiecza;
+* pewne nurty filozofii walczyły z religią jako [[przesąd]]em; przykłady to niektóre kierunki [[Oświecenie|oświecenia]], [[pozytywizm]]u czy [[marksizm]]u&lt;ref&gt;{{cytuj książkę |tytuł = Routledge Encyclopedia of Philosophy |inni = Edward Craig (ed.) |nazwisko r = Lutz-Bachmann |imię r = Matthias |rozdział = Religion, Critique of |wydawca = Taylor &amp; Francis |miejsce = London |rok = 1998 |strony = 236–238}}&lt;/ref&gt;.
+
+== Dzieje filozofii ==
+{{Osobny artykuł|Historia filozofii}}
+
+=== Periodyzacja filozofii zachodniej ===
+{{Osobna sekcja|Historia filozofii|Periodyzacja filozofii zachodniej}}
+Najpopularniejszy sposób periodyzacji historii filozofii zachodniej opiera się na ogólnym podziale zachodniej historii na [[starożytność]], [[średniowiecze]] i [[nowożytność]]. W historii filozofii zastosował go [[Wilhelm Gottlieb Tennemann]], w oparciu o wcześniejszą periodyzację [[Johann Jakob Brucker|Johanna Jakoba Bruckera]]. Zgodnie z nim dzieje filozofii dzielą się na trzy etapy&lt;ref&gt;{{Cytuj |autor = Wilhelm Gottlieb Tennemann |tytuł = [https://books.google.pl/books?id=umoYAAAAYAAJ&amp;printsec=frontcover&amp;hl=pl&amp;source=gbs_ge_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false A Manual of the History of Philosophy] |miejsce = London |wydawca = Bell &amp; Daldy |data = 1870}}&lt;/ref&gt;:
+* [[Filozofia starożytna|starożytny]], obejmujący [[Filozofia starożytna|filozofię starożytnej Grecji]] i [[Filozofia rzymska|Rzymu]];
+* [[Filozofia średniowieczna|średniowieczny]];
+* [[Filozofia nowożytna|nowożytny]].
+
+Jest on luźno stosowany w niektórych pracach&lt;ref&gt;{{Cytuj |autor = B.A.G. Fuller |tytuł = Historia filozofii |miejsce = Warszawa |wydawca = PWN |data = 1967}}&lt;/ref&gt;{{odn|Russell|2000}}, jednak był krytykowany jako zbyt schematyczny i ogólny. Przez to część historyków nie wyróżnia tak szerokich epok, dzieląc dzieje filozofii na mniejsze jednostki chronologiczne i geograficzne&lt;ref&gt;{{Cytuj |redaktor = Richard H. Popkin |tytuł = Historia filozofii zachodniej |miejsce = Poznań |wydawca = Zysk i S-ka |data = 2003}}, {{Cytuj |autor = Otfried Höffe |tytuł = Mała historia filozofii |miejsce = Warszawa |wydawca = PWN |data = 2011}}&lt;/ref&gt;. Okres [[patrystyka|patrystyczny]] i renesans są często uważane za okresy przejściowe.
+
+Niektórzy polscy historycy filozofii przyjmują inną konwencję&lt;ref&gt;{{Cytuj |autor = Zbigniew Kuderowicz |tytuł = Filozofia nowożytnej Europy |miejsce = Warszawa |wydawca = PWN |data = 1989}}; {{Cytuj |autor = Władysław Tatarkiewicz |tytuł = Historia filozofii, t. 2 |miejsce = Warszawa |wydawca = PWN |data = 1982}}&lt;/ref&gt;. Etap nowożytny uznają za zamknięty w I połowie XIX wieku; datą graniczną jest często śmierć [[Georg Wilhelm Friedrich Hegel|Hegla]] w 1831 roku. Poźniejszą filozofię nazywają [[Filozofia współczesna|współczesną]]&lt;ref&gt;{{Cytuj |autor = Zbigniew Kuderowicz |tytuł = Filozofia nowożytnej Europy |miejsce = Warszawa |wydawca = PWN |data = 1989}}&lt;/ref&gt;.
+
+== Nagrody ==
+Istnieją [[Nagroda|nagrody]] przyznawane głównie za twórczość filozoficzną jak:
+* [[Nagroda Kioto]] w dziedzinie filozofii i etyki;
+* [[Nagroda Schocka]] w dziedzinie filozofii i [[Logika|logiki]];
+* [[Nagroda Mistrza Eckharta]];
+* [[Nagroda im. księdza Józefa Tischnera]] za pisarstwo religijne lub filozoficzne.
+
+Filozofowie bywają też wśród laureatów nagród:
+* [[Literatura|literackich]] jak [[Laureaci Nagrody Nobla w dziedzinie literatury|jedna dziedzin z Nagrody Nobla]];
+* w dziedzinie [[Nauki humanistyczne|nauk humanistycznych]] jak [[Nagroda Klugego]] czy jedna z kategorii [[Nagroda Fundacji na rzecz Nauki Polskiej|Nagrody Fundacji na rzecz Nauki Polskiej]] (FNP);
+* za działalność umysłowo-[[Duchowość|duchową]]: [[Nagroda Templetona]];
+* za ogólną działalność społeczno-[[kultura]]lną: [[Nagroda Sonninga]] i [[Nagroda Erazma]].
+
+Zdarzają się laureaci więcej niż jednej z nich:
+* [[Jürgen Habermas]] – nagrody Kioto, Sonninga, Erazma i Klugego;
+* [[Charles Taylor (filozof)|Charles Taylor]] – nagrody Kioto, Klugego i Templetona;
+* [[Bertrand Russell]] – nobel literacki i Nagroda Sonninga;
+* [[Karl Popper]] – nagrody Kioto i Sonninga;
+* [[Stefan Swieżawski]] – nagrody FNP i Tischnera;
+* [[Willard Van Orman Quine]] – nagrody Kioto i Schocka;
+* [[Claude Lévi-Strauss]] – nagrody Mistrza Eckharta i Erazma;
+* [[Carl Friedrich von Weizsäcker]] – nagrody Erazma i Templetona;
+* [[Leszek Kołakowski]] – nagrody Erazma i Klugego;
+* [[Jerzy Szacki (socjolog)|Jerzy Szacki]] – nagrody FNP i Tischnera;
+* [[Michał Heller]] – nagrody Templetona i Tischnera;
+* [[Tomáš Halík]] – nagrody Templetona i Tischnera.
+
+== Przypisy ==
+{{Przypisy}}
+
+== Bibliografia ==
+{{wikisłownik|filozofia}}
+{{commonscat|Philosophy}}
+{{Wikicytaty|dopełniacz=o filozofii}}
+* {{cytuj książkę |nazwisko = Anzenbacher |imię = Arno |tytuł = Wprowadzenie do filozofii |wydawca = UNUM - Wydawnictwo Polskiego Towarzystwa Teologicznego |miejsce = Kraków |rok = 1992 |odn = tak}}
+* {{cytuj książkę |tytuł = Encyclopedia of Philosophy |url = https://archive.org/details/encyclopediaphil08borc |inni = Donald M. Borchert (red.) |nazwisko r = Audi |imię r = Robert |rozdział = Philosophy |wydawca = Thomson Gale |rok = 2006 |strony = [https://archive.org/details/encyclopediaphil08borc/page/n328 325]-337 |isbn = 0-02-866072-2 |odn = tak}}
+* {{cytuj |autor = Leszek Kołakowski |data = 2000 |redaktor = Leszek Kołakowski |rozdział = Zakresowe i funkcjonalne rozumienie filozofii |tytuł = Kultura i fetysze. Eseje |miejsce = Warszawa |wydawca = PWN |s = 17–44 |odn = tak}}
+* {{cytuj książkę |tytuł = Powszechna Encyklopedia Filozofii |url = http://www.ptta.pl/pef/index.php?id=glowna&amp;lang=pl |nazwisko r = Maryniarczyk |imię r = Andrzej |nazwisko2 r = Krąpiec |imię2 r = Mieczysław A. |rozdział = Filozofia |wydawca = Polskie Towarzystwo Tomasza z Akwinu |miejsce = Lublin |rok = 2000 |adres rozdziału = http://www.ptta.pl/pef/pdf/f/filozofia.pdf |data dostępu = 2014-04-24 |odn = tak}}
+* {{cytuj książkę |tytuł = Filozofia. Podstawowe pytania |inni = Ekkehard Martens, Herbert Schnädelbach (red.) |nazwisko r = Martens |imię r = Ekkehard |nazwisko2 r = Schnädelbach |imię2 r = Herbert |rozdział = O aktualnej sytuacji filozofii |wydawca = Wiedza Powszechna |miejsce = Warszawa |rok = 1995 |strony = 33–56 |odn = tak}}
+* {{cytuj książkę |nazwisko = Russell |imię = Bertrand |tytuł = Dzieje filozofii Zachodu i jej związki z rzeczywistością polityczno-społeczną od czasów najdawniejszych do dnia dzisiejszego |wydawca = Aletheia |miejsce = Warszawa |rok = 2000 |odn = tak}}
+* {{cytuj książkę |tytuł = Filozofia. Podstawowe pytania |inni = Ekkehard Martens, Herbert Schnädelbach (red.) |nazwisko r = Schnädelbach |imię r = Herbert |rozdział = Filozofia |wydawca = Wiedza Powszechna |miejsce = Warszawa |rok = 1995 |strony = 57–97 |odn = tak}}
+* {{cytuj książkę |nazwisko = Swieżawski |imię = Stefan |autor link = Stefan Swieżawski |tytuł = Dzieje europejskiej filozofii klasycznej |wydawca = PWN |miejsce = Warszawa - Wrocław |rok = 2000 |isbn = 83-01-13188-8 |odn = tak}}
+
+== Linki zewnętrzne ==
+* {{otwarty dostęp}} ''[http://ptta.pl/pef/pdf/f/filozofia.pdf Filozofia]'', [[Powszechna Encyklopedia Filozofii]], Polskie Towarzystwo Tomasza z Akwinu, ptta.pl [dostęp 2024-05-05].
+* {{otwarty dostęp}} Marek Kuś, ''[https://www.youtube.com/watch?v=hMlzbnHl-F8 Czy nauka może rozwiązywać problemy filozoficzne?]'', [[Centrum Kopernika Badań Interdyscyplinarnych]] – [[Uniwersytet Jagielloński]], kanał „Copernicus” na [[YouTube]], 19 lutego 2019 [dostęp 2024-10-14].
+* [https://filozofuj.eu/ „Filozofuj!”] – polski dwumiesięcznik popularyzujący filozofię, na łamach którego publikują najlepsi filozofowie z polskich i zagranicznych uczelni, wydawany od 2015 roku przez fundację Academicon.
+* {{SEP | url = children/ | autor = Michael Pritchard | tytuł = Philosophy for Children | data = 2018-02-27 | data dostępu = 2018-08-11 | tytuł polski = (Filozofia dla dzieci)}}
+* {{otwarty dostęp}} ''[https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR Philosophy]'', kanał CrashCourse na [[YouTube]] [dostęp 2024-08-29].
+
+{{Działy filozofii}}
+{{Dzieje filozofii}}
+{{Nauki humanistyczne}}
+{{Główne obszary nauki}}
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Filozofia| ]]</text>
+      <sha1>5wzylxrcdcp4ity4825cmwdbrjvzwpa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Literatura filozoficzna</title>
+    <ns>14</ns>
+    <id>1890372</id>
+    <revision>
+      <id>72968899</id>
+      <parentid>35969827</parentid>
+      <timestamp>2024-02-24T12:53:00Z</timestamp>
+      <contributor>
+        <username>KoverasLupus</username>
+        <id>434263</id>
+      </contributor>
+      <comment>kat.</comment>
+      <origin>72968899</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="113" sha1="m2vphpskd86s1l49fzo2tnujhjwioqu" xml:space="preserve">[[Kategoria:Filozofia]]
+[[Kategoria:Literatura stosowana]]
+[[Kategoria:Literatura według tematyki|filozoficzna]]</text>
+      <sha1>m2vphpskd86s1l49fzo2tnujhjwioqu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wikipedia:Skarbnica Wikipedii/Przegląd zagadnień z zakresu filozofii</title>
+    <ns>4</ns>
+    <id>1934585</id>
+    <revision>
+      <id>39311657</id>
+      <parentid>32803894</parentid>
+      <timestamp>2014-04-22T22:44:39Z</timestamp>
+      <contributor>
+        <username>MastiBot</username>
+        <id>126431</id>
+      </contributor>
+      <minor/>
+      <comment>Robot wspomógł poprawę ujednoznacznienia Historia filozofii (dzieje) – zmieniono link(i) do [[Historia filozofii]]</comment>
+      <origin>39311657</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7421" sha1="bq1pp0p60fi12mowen045c1ojp0kd8o" xml:space="preserve">{{Wiedza|kolor=black|dziedzina=Filozofia|dziedziną=filozofią}}
+__NOTOC__
+==== Indeks ====
+[[#A|A]] - [[#B|B]] - [[#C|C]] - [[#D|D]] - [[#E|E]] - [[#F|F]] - [[#G|G]] - [[#H|H]] - [[#I|I]] - [[#J|J]] - [[#K|K]] - [[#L|L]] - [[#M|M]] - [[#N|N]] - [[#O|O]] - [[#P|P]] - [[#R|R]] - [[#S|S]] - [[#T|T]] - [[#U|U]] - [[#W|W]] - [[#Z|Z]] - [[#Zobacz też|Zobacz też]]
+----
+&lt;!--bez linku--&gt;
+&lt;!--powyższe oznaczenie wstawiane na końcu wiersza wskazuje strony, do których Olafbot nie dodaje linku do niniejszego artykułu, a jeśli link istnieje, to go usuwa--&gt;
+
+=== A ===
+[[absolut]]
+- [[absolutyzm]]
+- [[Abstrakcja (filozofia)|abstrakcja]]
+- [[agnostycyzm]]
+- [[Akademia (starożytność)|Akademia Platońska]]
+- [[aksjomat]]
+- [[altruizm]]
+- [[Anaksymander]]
+- [[Anaksymenes]]
+- [[Antropomorfizacja|antropomorfizm]]
+- [[anarchizm]]
+- [[a priori]]
+- [[aprioryzm]]
+- [[a posteriori]]
+- [[Empiryzm|aposterioryzm]]
+- [[Arché|arche]]
+- [[ateizm]]
+- [[atomizm]]
+- [[Augustianizm|augustynizm]]
+&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[#Indeks:|&lt;small&gt;(wróć do indeksu)&lt;/small&gt;]]
+
+=== B ===
+[[Bóg]]
+- [[brzytwa Ockhama]]
+- [[byt]]
+- [[byt konieczny]]
+- [[byty przygodne]]
+- [[bytu struktura]]
+&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[#Indeks:|&lt;small&gt;(wróć do indeksu)&lt;/small&gt;]]
+
+=== C ===
+[[Filozofia chińska|chińska filozofia]]
+- [[cnota]]
+- [[cogito ergo sum]]
+- [[filozofia cynicka|cynizm]]
+- [[czas]]
+- [[czyn]]
+- [[człowiek jest miarą wszechrzeczy]]
+&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[#Indeks:|&lt;small&gt;(wróć do indeksu)&lt;/small&gt;]]
+
+=== D ===
+[[Rozumowanie dedukcyjne|dedukcja]]
+- [[deizm]]
+- [[Demiurg]]
+- [[determinizm]]
+- [[dialektyka]]
+- [[Eksperyment|doświadczenie]]
+- [[Dualizm (filozofia umysłu)|dualizm]]
+- [[duch (filozofia)]]
+- [[Dusza (religia)|dusza]]
+- [[działanie]]
+- [[dynamizm]]
+&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[#Indeks:|&lt;small&gt;(wróć do indeksu)&lt;/small&gt;]]
+
+=== E ===
+[[Egzystencjalizm (filozofia)|egzystencjalizm]]
+- [[empiryzm]]
+- [[Pozytywizm logiczny|empiryzm logiczny]]
+- [[epifenomenalizm]]
+- [[epikureizm]]
+- [[epistemologia]]
+- [[estetyka]]
+- [[eter (filozofia)|eter]]
+- [[eternalizm]]
+- [[etyka]]
+- [[ewentyzm]]
+&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[#Indeks:|&lt;small&gt;(wróć do indeksu)&lt;/small&gt;]]
+
+=== F ===
+[[fatalizm]]
+- [[fenomen|fenomen (filozofia)]]
+- [[fenomenalizm]]
+- [[fenomenologia]]
+- [[filozofia]]
+- [[filozofia analityczna]]
+- [[filozofia buddyjska]]
+- [[filozofia chińska]]
+- [[filozofia indyjska]]
+- [[filozofia historii]]
+- [[filozofia języka]]
+- [[filozofia kontynentalna]]
+- [[filozofia nauki]]
+- [[filozofia niemiecka]]
+- [[filozofia pokoju]]
+- [[filozofia polska]]
+- [[filozofia prawa]]
+- [[filozofia przyrody]]
+- [[filozofia religii]]
+- [[filozofia Wschodu]]
+- [[filozofia Zachodu]]
+- [[forma]]
+&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[#Indeks:|&lt;small&gt;(wróć do indeksu)&lt;/small&gt;]]
+
+=== G ===
+[[Epistemologia|gnoselogia]]
+- [[gnoza]]
+- [[Lingwistyka kognitywna|gramatyka kognitywna]]
+&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[#Indeks:|&lt;small&gt;(wróć do indeksu)&lt;/small&gt;]]
+
+=== H ===
+[[hedonizm]]
+- [[hermeneutyka]]
+- [[Historia filozofii|historia filozofii (dzieje)]]
+- [[historia filozofii (nauka)]]
+- [[historia nauki]]
+- [[Nauki humanistyczne|humanistyka]]
+- [[humanizm]]
+- [[huna]]
+&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[#Indeks:|&lt;small&gt;(wróć do indeksu)&lt;/small&gt;]]
+
+=== I ===
+[[idealizm]]
+- [[Idea|idee]]
+- [[ideologia]]
+- [[indeterminizm]]
+- [[indukcja]]
+- [[Filozofia indyjska|indyjska filozofia]]
+- [[Intuicjonizm (matematyka)|intuicjonizm]]
+- [[Intersubiektywna kontrolowalność]]
+- [[Intersubiektywna komunikatywność]]
+- [[irracjonalizm]]
+- [[istnienie]]
+- [[Istota|istota bytu]]
+&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[#Indeks:|&lt;small&gt;(wróć do indeksu)&lt;/small&gt;]]
+
+=== J ===
+[[jaźń]]
+- [[język (mowa)|język]]
+&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[#Indeks:|&lt;small&gt;(wróć do indeksu)&lt;/small&gt;]]
+
+=== K ===
+[[kabała]]
+- [[Tipitaka|kanon palijski]]
+- [[kategoria]]
+- [[konceptualizm]]
+- [[Koło Wiedeńskie]]
+- [[konwencjonalizm]]
+- [[kosmologia]]
+- [[Książę (utwór)|książę (Machiavelli)]]
+&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[#Indeks:|&lt;small&gt;(wróć do indeksu)&lt;/small&gt;]]
+
+=== L ===
+[[logika]]
+- [[Logos (filozofia)|logos]]
+- [[Szkoła lwowsko-warszawska|lwowsko-warszawska szkoła]]
+&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[#Indeks:|&lt;small&gt;(wróć do indeksu)&lt;/small&gt;]]
+
+=== M ===
+[[Materializm dialektyczny|marksizm]]
+- [[Materia (filozofia)|materia]]
+- [[materializm]]
+- [[materializm dialektyczny]]
+- [[mesjanizm]]
+- [[Metafizyka klasyczna|Metafizyka]]
+- [[metodologia]]
+- [[mistycyzm]]
+- [[mit]]
+- [[monizm]]
+- [[motizm]]
+- [[moralność]]
+&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[#Indeks:|&lt;small&gt;(wróć do indeksu)&lt;/small&gt;]]
+
+=== N ===
+[[nadczłowiek]]
+- [[Naturalizm (filozofia)|naturalizm]]
+- [[nauka]]
+- [[nauki humanistyczne]]
+- [[neokantyzm]]
+- [[Pozytywizm logiczny|neopozytywizm]]
+- [[neotomizm]]
+- [[niebyt]]
+- [[niejednoznaczność]]
+- [[nieskończoność]]
+- [[nieśmiertelność duszy]]
+- [[nihilizm]]
+- [[nominalizm]]
+- [[natywizm]]
+&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[#Indeks:|&lt;small&gt;(wróć do indeksu)&lt;/small&gt;]]
+
+=== O ===
+[[ontologia]]
+- [[filozofie orientalne|orientalne filozofie]]
+- [[osoba]]
+- [[oświecenie (religie Wschodu)|oświecenie]]
+&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[#Indeks:|&lt;small&gt;(wróć do indeksu)&lt;/small&gt;]]
+
+=== P ===
+[[panteizm]]
+- [[panenteizm]]
+- [[paradoks]]
+- [[paradoksy Zenona z Elei]]
+- [[personalizm]]
+- [[platonizm]]
+- [[pluralizm (filozofia)|pluralizm]]
+- [[politeizm]]
+- [[Aksjomat|postulat]]
+- [[pozytywizm (filozofia)|pozytywizm]]
+- [[pozytywizm logiczny]]
+- [[pragmatyka]]
+- [[pragmatyzm]]
+- [[prawda]]
+- [[prawo natury|prawo naturalne]]
+- [[problem Gettiera]]
+- [[Principia mathematica|Principia Mathematica]]
+- [[przestrzeń (filozofia)]]
+- [[przyczynowość]]
+- [[psychologia]]
+&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[#Indeks:|&lt;small&gt;(wróć do indeksu)&lt;/small&gt;]]
+
+=== R ===
+[[Racjonalizm filozoficzny|racjonalizm]]
+- [[realizm]]
+- [[reizm]]
+- [[relatywizm]]
+- [[Relatywizm moralny|relatywizm etyczny]]
+- [[religia]]
+- [[religia objawiona]]
+- [[rzecz sama w sobie]]
+&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[#Indeks:|&lt;small&gt;(wróć do indeksu)&lt;/small&gt;]]
+
+=== S ===
+[[sceptycyzm]]
+- [[scholastyka (filozofia)|scholastyka]]
+- [[scjentyzm]]
+- [[semantyka]]
+- [[sensualizm]]
+- [[sermonizm]]
+- [[sofiści]]
+- [[stoicyzm]]
+- [[substancja (filozofia)]]
+- [[Summa theologiae]]
+- [[system]]
+- [[szkoła badeńska]]
+- [[szkoła marburska]]
+&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[#Indeks:|&lt;small&gt;(wróć do indeksu)&lt;/small&gt;]]
+
+=== T ===
+[[tabula rasa]]
+- [[Tako rzecze Zaratustra]]
+- [[taoizm]]
+- [[Epistemologia|teoria poznania]]
+- [[Umowa społeczna|teoria umowy społecznej]]
+- [[teoria wartości]]
+- [[tomizm]]
+- [[tożsamość osobista]]
+- [[Transcendencja (filozofia)|transcendencja]]
+
+&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[#Indeks:|&lt;small&gt;(wróć do indeksu)&lt;/small&gt;]]
+
+=== U ===
+[[umowa społeczna]]
+- [[uniwersalizm]]
+- [[Utopia (utwór)]]
+- [[utylitaryzm]]
+&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[#Indeks:|&lt;small&gt;(wróć do indeksu)&lt;/small&gt;]]
+
+=== W ===
+[[wiara]]
+- [[wariabilizm]]
+- [[wolna wola]]
+- [[wolność]]
+- [[Filozofie orientalne|Wschodu filozofia]]
+- [[Indeterminizm|woluntaryzm]]
+&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[#Indeks:|&lt;small&gt;(wróć do indeksu)&lt;/small&gt;]]
+
+=== Z ===
+[[zdarzenie]]
+- [[zjawisko]]
+- [[Złudzenie (psychologia)|złudzenie]]
+- [[zen]]
+&lt;br /&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;[[#Indeks:|&lt;small&gt;(wróć do indeksu)&lt;/small&gt;]]
+
+== Zobacz też ==
+* [[Wikipedia:Skarbnica Wikipedii/Przegląd zagadnień z zakresu religii|przegląd zagadnień z zakresu religii]]
+
+[[Kategoria:Filozofia|*Przegląd]]
+[[Kategoria:Skarbnica Wikipedii|Filozofia]]</text>
+      <sha1>bq1pp0p60fi12mowen045c1ojp0kd8o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Historia filozofii</title>
+    <ns>14</ns>
+    <id>444842</id>
+    <revision>
+      <id>62178496</id>
+      <parentid>62178445</parentid>
+      <timestamp>2021-01-28T16:38:45Z</timestamp>
+      <contributor>
+        <username>Tarnoob</username>
+        <id>274492</id>
+      </contributor>
+      <comment>kat.</comment>
+      <origin>62178496</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="144" sha1="rygo10sjvgyq2fi2aqimitqzx3sv2pt" xml:space="preserve">{{Commonscat|Philosophy by era}}
+
+{{Commonscat|History of philosophy}}
+
+[[Kategoria:Historia nauki według dziedziny|F]]
+[[Kategoria:Filozofia]]</text>
+      <sha1>rygo10sjvgyq2fi2aqimitqzx3sv2pt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Metoda filozoficzna</title>
+    <ns>14</ns>
+    <id>2664188</id>
+    <revision>
+      <id>31293743</id>
+      <timestamp>2012-05-20T22:08:23Z</timestamp>
+      <contributor>
+        <username>Tomasz Raburski</username>
+        <id>193408</id>
+      </contributor>
+      <comment>now</comment>
+      <origin>31293743</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23" sha1="hhijszvm6ch4eoho4a67s2be6pfaqkz" xml:space="preserve">[[Kategoria:Filozofia]]</text>
+      <sha1>hhijszvm6ch4eoho4a67s2be6pfaqkz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Międzynarodowa Olimpiada Filozoficzna</title>
+    <ns>0</ns>
+    <id>786057</id>
+    <revision>
+      <id>73851658</id>
+      <parentid>73821070</parentid>
+      <timestamp>2024-05-25T12:42:06Z</timestamp>
+      <contributor>
+        <username>Ipohelsinkilogocontest</username>
+        <id>1321549</id>
+      </contributor>
+      <origin>73851658</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1150" sha1="dab0pctdz8pns4nompphr4p5g7iqpo9" xml:space="preserve">[[Plik:International Philosophy Olympiad official Logo, made by Sacha Pierluigi (France).png|mały|Logo Międzynarodowa Olimpiada Filozoficzna]]
+'''Międzynarodowa Olimpiada Filozoficzna''' ([[język angielski|ang.]] ''International Philosophy Olympiad'', ''IPO'') – międzynarodowa [[Międzynarodowe Olimpiady Przedmiotowe|olimpiada przedmiotowa]] dla uczniów szkół średnich. Jest organizowana co roku w maju przez jeden z uczestniczących w niej krajów. Po raz pierwszy odbyła się w 1993 roku w [[Bułgaria|Bułgarii]].
+W latach 1997 i 2005 Olimpiady odbywały się w Warszawie&lt;ref&gt;{{Cytuj stronę |url = http://philosophy-olympiad.org/?page_id=43 |tytuł = History |opublikowany = philosophy-olympiad.org |język = en |data dostępu = 2024-05-21}}&lt;/ref&gt;.
+
+== Zobacz też ==
+* [[olimpiada filozoficzna|krajowa olimpiada filozoficzna]]
+* [[Międzynarodowe Olimpiady Przedmiotowe|olimpiady przedmiotowe]]
+
+== Przypisy ==
+{{Przypisy}}
+
+== Linki zewnętrzne ==
+* [http://philosophy-olympiad.org International Philosophy Olympiad]
+
+{{Międzynarodowe Olimpiady Przedmiotowe}}
+
+[[Kategoria:Olimpiady szkolne|filozoficzna]]
+[[Kategoria:Filozofia]]</text>
+      <sha1>dab0pctdz8pns4nompphr4p5g7iqpo9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Olimpiada Filozoficzna</title>
+    <ns>0</ns>
+    <id>761912</id>
+    <revision>
+      <id>74946581</id>
+      <parentid>74811513</parentid>
+      <timestamp>2024-10-12T08:41:37Z</timestamp>
+      <contributor>
+        <username>Mpn</username>
+        <id>125775</id>
+      </contributor>
+      <comment>Zostawiono po dyskusji: [[Wikipedia:Poczekalnia/artykuły/2024:09:22:Olimpiada_Filozoficzna]]</comment>
+      <origin>74946581</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6891" sha1="hf48vkqdcx0li2q2euvbmv2r42eum03" xml:space="preserve">{{dopracować|źródła=2024-09}}
+
+'''Olimpiada Filozoficzna''' – przedmiotowa [[Olimpiady szkolne (Polska)|olimpiada szkolna]] z zakresu [[Filozofia|filozofii]], dla uczniów szkół ponadpodstawowych, organizowana od roku szkolnego 1988/1989. Organizacja Olimpiady Filozoficznej uregulowana jest rozporządzeniem Ministra Edukacji Narodowej&lt;ref&gt;Rozporządzenie Ministra Edukacji Narodowej i Sportu z dnia 29 stycznia 2002 r. w sprawie organizacji oraz sposobu przeprowadzania konkursów, turniejów i olimpiad ({{Dziennik&amp;nbsp;Ustaw|2020|1036}}).&lt;/ref&gt;. Tytuł finalisty bądź laureata Olimpiady Filozoficznej (dalej skrótem: OF) jest równoznaczny z osiągnięciem maksymalnej liczby punktów na egzaminie maturalnym z filozofii.
+
+== Historia ==
+Olimpiada Filozoficzna była początkowo organizowana przez [[Towarzystwo Krzewienia Kultury Świeckiej]] (w latach szkolnych 1988/1989 oraz 1989/1990). W roku 1990 Zarząd Główny Polskiego Towarzystwa Filozoficznego podjął uchwałę o przejęciu patronatu nad Olimpiadą Filozoficzną. Od roku szkolnego 1990/1991 do dnia dzisiejszego [[Polskie Towarzystwo Filozoficzne]] (PTF) pozostaje organizatorem tego konkursu.
+
+Przewodniczącym Komitetu Głównego Olimpiady Filozoficznej (KGOF) pod patronatem PTF był w latach 1990–2006 [[Władysław Krajewski (filozof)|prof. dr hab. Władysław Krajewski]]. Od kwietnia 2006 roku funkcję Przewodniczącej KGOF pełni [[Barbara Markiewicz|prof. dr hab. Barbara Anna Markiewicz]].
+W roku 2009 Ministerstwo Edukacji Narodowej zdecydowało o cyklicznym rozpisywaniu konkursów na organizację olimpiad przedmiotowych na okres trzech lat. Polskie Towarzystwo Filozoficzne wygrało dwa kolejne konkursy (w 2010 i 2013 roku).
+
+Od roku 1999 PTF  wydaje czasopismo ''Olimpiada Filozoficzna: biuletyn Komitetu Głównego Olimpiady Filozoficznej''.&lt;ref&gt;{{Cytuj |tytuł = Olimpiada Filozoficzna : biuletyn Komitetu Głównego Olimpiady Filozoficznej {{!}} WorldCat.org |data dostępu = 2024-09-22 |opublikowany = search.worldcat.org |url = https://search.worldcat.org/title/olimpiada-filozoficzna-biuletyn-komitetu-gownego-olimpiady-filozoficznej/oclc/830286506 |język = en}}&lt;/ref&gt;
+
+== Cele i program ==
+Głównym celem organizacji Olimpiady Filozoficznej jest krzewienie nauk filozoficznych, poprzez promowanie wiedzy na temat podstawowych dyscyplin filozoficznych, postawy otwartości, krytycznego i logicznego myślenia oraz wrażliwości aksjologicznej. Program Olimpiady Filozoficznej jest wprawdzie zgodny z programem nauczania filozofii w szkołach średnich, wykracza jednak poza stawiane w nich wymagania, dając szczególnie umotywowanym uczniom okazję do wykazania samodzielnie nabytej dodatkowej wiedzy czy umiejętności.
+
+== Struktura ==
+Olimpiada Filozoficzna składa się z trzech etapów. Jakkolwiek sposób organizacji każdego z etapów ewoluował w czasie, od 2009 roku obowiązuje następujący schemat organizacyjny:
+* I etap: zawody szkolne – polegają na napisaniu przez uczniów w domu rozprawy filozoficznej na jeden, wybrany przez siebie temat. Tematy (od siedmiu do dziesięciu) publikowane są przez KGOF najpóźniej we wrześniu. Ich autorami są wybitni profesorowie uniwersyteccy. Prace należy złożyć do Komitetów Okręgowych OF (KOOF) w określonym w kalendarzu OF terminie.
+* II etap: zawody okręgowe – ich zadaniem jest sprawdzenie ogólnego  poziomu wiedzy i umiejętności uczniów z zakresu filozofii. Od roku szkolnego 2013/2014 odbywają się one w ciągu jednego dnia i polegają na rozwiązaniu testu oraz napisaniu eseju filozoficznego na jeden z podanych tematów.
+* III etap: zawody centralne – ich zadaniem jest wyłonienie finalistów i laureatów Olimpiady Filozoficznej. Polegają one na przystąpieniu do egzaminu ustnego, który opiera się na obronie pracy etapu szkolnego, odpowiedzi na pytania merytoryczne oraz (od roku szkolnego 2013/2014) na interpretacji fragmentu tekstu filozoficznego.
+
+Podstawowe informacje, tj. lista tematów etapu szkolnego, zakres materiału, wymagane umiejętności zamieszczone są w Programie oraz w Regulaminie Olimpiady Filozoficznej.
+
+== Organizator ==
+Organizatorem Olimpiady Filozoficznej jest [[Polskie Towarzystwo Filozoficzne]], które powołuje Komitet Główny Olimpiady Filozoficznej z Przewodniczącym na czele. KGOF powołuje składy Komitetów Okręgowych Olimpiady Filozoficznej, publikuje listę tematów etapu szkolnego, tworzy testy i tematy esejów na zawody okręgowe, organizuje etap centralny, nadzoruje pracę KOOF i wydaje Biuletyn Olimpiady Filozoficznej (BOF). Komitety Okręgowe (ich lista publikowana jest corocznie w BOF i na stronie internetowej PTF) organizują zawody szkolne i okręgowe oraz dystrybuują Biuletyny i informacje o Olimpiadzie Filozoficznej na poziomie lokalnym. Dla szczególnie zainteresowanych uczniów organizowane są również letnie szkoły filozoficzne.
+
+== Uprawnienia finalisty i laureata ==
+Z tytułem finalisty i laureata łączą się pewne uprawnienia: ocena celująca z przedmiotu szkolnego „filozofia” (jeżeli jest on nauczany w danej szkole), wstęp na wydziały filozoficzne uczelni wyższych w całej Polsce oraz maksymalna liczba punktów na maturze z filozofii.
+
+Tytuł laureata OF łączy się z większymi możliwościami w zakresie wyboru kierunków studiów, np. sześciu pierwszych laureatów OF ma wstęp na Międzywydziałowe Indywidualne Studia Humanistyczna na UW itp.
+
+Laureaci OF mogą także liczyć na dodatkowe punkty w trakcie procesu rekrutacyjnego na uczelnie zagraniczne.
+
+== Międzynarodowa Olimpiada Filozoficzna (MOF) ==
+W trakcie każdej kolejnej edycji Olimpiady Filozoficznej odbywają się eliminacje do Międzynarodowej Olimpiady Filozoficznej. Do eliminacji może przystąpić finalista lub laureat OF. Polegają one na napisaniu w języku obcym (angielskim, francuskim, hiszpańskim, niemieckim) eseju filozoficznego na jeden z podanych tematów. Eliminacje odbywają się w dniu zawodów centralnych.
+
+== Biuletyn Olimpiady Filozoficznej ==
+Od 1991 roku wydawany jest Biuletyn Olimpiady Filozoficznej, w którym publikowane są przydatne informacje o Olimpiadzie Filozoficznej (aktualny program, regulamin, skład i adresy komitetów okręgowych i komitetu głównego itp.) oraz wyróżnione prace uczestników OF i MOF, wykłady, eseje, recenzje książek itp. Biuletyny można odebrać w siedzibach Komitetów Okręgowych, w siedzibie Komitetu Głównego oraz na stronie internetowej PTF.
+
+== Przypisy ==
+{{Przypisy}}
+
+== Bibliografia ==
+* BOF, nr 1-43, Polskie Towarzystwo Filozoficzne, Warszawa.
+* [http://www.ptfilozofia.pl/index.php?module=content&amp;id=13 Polskie Towarzystwo Filozoficzne]
+
+== Linki zewnętrzne ==
+* [http://www.ptfilozofia.pl/index.php Strona PTF]
+
+[[Kategoria:Olimpiady szkolne w Polsce|Filozoficzna]]
+[[Kategoria:Filozofia]]
+[[kategoria:Polskie Towarzystwo Filozoficzne]]</text>
+      <sha1>hf48vkqdcx0li2q2euvbmv2r42eum03</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kawiarnia filozoficzna</title>
+    <ns>0</ns>
+    <id>2905510</id>
+    <revision>
+      <id>74727492</id>
+      <parentid>74727480</parentid>
+      <timestamp>2024-09-10T17:55:32Z</timestamp>
+      <contributor>
+        <username>Pajmas</username>
+        <id>1336600</id>
+      </contributor>
+      <minor/>
+      <comment>[[Pomoc:Słowniczek#W|wikizacja]]</comment>
+      <origin>74727492</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8466" sha1="axe4vjardfa10z12jm9o5kzmf80won2" xml:space="preserve">[[Plik:Marc Sautet at Cafe des Phares (Paris 1994).jpg|thumb|250px|Marc Sautet w ''Cafe des Phares'' (Paryż 1994).]]
+
+'''Kawiarnia filozoficzna''', [[język francuski|fr.]] ''Café philosophique'' („cafe-philo”) – [[filozofia|filozoficzne]] [[forum dyskusyjne]] zorganizowane po raz pierwszy przez [[Marc Sautet|Marca Sauteta]] (1947–1998) 13 grudnia 1992 roku w ''Cafe des Phares'' na [[Plac Bastylii|Placu Bastylii]] w [[Paryż]]u.
+
+== Założenia ==
+Podczas spotkań kawiarni filozoficznych dopuszczalna jest różnorodna tematyka, począwszy od mitu świętego Mikołaja, przez pojęcie piękna, seks, czy zagadnienie śmierci, mogą pojawić się pytania o sens życia czy nadziei. Sautet w taki sposób kierował dyskusjami, aby angażowały ludzi biorących w nich udział i były dla nich ciekawe. Celem spotkań było stworzenie atmosfery relaksu, gdzie, pijąc kawę, poruszano nurtujące uczestników tematy&lt;ref name="cafephilo"&gt;[http://www.philodialogue.com/history.htm Historia ''Cafe philo''].&lt;/ref&gt;.
+
+Uczestnicy kawiarni filozoficznych na świecie wykorzystali pomysł Sauteta do pracy nad procesem rozumowania. Tematy podczas kawiarni są wymyślne z uwzględnieniem zasad tolerancji i z naciskiem na otwartość myśli. Praktyka zapoczątkowana przez Sauteta we Francji szybko rozprzestrzeniła się na świecie. Obecnie znana jest w Anglii, Niemczech, Belgii, Austrii, Szwajcarii, Grecji oraz poza Europą w Stanach Zjednoczonych, Kanadzie, Ameryce Południowej, Australii i Japonii. Ze względu na znaczny sukces kawiarni filozoficznych, francuski prezydent [[Jacques Chirac]] wysłał ich fundatora na misję dobrej woli do Ameryki Łacińskiej, aby zapoczątkował tam tę tradycję&lt;ref name="simons"&gt;Marlise Simons, ''Thought For Food: Cafes Offer Philosophy In France'', New York Times; May 2, 1998; pg. B9.&lt;/ref&gt;.
+
+== Historia ==
+=== Praktycy ===
+W szkockim [[Edynburg]]u kawiarnie filozoficzne są organizowane przez Instytut Francuski, który w ten sposób kontynuuje tradycję filozofa-frankofila, [[David Hume|Davida Hume’a]]. Prowadzący kawiarnie są jednocześnie nauczycielami historii w szkockich szkołach podstawowych.
+
+W Anglii kawiarnie filozoficzne odbywały się w księgarni przy Cromford ([[Derbyshire]]). Pierwszą zorganizował w 1993 Evan Rutherford, a do 2009 roku odbyło się około 100 spotkań. Londyńskie kawiarnie filozoficzne były zazwyczaj prowadzone przez członków dynamicznie zmieniającej się grupy, a nie przez profesjonalnych filozofów. Niektóre spotkania zostały zarejestrowane, a ich zapis jest dostępny on line.
+
+W Austrii istnieje tradycja kawiarni wiedeńskich, miejsc, w których można się było spotykać, aby przy kawie czy herbacie dyskutować na różne tematy.
+
+W 1686 Sycylijczyk Francesco Procopio dei Coltelli zorganizował pierwszą ''[[Café Procope]]'' w dzielnicy łacińskiej Paryża, przy ''rue de l’Ancienne Comédie''. Można tę inicjatywę uznać za pierwszą kawiarnię filozoficzną w Paryżu. W dyskusjach uczestniczyli wielcy intelektualiści, m.in. [[Victor Hugo]], [[Paul Verlaine]], [[Honoré de Balzac]], [[Pierre Augustin Caron de Beaumarchais]], [[Voltaire|François-Marie Arouet]] (znany pod pseudonimem Wolter), [[Jean-Jacques Rousseau]], [[Georges Danton]], [[Jean-Paul Marat]], [[Honoré de Balzac]] i [[Denis Diderot]].
+
+Przez okres trwający około 30 lat paryscy poeci, malarze, pisarze oraz twórcy związani z ruchem [[surrealizm|surrealistycznym]] spotykali się w kawiarniach [[Montparnasse|Montparnasse’u]] aby uczestniczyć w dyskusjach filozoficznych. Po [[II wojna światowa|II wojnie światowej]] dyskusje filozoficzne w Paryżu organizował Jean Paul Sartre w kawiarni Café de Flore. Spotkania organizowane przez Sartre’a uznaje się za historyczne korzenie „cafés-philos” Sauteta.
+
+=== Café philosophique ===
+Pierwszą kawiarnię filozoficzną Sautet zorganizował na Placu Bastylii w Paryżu 13 grudnia 1992 roku. Sautet gromadził swoich przyjaciół w każdą niedzielę o 11 rano, aby przez dwie godziny prowadzić dyskusje filozoficzne&lt;ref name="glenn2000"&gt;[http://www.mail-archive.com/ctrl@listserv.aol.com/msg38904.html Philosophy Cafe article by Joshua Glenn, contributing editor for Britannica].&lt;/ref&gt;. Za swoją misję uznał uświadomienie ludziom podstawowych procesów rozumowania&lt;ref&gt;[http://www.mail-archive.com/ctrl@listserv.aol.com/msg38904.html ''Steeped in Thought: The Philosophy Café Movement'' by Joshua Glenn, contributing editor, Britannica.com].&lt;/ref&gt;. Pierwsze spotkanie zgromadziło kilku uczestników, jednak po jakimś czasie zaczęli pojawiać się na nich studenci i mieszczanie&lt;ref name="obit"&gt;Obituary – „The Times” newspaper of London (UK): Apr 1, 1998. s. 21.&lt;/ref&gt;. W końcu spotkania zainicjowane przez Sauteta stały się popularnym wydarzeniem gromadzącym każdorazowo około dwustu uczestników&lt;ref name="steeped"&gt;{{Cytuj stronę |url = http://www.zftrans.com/bbs/simple/index.php?t15052.html |tytuł = Steeped in Thought: The Philosophy café Movement |archiwum = https://web.archive.org/web/20111004043657/http://www.zftrans.com/bbs/simple/index.php?t15052.html |zarchiwizowano = 2011-10-04 |data dostępu = 2013-03-10}}&lt;/ref&gt;. Ze względu na innowacyjność swoich działań Sautet został odrzucony przez uczonych, którzy uznali go za nielojalnego wobec tradycyjnej filozofii&lt;ref&gt;[Marinoff, p. 338].&lt;/ref&gt;.
+
+== W Polsce ==
+W listopadzie 2012 roku we [[Wrocław]]iu została zorganizowana pierwsza w Polsce kawiarnia filozoficzna. Jej uczestnikami byli młodzi reprezentanci wielonarodowościowej społeczności mieszkającej we Wrocławiu. Spotkanie zorganizował nauczyciel języka angielskiego Wadim Matusewicz, który do współpracy zaprosił [[Guido Giacomo Gattai]] – założyciela i organizatora Festiwalu Filozoficznego we Florencji, od czterech lat mieszkającego we Wrocławiu. Pierwsze spotkanie odbyło się w jednej z wrocławskich restauracji Flanster, po czym miesiąc później przeniosło się do kina Nowe Horyzonty (za zgodą [[Roman Gutek|Romana Gutka]]). Wrocławskie kawiarnie filozoficzne są związane z kinem Nowe Horyzonty od Stycznia 2013 roku. Spotkania filozoficzne odniosły niebywały sukces przede wszystkim wśród międzynarodowej społeczności, choć uczestniczą w nich również Polacy.
+
+W lutym 2013 roku Guido Giacomo Gattai został poproszony o zorganizowanie kawiarni filozoficznej w Warszawie, przez co ich tradycja została zainicjowana w stolicy.
+
+Kawiarnie filozoficzne w Polsce są organizowane w języku angielskim.
+
+== Przypisy ==
+{{Przypisy}}
+
+== Bibliografia ==
+* {{Cytuj |autor = Tamara Chaplin |tytuł = Turning on the mind: French philosophers on television |data = 2007 |isbn = 0-226-50991-5 |miejsce = Chicago |wydawca = University of Chicago Press |oclc = 123029398}}
+* {{Cytuj |autor = Lou Marinoff |tytuł = Philosophical practice |data = 2002 |isbn = 0-12-471555-9 |miejsce = San Diego |wydawca = Academic Press |oclc = 54379775}}
+* Raabe, Peter B., ''Issues in philosophical counseling'', Greenwood Publishing Group, 2002, {{ISBN|0-275-97667-X}}.
+* {{Cytuj |autor = Marc Sautet |tytuł = Un café pour Socrate. Comment la philosophie peut nous aider a comprendre le monde d’aujourd’hui |data = 1995 |isbn = 2-221-07606-0 |miejsce = Paris |wydawca = R. Laffont |oclc = 33669353}}
+
+== Linki zewnętrzne ==
+* [http://cafephilos.org Lista wszystkich ''cafés philo'']
+* {{cytuj stronę |url = http://wroclaw.naszemiasto.pl/artykul/1732895,wroclaw-ma-pierwsza-w-polsce-kafejke-filozoficzna,id,t.html |tytuł = Wrocław ma pierwszą w Polsce kafejkę filozoficzną |nazwisko = Bigda |imię = Marta |opublikowany = Wroclaw nasze miasto |data dostępu = 2013-03-10}}
+* {{cytuj stronę |url = http://circulofilosofico.blogspot.com/2009/02/filocafe.html |tytuł = What is a Philosophy Café? |praca = Philosophical and Legal Investigations Circle |język = es |data dostępu = 2013-03-10}}
+* {{cytuj stronę |url = http://www.brenifier.com/espanol/index.html |tytuł = The philosophy café |nazwisko = Brenifier |imię = Óscar |język = es |data dostępu = 2013-03-10}}
+* {{Encyklopedia Britannica |id = art/French-literature |tytuł = French literature |data dostępu = 2022-10-03}}
+* [http://www.guidogiacomogattai.com/ Philosophical cafes in Poland] by Guido Giacomo Gattai, complete videos and information about upcoming events
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Filozofia]]
+[[Kategoria:Kawiarnie| ]]</text>
+      <sha1>axe4vjardfa10z12jm9o5kzmf80won2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Światowy Dzień Filozofii</title>
+    <ns>0</ns>
+    <id>2453869</id>
+    <revision>
+      <id>73626225</id>
+      <parentid>73626136</parentid>
+      <timestamp>2024-04-26T18:33:01Z</timestamp>
+      <contributor>
+        <username>Czyz1</username>
+        <id>667877</id>
+      </contributor>
+      <comment>dr. tech., polski cudzysłów</comment>
+      <origin>73626225</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3167" sha1="6qakws06i65bzxdwvx1vmu4czrxe14j" xml:space="preserve">{{Święto infobox
+ |Nazwa      = Światowy Dzień Filozofii
+ |Grafika    =
+ |Opis       =
+ |Dzień      = trzeci czwartek [[listopad]]a
+ |Kraje      = {{państwo|ONZ}}
+ |Typ święta =
+ |Religie    =
+ |Zwyczaje   = sympozja, konferencje
+ |Upamiętnia =
+ |Znaczenie  = wykazanie znaczenia filozofii, świata.
+ |Symbole    =
+ |Inne nazwy =
+ |Podobne    =
+}}
+'''Światowy Dzień Filozofii''' ([[język angielski|ang.]] ''World Day of Philosophy'') – coroczne [[święto]] z inicjatywy [[UNESCO]] ([[Organizacja Narodów Zjednoczonych|Organizacji Narodów Zjednoczonych]] do Spraw Oświaty, Nauki i Kultury), obchodzone w trzeci czwartek [[listopad]]a.
+
+Pierwszy '''Dzień Filozofii''' obchodzono w dniu 21 listopada 2002 roku w ramach wewnętrznych postanowień UNESCO. W 2005 roku na Konferencji Generalnej w [[Paryż]]u (33. sesja), oficjalnie ogłoszono trzeci czwartek listopada  "Światowym Dniem Filozofii"&lt;ref&gt;{{cytuj stronę|url=http://russ.ru/pole/Den-filosofii|tytuł="День философии"|autor=Елена Малер-Матьязова|data=2009-11-19|opublikowany=russ.ru/|język=ru|data dostępu=2011-10-28}}&lt;/ref&gt;.
+
+Obchody mają na celu wykazanie znaczenia [[filozofia|filozofii]] i zachęcenie społeczeństwa (zwłaszcza młodzieży) do zainteresowania się filozofią. Mają również zachęcić do [[krytyczne myślenie|krytycznego myślenia]] i debaty filozoficznej nad problemami współczesnego świata oraz poprawić komunikację i współpracę między filozofami i naukowcami.
+
+Z tej okazji organizowane są sympozja, wykłady, konferencje dla dorosłej części społeczeństwa, a także dni otwarte i warsztaty wśród młodzieży akademickiej. Umożliwiają wszystkim zainteresowanym wzięcie w nich udziału, nie tylko osobom zawodowo zajmującym się filozofią.
+
+18 listopada 2010 roku dyrektor generalna UNESCO [[Irina Bokowa]] zapoczątkowała obchody otwierając w Paryżu Międzynarodowe Forum na temat „Filozofii, Różnorodności Kulturowej i Zbliżenia Kultur”, w którym uczestniczyli filozofowie z całego świata. W obchodach wzięło udział ponad 80 państw członkowskich m.in. Albania, Argentyna, Niemcy, Francja, Urugwaj, Meksyk, Gwatemala, Senegal, Australia i Stany Zjednoczone&lt;ref&gt;{{cytuj stronę|url=http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/SHS/pdf/list_worldphilosophyday2010.pdf|tytuł=World Philosophy Day 18 November 2010 Activities in Member States around the world|data=2010-12-08|opublikowany=UNESCO|data dostępu=2011-10-28}}&lt;/ref&gt;.
+
+== Zobacz też ==
+* [[Międzynarodowe Dni i Tygodnie ONZ]]
+
+== Przypisy ==
+{{Przypisy}}
+
+== Bibliografia ==
+* {{cytuj stronę|url=http://www.unesco.pl/article/1/18-listopada-swiatowy-dzien-filozofii/|tytuł=Światowy Dzień Filozofii|data=2010-11-18|opublikowany=Polski Komitet ds. UNESCO|data dostępu=2011-10-28}}
+
+== Linki zewnętrzne ==
+* {{cytuj stronę|url=http://unesdoc.unesco.org/images/0018/001899/189970e.pdf|tytuł=Przesłanie dyrektor generalnej UNESCO z okazji Światowego Dnia Filozofii 2010|data=2010-11-18|opublikowany=UNESCO|język=en|data dostępu=2011-10-28}}
+
+[[Kategoria:Konferencje i obchody ONZ|Filozofii]]
+[[Kategoria:Filozofia]]</text>
+      <sha1>6qakws06i65bzxdwvx1vmu4czrxe14j</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nagroda im. Gieorgija Plechanowa</title>
+    <ns>0</ns>
+    <id>4889344</id>
+    <revision>
+      <id>75102551</id>
+      <parentid>60703541</parentid>
+      <timestamp>2024-10-31T21:40:44Z</timestamp>
+      <contributor>
+        <username>Paweł Ziemian BOT</username>
+        <id>661950</id>
+      </contributor>
+      <minor/>
+      <comment>sprzątam linki zewnętrzne w szablonach cytowania</comment>
+      <origin>75102551</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2304" sha1="6swtgh7jrz3owa64kds961ea70cma3u" xml:space="preserve">'''Nagroda im. Gieorgija Plechanowa''' – [[Związek Socjalistycznych Republik Radzieckich|radziecka]] i [[Rosja|rosyjska]] nagroda naukowa przyznawana co trzy lata za wybitne osiągnięcia w dziedzinie [[filozofia|filozofii]]&lt;ref&gt;Премия // [[Wielka Encyklopedia Radziecka|Большая советская энциклопедия]] : [в 30 т.] / гл. ред. А. М. Прохоров. — 3-е изд. — М. : Советская энциклопедия, 1969—1978&lt;/ref&gt;. Wprowadzona została w [[1969]] roku i była przyznawana przez [[Akademia Nauk ZSRR|Akademię Nauk ZSRR]]. Od 1994 nagrodę przyznaje [[Rosyjska Akademia Nauk]]&lt;ref name="Plehanov after 1994"&gt;{{Cytuj stronę | url = http://www.ras.ru/win/db/award_dsc.asp?P=id-143.ln-ru | tytuł = Премия имени Г.В.Плеханова &lt;small&gt;Присуждается c 1994 за выдающиеся научные работы в области философии&lt;/small&gt; | praca = Список награждённых | opublikowany = официальный сайт РАН | cytat = Данные с 1994 года | język = ru | data dostępu = 2020-08-25}}&lt;/ref&gt;. Nagrodę nazwano na cześć [[Gieorgij Plechanow|Gieorgija Plechanowa]].
+
+== Laureaci Nagrody im. Gieorgija Plechanowa ==
+{{kategoria główna|Laureaci Nagrody im. Gieorgija Plechanowa}}
+* [[1980 w nauce|1980]]: [[Teodor Ojzerman]] za książkę ''[[Główne nurty filozoficzne]]'' ({{ros.|Главные философские направления}})&lt;ref name="Plehanov after 1969"&gt;{{Cytuj stronę | url = http://www.ras.ru/about/awards/awdlist.aspx?awdid=143 | tytuł = Премия имени Г.В.Плеханова &lt;small&gt;Присуждается за выдающиеся научные работы в области философии&lt;/small&gt; | praca = Список награждённых | opublikowany = [[Rosyjska Akademia Nauk]] | cytat = Данные с 1971 года | język = ru | data dostępu = 2020-08-25}}&lt;/ref&gt;
+* [[1983 w nauce|1983]]: [[Mark Mitin]] za książkę ''Idee [[Lenin]]a i współczesność'' ({{ros.|Идеи В. И. Ленина и современность}})&lt;ref name="Plehanov after 1969" /&gt;
+
+== Przypisy ==
+{{Przypisy}}
+
+[[Kategoria:Nagrody naukowe]]
+[[Kategoria:Filozofia]]
+[[Kategoria:Gieorgij Plechanow]]</text>
+      <sha1>6swtgh7jrz3owa64kds961ea70cma3u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Poszczególne nauki filozoficzne</title>
+    <ns>14</ns>
+    <id>444770</id>
+    <revision>
+      <id>62287118</id>
+      <parentid>57954145</parentid>
+      <timestamp>2021-02-09T10:14:33Z</timestamp>
+      <contributor>
+        <username>Tarnoob</username>
+        <id>274492</id>
+      </contributor>
+      <comment>kat.</comment>
+      <origin>62287118</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="98" sha1="aytpd7i1294lm4lr9n2bhe1fbhcclv3" xml:space="preserve">{{Commonscat|Branches of philosophy}}
+
+[[Kategoria:Filozofia| ]]
+[[Kategoria:Nauki humanistyczne]]</text>
+      <sha1>aytpd7i1294lm4lr9n2bhe1fbhcclv3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Filozofowie</title>
+    <ns>14</ns>
+    <id>66744</id>
+    <revision>
+      <id>62287121</id>
+      <parentid>56077075</parentid>
+      <timestamp>2021-02-09T10:14:50Z</timestamp>
+      <contributor>
+        <username>Tarnoob</username>
+        <id>274492</id>
+      </contributor>
+      <comment>kat.</comment>
+      <origin>62287121</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="279" sha1="q2byatrrluwffx10mfjll7v4xaam9yu" xml:space="preserve">{{Opis kategorii
+ |grupuje        = {{Commonscat|Philosophers}}
+ |uwagi          =
+ |osobne_grupują =
+ |main           =
+ |portal         = Filozofia
+ |wikiprojekt    =
+ |zobacz         =
+ |związane       =
+}}
+
+[[Kategoria:Filozofia| ]]
+[[Kategoria:Biografie według profesji]]</text>
+      <sha1>q2byatrrluwffx10mfjll7v4xaam9yu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Filozofia według języków</title>
+    <ns>14</ns>
+    <id>2407774</id>
+    <revision>
+      <id>62287122</id>
+      <parentid>27921754</parentid>
+      <timestamp>2021-02-09T10:15:14Z</timestamp>
+      <contributor>
+        <username>Tarnoob</username>
+        <id>274492</id>
+      </contributor>
+      <comment>kat.</comment>
+      <origin>62287122</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="25" sha1="7rkfl25j6g42vmbr7tk9d5doh17wkrl" xml:space="preserve">[[kategoria:Filozofia| ]]</text>
+      <sha1>7rkfl25j6g42vmbr7tk9d5doh17wkrl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Erazmianie</title>
+    <ns>0</ns>
+    <id>5302795</id>
+    <revision>
+      <id>75038083</id>
+      <parentid>67392103</parentid>
+      <timestamp>2024-10-24T13:12:45Z</timestamp>
+      <contributor>
+        <username>Redaktor GLAM</username>
+        <id>1060959</id>
+      </contributor>
+      <comment>Zmieniona ilustracja (1) - lepszy portret</comment>
+      <origin>75038083</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2963" sha1="mmnss9go3xuozhfx896jvpr06zp7q7k" xml:space="preserve">'''Erazmianie''' – koło artystyczno-literackie w XVI w. odwołujące się do poglądów humanistycznych Erazma z Rotterdamu&lt;ref&gt;Erazm z Rotterdamu, ''Pochwała Głupoty,'' 1509 r&lt;/ref&gt;; silny wpływ na ich postawy wywarła także idea [[irenizm]]u, koncepcji teologicznej dążącej do zniesienia rozbicia wyznaniowego poprzez ustępstwa doktrynalne. Nazwa pochodzi od imienia niderlandzkiego filologa, reformatora - [[Erazm z Rotterdamu|Erazma z Rotterdamu]].
+
+== Twórczość ==
+Tworzyli oni jedną z kilku grup odpowiedzialnych za propagowanie idei reformacyjnych. Jako członkowie elit intelektualnych recypowali zarówno traktaty reformacyjne, jak i polemiki antyreformacyjne, przyswajając ich treść i propagując argumenty. Jako członkowie elit politycznych współdecydowali także o pierwszych oficjalnych reakcjach na reformację, uczestnicząc w podejmowaniu strategicznych decyzji i przygotowując podstawowe dokumenty. Ostateczny kształt relacji między nowożytnym państwem a Kościołami protestanckimi został wytworzony także pod ich wpływem. Innymi słowy, erazmianie nie tylko przeżywali wydarzenia reformacyjne we własnym kręgu, lecz oddziaływali również na przebieg procesów obejmujących całe społeczeństwo, będąc zarazem ich uczestnikami.
+
+== Działalność Erazmian w Polsce ==
+Erazmianie odcisnęli bardzo silne piętno na polityce prowadzonej przez dwór [[Zygmunt I Stary|Zygmunta Starego]]. Na politykę tę wpłynęła w ogromnym stopniu decyzja o oficjalnym przyjęciu [[luteranizm]]u przez wielkiego mistrza zakonu krzyżackiego [[Albrecht Hohenzollern (1490–1568)|Albrechta Hohenzollerna]], kryzys polityczny na Węgrzech oraz przemiany polityczne wywołane przez reformację w Rzeszy&lt;ref&gt;J.T. Dybowski, ''Hołd Pruski,'' 1964&lt;/ref&gt;. Polscy erazmianie brali udział nie tylko w przygotowaniu konwersji Albrechta, lecz także w licznych misjach dyplomatycznych w obronie pruskiego księcia. Równocześnie idee reformacyjne trafiały do szlachty, wśród której znajdowały podatny grunt ze względu na jej silny antyklerykalizm oraz konflikty stanowe wokół kwestii podatkowych i [[Jurysdykcja|jurysdykcji]].
+
+== Polscy Erazmianie ==
+* [[Andrzej Frycz Modrzewski]]
+* [[Jan Kochanowski]]
+* [[Stanisław Hozjusz]]
+* [[Andrzej Krzycki]]
+
+== Galeria ==
+&lt;gallery&gt;
+Plik:Andrzej Frycz Modrzewski.JPG|alt=|Andrzej Frycz Modrzewski 
+Plik:Jan Kochanowski.png|alt=|Jan Kochanowski 
+Plik:Stanislaw Hozjusz.jpg|alt=|Stanisław Hozjusz 
+Plik:Andrzej Krzycki Primate of Poland.PNG|alt=|Andrzej Krzycki 
+&lt;/gallery&gt;
+
+== Przypisy ==
+{{Przypisy}}
+
+== Bibliografia ==
+* M. Ptaszyński, ''Reformacja w Polsce, a dziedzictwo Erazma z Rotterdamu'', Warszawa 2018
+* P. Greiner, E. Gronkowska, R. Kaczmarek, K. Miroszewski, M. Paździora, ''Słownik historii Polski i świata'', Poznań 2013
+
+[[Kategoria:Filozofia]]
+[[Kategoria:XVI wiek]]
+[[Kategoria:Reformatorzy religijni]]
+[[Kategoria:Zakony rycerskie]]
+[[Kategoria:Teologia]]</text>
+      <sha1>mmnss9go3xuozhfx896jvpr06zp7q7k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Propedeutyka</title>
+    <ns>0</ns>
+    <id>5409613</id>
+    <revision>
+      <id>71304803</id>
+      <parentid>71273045</parentid>
+      <timestamp>2023-09-20T05:10:54Z</timestamp>
+      <contributor>
+        <username>Hoa binh</username>
+        <id>397877</id>
+      </contributor>
+      <comment>[[WP:POP|Popups]]: Przywrócenie wersji autorstwa NiktWażny z dnia 2023-09-13 20:57:24</comment>
+      <origin>71304803</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1571" sha1="0j8d85281j7p8r0y1u1txr5g75n1qd1" xml:space="preserve">'''Propedeutyka''' ([[język grecki|gr]]. προπαίδευσις, ''propaídeusis'', [[język polski|pl]]. „edukacja wstępna”) – utwór [[filozofia|filozoficzny]], [[teologia|teologiczny]] lub [[nauka|naukowy]] stanowiący wstęp i wprowadzenie w określoną dziedzinę wiedzy{{odn|Lieber|Wigglesworth|Vethake|1851|s=373}}. 
+
+W [[chrześcijaństwo|chrześcijaństwie]] mianem propedeutyki określane są traktaty lub [[katecheza|katechezy]] wprowadzające odbiorcę w [[kerygmat]], czyli wykład podstawowych prawd wiary{{odn|Lieber|Wigglesworth|Vethake|1851|s=373}}{{odn|Witkowiak|1971|s=6-8}}. Współczesnym przykładem takiego dzieła jest ''Wprowadzenie w chrześcijaństwo'' [[Joseph Ratzinger|Josepha Ratzingera]]. 
+
+W medycynie propedeutyką nazywa się zwyczajowo podstawowe rozpoznanie stanu zdrowia pacjenta, będące wprowadzeniem do właściwego leczenia{{odn|Lieber|Wigglesworth|Vethake|1851|s=373}}. 
+
+== Przypisy ==
+{{Przypisy}}
+
+== Bibliografia ==
+* {{Cytuj książkę |nazwisko = Lieber |imię = Francis |nazwisko2 = Wigglesworth |imię2 = Edward |nazwisko3 = Vethake |imię3 = Henry |tytuł = Encyclopædia Americana: A Popular Dictionary of Arts, Sciences, Literature, History, Politics and Biography |wydawca = B.B. Mussey &amp; Company |miejsce = Boston |rok = 1851 |odn = tak}}
+* {{Cytuj książkę |nazwisko = Witkowiak |imię = Antoni |tytuł = Propedeutyka teologii katolickiej |wydawca = Księgarnia św. Wojciecha |miejsce = Poznań |rok = 1971 |odn = tak}}
+
+[[Kategoria:Gatunki literackie]]
+[[Kategoria:Filozofia]]
+[[Kategoria:Teologia]]</text>
+      <sha1>0j8d85281j7p8r0y1u1txr5g75n1qd1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Longtermizm</title>
+    <ns>0</ns>
+    <id>5441070</id>
+    <revision>
+      <id>71665262</id>
+      <parentid>71532309</parentid>
+      <timestamp>2023-11-01T12:16:28Z</timestamp>
+      <contributor>
+        <username>S99</username>
+        <id>111625</id>
+      </contributor>
+      <minor/>
+      <comment>poprawa linków</comment>
+      <origin>71665262</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="42553" sha1="cs8evpdfkfbuox90q0klx6txt8jadr2" xml:space="preserve">[[File:Przyszloscludzkosci.png|thumb|300px|Skala przeszłości, teraźniejszości i potencjalnej przyszłości ludzkości&lt;ref&gt;{{Cytuj |tytuł = Our World in Data: Longtermism |data = 2022-15-03 |data dostępu = 2023-03-15 |url = https://ourworldindata.org/longtermism |język = en}}&lt;/ref&gt;]]
+
+'''Longtermizm''' – pogląd, według którego jednym z kluczowych priorytetów naszych czasów powinien być pozytywny wpływ na długofalową przyszłość ludzkości. Do zwolenników longtermizmu należą [[Filozofia|filozofowie]] [[William MacAskill]] i [[Toby Ord]]. [[Elon Musk]] stwierdził o książce MacAskilla na temat longtermizmu, że „blisko pasuje do mojej filozofii”&lt;ref&gt;{{Cytuj |autor = Elon Musk |tytuł = Elon Musk: Twitter |data = 2022-08-02 |data dostępu = 2023-03-09 |opublikowany = Twitter |url = https://twitter.com/elonmusk/status/1554335028313718784?s=20 |język = en}}&lt;/ref&gt;. Longtermizm wyrasta z ruchu [[Efektywny altruizm|efektywnego altruizmu]]. Inspirację dla longtermizmu stanowią m.in. pisma [[Derek Parfit|Dereka Parfita]]&lt;ref name=":0"&gt;{{Cytuj |autor = Derek Parfit |tytuł = Reasons and Persons |data = 1984 |isbn = 0-19-824615-3 |miejsce = Oxford |wydawca = Clarendon Press |s = 453–454 |język = en}}&lt;/ref&gt;&lt;ref name=":1"&gt;{{Cytuj |autor = Derek Parfit |tytuł = On What Matters: Volume Two |data = 2011 |isbn = 9780199681044 |s = 607–620 |język = en}}&lt;/ref&gt; i [[Nick Bostrom|Nicka Bostroma]]&lt;ref name=":2"&gt;{{Cytuj |autor = Nick Bostrom |tytuł = Astronomical Waste: The Opportunity Cost of Delayed Technological Development |czasopismo = Utilitas |data = 2003-11 |data dostępu = 2023-03-09 |issn = 0953-8208 |wolumin = 15 |numer = 3 |s = 308–314 |doi = 10.1017/S0953820800004076 |url = https://www.cambridge.org/core/product/identifier/S0953820800004076/type/journal_article |język = en}}&lt;/ref&gt;&lt;ref name=":3"&gt;{{Cytuj |autor = Nick Bostrom |tytuł = Existential Risk Prevention as Global Priority: Existential Risk Prevention as Global Priority |czasopismo = Global Policy |data = 2013-02 |data dostępu = 2023-03-09 |wolumin = 4 |numer = 1 |s = 15–31 |doi = 10.1111/1758-5899.12002 |url = https://onlinelibrary.wiley.com/doi/10.1111/1758-5899.12002 |język = en}}&lt;/ref&gt;.
+
+Longtermiści wychodzą od obserwacji, że przyszłość ludzkości może być ogromna: ludzkość może przetrwać tyle, co typowe gatunki [[Ssaki|ssaków]] (a więc jeszcze setki tysięcy lat)&lt;ref&gt;{{Cytuj |autor = Anthony D. Barnosky; Nicholas Matzke; Susumu Tomiya; Guinevere O. U. Wogan; Brian Swartz; Tiago B. Quental; Charles Marshall; Jenny L. McGuire; Emily L. Lindsey; Kaitlin C. Maguire; Ben Mersey; Elizabeth A. Ferrer |tytuł = Has the Earth’s Sixth Mass Extinction Already Arrived? |czasopismo = Nature |data = 2011-03-03 |data dostępu = 2023-03-14 |wolumin = 471 |numer = 7336 |s = 51–57 |doi = 10.1038/nature09678 |url = https://www.nature.com/articles/nature09678 |język = en}}&lt;/ref&gt;, do końca złożonego życia na Ziemi (za setki milionów lat) lub nawet – wskutek [[Kolonizacja kosmosu|kolonizacji kosmosu]] – do wygaśnięcia ostatnich gwiazd (za setki bilionów lat)&lt;ref&gt;{{Cytuj |autor r = Fred C. Adams |redaktor = Nick Bostrom; Milan M. Ćirković |rozdział = Long-Term Astrophysical Processes |tytuł = Global Catastrophic Risks |data = 2008 |miejsce = Oxford |wydawca = Oxford University Press |doi = 10.1093/oso/9780198570509.003.0006 |url = https://academic.oup.com/book/40615/chapter/348235289 |język = en}}&lt;/ref&gt;. Longtermiści wnioskują zatem, że pozytywny wpływ na potencjalnie ogromne liczby przyszłych ludzi powinien być jednym z kluczowych priorytetów naszych czasów. MacAskill podsumowuje swój argument na rzecz longtermizmu następująco: „Przyszli ludzie mają znaczenie. Może być ich dużo. Możemy poprawić ich życie”&lt;ref&gt;{{Cytuj |autor = William MacAskill |tytuł = What We Owe The Future |data = 2022 |isbn = 978-1-5416-1862-6 |miejsce = New York |wydawca = Basic Books |s = 9 |cytat = „Future people count. There could be a lot of them. We can make their lives go better” |język = en}}&lt;/ref&gt;.
+
+== Definicja ==
+MacAskill definiuje longtermizm jako „pogląd według którego pozytywny wpływ na długofalową przyszłość jest jednym z kluczowych moralnych priorytetów naszych czasów”, w odróżnieniu od silnego longtermizmu, który definiuje jako pogląd „według którego pozytywny wpływ na długofalową przyszłość jest ''jedynym'' kluczowym moralnym priorytetem naszych czasów – ważniejszym, w tym momencie, niż wszystko inne.”&lt;ref&gt;{{Cytuj |autor = William MacAskill |tytuł = What We Owe The Future |data = 2022 |isbn = 978-1-5416-1862-6 |wydanie = First edition |miejsce = New York |wydawca = Basic Books |s = 253 |cytat = „the view that positively influencing the longterm future is ''the'' moral priority of our time – more important, right now, than anything else” |język = en}}&lt;/ref&gt; Ord pisze z kolei, że longtermizm „przykłada szczególną wagę do wpływu naszych działań na długofalową przyszłość. Bierze poważnie fakt, że nasze pokolenie stanowi zaledwie jedną stronę w o wiele dłuższej opowieści, i naszą najważniejszą rolą może być jaki kształt potrafimy – lub nie potrafimy – jej nadać.”&lt;ref&gt;{{Cytuj |autor = Toby Ord |tytuł = The Precipice: Existential Risk and the Future of Humanity |data = 2020 |isbn = 978-1-5266-0022-6 |miejsce = London |wydawca = Bloomsbury Publishing |s = 46 |cytat = „''longtermism'' ... is especially concerned with the impacts of our actions upon the longterm future. It takes seriously the fact that our own generation is but one page in a much longer story, and that our most important role may be how we shape – or fail to shape – that story” |język = en}}&lt;/ref&gt;
+
+== Historia ==
+Termin „longtermizm” powstał w 2017 roku&lt;ref&gt;{{Cytuj |autor = William MacAskill |tytuł = ‘Longtermism’, Effective Altruism Forum |data dostępu = 2023-03-10 |url = https://forum.effectivealtruism.org/posts/qZyshHCNkjs3TvSem/longtermism |język = en}}&lt;/ref&gt;. Elementy longtermizmu można znaleźć np. w ustnej konstytucji [[Irokezi|Irokezów]], która podtrzymuje „zasadę siódmego pokolenia”: miej na uwadze siódme pokoleniu do przodu&lt;ref&gt;{{Cytuj |autor r = Oren Lyons |redaktor = Christopher Vecsey; Robert W. Venables |rozdział = An Iroquois Perspective |tytuł = American Indian Environments: Ecological Issues in Native American History |data = 1980 |s = 171–174 |język = en}}&lt;/ref&gt;. Longtermistyczne wątki – jak np. kwestia moralnej odpowiedzialność za długofalową przyszłość ludzkości – można także znaleźć w pismach T.C. Chamberlina&lt;ref&gt;{{Cytuj |tytuł = Presentation of a Bust to Professor Chamberlin |czasopismo = Science |data = 1903-03-20 |wolumin = 17 |numer = 429 |s = 475–476 |doi = 10.1126/science.17.429.475 |język = en}}&lt;/ref&gt;&lt;ref&gt;{{Cytuj |autor = T. C. Chamberlin |tytuł = A Geologic Forecast of the Future Opportunities of Our Race |czasopismo = Science |data = 1909 |wolumin = 30 |numer = 783 |s = 937–949 |doi = 10.1126/science.30.783.937 |język = en}}&lt;/ref&gt;, [[John B.S. Haldane|J.B.S. Haldane’a]]&lt;ref&gt;{{Cytuj |autor = J.B.S. Haldane |rozdział = The Last Judgment |tytuł = Possible Worlds and Other Essays |data = 1927 |miejsce = London |wydawca = Chatto and Windus |s = 287–312 |url = https://archive.org/details/in.ernet.dli.2015.470199 |język = en}}&lt;/ref&gt;, [[James Hopwood Jeans|Jamesa Jeansa]]&lt;ref&gt;{{Cytuj |autor = James Jeans |tytuł = The Universe Around Us |data = 1929 |miejsce = Cambridge |wydawca = Cambridge University Press |s = 336–343 |url = https://archive.org/details/in.ernet.dli.2015.206154 |język = en}}&lt;/ref&gt;&lt;ref&gt;{{Cytuj |autor = James Jeans |tytuł = The Wider aspects of Cosmogony |czasopismo = The Scientific Monthly |data = 1928 |wolumin = 26 |numer = 5 |s = 454–463 |jstor = 8012}}&lt;/ref&gt;, [[Bertrand Russell|Betranda Russella]]&lt;ref&gt;{{Cytuj |autor = |tytuł = Statement: The Russell-Einstein Manifesto |data = 1955-07-09 |data dostępu = 2023-03-11 |opublikowany = Pugwash Conferences on Science and World Affairs |url = https://pugwash.org/1955/07/09/statement-manifesto/ |język = en}}&lt;/ref&gt;&lt;ref&gt;{{Cytuj |autor = Bertrand Russell |tytuł = Human Society in Ethics and Politics |data = 1954 |miejsce = London |wydawca = George Allen &amp; Unwin, Ltd |s = 235–239 |url = https://archive.org/details/in.ernet.dli.2015.209076 |język = en}}&lt;/ref&gt;&lt;ref&gt;{{Cytuj |autor = Bertrand Russell |rozdział = Man’s Peril |tytuł = Portraits from Memory and Other Essays |data = 1956 |miejsce = London |wydawca = George Allen &amp; Unwin, Ltd |s = 215–220 |url = https://archive.org/details/in.ernet.dli.2015.209076 |język = en}}&lt;/ref&gt;, [[Carl Sagan|Carla Sagana]]&lt;ref&gt;{{Cytuj |autor = Carl Sagan |tytuł = Nuclear War and Climatic Catastrophe: Some Policy Implications |czasopismo = Foreign Affairs |data = 1983 |wolumin = 62 |numer = 2 |s = 257–292 |doi = 10.2307/20041818 |język = en}}&lt;/ref&gt;&lt;ref&gt;{{Cytuj |autor = Carl Sagan |tytuł = Pale Blue Dot: a Vision of the Human Future in Space |data = 1994 |isbn = 0-679-76486-0 |miejsce = New York |wydawca = Ballantine Books |język = en}}&lt;/ref&gt;, [[Jonathan Schell|Jonathana Schella]]&lt;ref&gt;{{Cytuj |autor = Jonathan Schell |tytuł = The Fate of the Earth |data = 1982 |isbn = 0-394-52559-0 |miejsce = New York |wydawca = Knopf |język = en}}&lt;/ref&gt;, [[Hans Jonas|Hansa Jonasa]]&lt;ref&gt;{{Cytuj |autor = Hans Jonas |tytuł = The Imperative of Responsibility: In Search of an Ethics for the Technological Age |data = 1984 |isbn = 0-226-40596-6 |miejsce = Chicago |wydawca = University of Chicago Press |język = en}}&lt;/ref&gt;, [[Derek Parfit|Dereka Parfita]]&lt;ref name=":0" /&gt;&lt;ref name=":1" /&gt;, [[Martin Rees|Martina Reesa]]&lt;ref&gt;{{Cytuj |autor = Martin Rees |tytuł = Our Final Century: a Scientist’s Warning: How Terror, Error, and Environmental Disaster Threaten Humankind’s Future in This Century – on Earth and Beyond |data = 2004 |isbn = 0-09-943686-8 |miejsce = London |wydawca = Arrow |język = en}}&lt;/ref&gt;, [[Nick Bostrom|Nicka Bostroma]]&lt;ref name=":2" /&gt;&lt;ref name=":3" /&gt;, a także w pismach Stewarta Branda&lt;ref&gt;{{Cytuj |autor = Stewart Brand |tytuł = The Clock of the Long Now: Time and Responsibility |data = 1999 |isbn = 0-465-00780-5 |miejsce = New York |wydawca = Basic Books |język = en}}&lt;/ref&gt; i Romana Krznarica&lt;ref&gt;{{Cytuj |autor = Roman Krznaric |tytuł = The Good Ancestor: How to Think Long Term in a Short-Term World |data = 2020 |isbn = 978-0-7535-5449-4 |miejsce = London |wydawca = WH Allen |język = en}}&lt;/ref&gt;.
+
+[[Plik:Cleopatra's Needle. 770 (NBY 420622).jpg|thumb|Igła Kleopatry w Londynie]]
+
+W 1929 roku astronom James Jeans porównywał proporcje między wiekiem Ziemi, wiekiem ludzkości, historią cywilizacji, i możliwą przyszłością ludzkości do tych między obeliskiem [[Igła Kleopatry]] w Londynie, grubością [[pens]]ówki, grubością znaczka pocztowego, i wysokością [[Mont Blanc]], argumentując, że:
+
+&lt;blockquote&gt;… jako mieszkańcy Ziemi, żyjemy na samym początku historii. Właśnie przyszliśmy na świat w świeżej chwale jutrzenki, i rozciąga się przed nami prawie niewyobrażalnie długi dzień… Naszym potomkom z odległych epok – patrzących na nas z drugiej strony panoramy czasu – nasz obecny wiek będzie się wydawał mglistym porankiem historii; nasi rówieśnicy będą się wydawali niewyraźnymi herosami, którzy przedzierali się przez dżungle niewiedzy, błędu i przesądu, żeby odkryć prawdę, ujarzmić siły natury i stworzyć świat godny do zamieszkania przez człowieka. … Ale zdaje się, iż już możemy dostrzec, że głównym przesłaniem astronomii dla gatunku jest nadzieja, a dla jednostki – odpowiedzialność; odpowiedzialność, bo sporządzamy plany i kładziemy fundamenty pod przyszłość dłuższą niż możemy sobie wyobrazić&lt;ref&gt;{{Cytuj |autor = James Jeans |tytuł = The Universe Around Us |data = 1929 |miejsce = Cambridge |wydawca = Cambridge University Press |s = 342–343 |url = https://archive.org/details/in.ernet.dli.2015.206154 |cytat = „...as inhabitants of the earth, we are living at the very beginning of time. We have come into being in the fresh glory of the dawn, and a day of almost unthinkable length stretches before us... Our descendants of far-off ages, looking down this long vista of time from the other end, will see our present age as the misty morning of the world’s history; our contemporaries of to-day will appear as dim heroic figures who fought their way through jungles of ignorance, error and superstition to discover truth, to learn how to harness the forces of nature, and to make a world worthy for mankind to live in. ... But by what light we have, we seem to discern that the main message of astronomy is one of hope to the race and of responsibility to the individual – of responsibility because we are drawing plans and laying foundations for a longer future than we can well imagine” |język = en}}&lt;/ref&gt;.&lt;/blockquote&gt;
+
+Z kolei w 1984 roku filozof Derek Parfit porównywał trzy możliwe scenariusze: (1) pokój, (2) wojna nuklearna, która zabija 99% obecnej światowej populacji, (3) wojna nuklearna, która zabija 100% światowej populacji, argumentując, że:
+
+&lt;blockquote&gt;(2) byłoby gorsze niż (1), a (3) byłoby gorsze niż (2). Która z tych dwóch różnic jest większa? Większość uważa, że między (1) and (2). Ja uważam, że różnica między (2) i (3) jest o wiele większa. (...) Ziemia pozostanie zdatna do zamieszkania przez co najmniej kolejny miliard lat. Cywilizacja ma zaledwie kilka tysięcy lat. Jeśli nie zniszczymy ludzkości, te kilka tysięcy lat mogą stanowić zaledwie mały ułamek całej historii ludzkiej cywilizacji. Różnica między (2) and (3) może zatem stanowić różnicę między tym małym ułamkiem a całą resztą tej historii. Jeśli porównać tą możliwą historię do jednego dnia, to, co się wydarzyło dotychczas, to tylko ułamek sekundy&lt;ref&gt;{{Cytuj |autor = Derek Parfit |tytuł = Reasons and Persons |data = 1984 |miejsce = Oxford |wydawca = Clarendon Press |s = 453–454 |cytat = „(2) would be worse than (1), and (3) would be worse than (2). Which is the greater of these two differences? Most people believe that the greater difference is between (1) and (2). I believe that the difference between (2) and (3) is very much greater. (...) The Earth will remain inhabitable for at least another billion years. Civilization began only a few thousand years ago. If we do not destroy mankind, these few thousand years may be only a tiny fraction of the whole of civilized human history. The difference between (2) and (3) may thus be the difference between this tiny fraction and all of the rest of this history. If we compare this possible history to a day, what has occurred so far is only a fraction of a second” |język = en}}&lt;/ref&gt;.&lt;/blockquote&gt;
+
+Argumenty na rzecz longtermizmu przedstawiają też Nick Beckstead&lt;ref&gt;{{Cytuj |autor = Nicholas Beckstead |tytuł = On the Overwhelming Importance of Shaping the Far Future |data = 2013 |data dostępu = 2023-03-11 |opublikowany = Rutgers, The State University of New Jersey |doi = 10.7282/t35m649t |url = https://rucore.libraries.rutgers.edu/rutgers-lib/40469/ |język = en |kropka = PhD Thesis}}&lt;/ref&gt;&lt;ref&gt;{{Cytuj |autor r = Nick Beckstead |redaktor = Hilary Greaves; Theron Pummer |rozdział = A Brief Argument for the Overwhelming Importance of Shaping the Far Future |tytuł = Effective Altruism: Philosophical Issues |data = 2019 |miejsce = Oxford |wydawca = Oxford University Press |s = 80–98 |doi = 10.1093/oso/9780198841364.003.0006 |język = en}}&lt;/ref&gt;, Hilary Greaves&lt;ref&gt;{{Cytuj |autor = Hilary Greaves; William MacAskill |tytuł = The Case for Strong Longtermism |data = 2021 |opis = GPI Working Paper No. 5-2021 |opublikowany = Global Priorities Institute, University of Oxford |url = https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism-2/ |język = en}}&lt;/ref&gt;, i Holden Karnofsky&lt;ref&gt;{{Cytuj |autor = Holden Karnofsky |tytuł = The „most important century” blog post series |data = 2021-09-24 |data dostępu = 2023-03-11 |opublikowany = Cold Takes |url = https://www.cold-takes.com/most-important-century/ |język = en}}&lt;/ref&gt;.
+
+== Praktyczne implikacje ==
+[[Plik:Sposoby.png|thumb|250px|Dwa główne sposoby wpływu na długofalową przyszłość według longtermizmu]]
+
+Longtermiści uważają, że są dwa główne sposoby na poprawę długofalowej przyszłości: zapobieganie zagładzie ludzkości i zmiana trajektorii cywilizacji&lt;ref&gt;{{Cytuj |autor = William MacAskill |tytuł = What We Owe The Future |data = 2022 |isbn = 978-1-5416-1862-6 |miejsce = New York |wydawca = Basic Books |s = 35–36 |język = en}}&lt;/ref&gt;.
+
+=== Ryzyko egzystencjalne ===
+Ryzyko egzystencjalne to „ryzyko przedwczesnego wyginięcia inteligentnego życia ziemskiego pochodzenia lub drastycznego i trwałego zniszczenia jego potencjału na dalszy pozytywny rozwój”&lt;ref&gt;{{Cytuj |autor = Nick Bostrom |tytuł = Existential Risk Prevention as Global Priority: Existential Risk Prevention as Global Priority |czasopismo = Global Policy |data = 2013-02 |wolumin = 4 |numer = 1 |s = 15 |doi = 10.1111/1758-5899.12002 |url = https://onlinelibrary.wiley.com/doi/10.1111/1758-5899.12002 |cytat = „An existential risk is one that threatens the premature extinction of Earth-originating intelligent life or the permanent and drastic destruction of its potential for desirable future development” |język = en}}&lt;/ref&gt;. Do przykładów zalicza się ryzyko związane z [[kometa]]mi i [[Asteroidy|asteroidami]], [[superwulkan]]ami, [[Wojna nuklearna|wojną nuklearną]], [[pandemia]]mi pochodzenia naturalnego i ludzkiego, ekstremalną [[Zmiana klimatu|zmianą klimatyczną]], ideologiami [[Totalitaryzm|totalitarystycznymi]], [[Nanotechnologia|nanotechnologią]] czy zaawansowaną [[Sztuczna inteligencja|sztuczną inteligencją]]&lt;ref&gt;{{Cytuj |autor = Nick Bostrom, Milan M. Ćirković |autor r = Nick Bostrom; Milan M. Ćirković |redaktor = Nick Bostrom; Milan M. Ćirković |rozdział = Introduction |tytuł = Global Catastrophic Risks |data = 2008 |isbn = 978-0-19-857050-9 |miejsce = Oxford |wydawca = Oxford University Press |język = en}}&lt;/ref&gt;&lt;ref&gt;{{Cytuj |autor = Toby Ord |tytuł = The Precipice: Existential Risk and the Future of Humanity |data = 2020 |isbn = 978-1-5266-0022-6 |miejsce = London |wydawca = Bloomsbury Publishing |s = 67–162 |język = en}}&lt;/ref&gt;.
+
+Ord szacuje całkowite ryzyko egzystencjalne w ciągu kolejnych stu lat na jeden do sześciu, przy czym za największe źródło ryzyka egzystencjalnego uznaje zagrożenia związane z zaawansowaną sztuczną inteligencją&lt;ref&gt;{{Cytuj |autor = Toby Ord |tytuł = The Precipice: Existential Risk and the Future of Humanity |data = 2020 |isbn = 978-1-5266-0022-6 |miejsce = London |wydawca = Bloomsbury Publishing |s = 167 |język = en}}&lt;/ref&gt;. Ord uważa, że znajdujemy się obecnie w czasie niezwykle podwyższonego ryzyka egzystencjalnego, który nazywa „Czasem Przepaści” („the Precipice”), którego początek datuje na moment [[Trinity (test nuklearny)|pierwszej detonacji bomby atomowej]]&lt;ref&gt;{{Cytuj |autor = Toby Ord |tytuł = The Precipice: Existential Risk and the Future of Humanity |data = 2020 |isbn = 978-1-5266-0022-6 |miejsce = London |wydawca = Bloomsbury Publishing |s = 22–32 |język = en}}&lt;/ref&gt;. Podobne pojęcie „czasu niebezpieczeństw” („time of perils”) pojawia się w pismach astronoma Carla Sagana&lt;ref&gt;{{Cytuj |autor = Carl Sagan |tytuł = Pale Blue Dot: A Vision of the Human Future in Space |data = 1994 |isbn = 0-679-76486-0 |miejsce = New York |wydawca = Ballantine Books |s = 302–312 |język = en}}&lt;/ref&gt;.
+
+=== Zmiana trajektorii ===
+Według ekonomisty Tylera Cowena, o ile przyjmujemy długofalową perspektywę czasową, naszym priorytetem powinno być zwiększenie tempa zrównoważonego wzrostu gospodarczego, ponieważ korzyści z takiego wzrostu kumulują się&lt;ref&gt;{{Cytuj |autor = Tyler Cowen |tytuł = Caring about the Distant Future: Why It Matters and What It Means |czasopismo = The University of Chicago Law Review |data = 2007 |wolumin = 74 |numer = 5 |s = 5–40 |jstor = 4495594 |język = en}}&lt;/ref&gt;&lt;ref&gt;{{Cytuj |autor = Tyler Cowen |tytuł = Stubborn Attachments: a Vision for a Society of Free, Prosperous, and Responsible Individuals |data = 2018 |isbn = 978-1-7322651-3-4 |miejsce = San Francisco, CA |wydawca = Stripe Press |język = en}}&lt;/ref&gt;.
+
+Według MacAskilla obecne tempo wzrostu gospodarczego wydaje się fizycznie niemożliwe do utrzymania przez więcej niż kolejne kilka tysięcy lat, a więc zwiększenie jego tempa miałoby niewielkie efekty na naprawdę długofalową trajektorię cywilizacji&lt;ref&gt;{{Cytuj |autor = William MacAskill |tytuł = What We Owe The Future |data = 2022 |isbn = 978-1-5416-1862-6 |miejsce = New York |wydawca = Basic Books |s = 27, 145–150 |język = en}}&lt;/ref&gt;. MacAskill przekonuje, że lepszym sposobem zmiany trajektorii cywilizacji w długofalowej perspektywie jest poprawa norm moralnych obowiązujących w społeczeństwie, co stara się pokazać na przykładzie brytyjskiego [[abolicjonizm]]u&lt;ref&gt;{{Cytuj |autor = William MacAskill |tytuł = What We Owe The Future |data = 2022 |isbn = 978-1-5416-1862-6 |miejsce = New York |wydawca = Basic Books |s = 47–73 |oclc = 1314633519 |język = en}}&lt;/ref&gt;. MacAskill i inni rozważali w tym kontekście projekty instytucji, które lepiej mogłyby odpowiadać na potrzeby przyszłych pokoleń, jak np. specjalne [[Panel obywatelski|panele obywatelskie]]&lt;ref&gt;{{Cytuj |autor = William MacAskill; Tyler John |tytuł = Longtermist Institutional Reform |data = 2020 |opis = GPI Working Paper No. 14-2020 |opublikowany = Global Priorities Institute, University of Oxford |url = https://globalprioritiesinstitute.org/wp-content/uploads/Tyler-M-John-and-William-MacAskill_Longtermist-institutional-reform.pdf |język = en}}&lt;/ref&gt;&lt;ref&gt;{{Cytuj |autor = Roman Krznaric |tytuł = The Good Ancestor: How to Think Long Term in a Short Term World |data = 2020 |isbn = 978-0-7535-5449-4 |miejsce = London |wydawca = WH Allen |s = 163–193 |język = en}}&lt;/ref&gt;.
+
+=== Długa Refleksja ===
+Według Orda i MacAskilla&lt;ref&gt;{{Cytuj |autor = Toby Ord |tytuł = The Precipice: Existential Risk and the Future of Humanity |data = 2020 |isbn = 978-1-5266-0022-6 |miejsce = London |wydawca = Bloomsbury Publishing |s = 191–193 |język = en}}&lt;/ref&gt;&lt;ref&gt;{{Cytuj |autor = William MacAskill |tytuł = What We Owe The Future |data = 2022 |isbn = 978-1-5416-1862-6 |wydanie = First edition |miejsce = New York, NY |wydawca = Basic Books |s = 97–102 |język = en}}&lt;/ref&gt;, jednym z długofalowych celów ludzkości powinien być stan Długiej Refleksji, tzn. „stabilny stan świata, w którym ludzkość jest chroniona od katastrofy i ma możliwość refleksji i debaty nad naturą dobrego życia, a także wypracowania zasad najlepszego społeczeństwa.”&lt;ref&gt;{{Cytuj |autor = William MacAskill |tytuł = What We Owe The Future |data = 2022 |isbn = 978-1-5416-1862-6 |miejsce = New York, NY |wydawca = Basic Books |s = 98–99 |cytat = „a stable state of the world in which we are safe from calamity and we can reflect on and debate the nature of the good life, working out what the most flourishing society would be” |język = en}}&lt;/ref&gt; Podobne sugestie można znaleźć w pismach Jonathana Schella&lt;ref&gt;{{Cytuj |autor = Jonathan Schell |tytuł = The Fate of the Earth |data = 1982 |isbn = 0-394-52559-0 |miejsce = New York |wydawca = Knopf |s = 225–231 |język = en}}&lt;/ref&gt; i Nicka Bostroma&lt;ref&gt;{{Cytuj |autor = Nick Bostrom |tytuł = Existential Risk Prevention as Global Priority |czasopismo = Global Policy |data = 2013 |wolumin = 4 |numer = 1 |s = 24 |doi = 10.1111/1758-5899.12002 |url = https://onlinelibrary.wiley.com/doi/10.1111/1758-5899.12002 |język = en}}&lt;/ref&gt;. Ord sugeruje, że cel osiągnięcia stanu Długiej Refleksji może stanowić wspólną płaszczyznę dla wielu niekompatybilnych wizji długofalowej ludzkiej przyszłości&lt;ref&gt;{{Cytuj |autor = Toby Ord |tytuł = The Precipice: Existential Risk and the Future of Humanity |data = 2020 |isbn = 978-1-5266-0022-6 |miejsce = London |wydawca = Bloomsbury Publishing |s = 390 |język = en |kropka = przypis 9}}&lt;/ref&gt;, np. dotyczących [[Kolonizacja kosmosu|kolonizacji kosmosu]] czy [[transhumanizm]]u&lt;ref&gt;{{Cytuj |autor = Roman Krznaric |tytuł = The Good Ancestor: How to Think Long Term in a Short-Term World |data = 2020 |isbn = 0-7535-5451-8 |miejsce = London |wydawca = WH Allen |s = 138–160 |język = en}}&lt;/ref&gt;.
+
+== Podstawy filozoficzne ==
+Argumenty na rzecz longtermizmu wywodzą się z różnych tradycji moralnych. Według [[utylitaryzm]]u, naszym moralnym obowiązkiem jest zwiększenie sumy dobrostanu odczuwających jednostek. Bostrom zwraca uwagę, że w ciągu czasu, który ludzkości został na Ziemi może istnieć jeszcze 10&lt;sup&gt;16&lt;/sup&gt; szczęśliwych ludzi, a więc – z utylitarystycznego punktu widzenia – [[Wartość oczekiwana|spodziewana wartość]] obniżenia ryzyka egzystencjalnej katastrofy o jedną milionową jednego procenta jest sto razy większa niż wartość ocalenia jednego miliona ludzi&lt;ref&gt;{{Cytuj |autor = Nick Bostrom |tytuł = Existential Risk Prevention as Global Priority |czasopismo = Global Policy |data = 2013 |wolumin = 4 |numer = 1 |s = 18–19 |doi = 10.1111/1758-5899.12002 |język = en}}&lt;/ref&gt;. Pozytywny wpływ na długofalową przyszłość może być też kwestią priorytetową według [[Konsekwencjalizm|konsekwencjalistów]], ponieważ przyszłość zawiera ogromny potencjał na typy dóbr niezwiązane z dobrostanem, jak np. piękno, dobro i wiedza.
+
+Toby Ord zwraca uwagę na deontologiczne argumenty na rzecz obniżenia ryzyka egzystencjalnego&lt;ref&gt;{{Cytuj |autor = Toby Ord |tytuł = The Precipice: Existential Risk and the Future of Humanity |data = 2020 |isbn = 978-1-5266-0022-6 |miejsce = London |wydawca = Bloomsbury Publishing |s = 49–56 |język = en}}&lt;/ref&gt;:
+
+* mamy dług wobec przeszłości, który możemy spłacić tylko przez przekazanie przyszłym pokoleniom dóbr kultury, nauki i sprawiedliwych instytucji&lt;ref&gt;{{Cytuj |autor = Annette Baier |rozdział = The Rights of Past and Future Persons |tytuł = Reflections On How We Live |data = 2010 |isbn = 978-0-19-957036-2 |miejsce = Oxford |wydawca = Oxford University Press |doi = 10.1093/acprof:osobl/9780199570362.001.0001 |język = en |kropka = Pierwotnie opublikowany w 1981}}&lt;/ref&gt;;
+* bezpośrednie zagrożenie wygnięciem odebrałoby sens wielu obecnym projektom w zakresie sztuki, nauki, medycyny czy polityki&lt;ref&gt;{{Cytuj |autor = Samuel Scheffler |tytuł = Why Worry About Future Generations? |data = 2018 |isbn = 978-0-19-252394-5 |miejsce = Oxford |wydawca = Oxford University Press |język = en}}&lt;/ref&gt;;
+* los ludzkości może mieć kosmiczne znaczenie, o ile inteligentne życie jest rzadkie we wszechświecie, na co może wskazywać [[paradoks Fermiego]]&lt;ref&gt;{{Cytuj |autor = Martin Rees |tytuł = Our Final Century: a Scientist’s Warning: How Terror, Error, and Environmental Disaster Threaten Humankind’s Future in This Century – on Earth and Beyond |data = 2004 |isbn = 0-09-943686-8 |miejsce = London |wydawca = Arrow |s = 157–168 |język = en}}&lt;/ref&gt;;
+* zbiorowe leckeważenie ryzyka egzystencjalnego może być też oznaką braku cywilizacyjnej cnoty roztropności, a więc czymś moralnie nieodpowiednim z punktu widzenia [[Etyka cnót|etyki cnót]].
+
+Roman Krznaric sugeruje, że większa troska o długofalową przyszłość ludzkości jest moralnie wskazana, ponieważ byłaby rezultatem sprawiedliwego porozumienia za międzypokoleniową [[Zasłona niewiedzy|zasłoną niewiedzy]], a ponadto jest odpowiednią reakcją na moralnie niewłaściwą postawę dominacji obecnego pokolenia nad przyszłymi&lt;ref&gt;{{Cytuj |autor = Roman Krznaric |tytuł = The Good Ancestor: How to Think Long Term in a Short-Term World |data = 2020 |isbn = 978-0-7535-5449-4 |miejsce = London |wydawca = WH Allen |s = 71–91 |język = en}}&lt;/ref&gt;.
+
+== Społeczność ==
+Propozycje związane z longtermizmem doprowadziły do powstania społeczności, która pracuje na rzecz przyszłych pokoleń. Można do niej zaliczyć Centre for the Study of Existential Risk na [[University of Cambridge]], [[Future of Humanity Institute]]&lt;ref&gt;{{Cytuj |tytuł = About Us: Future of Humanity Institute |data dostępu = 2023-03-11 |opublikowany = The Future of Humanity Institute |url = http://www.fhi.ox.ac.uk/ |język = en}}&lt;/ref&gt; i Global Priorities Institute&lt;ref&gt;{{Cytuj |tytuł = About Us: Global Priorities Institute |data dostępu = 2023-03-11 |opublikowany = Global Priorities Institute |url = https://globalprioritiesinstitute.org/about-us/ |język = en}}&lt;/ref&gt; na [[Uniwersytet Oksfordzki|Uniwersytecie Oksfordzkim]], organizacja doradztwa zawodowego 80,000 Hours&lt;ref&gt;{{Cytuj |tytuł = About Us: 80,000 Hours |data dostępu = 2023-03-11 |opublikowany = 80,000 Hours |url = https://80000hours.org/about/ |język = en}}&lt;/ref&gt;, Future of Life Institute&lt;ref&gt;{{Cytuj |tytuł = Our Mission: Future of Life Institute |data dostępu = 2023-03-11 |opublikowany = Future of Life Institute |url = https://futureoflife.org/our-mission/ |język = en}}&lt;/ref&gt;, i fundacje Forethought Foundation&lt;ref&gt;{{Cytuj |tytuł = About Us: Forethought Foundation |data dostępu = 2023-03-11 |opublikowany = Forethought Foundation |url = https://www.forethought.org/about-us |język = en}}&lt;/ref&gt; i Longview Philanthropy&lt;ref&gt;{{Cytuj |tytuł = About: Longview Philanthropy |data dostępu = 2023-03-11 |opublikowany = Longview Philanthropy |url = https://www.longview.org/about |język = en}}&lt;/ref&gt;. Dużym sponsorem projektów związanych z longtermizmem jest fundacja Open Philanthropy&lt;ref&gt;{{Cytuj |tytuł = Focus Areas: Open Philanthropy |data = 2021-06-30 |data dostępu = 2023-03-11 |opublikowany = Open Philanthropy |url = https://www.openphilanthropy.org/focus/ |język = en}}&lt;/ref&gt;, której współzałożycielem jest [[Dustin Moskovitz]]. Innym dużym sponsorem był [[Sam Bankman-Fried]] i jego upadła fundacja FTX Future Fund, która zobowiązała się do przekazania 160 milionów dolarów na cele longtermistyczne&lt;ref&gt;{{Cytuj |tytuł = What is long-termism? |czasopismo = The Economist |data dostępu = 2023-03-11 |issn = 0013-0613 |url = https://www.economist.com/the-economist-explains/2022/11/22/what-is-long-termism |język = en}}&lt;/ref&gt;.
+
+== Krytyka ==
+=== Etyka populacji ===
+Jednym zarzutem wobec longtermizmu jest to, że musi opierać się na kontrowersyjnych przesłankach w [[Etyka populacji|etyce populacji]]&lt;ref&gt;{{Cytuj |autor = Kieran Setiya |tytuł = The New Moral Mathematics |czasopismo = Boston Review |data = 2022-08-15 |data dostępu = 2023-03-11 |url = https://www.bostonreview.net/articles/the-new-moral-mathematics/ |język = en}}&lt;/ref&gt; – np. takich jak totalizm, który implikuje tzw. „odrażającą konkluzję”, tzn. twierdzenie, że „dla każdej możliwej populacji co najmniej 10 miliardów ludzi, z których każdy cieszy się bardzo wysoką jakością życia, musi istnieć znacznie większa możliwa populacja, której istnienie – przy założeniu, że wszystkie pozostałe warunki są takie same – byłoby lepsze, nawet jeśli ci ludzie żyliby życiem, które ledwo warte jest przeżycia.”&lt;ref&gt;{{Cytuj |autor = Derek Parfit |tytuł = Reasons and Persons |data = 1984 |isbn = 978-0-19-824615-2 |miejsce = Oxford |wydawca = Clarendon Press |s = 388 |cytat = „''The Repugnant Conclusion'': For any possible population of at least ten billion people, all with a very high quality of life, there must be some much larger imaginable population whose existence, if other things are equal, would be better, even though its members have lives that are barely worth living” |język = en}}&lt;/ref&gt;
+
+W odpowiedzi MacAskill zauważa, że wiele rezultatów z zakresu etyki populacji wskazuje, że żadna przekonująca teoria nie jest w stanie jej uniknąć&lt;ref&gt;{{Cytuj |autor = Stéphane Zuber; Nikhil Venkatesh; Torbjörn Tännsjö; Christian Tarsney; H. Orri Stefánsson; Katie Steele; Dean Spears; Jeff Sebo; Marcus Pivato; Toby Ord; Yew-Kwang Ng; Michal Masny; William MacAskill; Nicholas Lawson; Kevin Kuruc; Michelle Hutchinson; Johan E. Gustafsson; Hilary Greaves; Lisa Forsberg; Marc Fleurbaey; Diane Coffey; Susumu Cato; Clinton Castro; Tim Campbell; Mark Budolfson; John Broome; Alexander Berger; Nick Beckstead; Geir B. Asheim |tytuł = What Should We Agree on about the Repugnant Conclusion? |czasopismo = Utilitas |data = 2021 |issn = 0953-8208 |wolumin = 33 |numer = 4 |s = 379–383 |doi = 10.1017/S095382082100011X |język = en}}&lt;/ref&gt;, a zarazem zaznacza, że longtermizm – o ile skupia się na zmianie trajektorii cywilizacji, a nie na uniknięciu zagłady ludzkości – nie musi polegać na kontrowersyjnych przesłankach w etyce populacji&lt;ref&gt;{{Cytuj |autor = Hilary Greaves; William MacAskill |tytuł = The Case for Strong Longtermism |data = 2021 |opublikowany = Global Priorities Institute, University of Oxford |url = https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism-2/ |język = en |kropka = GPI Working Paper No. 5-2021}}&lt;/ref&gt;.
+
+=== Nieprzewidywalność ===
+Innym zarzutem wobec longtermizmu jest to, że długofalowe konsekwencje naszych działań są nieprzewidywalne&lt;ref&gt;{{Cytuj |autor = Regina Rini |tytuł = An Effective Altruist? Review of What We Owe The Future |data = 2022-09-09 |data dostępu = 2023-03-11 |opublikowany = Times Literary Supplement |url = https://www.the-tls.co.uk/articles/what-we-owe-the-future-william-macaskill-book-review-regina-rini/ |język = en}}&lt;/ref&gt;. Zarzut ten jest podobny do szerszego „problemu nieprzewidywalności”, który pojawia się w przypadku [[konsekwencjalizm]]u&lt;ref&gt;{{Cytuj |autor = Hilary Greaves |tytuł = Cluelessness |czasopismo = Proceedings of the Aristotelian Society |data = 2016 |issn = 0066-7374 |wolumin = 116 |numer = 3 |s = 311–339 |doi = 10.1093/arisoc/aow018 |język = en}}&lt;/ref&gt;.
+
+W odpowiedzi badacze związani z longtermizmem starają się zidentyfikować wydarzenia, na które możemy mieć wpływ w bliższej przyszłości, a które będą miały długotrwały i przewidywalny wpływ, np. wyginięcie ludzkości czy utrata kontroli nad zaawansowaną sztuczną inteligencją&lt;ref&gt;{{Cytuj |autor = Hilary Greaves; William MacAskill |tytuł = The Case for Strong Longtermism |data = 2021 |opublikowany = Global Priorities Institute, University of Oxford |url = https://globalprioritiesinstitute.org/hilary-greaves-william-macaskill-the-case-for-strong-longtermism-2/ |kropka = GPI Working Paper No. 5-2021}}&lt;/ref&gt;.
+
+=== Fanatyzm ===
+Innym zarzutem wobec longtermizmu jest to, że zakłada racjonalność podejmowania działań mających bardzo małe prawodpodobieństwo bardzo dużych korzyści, a nie działań prowadzących do małych korzyści z dużą pewnością. Ilustracją podobnego problemu jest eksperyment myślowy znany jako „napad na Pascala”&lt;ref&gt;{{Cytuj |autor = Nick Bostrom |tytuł = Napad na Pascala |czasopismo = Analiza i Egzystencja |data = 2015 |wolumin = 31 |inni = Tomasz Żuradzki (tłum.) |s = 135–138 |doi = 10.18276/aie.2015.31-07 |język = pl}}&lt;/ref&gt;&lt;ref&gt;{{Cytuj |autor = Nick Bostrom |tytuł = Pascal’s Mugging |czasopismo = Analysis |data = 2009 |wolumin = 69 |numer = 3 |s = 443–445 |doi = 10.1093/analys/anp062 |język = en}}&lt;/ref&gt;.
+
+W odpowiedzi MacAskill podkreśla, że całkowity poziom ryzyka egzystencjalnego mieści się w zakresie ryzyka, któremu próbujemy przeciwdziałać w życiu codziennym, np. zapinając pasy w samochodzie&lt;ref&gt;{{Cytuj |autor = William MacAskill |tytuł = What We Owe The Future |data = 2022 |isbn = 978-1-5416-1862-6 |miejsce = New York |wydawca = Basic Books |s = 259–260 |język = en}}&lt;/ref&gt;. Inni badacze związani z longtermizmem wskazują natomiast na argumenty na rzecz tzw. „fanatyzmu”, tzn. ogólnej tezy, że dla każdej korzyści i dla każdego niezerowego prawdopodobieństwa istnieje taka możliwa korzyść, że lepiej jest otrzymać tą drugą ze wspomnianym prawdopodobieństwem niż otrzymać tą pierwszą z całkowitą pewnością&lt;ref&gt;{{Cytuj |autor = Hayden Wilkinson |tytuł = In Defense of Fanaticism |czasopismo = Ethics |data = 2022 |wolumin = 132 |numer = 2 |s = 445–477 |doi = 10.1086/716869 |język = en}}&lt;/ref&gt;&lt;ref&gt;{{Cytuj |autor = Teru Thomas; Nick Beckstead |tytuł = A Paradox for Tiny Probabilities and Enormous Values |data = 2021 |opublikowany = Global Priorities Institute, University of Oxford |url = https://globalprioritiesinstitute.org/wp-content/uploads/Beckstead-Thomas-A-Paradox-for-Tiny-Probabilities-and-Enormous-Values-Version-2.1.pdf |język = en |kropka = GPI Working Paper No. 7-2021}}&lt;/ref&gt;.
+
+=== Roszczeniowość ===
+Innym zarzutem wobec longtermizmu jest to, że może prowadzić do nadmiernych wymagań wobec obecnego pokolenia, być może kosztem najbardziej potrzebujących ludzi w obecnym pokoleniu&lt;ref name=Torres&gt;{{Cytuj |autor = Émile Torres |tytuł = Why longtermism is the world’s most dangerous secular credo |data = 2021-10-19 |data dostępu = 2023-03-11 |opublikowany = Aeon |url = https://aeon.co/essays/why-longtermism-is-the-worlds-most-dangerous-secular-credo |język = en}}&lt;/ref&gt;. Podobne zarzuty były wysuwane przeciwko [[konsekwencjalizm]]owi&lt;ref&gt;{{Cytuj |autor = Liam B. Murphy |tytuł = Moral Demands in Nonideal Theory |data = 2000 |isbn = 0-585-34692-5 |miejsce = Oxford |wydawca = Oxford University Press |język = en}}&lt;/ref&gt;, i szczególnie przeciwko zastosowaniom [[utylitaryzm]]u do problemu międzypokoleniowej sprawiedliwości&lt;ref&gt;{{Cytuj |autor = John Rawls |tytuł = A Theory of Justice |data = 1999 |isbn = 0-674-00077-3 |wydanie = Revised edition |miejsce = Cambridge, Massachusetts |wydawca = The Belknap Press of Harvard University Press |s = 251–258 |język = en}}&lt;/ref&gt;.
+
+W odpowiedzi MacAskill podkreśla, że wiele projektów związanych z longtermizmem ma też korzyści dla obecnego pokolenia; np. zapobieganie pandemiom może zmniejszyć poziom ryzyka egzystencjalnego, a zarazem zwiększyć obecny poziom zdrowia publicznego&lt;ref&gt;{{Cytuj |autor = William MacAskill |tytuł = What We Owe The Future |data = 2022 |isbn = 978-1-5416-1862-6 |miejsce = New York |wydawca = Basic Books |s = 261 |język = en}}&lt;/ref&gt;. Z kolei Ord podkreśla, że według longtermizmu pozytywny wpływ jest tylko jednym z kluczowych priorytetów naszych czasów, i że obecnie na cele związane z longtermizmem wydaje się na świecie mniej niż na lody (60 mld dolarów w 2018 roku)&lt;ref&gt;{{Cytuj |autor = Toby Ord |tytuł = The Precipice: Existential Risk and the Future of Humanity |data = 2020 |isbn = 978-1-5266-0022-6 |opis = przypis 56 do strony 58 |miejsce = London |wydawca = Bloomsbury Publishing |s = 312–313 |język = en}}&lt;/ref&gt;&lt;ref&gt;{{Cytuj |tytuł = Ice Cream Market Share 2023, Size, Trends, Report 2028 |data dostępu = 2023-03-11 |opublikowany = www.imarcgroup.com |url = https://www.imarcgroup.com/ice-cream-market |język = en}}&lt;/ref&gt;.
+
+=== „Cel uświęca środki” ===
+Innym zarzutem wobec longtermizmu jest to, że może on dostarczyć uzasadnienia dla oszustwa lub przemocy w dążeniu do osiągnięcia longtermistycznych celów&lt;ref name=Torres /&gt;. Filozof [[Peter Singer]] pisał, że „patrzenie przez pryzmat longtermizmu i ryzyka egzystencjalnego zmniejsza bieżące problemy prawie do zera, dostarczając jednocześnie uzasadnienia na prawie wszystko, co zwiększyłoby nasze szanse przetrwania wystarczająco długo, aby rozprzestrzenić się poza Ziemię.”&lt;ref&gt;{{Cytuj |autor = Peter Singer |tytuł = The Hinge of History |data = 2021-10-08 |data dostępu = 2023-03-11 |opublikowany = Project Syndicate |url = https://www.project-syndicate.org/commentary/ethical-implications-of-focusing-on-extinction-risk-by-peter-singer-2021-10 |cytat = „viewing current problems ... through the lens of ‘longtermism’ and ‘existential risk’ can shrink those problems to almost nothing, while providing a rationale for doing almost anything to increase our odds of surviving long enough to spread beyond Earth” |język = en}}&lt;/ref&gt;
+
+W odpowiedzi MacAskill podkreśla, że troska o przyszłe pokolenia, którą wyraża longtermizm, nie uzasadnia oszustwa czy przemocy, podobnie jak troska o środowisko naturalne nie uzasadnia zamachów bombowych na elektrownie&lt;ref&gt;{{Cytuj |autor = William MacAskill |tytuł = What We Owe The Future |data = 2022 |isbn = 978-1-5416-1862-6 |miejsce = New York |wydawca = Basic Books |s = 260–261 |język = en}}&lt;/ref&gt;.
+
+=== „Long-washing” ===
+Jeszcze innym zarzutem wobec longtermizmu jako ruchu społecznego jest to, że – podobnie jak w przypadku zjawiska [[Greenwashing|green-washing]] – może on służyć do stworzenia mylnego wrażenia, że działania firm lub jednostek wspierających longtermistyczne cele są etycznie usprawiedliwione&lt;ref&gt;{{Cytuj |autor = Olúfẹ́mi O. Táíwò; Joshua Stein |tytuł = Is the effective altruism movement in trouble? |czasopismo = The Guardian |data = 2022-11-16 |data dostępu = 2023-03-11 |issn = 0261-3077 |url = https://www.theguardian.com/commentisfree/2022/nov/16/is-the-effective-altruism-movement-in-trouble |język = en}}&lt;/ref&gt;. W podobnym kontekście, Roman Krznaric pisze, że „rosnąca liczba biznesmenów jest nie tylko ekspertami w ‘green-washingu’ (wygłaszaniu bezpodstawnych twierdzeń o tym, co ich firmy robią dla środowiska), ale także w czymś co uważam za ‘long-washing’ (stwarzanie długoterminowej strategii przede wszystkim ze względu na wyniki finansowe firmy raczej niż dla dobra jutrzejszego świata).”&lt;ref&gt;{{Cytuj |autor = Roman Krznaric |tytuł = The Good Ancestor: How to Think Long Term in a Short-Term World |data = 2020 |isbn = 978-0-7535-5449-4 |miejsce = London |wydawca = WH Allen |s = 203 |język = en}}&lt;/ref&gt;
+
+== Zobacz też ==
+* [[Efektywny altruizm]]
+
+== Przypisy ==
+{{Przypisy}}
+
+== Linki zewnętrzne ==
+* [https://longtermism.com/introduction Longtermism.com]
+* [https://www.bbc.com/future/article/20220805-what-is-longtermism-and-why-does-it-matter William MacAskill, What is Longtermism? (BBC Future)]
+* [https://www.bbc.com/future/article/20210929-creatures-of-the-dawn-how-radioactivity-unlocked-deep-time Thomas Moynihan, Creatures of the Dawn: How Radioactivity Unlocked Deep Time (BBC Future)]
+
+[[Kategoria:Filozofia]]
+[[Kategoria:Filozofia współczesna]]</text>
+      <sha1>cs8evpdfkfbuox90q0klx6txt8jadr2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Noosfera</title>
+    <ns>0</ns>
+    <id>1063908</id>
+    <revision>
+      <id>72954716</id>
+      <parentid>72952433</parentid>
+      <timestamp>2024-02-23T07:34:16Z</timestamp>
+      <contributor>
+        <username>Lelek 2v</username>
+        <id>817397</id>
+      </contributor>
+      <comment>/* Zobacz też */ kat.</comment>
+      <origin>72954716</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="12935" sha1="lgz5mz5ljww8kdv1v5a2s0jmw1rgkar" xml:space="preserve">[[Plik:RR5110-0124R.jpg|thumb|Moneta pamiątkowa [[Centralny Bank Federacji Rosyjskiej|Banku Rosji]] z wizerunkiem [[Władimir Wiernadski|Władimira Wiernadskiego]] i artystycznym przedstawieniem noosfery]]
+'''Noosfera''' – koncepcja [[filozofia|filozoficzna]] opracowana i spopularyzowana przez [[biogeochemia|biogeochemika]] [[Władimir Wiernadski|Władimira Wiernadskiego]] oraz filozofa i [[jezuici|jezuickiego]] księdza [[Pierre Teilhard de Chardin|Pierre'a Teilharda de Chardina]]. Wiernadski zdefiniował noosferę jako nowy stan [[biosfera|biosfery]]{{odn|Samson|Pitt|1999|s=6}} i opisał ją jako planetarną „sferę rozumu”{{odn|Yanshin|Yanshina|1997|s=6}}{{odn|Моисеев|1990|s=26}}. Noosfera reprezentuje najwyższy etap rozwoju biosfery, czyli etap racjonalnej działalności ludzkości&lt;ref name="Петрашов6"&gt;{{odn|ref=nie|Петрашов|1998|s=6}}&lt;/ref&gt;.
+
+Słowo to pochodzi od [[język grecki|greckiego]] νόος („nous”, „umysł”, „rozum”) i σφαῖρα („kula”), w leksykalnej analogii do „[[atmosfera|atmosfery]]” i „biosfery”{{odn|Lane|1996|s=4}}. Koncepcja nie może być przypisywana tylko jednemu autorowi. Jej autorzy, Wiernadski i de Chardin, opracowali dwie powiązane, ale całkowicie różne koncepcje, z których pierwsza oparta jest na naukach [[geologia|geologicznych]], a druga na [[teologia|teologii]]. Obie koncepcje noosfery podzielają jednak wspólną tezę, że ludzki rozum i myśl naukowa stworzyły i będą tworzyć kolejną ewolucyjną warstwę geologiczną. Ta warstwa geologiczna jest częścią łańcucha ewolucyjnego{{odn|Vernadsky|1997}}{{odn|de Chardin|1959}}. Autorzy drugiego pokolenia, głównie pochodzenia rosyjskiego, rozwinęli koncepcję Wiernadskiego, tworząc powiązane pojęcia: [[noocenoza]] i [[noocenologia]]&lt;ref name="Петрашов6"/&gt;.
+
+== Autorzy pojęcia ==
+Termin noosfera został po raz pierwszy użyty w publikacjach Pierre'a Teilharda de Chardina w 1922 roku{{odn|de Chardin|1923|s=71, 230, 261}} w jego ''[[Kosmogonia|Cosmogenesis]]''&lt;ref&gt;{{Cytuj stronę |url = https://www.tstu.ru/win/kultur/nauka/vernad/uchver.htm |tytuł = Б.И. Вернадский - выдающийся ученый |autor = |opublikowany = Тамбовский государственный технический университет |data = |język = ru |data dostępu = 2023-10-23}}&lt;/ref&gt;. Z terminem tym zapoznał Wiernadskiego najprawdopodobniej ich wspólny znajomy [[Édouard Le Roy]] podczas pobytu w [[Paryż]]u{{odn|Fuchs-Kittowski|Krüger|1997|s=768}}. Niektóre źródła podają nawet, że Le Roy jako pierwszy zaproponował ten termin{{odn|Моисеев|1990|s=24}}. Sam Wiernadski napisał, że po raz pierwszy zetknął się z tą koncepcją przez Le Roya podczas jego wykładów w [[Collège de France]] w 1927 roku i że Le Roy kładł nacisk na wspólne badanie tej koncepcji z de Chardinem{{odn|Вернадский|2018}}. Według listów Wiernadskiego, pomysły na temat noosfery zaczerpnął on z artykułu Le Roya pt. ''Les origines humaines et l'evolution de l'intelligence'', a szczególnie z jego części III: ''La noosfera et l'hominizacja'', po czym przerobił tę koncepcję przez pryzmat swojej dziedziny własnej, biogeochemii{{odn|Fuchs-Kittowski|Krüger|1997|s=769}}. Historyk Kendall E. Bailes konkluduje, że Wiernadski i de Chardin wywierali na siebie wzajemny wpływ, ponieważ de Chardin również uczęszczał na wykłady Wiernadskiego na temat biogeochemii, zanim stworzył koncepcję noosfery{{odn|Bailes|1990|s=162}}.
+
+W relacji stwierdzono, że Le Roy i de Chardin nie byli świadomi koncepcji biosfery w swojej koncepcji noosfery i że to Wiernadski wprowadził ich do tego pojęcia, co dało ich [[konceptualizacja|konceptualizacji]] oparcie w [[nauki przyrodnicze|naukach przyrodniczych]]{{odn|Danilov-Danil'yan|Losev|Reyf|2009|s=181}}. Zarówno de Chardin, jak i Wiernadski opierają swoje koncepcje noosfery na terminie „biosfera”, opracowanym przez [[Edward Suess|Edwarda Suessa]] w 1875 roku&lt;ref name="Levit161"&gt;{{odn|ref=nie|Levit|2000|s=161}}&lt;/ref&gt;. Pomimo odmiennego pochodzenia, podejścia i zainteresowań de Chardina i Wiernadskiego, łączy ich kilka fundamentalnych tematów. Obaj przekroczyli granice nauk przyrodniczych i podjęli próbę stworzenia całościowych konstrukcji teoretycznych, opartych na filozofii, naukach społecznych i autoryzowanych interpretacjach [[ewolucja biologiczna|teorii ewolucji]]&lt;ref name="Levit161"/&gt;. Co więcej, obaj myśliciele byli przekonani o [[teleologia|teleologicznym]] charakterze ewolucji. Argumentowali również, że działalność człowieka staje się siłą geologiczną i że sposób, w jaki jest kierowana, może wpływać na środowisko{{odn|Lavrenova|2019|s=16}}. Istnieją zasadnicze różnice pomiędzy tymi dwiema koncepcjami.
+
+== Pojęcie ==
+W teorii Wiernadskiego noosfera jest trzecią w kolejności fazą rozwoju [[Ziemia|Ziemi]], po [[geosfera|geosferze]] (materia nieożywiona) i biosferze (życie biologiczne). Tak jak pojawienie się życia zasadniczo przekształciło geosferę, pojawienie się [[Procesy poznawcze|ludzkiego poznania]] zasadniczo przekształciło biosferę. W przeciwieństwie do koncepcji [[Hipoteza Gai|teoretyków Gai]], czyli promotorów [[cyberprzestrzeń|cyberprzestrzeni]], noosfera Wiernadskiego pojawia się w punkcie, w którym ludzkość, dzięki opanowaniu procesów nuklearnych, zaczyna tworzyć zasoby poprzez [[transmutacja|transmutację]] [[pierwiastek chemiczny|pierwiastków]]. Jest to obszar badań w ramach Projektu Globalnej Świadomości&lt;ref&gt;{{Cytuj stronę |url = https://noosphere.princeton.edu/ |tytuł = The Global Consciousness Project Meaningful Correlations in Random Data |autor = |opublikowany = noosphere.princeton.edu |data = |język = en |data dostępu = 2023-10-23}}&lt;/ref&gt;.
+
+Dla de Chardina noosfera wyłania się i jest konstytuowana przez interakcję ludzkich umysłów. Noosfera rozrastała się wraz z organizacją masy ludzkiej w stosunku do niej samej, gdy zaludniała ona Ziemię. W miarę jak ludzkość organizuje się w bardziej złożone sieci społeczne, tym wyższa staje się świadomość noosfery. Koncepcja ta stanowi rozwinięcie Prawa Złożoności/Świadomości de Chardina, prawa opisującego naturę ewolucji we [[wszechświat|wszechświecie]]. De Chardin argumentował, że noosfera rozrasta się w kierunku jeszcze większej integracji i zjednoczenia, czego kulminacją jest [[Punkt Omega]] – wierzchołek myśli/świadomości – który uważał za cel historii.
+
+Jeden z oryginalnych aspektów koncepcji noosfery dotyczy ewolucji. [[Henri Bergson]] w swojej ''L'évolution créatrice'' (1907) był jednym z pierwszych, którzy zaproponowali, że ewolucja jest „twórcza” i niekoniecznie można ją wytłumaczyć wyłącznie [[Karol Darwin|darwinowskim]] [[dobór naturalny|doborem naturalnym]]. ''L'évolution créatrice'' zostaje podtrzymana, zdaniem Bergsona, przez stałą [[witalizm]], który animuje życie oraz zasadniczo łączy umysł i ciało; jest to idea przeciwstawiająca się dualizmowi [[René Descartes|Kartezjusza]]. W 1923 roku [[Conwy Lloyd Morgan|C. Lloyd Morgan]] posunął się jeszcze dalej w tej teorii, opisując „wyłaniającą się ewolucję”, która mogłaby wyjaśnić rosnącą złożoność (w tym ewolucję umysłu). Morgan odkrył, że wiele z najciekawszych zmian w organizmach żywych ma w dużej mierze charakter nieciągły w stosunku do wcześniejszej ewolucji. Dlatego te żywe istoty niekoniecznie ewoluowały w wyniku stopniowego procesu doboru naturalnego. Twierdził raczej, że proces doświadczeń ewolucyjnych charakteryzuje się skokami złożoności (takimi jak pojawienie się autorefleksyjnego wszechświata, czyli noosfery) i osiąga swego rodzaju jakościowy [[Punktualizm (biologia)|punktualizm]]. Wreszcie złożoność kultur ludzkich, zwłaszcza języka, ułatwiła przyspieszenie ewolucji, w której ewolucja kulturowa zachodzi szybciej niż ewolucja biologiczna. Najnowsze zrozumienie ekosystemów ludzkich i wpływu człowieka na biosferę doprowadziło do powiązania pojęcia [[Szanse na przetrwanie|szans na przetrwanie]] z „współewolucją”{{odn|Norgaard|1994}} oraz harmonizacją ewolucji kulturowej i biologicznej.
+
+== Przypisy ==
+{{przypisy}}
+
+== Bibliografia ==
+* {{Cytuj książkę | nazwisko = Bailes | imię = Kendall E. |tytuł = Science and Russian Culture in an Age of Revolutions - V.I. Vernadsky and His Scientific School, 1863-1945 |data = 1990 | miejsce = Bloomigton, Indianapolis | wydawca = Indiana University Press | język = en | odn = tak}}
+* {{Cytuj książkę | nazwisko = Danilov-Danil'yan | imię = Victor I. | nazwisko2 = Losev | imię2 = K. S. | nazwisko3 = Reyf | imię3 = Igor E. | tytuł = Sustainable Development and the Limitation of Growth: Future Prospects for World Civilization |data = 2009 | miejsce = Berlin | wydawca = Springer Science &amp; Business Media | isbn = 9783540752493 | język = en | odn = tak}}
+* {{Cytuj książkę | nazwisko = de Chardin | imię = Pierre Teilhard | autor link = Pierre Teilhard de Chardin | tytuł = Der Mensch im Kosmos |miejsce = München | wydawca = C.H Beck | data = 1959 | język = de | odn = tak}}
+* {{Cytuj książkę | url = https://archive.org/details/visionofpast0000teil | nazwisko = de Chardin | imię = Pierre Teilhard | tytuł = Hominization | rozdział = The Vision of the Past | miejsce = | wydawca = |data = 1923 | język = en | odn = tak}}
+* {{Cytuj pismo | nazwisko = Fuchs-Kittowski | imię = K. | nazwisko2 = Krüger | imię2 = P. |tytuł = The Noosphere Vision of Pierre Teilhard de Chardin and Vladimir I. Vernadsky in the Perspective of Information and of World Wide Communication | czasopismo = World Futures | wolumin = 50 | numer = 1–4 | data = 1997 | język = en | odn = tak}}
+* {{Cytuj książkę | nazwisko = Lane | imię = David H. |tytuł = The phenomenon of Teilhard: prophet for a new age |miejsce = | wydawca = Mercer University Press | data = 1996 | isbn = 9780865544987 | język = en | odn = tak}}
+* {{Cytuj książkę | nazwisko = Lavrenova | imię = Olga |tytuł = Spaces and Meanings: Semantics of the Cultural Landscape |miejsce = Cham | wydawca = Springer | data = 2019 | isbn = 9783030151676 | język = en | odn = tak}}
+* {{Cytuj książkę | nazwisko = Levit | imię = Georgy S. |tytuł = The Biosphere and the Noosphere Theories of V.I. Vernadsky and P. Teilhard de Chardin: A Methodological Essay |miejsce = Moscow | wydawca = International Archives on the History of Science/Archives Internationales D'Histoire des Sciences | data = 2000 | język = en | odn = tak}}
+* {{Cytuj książkę | nazwisko = Norgaard | imię = Richard B. | tytuł = Development betrayed : the end of progress and a coevolutionary revisioning of the future |miejsce = London | wydawca = Routledge | data = 1994| isbn = 0203012402 | oclc = 69862402 | język = en | odn = tak}}
+* {{Cytuj książkę | nazwisko = Samson | imię = Paul R. | nazwisko2 = Pitt | imię2 = David | tytuł = The Biosphere and Noosphere Reader: Global Environment, Society and Change | miejsce = Moscow | wydawca = International Archives on the History of Science/Archives Internationales D'Histoire des Sciences | data = 1999 | isbn = 0-415-16644-6 | język = en | odn = tak}}
+* {{Cytuj książkę | nazwisko = Vernadsky | imię = Vladimir Ivanovich | autor link = Władimir Wiernadski | tytuł = Scientific Thought as a Planetary Phenomenon |miejsce = Moscow | wydawca = Nongovernmental Ecological V.I.Vernadsky Foundation |data = 1997 | język = en | odn = tak}}
+* {{Cytuj książkę | nazwisko = Yanshin | imię = A. L. | nazwisko2 = Yanshina | imię2 = F.T. | tytuł = Preface; in Vernadsky, Vladimir Ivanovich: Scientific Thought as a Planetary Phenomenon | miejsce = Moscow| wydawca = Nongovernmental Ecological V.I.Vernadsky Foundation |data = 1997 | język = en | odn = tak}}
+* {{Cytuj książkę | url = https://books.google.pl/books?id=REJKDwAAQBAJ&amp;pg=PP16&amp;redir_esc=y#v=onepage&amp;q&amp;f=false | nazwisko = Вернадский | imię = Владимир |tytuł = Несколько слов о ноосфере |miejsce = Москва | wydawca = Strelbytskyy Multimedia Publishing |data = 2018| język = ru | odn = tak}}
+* {{Cytuj pismo | nazwisko = Моисеев | imię = Никита Николаевич |tytuł = Человек и ноосфера | czasopismo = Молодая гвардия |data = 1990 | język = ru | odn = tak}}
+* {{Cytuj książkę | nazwisko = Петрашов | imię = В.В. | tytuł = Начала нооценологии: наука о восстановлении экосистем и создании нооценозов | miejsce = Москва |data = 1998 | język = ru | odn = tak}}
+
+== Zobacz też ==
+* [[epigeosfera]]
+
+{{Geosfery}}
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Filozofia]]
+[[Kategoria:Ekologia]]
+[[Kategoria:Ewolucja]]</text>
+      <sha1>lgz5mz5ljww8kdv1v5a2s0jmw1rgkar</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Heterotopia</title>
+    <ns>0</ns>
+    <id>5632275</id>
+    <revision>
+      <id>74692825</id>
+      <parentid>73208816</parentid>
+      <timestamp>2024-09-06T07:52:55Z</timestamp>
+      <contributor>
+        <ip>193.109.244.28</ip>
+      </contributor>
+      <comment>Dodano obrazek.</comment>
+      <origin>74692825</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3009" sha1="p4fsfc7h6p1xl71mm5nkyhbz71ymei6" xml:space="preserve">[[Plik:Celebración de Todos los Santos, cementerio de la Santa Cruz, Gniezno, Polonia, 2017-11-01, DD 19-30 PAN HDR.jpg|alt=Zdjęcie przedstawia cmentarz w środku nocy podczas dnia Wszystkich Świętych.|mały|Przykład heterotopii wg Foucaulta – cmentarz]]
+'''Heterotopia''' – pojęcie zaproponowane przez [[Michel Foucault|Michela Foucaulta]], które ma m.in. definiować przestrzenie kontestujące, odwracające i reprezentujące inne przestrzenie&lt;ref name=":0" /&gt;. Wspomniana została przez filozofa tylko kilkukrotnie. Heterotopia zdobyła popularność po premierze angielskiego tłumaczenia transkrypcji wykładu z 1967 r. w 1986 r., 19 lat później&lt;ref name=":1"&gt;{{Cytuj |autor = Peter Johnson |tytuł = The Geographies of Heterotopia |czasopismo = Geography Compass |data = 2013-11 |data dostępu = 2024-03-21 |issn = 1749-8198 |wolumin = 7 |numer = 11 |s = 790 |doi = 10.1111/gec3.12079 |url = https://compass.onlinelibrary.wiley.com/doi/10.1111/gec3.12079 |język = en}}&lt;/ref&gt;. Polskie tłumaczenie tego tekstu ukazało się w 2005 r.&lt;ref name=":0"&gt;{{Cytuj |autor = Michel Foucault |tytuł = Inne przestrzenie (przeł. Agnieszka Rejniak-Majewska) |czasopismo = Teksty Drugie |data = 2005 |numer = 6 |s = 117-125}}&lt;/ref&gt;. To pojęcie [[Filozofia|filozoficzne]] znajduje zastosowanie w wielu innych dziedzinach nauki, m.in. architekturze czy socjologii&lt;ref name=":1" /&gt;.
+
+== Definicja ==
+Podczas wykładu wygłoszonego w 1967 dla [[Cercle d’études architecturales]] (''Koła Studiów Architektonicznych'') we Francji Foucault zdefiniował heterotopię następująco:&lt;blockquote&gt;Są też, prawdopodobnie w każdej kulturze, w każdej cywilizacji, miejsca (''lieux'') rzeczywiste – miejsca, które wyznaczane są wraz z tworzeniem się społeczeństwa, które są czymś w rodzaju kontr-miejsc (''contre-emplacements''), rodzajem efektywnie odgrywanej utopii, w której wszystkie inne rzeczywiste miejsca (''emplacements''), jakie można znaleźć w ramach kultury, są jednocześnie reprezentowane, kontestowane i odwracane.&lt;ref name=":0" /&gt;&lt;/blockquote&gt;Zaproponował, aby naukę o heterotopiach nazwać heterotopologią. Wyszczególnia kilka zasad heterotopii:
+
+# nie ma przypuszczalnie na świecie takiej kultury, która nie tworzyłaby heterotopii;
+# heterotopia może zmienić swoje przeznaczenie;
+# heterotopia może zestawiać w jednym miejscu (''lieu'') liczne przestrzenie, liczne miejsca (''emplacements''), które są ze sobą niekompatybilne;
+# heterotopie są często powiązane z warstwami czasu, więc otwierają się na heterochromie;
+# heterotopie zawsze zakładają system otwarcia i zamknięcia;
+# pełnią one różne role w stosunku do pozostałych przestrzeni.&lt;ref name=":0" /&gt;
+
+Wśród heterotopii Foucault wyszczególnia m.in. heterotopie kryzysu ([[internat]], wyprawa poślubna), dewiacji ([[sanatorium]], dom spokojnej starości), [[Cmentarz|cmentarze]], ogrody, kina, [[Dom publiczny|domy publiczne]] i inne.
+
+== Przypisy ==
+{{Przypisy}}
+
+[[Kategoria:Filozofia]]</text>
+      <sha1>p4fsfc7h6p1xl71mm5nkyhbz71ymei6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Filmy o filozofii</title>
+    <ns>14</ns>
+    <id>5686591</id>
+    <revision>
+      <id>73990169</id>
+      <timestamp>2024-06-13T08:58:18Z</timestamp>
+      <contributor>
+        <username>Odplewiacz</username>
+        <id>281739</id>
+      </contributor>
+      <comment>kat.</comment>
+      <origin>73990169</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="76" sha1="f44bhhz3zlvwiszu13zi1971kkydvll" xml:space="preserve">[[Kategoria:Filmy według tematyki|Filozofia]]
+[[Kategoria:Filozofia|Filmy]]</text>
+      <sha1>f44bhhz3zlvwiszu13zi1971kkydvll</sha1>
+    </revision>
+  </page>
+</mediawiki>

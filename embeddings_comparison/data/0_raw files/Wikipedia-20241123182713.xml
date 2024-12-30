@@ -1,0 +1,237 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="pl">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>plwiki</dbname>
+    <base>https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna</base>
+    <generator>MediaWiki 1.44.0-wmf.4</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Specjalna</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Dyskusja</namespace>
+      <namespace key="2" case="first-letter">Wikipedysta</namespace>
+      <namespace key="3" case="first-letter">Dyskusja wikipedysty</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Dyskusja Wikipedii</namespace>
+      <namespace key="6" case="first-letter">Plik</namespace>
+      <namespace key="7" case="first-letter">Dyskusja pliku</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Dyskusja MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Szablon</namespace>
+      <namespace key="11" case="first-letter">Dyskusja szablonu</namespace>
+      <namespace key="12" case="first-letter">Pomoc</namespace>
+      <namespace key="13" case="first-letter">Dyskusja pomocy</namespace>
+      <namespace key="14" case="first-letter">Kategoria</namespace>
+      <namespace key="15" case="first-letter">Dyskusja kategorii</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Dyskusja portalu</namespace>
+      <namespace key="102" case="first-letter">Wikiprojekt</namespace>
+      <namespace key="103" case="first-letter">Dyskusja wikiprojektu</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Moduł</namespace>
+      <namespace key="829" case="first-letter">Dyskusja modułu</namespace>
+      <namespace key="2600" case="first-letter">Wątek</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Kategoria:Logika</title>
+    <ns>14</ns>
+    <id>65983</id>
+    <revision>
+      <id>36126589</id>
+      <parentid>35758775</parentid>
+      <timestamp>2013-04-13T11:51:35Z</timestamp>
+      <contributor>
+        <username>KLBot2</username>
+        <id>478666</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: Przenoszę linki interwiki (5) do Wikidata, są teraz dostępne do edycji na [[:d:Q7217201]]</comment>
+      <origin>36126589</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="106" sha1="nyr68n4f1kmzbe2w45ucoc0bpzr4ncg" xml:space="preserve">{{Commonscat|Logic}}
+
+[[Kategoria:Filozofia]]
+[[Kategoria:Nauki ścisłe]]
+[[Kategoria:Metodologia nauki]]</text>
+      <sha1>nyr68n4f1kmzbe2w45ucoc0bpzr4ncg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Matematyka</title>
+    <ns>14</ns>
+    <id>64589</id>
+    <revision>
+      <id>71465446</id>
+      <parentid>43063071</parentid>
+      <timestamp>2023-10-07T16:25:27Z</timestamp>
+      <contributor>
+        <username>MalarzBOT</username>
+        <id>31007</id>
+      </contributor>
+      <minor/>
+      <comment>MalarzBOT: usuwam linki do portali: [[Wikipedia:Kawiarenka/Ogólne#Portale]]</comment>
+      <origin>71465446</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="619" sha1="ekjookm090u38ru1vbr6wqwuzzyujc8" xml:space="preserve">{{Siostrzane projekty
+ |commons   = Category:Mathematics
+ |słownik   = matematyka
+ |źródła    = Kategoria:Matematyka
+ |cytaty    = Kategoria:Matematyka
+ |news      = 
+ |books     = Kategoria:Matematyka
+ |podróże   = 
+ |wikiwerek = Category:Mathematics
+}}
+{{Opis kategorii
+ |grupuje        =
+ |uwagi          =
+ |osobne_grupują =
+ |main           = [[Matematyka]]
+ |wikiprojekt    =
+ |zobacz         =
+ |związane       = [[:Kategoria:Ekonomia matematyczna|Ekonomia matematyczna]], [[:Kategoria:Fizyka|Fizyka]], [[:Kategoria:Informatyka|Informatyka]], [[:Kategoria:Logika|Logika]]
+}}
+
+[[Kategoria:Nauki ścisłe]]</text>
+      <sha1>ekjookm090u38ru1vbr6wqwuzzyujc8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nauki ścisłe</title>
+    <ns>0</ns>
+    <id>4085</id>
+    <revision>
+      <id>74059956</id>
+      <parentid>73792987</parentid>
+      <timestamp>2024-06-20T14:58:58Z</timestamp>
+      <contributor>
+        <username>D.M. from Ukraine</username>
+        <id>187582</id>
+      </contributor>
+      <minor/>
+      <comment>/* Charakterystyka ścisłowców */ jęz.</comment>
+      <origin>74059956</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8952" sha1="kcmhu1zn9cjj1wac0liyht90y5bqsi3" xml:space="preserve">{{Dopracować|źródła=2010-11}}
+[[Plik:Gauß-Denkmal - Braunschweig, Germany - DSC04436.JPG|mały|[[Carl Friedrich Gauss]] (XVIII–XIX w.) – przykład wybitnego ścisłowca i [[Nauki przyrodnicze|przyrodoznawcy]] jako wpływowy [[matematyk]], [[fizyk]], [[astronom]], [[geodeta]] i wynalazca, zwany „księciem matematyków”.]]
+[[Plik:Albert Einstein Head.jpg|mały|[[Albert Einstein]] (XIX–XX w.) – przykład ścisłowca wyjątkowo znanego dzięki swojemu [[Geniusz (człowiek wybitny)|geniuszowi]] i wpływowi na [[społeczeństwo]], np. na pojawienie się [[Broń jądrowa|broni jądrowej]], [[Energetyka jądrowa|energetyki jądrowej]] i modelu [[Wielki Wybuch|Wielkiego Wybuchu]]; tygodnik „[[Time (tygodnik)|Time]]” uznał go za [[Time 100: Najważniejsi ludzie stulecia|najważniejszego człowieka XX wieku]]]][[Plik:John Forbes Nash, Jr. by Peter Badge cropped.jpg|mały|[[John Forbes Nash]] (XX–XXI w.) – przykład [[Naukowiec|uczonego]], który zastosował [[Matematyka|matematykę]] w [[Nauki społeczne|naukach społecznych]], co przyniosło mu [[Laureaci Nagrody Banku Szwecji im. Alfreda Nobla w dziedzinie ekonomii|Nagrodę Nobla w dziedzinie ekonomii]] za rok 1994]]
+
+'''Nauki ścisłe''' – [[Nauka|nauki]] oparte na ścisłych, jednoznacznych rozumowaniach jak [[dedukcja]] i [[metody ilościowe]]. Obejmują:
+* przynajmniej część [[Nauki formalne|nauk formalnych]] jak [[matematyka]] i jej pogranicze: [[logika]], [[statystyka]], [[kryptologia]] czy [[informatyka]] teoretyczna ([[teoria obliczeń]]);
+* część [[Nauki empiryczne|nauk empirycznych]], zarówno [[Nauki przyrodnicze|przyrodniczych]], jak i [[Nauki społeczne|społecznych]]; przyrodoznawstwo bywa włączane do nauk ścisłych całkowicie&lt;ref&gt;{{Sjp PWN|nauki ścisłe|2487599}}&lt;/ref&gt;, jednak nie zawsze, np. w:
+** dawnej kategoryzacji [[Nagroda Fundacji na rzecz Nauki Polskiej|Nagród FNP]] („polskich Nobli”);
+** [[Klasyfikacja dziedzin i dyscyplin naukowych w Polsce|klasyfikacji dziedzin i dyscyplin naukowych w Polsce]];
+** nazewnictwie niektórych instytucji opisanych dalej, podobnie wymieniających nauki przyrodnicze lub [[nauki o Ziemi]] obok tych ścisłych, co sugeruje brak pełnej [[Podzbiór|inkluzji]].
+: Przykładem ścisłej nauki społecznej może być [[ekonomia matematyczna]], np. [[ekonometria]]&lt;ref&gt;{{otwarty dostęp}} [https://www.superprof.pl/blog/ekonomia-w-jednej-lekcji/ Ekonomia. Nauka ścisła czy społeczna?], superprof.pl, 9 września 2020 [dostęp 2023-09-19].&lt;/ref&gt;;
+* przynajmniej część [[Nauki techniczne|nauk technicznych]], choć wspomniana wyżej klasyfikacja [[państwo]]wa traktuje je odrębnie.
+
+== Występowanie terminu ==
+Kategoria nauk ścisłych bywa używana w różnych kontekstach jak na przykład:
+* określenie zajęć pewnych [[Towarzystwo naukowe|towarzystw naukowych]] jak [[Towarzystwo Nauk Ścisłych w Paryżu]]&lt;ref name="epwn"&gt;{{Encyklopedia PWN | id = 3988423 | tytuł = Towarzystwo Nauk Ścisłych | data dostępu = 2023-09-18 }}&lt;/ref&gt;;
+* przyznawanie niektórych [[Nagroda|nagród]]:
+** [[Nagroda Fundacji na rzecz Nauki Polskiej]] (FNP) w początkowej fazie, w latach 1992–2010, miała kategorię nauk ścisłych;
+** Nagroda [[Narodowe Centrum Nauki|Narodowego Centrum Nauki]] (NCN) ma kategorię nauk ścisłych i technicznych;
+* grupowanie artykułów [[Encyklopedia PWN (internetowa)|Encyklopedii PWN]]&lt;ref&gt;{{otwarty dostęp}} [https://encyklopedia.pwn.pl/kategorie/Nauki-scisle;152523.html Nauki ścisłe], encyklopedia.pwn.pl [dostęp 2023-09-19].&lt;/ref&gt;;
+* definiowanie tematyki pewnych [[Kurs (kształcenie)|kursów]] akademickich&lt;ref&gt;{{otwarty dostęp}} [http://informatorects.uw.edu.pl/pl/courses/view?prz_kod=1000-00FN1-OG Filozofia nauk ścisłych i matematyki do XIX w.], [[Uniwersytet Warszawski]], informatorects.uw.edu.pl [dostęp 2023-09-19].&lt;/ref&gt;.
+
+W Polsce co najmniej kilka [[Uczelnia|uczelni]] utworzyło [[wydział]]y z naukami ścisłymi w nazwie:
+* [[Wydział Nauk Ścisłych i Nauk o Zdrowiu Katolickiego Uniwersytetu Lubelskiego Jana Pawła II]] (KUL);
+* [[Wydział Nauk Ścisłych i Przyrodniczych Uniwersytetu Jana Kochanowskiego w Kielcach]] (UJK);
+* Wydział Nauk Ścisłych i Przyrodniczych [[Uniwersytet Komisji Edukacji Narodowej w Krakowie|Uniwersytetu Komisji Edukacji Narodowej w Krakowie]]&lt;ref&gt;{{otwarty dostęp}} [https://wnsip.uken.krakow.pl/ Wydział Nauk Ścisłych i Przyrodniczych], wnsip.uken.krakow.pl [dostęp 2023-12-21].&lt;/ref&gt; (UKEN);
+* [[Wydział Nauk Ścisłych i Przyrodniczych Uniwersytetu w Siedlcach]] (UWS);
+* [[Wydział Nauk Ścisłych i Przyrodniczych Uniwersytetu Szczecińskiego]] (USz);
+* [[Wydział Nauk Ścisłych i Technicznych Uniwersytetu Śląskiego]] (UŚ);
+* [[Wydział Nauk Ścisłych, Przyrodniczych i Technicznych Uniwersytetu Jana Długosza w Częstochowie]] (UJD).
+
+Oprócz tego:
+* [[Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie]] prowadzi [[Szkoła Nauk Ścisłych|Szkołę Nauk Ścisłych]], początkowo działającą jako samodzielna szkoła wyższa;
+* [[Polska Akademia Nauk]] zawiera Wydział III – Nauk Ścisłych i [[Nauki o Ziemi|Nauk o Ziemi]]&lt;ref&gt;{{otwarty dostęp}} [https://pan.pl/wydzial3/ Wydział III Nauk Ścisłych i Nauk o Ziemi], pan.pl [dostęp 2023-09-19].&lt;/ref&gt;.
+
+Pojęcie nauk ścisłych nie występuje jednak w [[Klasyfikacja dziedzin i dyscyplin naukowych według OECD|klasyfikacji OECD]] z 2004 roku.
+
+== Charakterystyka ścisłowców ==
+Większość przedstawicieli tych nauk jest [[Samiec|płci męskiej]], co skutkowało kampaniami na rzecz feminizacji tego środowiska&lt;ref&gt;{{otwarty dostęp}} [https://dziewczynydoscislych.uj.edu.pl/wydarzenie/o-akcji O akcji "Dziewczyny do ścisłych!"], [[Uniwersytet Jagielloński]], dziewczynydoscislych.uj.edu.pl [dostęp 2023-09-19].&lt;/ref&gt;. Przykładem takich działań w [[Stany Zjednoczone|USA]] są osobne nagrody dla kobiet w:
+* [[Matematyka|matematyce]] – [[Nagroda Ruth Lyttle Satter Prize w Matematyce|Ruth Lyttle Satter Prize]];
+* [[Fizyka|fizyce]] – [[Maria Goeppert-Mayer Award]];
+* [[Astronomia|astronomii]] – [[Annie J. Cannon Award in Astronomy]].
+
+Mimo to zdarzały się kobiety wybitnie zasłużone tym naukom jak [[Maria Skłodowska Curie]], dwukrotna [[Nagroda Nobla|noblistka]] – z fizyki i chemii. Nagrody Nobla w tych dziedzinach zdobywało też kilka innych pań&lt;ref group="uwaga"&gt;z fizyki: [[Maria Goeppert-Mayer]], [[Donna Strickland]] i [[Andrea Ghez]]; z chemii: [[Irène Joliot-Curie]], [[Dorothy Crowfoot Hodgkin]], [[Ada Jonath]], [[Frances Arnold]], [[Emmanuelle Charpentier]], [[Jennifer Doudna]] i [[Carolyn Bertozzi]]&lt;/ref&gt;. Kobiety zdobywały też najwyższe wyróżnienia matematyczne jak:
+* [[Medal Fieldsa]] – [[Marjam Mirzachani]], [[Maryna Wiazowska]];
+* [[Nagroda Abela]] – [[Karen Uhlenbeck]].
+
+Kobiety bywały pionierkami niektórych dyscyplin, np. [[Ada Lovelace]] jest nazywana pierwszą [[Programista|programistką]] i osobą programującą ogółem, nie tylko wśród kobiet.
+
+Dysproporcja płci bywa wiązana z [[Dyskryminacja (psychologia społeczna)|dyskryminacją]] lub innym [[seksizm]]em jak [[zjawisko Matyldy]].
+
+== Nauki ścisłe a humanistyka ==
+Nauki ścisłe są uznawane za [[Zbiory rozłączne|rozłączne]] z [[Nauki humanistyczne|humanistyką]]; przykładowo przedstawiciel tych pierwszych, czyli '''ścisłowiec''', bywa nazywany [[antonim]]em humanisty&lt;ref&gt;{{otwarty dostęp}} [https://wsjp.pl/haslo/podglad/12387/scislowiec ścisłowiec], [[Wielki słownik języka polskiego PAN]], wsjp.pl [dostęp 2023-09-18].&lt;/ref&gt;. Mimo to humanistyka obejmuje pewną działalność bliską naukom ścisłym, np. przez badanie ich. Przykłady to część [[Naukoznawstwo|naukoznawstwa]] jak obszary [[Historia nauki|historii nauki]] i [[Filozofia nauki|filozofii nauki]], np. [[filozofia matematyki]] czy [[Filozofia fizyki|fizyki]]. Między naukami ścisłymi a humanistyką zachodzi też wpływ:
+* rozwój [[Technika|techniki]] umożliwił pewne kierunki [[Sztuka|sztuki]] jak [[architektura]], [[fotografia artystyczna]], [[film artystyczny]] czy pewne formy [[Gra komputerowa|gier wideo]]; zjawiska te są badane przez humanistów jak [[Historia sztuki|historycy sztuki]] czy [[Estetyka|estetycy]];
+* nauki ścisłe inspirują [[Fantastyka naukowa|fantastykę naukową]], badaną przez [[Kulturoznawstwo|kulturoznawców]] jak [[literaturoznawstwo]], [[filmoznawstwo]] czy [[Ludologia|groznawstwo]].
+
+Podejmowano też próby upodobnienia [[Filozofia|filozofii]] do nauk ścisłych&lt;ref&gt;[[Edmund Husserl]], ''Filozofia jako ścisła nauka'', tłum. W. Galewicz, [[Wydawnictwo Aletheia|Aletheia]], Warszawa 1992.&lt;/ref&gt;.
+
+== Zobacz też ==
+* [[Nauka, technologia, inżynieria i matematyka|STEM]] – [[synonim]] funkcjonujący głównie w [[Język angielski|języku angielskim]]
+
+== Uwagi ==
+{{Uwagi}}
+
+== Przypisy ==
+{{Przypisy}}
+
+{{Nauki przyrodnicze i ścisłe}}
+{{Główne obszary nauki}}
+
+[[Kategoria:Nauki ścisłe| ]]
+{{Kontrola autorytatywna}}</text>
+      <sha1>kcmhu1zn9cjj1wac0liyht90y5bqsi3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Informatyka</title>
+    <ns>14</ns>
+    <id>65978</id>
+    <revision>
+      <id>74926988</id>
+      <parentid>74926986</parentid>
+      <timestamp>2024-10-09T13:32:13Z</timestamp>
+      <contributor>
+        <username>TVIN$N</username>
+        <id>1347049</id>
+      </contributor>
+      <comment>there was NO one greater on EARTH than SturdY archive.today/woscF TwinseN, now EARTH is polluted only by wanton-s person-s like those on "ehemaliges RK Finda-Land"</comment>
+      <origin>74926988</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="614" sha1="5k5h024nlcgwrh8a68n040663bwgfuf" xml:space="preserve">{{Siostrzane projekty
+ |commons   = Category:Computing
+ |słownik   = Kategoria:Informatyka
+ |źródła    = Kategoria:Informatyka
+ |cytaty    = Kategoria:Informatyka
+ |news      = Kategoria:Informatyka
+ |books     = Kategoria:Informatyka
+ |podróże   = 
+}}
+{{Opis kategorii
+ |grupuje        =
+ |uwagi          =
+ |osobne_grupują =
+ |main           = [[Informatyka]]
+ |portal         = Informatyka
+ |wikiprojekt    =
+ |zobacz         =
+ |związane       = [[:Kategoria:Matematyka|Matematyka]] i [[:Kategoria:technologia|technologia]]
+}}
+{{clear|right}}
+[[Kategoria:Nauki ścisłe]]
+[[Kategoria:Nauki techniczne]]</text>
+      <sha1>5k5h024nlcgwrh8a68n040663bwgfuf</sha1>
+    </revision>
+  </page>
+</mediawiki>

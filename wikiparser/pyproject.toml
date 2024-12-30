@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "wikiparser"
+version = "0.1.0"
+description = "The library to parse mediawiki files and transform them to list of text only sections"
+authors = ["Andrey Pigarev <pigarev.a.g2014@gmail.com>"]
+license = "Apache-2.0"
+readme = "README.md"
+packages = [{include = "*", from="src"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pyyaml = "6.0.2"
+beautifulsoup4 = "4.12.3"
+pydantic = "^2.10.4"
+lxml = "5.3.0"
+pandas = "2.2.3"
+
+[tool.poetry.group.test.dependencies]
+pytest = "^8.3.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

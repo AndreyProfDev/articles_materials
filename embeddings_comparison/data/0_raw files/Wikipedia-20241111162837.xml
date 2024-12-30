@@ -1,0 +1,1900 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="pl">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>plwiki</dbname>
+    <base>https://pl.wikipedia.org/wiki/Wikipedia:Strona_g%C5%82%C3%B3wna</base>
+    <generator>MediaWiki 1.44.0-wmf.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Specjalna</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Dyskusja</namespace>
+      <namespace key="2" case="first-letter">Wikipedysta</namespace>
+      <namespace key="3" case="first-letter">Dyskusja wikipedysty</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Dyskusja Wikipedii</namespace>
+      <namespace key="6" case="first-letter">Plik</namespace>
+      <namespace key="7" case="first-letter">Dyskusja pliku</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">Dyskusja MediaWiki</namespace>
+      <namespace key="10" case="first-letter">Szablon</namespace>
+      <namespace key="11" case="first-letter">Dyskusja szablonu</namespace>
+      <namespace key="12" case="first-letter">Pomoc</namespace>
+      <namespace key="13" case="first-letter">Dyskusja pomocy</namespace>
+      <namespace key="14" case="first-letter">Kategoria</namespace>
+      <namespace key="15" case="first-letter">Dyskusja kategorii</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Dyskusja portalu</namespace>
+      <namespace key="102" case="first-letter">Wikiprojekt</namespace>
+      <namespace key="103" case="first-letter">Dyskusja wikiprojektu</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Moduł</namespace>
+      <namespace key="829" case="first-letter">Dyskusja modułu</namespace>
+      <namespace key="2600" case="first-letter">Wątek</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Kategoria:Doping</title>
+    <ns>14</ns>
+    <id>110564</id>
+    <revision>
+      <id>53701990</id>
+      <parentid>39616230</parentid>
+      <timestamp>2018-06-13T12:45:53Z</timestamp>
+      <contributor>
+        <username>Kenraiz</username>
+        <id>61036</id>
+      </contributor>
+      <minor/>
+      <comment>drobne redakcyjne</comment>
+      <origin>53701990</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="603" sha1="2zpbhy2rmxsvwcv4cliwbijthe5xgui" xml:space="preserve">{{Siostrzane projekty
+ |commons   = Category:Doping
+ |słownik   = 
+ |źródła    = 
+ |cytaty    = 
+ |news      = Kategoria:Doping
+ |books     = 
+ |podróże   = 
+}}
+{{Opis kategorii
+ |grupuje        = Kategoria grupuje artykuły nt. sztucznego podnoszenia wydolności fizycznej i psychicznej
+ |uwagi          = 
+ |osobne_grupują = 
+ |main           = [[Doping wydolnościowy]], [[Środek dopingujący]]
+ |portal         = 
+ |wikiprojekt    = [[Wikiprojekt:Sport|Sport]]
+ |zobacz         = 
+ |związane       = [[:Kategoria:Medycyna sportowa|Medycyna sportowa]]
+}}
+{{clear|right}}
+
+[[Kategoria:Sport]]</text>
+      <sha1>2zpbhy2rmxsvwcv4cliwbijthe5xgui</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Derby sportowe</title>
+    <ns>14</ns>
+    <id>160602</id>
+    <revision>
+      <id>32166085</id>
+      <parentid>1291124</parentid>
+      <timestamp>2012-07-26T17:05:21Z</timestamp>
+      <contributor>
+        <username>Ravpawlisz</username>
+        <id>78971</id>
+      </contributor>
+      <minor/>
+      <comment>tech</comment>
+      <origin>32166085</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="19" sha1="suvepcye88rxsx7ta9z8u36unbi26d1" xml:space="preserve">[[Kategoria:Sport]]</text>
+      <sha1>suvepcye88rxsx7ta9z8u36unbi26d1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kultura fizyczna</title>
+    <ns>0</ns>
+    <id>191989</id>
+    <revision>
+      <id>69262988</id>
+      <parentid>47522069</parentid>
+      <timestamp>2023-01-09T11:14:15Z</timestamp>
+      <contributor>
+        <username>PBbot</username>
+        <id>616438</id>
+      </contributor>
+      <comment>wstawienie {{Kontrola autorytatywna}}</comment>
+      <origin>69262988</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1325" sha1="2922o8xi1v1u9c4txzwt50xbc0snb24" xml:space="preserve">'''Kultura fizyczna''' – ogół zachowań przebiegających według przyjętych w danym [[Środowisko społeczne|środowisku społecznym]] reguł i norm postępowania a mających na celu dbałość o [[zdrowie]] człowieka, o poprawę jego postawy, prawidłowy rozwój psychofizyczny oraz rezultaty tych zachowań.
+
+'''Formy uczestnictwa w kulturze fizycznej:'''
+* [[wychowanie fizyczne]]
+* [[sport]]
+* [[rekreacja]]
+* [[rehabilitacja medyczna]]
+* [[turystyka]]
+
+'''Czynniki uczestnictwa w kulturze fizycznej:'''
+* [[stymulacja]] (funkcja rozwojowa) – pobudzanie czynności organizmu powodujące jego rozwój
+* [[Adaptacja (biologia)|adaptacja]] (funkcja przystosowawcza) – przystosowanie organizmu do otoczenia
+* [[Kompensacja (biologia)|kompensacja]] (funkcja wyrównawcza) – wyrównywanie deficytu niektórych bodźców
+* [[korektywa]] (funkcja naprawcza) – leczenie wad postawy
+
+'''Wartości ciała w kulturze fizycznej:'''
+* zdrowotne
+* utylitarne
+* estetyczne
+* hedonistyczne
+* agonistyczne
+
+W Polsce program kultury fizycznej realizowany jest w szczególności poprzez zajęcia ''wychowania fizycznego'' w szkołach publicznych i niepublicznych.
+
+== Bibliografia ==
+* Grabowski H. ''Teoria fizycznej edukacji''. WSiP, Warszawa 1999
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Sport]]
+[[Kategoria:Rodzaje kultur]]</text>
+      <sha1>2922o8xi1v1u9c4txzwt50xbc0snb24</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Sportowe nagrody i plebiscyty</title>
+    <ns>14</ns>
+    <id>309544</id>
+    <revision>
+      <id>35957663</id>
+      <parentid>33163819</parentid>
+      <timestamp>2013-04-01T04:35:39Z</timestamp>
+      <contributor>
+        <username>KLBot2</username>
+        <id>478666</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: Przenoszę linki interwiki (38) do Wikidata, są teraz dostępne do edycji na [[:d:Q6911844]]</comment>
+      <origin>35957663</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="92" sha1="6hlgxxkkxrnt0r1jsppay2gkaz0ob9l" xml:space="preserve">{{Commonscat|Sports awards}}
+
+[[Kategoria:Nagrody]]
+[[Kategoria:Sport|Nagrody i plebiscyty]]</text>
+      <sha1>6hlgxxkkxrnt0r1jsppay2gkaz0ob9l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Trening sportowy</title>
+    <ns>14</ns>
+    <id>399412</id>
+    <revision>
+      <id>41608835</id>
+      <parentid>37649598</parentid>
+      <timestamp>2015-01-24T21:45:32Z</timestamp>
+      <contributor>
+        <username>MalarzBOT</username>
+        <id>31007</id>
+      </contributor>
+      <minor/>
+      <comment>MalarzBOT: {{[[Szablon:Main|Main]]}} jest redirectem {{[[Szablon:Osobny artykuł|Osobny artykuł]]}}</comment>
+      <origin>41608835</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="48" sha1="si32ax9xtwsikvmlmed5ekb55z38fsc" xml:space="preserve">{{Osobny artykuł|Trening}}
+[[Kategoria: Sport]]</text>
+      <sha1>si32ax9xtwsikvmlmed5ekb55z38fsc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Obiekty sportowe</title>
+    <ns>14</ns>
+    <id>437354</id>
+    <revision>
+      <id>68477687</id>
+      <parentid>60365156</parentid>
+      <timestamp>2022-10-11T08:43:07Z</timestamp>
+      <contributor>
+        <username>Adamt</username>
+        <id>60242</id>
+      </contributor>
+      <comment>drobne techniczne</comment>
+      <origin>68477687</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="135" sha1="cuplbmmnqzvsdrj61pdzjad8fp7vwt4" xml:space="preserve">{{Commonscat|Sports venues}}
+{{kategoria tematyczna}}
+[[Kategoria:Obiekty usługowe i użyteczności publicznej| ]]
+[[Kategoria:Sport]]</text>
+      <sha1>cuplbmmnqzvsdrj61pdzjad8fp7vwt4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Reprezentacje narodowe według dyscypliny</title>
+    <ns>14</ns>
+    <id>1025125</id>
+    <revision>
+      <id>35870658</id>
+      <parentid>34458522</parentid>
+      <timestamp>2013-03-25T20:01:24Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>543400</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Addbot|Bot:]] Przenoszę linki interwiki (38) do [[d:|Wikidata]], są teraz dostępne do edycji na [[d:q8264905]]</comment>
+      <origin>35870658</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="57" sha1="bgzrsd1wwlmqeacp06iizx6uo99eot2" xml:space="preserve">{{Commonscat|National sports teams}}
+
+[[Kategoria:Sport]]</text>
+      <sha1>bgzrsd1wwlmqeacp06iizx6uo99eot2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Sprzęt sportowy</title>
+    <ns>14</ns>
+    <id>1031183</id>
+    <revision>
+      <id>69565850</id>
+      <parentid>59058532</parentid>
+      <timestamp>2023-02-11T23:34:26Z</timestamp>
+      <contributor>
+        <username>Jckowal</username>
+        <id>266502</id>
+      </contributor>
+      <minor/>
+      <comment>Usunięto kategorię "Sprzęt" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>69565850</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="52" sha1="m3ra8318sdjh3umrxmcy1gx51p1szxm" xml:space="preserve">{{Commonscat|Sports equipment}}
+
+[[Kategoria:Sport]]</text>
+      <sha1>m3ra8318sdjh3umrxmcy1gx51p1szxm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Terminologia sportowa</title>
+    <ns>14</ns>
+    <id>1031320</id>
+    <revision>
+      <id>35376705</id>
+      <parentid>33993587</parentid>
+      <timestamp>2013-03-15T01:39:43Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>543400</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Addbot|Bot:]] Przenoszę linki interwiki (48) do [[d:|Wikidata]], są teraz dostępne do edycji na [[d:q6640976]]</comment>
+      <origin>35376705</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="46" sha1="0tvk1ltiw2fivq932eqoae053ogjy3x" xml:space="preserve">[[Kategoria:Sport]]
+[[Kategoria:Terminologia]]</text>
+      <sha1>0tvk1ltiw2fivq932eqoae053ogjy3x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Biofeedback</title>
+    <ns>0</ns>
+    <id>462920</id>
+    <revision>
+      <id>65403572</id>
+      <parentid>64850048</parentid>
+      <timestamp>2021-11-21T05:22:00Z</timestamp>
+      <contributor>
+        <ip>5.173.150.83</ip>
+      </contributor>
+      <comment>/* Wykorzystanie Biofeedback */  już nieaktualne. patrz http://www.biofeedback.ajd.czest.pl/index.php/biofeedback/</comment>
+      <origin>65403572</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7843" sha1="c764y2fuo8dzojc307r9tdbghrtasz4" xml:space="preserve">{{dopracować|reklama=2019-03|źródła=2010-02|źródła medyczne=2019-03}}
+
+[[Plik:Biofeedback.png|thumb|300px|right|Mechanizm biofeedbacku.]]
+'''Biofeedback''', ''biologiczne sprzężenie zwrotne'' – dostarczanie człowiekowi informacji zwrotnej („feedback”) o zmianach jego stanu [[fizjologia|fizjologicznego]]. Zmiany fizjologiczne [[organizm]]u [[Monitorowanie|monitorowane]] są przez odpowiednie urządzenie, np. [[System pomiarowy|pomiarowy system]] [[System komputerowy|komputerowy]].
+
+Metoda ta wykorzystywana jest między innymi w [[Psychologia|psychologii]], w [[Medycyna|medycynie]], w [[Parapsychologia|parapsychologii]], ale także w [[Sport|sporcie]] czy [[biznes]]ie. 
+
+Jest to także metoda [[Leczenie|terapii]], polegająca na podawaniu pacjentowi [[sygnał]]ów zwrotnych o zmianach stanu fizjologicznego jego organizmu, dzięki czemu może on nauczyć się świadomie modyfikować funkcje, które normalnie nie są kontrolowane świadomie, np. [[fale mózgowe]], opór elektryczny skóry ([[Reakcja skórno-galwaniczna|GSR]]), napięcie mięśni itp.
+
+Informacje przekazywane są w formie: 
+ 
+* wizualnej – np. podczas pogłębiania koncentracji na ekranie monitora powiększa się piłka lub samolot leci wyżej, w chwilach rozproszenia piłka znika, natomiast samolot obniża lot;
+* [[Akustyka|akustycznej]] – przyjemny dźwięk przy „sukcesie”, nieprzyjemny przy „porażce”.
+ 
+Biofeedback nie jest alternatywną formą terapii w stosunku do [[Farmakoterapia|farmakoterapii]]. W niektórych schorzeniach ją zastępuje, w innych uzupełnia. Przewagą biofeedbacku jest to, że jest to metoda całkowicie bezpieczna, bez skutków ubocznych. Motorem skuteczności terapii jest silna [[Wola (psychologia)|wola]] i [[motywacja]] pacjenta. I właśnie ten czynnik podkreślają [[Terapeuta|terapeuci]]: [[poczucie odpowiedzialności]] pacjenta za wynik własnego [[Leczenie|leczenia]].
+
+Szczegółowy przebieg sesji biofeedback różni się w zależności od rodzaju biofeedbacku.
+
+== Rodzaje biofeedbacku ==
+* '''Biofeedback EEG''' (ElektroEncefaloGrafia) lub neurofeedback – wykorzystuje właściwość, że mózg ludzki w ramach swojej aktywności wytwarza różne zakresy fal elektromagnetycznych, charakterystycznych dla różnych rodzajów tej aktywności. Np. fale alfa w stanie [[relaks]]u w odprężenia, środkowe pasmo fal beta w stanie wytężonego wysiłku umysłowego, fale delta w stanie głębokiego, regenerującego snu. W niektórych dysfunkcjach mózgu występuje zarówno niedobór jak i nadmiar fal o pewnych częstotliwościach, co uniemożliwia pacjentowi wykonywanie pewnych czynności (np. dzieci z [[ADHD]] mają problem ze skupieniem się na wykonaniu konkretnego zadania lub kontrolowaniem emocji). Urządzenie do neurofeedbacku to wzmacniacz fal EEG (tzw. głowica) z odpowiednim oprogramowaniem. Elektrody podłączane w różnych miejscach na skórze czaszki i uszach zbierają dane o występowaniu poszczególnych pasm fal, oprogramowanie zamienia te informacje w zrozumiały dla pacjenta obraz. Pacjent ma tak sterować aktywnością swojego mózgu, aby np. widziany na ekranie samochód wyścigowy przyśpieszył. Neurofeedback jest stosowany w terapii dzieci z ADHD (zespół nadpobudliwości psychoruchowej), u ludzi z zaburzeniami procesu uczenia się, po urazach czaszki, wspomaga leczenie padaczki. Jest również polecany osobom zdrowym dla poprawy koncentracji, pamięci, w leczeniu nerwicy natręctw, redukcji stresu i poprawy kreatywności, stosowany również dla zabawy i gry ([[mindball]]).
+* '''Biofeedback EMG''' (ElektroMioGrafia) – Punktem wyjścia jest założenie, że napięcie mięśniowe (mierzone w mikrowoltach) wskazuje na stres. Sesja biofeedbacku polega na tym, że urządzenie wychwytuje elektryczne sygnały w mięśniach, typowo w mięśniach ramienia i czaszki, a następnie przekłada je na formę zrozumiałą dla pacjenta, np. żarówka błyska lub włącza się sygnał dźwiękowy, gdy mięsień się napina. 
+* '''Biofeedback [[Reakcja skórno-galwaniczna|GSR]]''' (reakcja skórno-galwaniczna) lub EDR (Electro Dermal Response) – mierzy elektryczne przewodzenie skóry, które zmienia się w zależności od ogólnego pobudzenia współczulnego układu nerwowego. Elektrody montuje się na opuszkach palców. Biofeedback GSR najlepiej wykrywa zależności między stanem somatycznym i psychicznym człowieka, dlatego wykorzystywany jest w wykrywaczach kłamstw. Wykres GSR ma największy zasięg i jest najbardziej czułym pomiarem ze wszystkich rodzajów biofeedbacku. W medycynie służy do monitorowania przebiegu hipno- i psychoterapii, leczenia nadciśnienia, dychawicy oskrzelowej, nadmiernego pocenia się. Jest również polecany osobom zdrowym dla poprawy koncentracji, panowania nad emocjami i relaksacji.
+* '''Biofeedback HEG''' (Hemo-encephalo-graphy) mierzy temperaturę głowy za pomocą termometru na podczerwień umieszczonego na głowie lub wykorzystuje zmiany spektrum podczerwieni generowanej przez przepływająca krew (bardziej czerwony kolor oznacza większe natlenienie krwi). 
+* '''Biofeedback HRV''' (Heart Rate Variability) – oparty na analizie zmienności rytmu serca.
+* '''Biofeedback oddechowy''' – aparat do biofeedbacku składa się z czujnika rytmu i długości wydechów. Wyniki pokazywane są za pomocą krzywej audiowizualnej. Ma zastosowanie u pacjentów z padaczką i chorobami układu oddechowego (np. dychawicą) i układu krążenia.
+* '''Biofeedback RSA''' (Respiratory Sinus Arrhythmia) – pozwala ocenić, a także skutecznie skorygować stan zaburzonych funkcji wegetatywnych. Metoda została wynaleziona i opracowana w Rosji na początku lat 80 przez naukowca – fizjologa Aleksanda Smetankina. Trening RSA Biofeedback odbywa się za pomocą urządzenia (głowicy), które rejestruje elektryczną aktywność serca (EKG) przy pomocy elektrod zamocowanych na skórze klatki piersiowej i specjalnego oprogramowania. Poprzez elektrody i głowice do komputera dociera informacja EKG, specjalny program wyodrębnia rytm serca (HR) człowieka i w czasie rzeczywistym odzwierciedla na komputerze w zrozumiałej dla człowieka postaci multimedialnej.  RSA Biofeedback jest stosowany do terapii dzieci z ADHD, zwiększenia kreatywności, polepszenia koncentracji uwagi, pamięci, zwiększenia odporności na stres, zahamowania lęków, zwiększenia pewności siebie, zmniejszenia agresji, polepszenia zachowania dzieci i młodzieży, logoterapii, rehabilitacji widzenia, zaburzeń psychoemocjonalnych, w profilaktyce chorób układu oddechowego, w profilaktyce chorób sercowo-naczyniowych, u często i przewlekle chorujących dzieci, w zaburzeniach wegetatywno-naczyniowych, zaburzeniach psychosomatycznych, przygotowaniu kobiet do porodu, nadciśnieniu 1–2 st., migrenach oraz astmie.
+* '''Biofeedback SCP''' Wolne potencjały korowe - zmiany polaryzacji kory mózgowej, rejestrowane na powierzchni czaszki jako wolne potencjały. Negatywna polaryzacja oznacza większą aktywność pracy neuronów w rejestrowanym obszarze mózgu. Trenuje się poniżej częstotliwości 1–2 Hz.
+* '''Biofeedback temperaturowy''' – temperatura skóry zależy, oprócz czynników zewnętrznych, również od stanu psychicznego człowieka. Czujnik temperatury ([[termistor]]) zakłada się na opuszkę palca. Celem treningu jest osiągnięcie wyższej temperatury niż aktualna u danego pacjenta. Biofeedback temperaturowy stosowany jest do treningu relaksu, ale także w medycynie do leczenia niedokrwienia kończyn, chorobie reumatycznej, astmie.
+
+== Zobacz też ==
+* [[interfejs mózg-komputer]]
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Psychoterapia]]
+[[Kategoria:Sport]]
+[[Kategoria:Psychofizjologia]]
+[[Kategoria:Pedagogika]]
+[[Kategoria:Dydaktyka]]
+[[Kategoria:Odmienne stany świadomości]]</text>
+      <sha1>c764y2fuo8dzojc307r9tdbghrtasz4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wychowanie fizyczne</title>
+    <ns>0</ns>
+    <id>690251</id>
+    <revision>
+      <id>75027071</id>
+      <parentid>75027055</parentid>
+      <timestamp>2024-10-22T18:49:39Z</timestamp>
+      <contributor>
+        <username>Boston9</username>
+        <id>490013</id>
+      </contributor>
+      <comment>Wycofano ostatnią zmianę treści (wprowadzoną przez [[Specjalna:Wkład/Suzus23|Suzus23]]) i przywrócono wersję 73406786 autorstwa EwkaC</comment>
+      <origin>75027071</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8555" sha1="rb0zgg9w8cjqdt0m2kw8eu9gqmgsaww" xml:space="preserve">[[Plik:Training of young gymnasts (Angarsk, Russia).jpg|thumb|250px|Ćwiczenia [[Gimnastyka artystyczna|gimnastyczne]]]]
+[[Plik:Fußballspieler.JPG|thumb|250px|Rozgrywki [[Piłka nożna|piłkarskie]]]]
+[[Plik:07Athletengrab.jpg|thumb|250px|Walka [[Zapasy|zapaśnicza]] w starożytnej Grecji]]
+[[Plik:AWF Poznań.JPG|thumb|250px|[[Akademia Wychowania Fizycznego im. Eugeniusza Piaseckiego w Poznaniu|Akademia Wychowania Fizycznego w Poznaniu]]]]
+'''Wychowanie fizyczne''' ('''wf''', '''WF''') – zamierzone i świadome działanie ukierunkowane na kształtowanie [[Postawa prosomatycznych|postaw prosomatycznych]] (tj. stosunku do ciała i fizycznego funkcjonowania) oraz [[postaw]] prospołecznych (tj. stosunku do życia i innych ludzi, przekonań i wartości moralnych), a równocześnie na wspieranie rozwoju fizycznego i zdrowia oraz kształtowanie trwałego obyczaju aktywności fizycznej i troskę o wydolność fizyczną, sprawność motoryczną i prawidłową postawę ciała.
+
+== Historia wychowania fizycznego ==
+Świadome wychowanie fizyczne było znane już w czasach starożytnych ([[spartańskie wychowanie]]) i traktowane na równi z wychowaniem sportowym i wojskowym; nowożytne podstawy wychowania fizycznego powstały w epoce odrodzenia i oświecenia; w XIX w. ukształtowały się niezależne systemy wychowania fizycznego: oparty na gimnastyce bez elementów sportowych oraz (głównie w USA) oparty na grach i zabawach sportowych; po II wojnie światowej do wychowania fizycznego w coraz szerszym stopniu wprowadzano zajęcia typowo sportowe.
+
+== Rozwój myśli o wychowaniu fizycznym w Polsce ==
+Polska myśl wychowania fizycznego sięga tradycjami odrodzenia (m.in. [[Wojciech Oczko]] i [[Sebastian Petrycy]]). Pierwszym podręcznikiem metodycznym dla nauczycieli, napisanym w języku polskim, były Powinności nauczyciela (I wydanie – 1787) autorstwa [[Grzegorz Piramowicz|Grzegorza Piramowicza]]. W pracy tej przedstawiono także myśli w zakresie „wychowania co do ciała, to co do zdrowia i sił”. W Ustawach [[Komisja Edukacji Narodowej|Komisji Edukacji Narodowej]] (1773–1794) podkreślano ścisły związek edukacji fizycznej z edukacją umysłową i moralną. Pierwszy raz [[nauczyciel]]a wychowania fizycznego zatrudniono w [[Liceum Krzemienieckie|liceum w Krzemieńcu]] na [[Wołyń|Wołyniu]] kierowanym przez [[Tadeusz Czacki|Tadeusza Czackiego]]. Cykl wykładów o [[higiena|higienie]] i zdrowiu w tymże liceum prowadził dr [[Karol Kaczkowski]]. Na początku XIX wieku dzieło [[Jędrzej Śniadecki|Jędrzeja Śniadeckiego]] Uwagi o fizycznym wychowaniu dzieci drukowane było w „[[Dziennik Wileński|Dzienniku Wileńskim]]” (1805 r.). Praca ukazała się drukiem dopiero w 1840 roku pod tytułem „O fizycznym wychowaniu dzieci”. Wśród później żyjących osób, które przysłużyły się rozwojowi wychowania fizycznego w Polsce należy wymienić [[Ludwik Bierkowski|Ludwika Bierkowskiego]] (1801–1860), [[Bronisław Ferdynand Trentowski|Bronisława Trentowskiego]] (1808–1869), [[Henryk Jordan|Henryka Jordana]] (1842–1907), [[Wenanty Piasecki|Wenantego Piaseckiego]] (1832–1903), [[Władysław Ryszard Kozłowski|Władysława Ryszarda Kozłowskiego]] (1866–1915), [[Eugeniusza Piaseckiego|Eugeniusz Piasecki]] (1872–1947), [[Walerian Sikorowski|Waleriana Sikorskiego]] (1876–1940), [[Florian Znaniecki|Floriana Znanieckiego]] (1882–1956), [[Władysław Osmolski|Władysława Osmolskiego]] (1883–1935), [[Zygmunt Gilewicz|Zygmunta Gilewicza]] (1880–1960). Na kształt i rozwój współczesnej teorii wychowania fizycznego największy wpływ wywierają takie osoby, jak: [[Roman Trześniowski]], [[Ryszard Przewęda]], [[Maciej Demel]], [[Henryk Grabowski (sportowiec)|Henryk Grabowski]], [[Andrzej Pawłucki]], [[Krzysztof Zuchora]], [[Marian Bukowiec]], [[Wiesław Osiński]].
+
+Pionierską organizacją wychowania fizycznego i [[sport]]u w Polsce było [[Polskie Towarzystwo Gimnastyczne „Sokół”]], którego pierwsze gniazdo zostało założone 7 lutego 1867 we [[Lwów|Lwowie]]&lt;ref&gt;130 lat Sokolstwa Polskiego. Międzynarodowa Konferencja Naukowa Kraków – Lwów 21.06-30.06.1997, red. Andrzej Łopata, Kraków 1997.&lt;/ref&gt;. Członkowie towarzystwa rozpoczęli po raz pierwszy w Polsce systematyczne lekcje gimnastyczne od 1 maja 1867 roku pod kierunkiem dra Wenantego [[Walenty piasecki|Piaseckiego]] – lekarza oraz absolwenta kursów gimnastycznych w [[Praga|Pradze]] i [[Drezno|Dreźnie]]&lt;ref&gt;{{Cytuj |autor = [[Andrzej Bogusz (historyk sportu)|Andrzej Bogusz]] |tytuł = Sokolstwo łódzkie 1905–1995 |data = 1995 |isbn = 83-901851-5-6 |miejsce = Łódź |wydawca = [Muzeum Historii Miasta Łodzi] |s = 3 |oclc = 749533307}}&lt;/ref&gt;.
+
+== Cele wychowania fizycznego ==
+Współczesne cele wychowania fizycznego ukierunkowane są na wspieranie rozwoju społecznego, fizycznego i poznawczego. Pate i Hohn (1994) za misję wychowania fizycznego uznali „przygotowanie dzieci i młodzieży do fizycznie aktywnej dorosłości”. Wyróżnili następujące cele wychowania fizycznego:
+# Wspieranie osiągnięć w zakresie umiejętności ruchowych.
+# Promocja poprawy sprawności fizycznej.
+# Wspieranie poznawczego uczenia.
+# Wspieranie rozwoju społecznego.
+# Wspieranie świadomości kulturowej i kulturalnej.
+# Wspieranie osiągnięć szkolnych.
+# Wspieranie i przygotowanie do całożyciowej aktywności fizycznej i utrzymanie sprawności.
+
+Natomiast wg Osińskiego (2011) cele wychowania fizycznego dotyczą następujących aspektów:
+# Postawy i motywacje – prosomatyczne i prospołeczne
+# Wiedza i zrozumienie.
+# Umiejętności doskonalenia i władania ciałem.
+# Sprawność i kondycja fizyczna.
+
+== Wychowanie fizyczne w polskiej szkole ==
+Lekcje wychowania fizycznego w szkole realizowane są w następującym wymiarze (tygodniowo):
+# I etap edukacyjny (klasy I-III szkoły podstawowej) — 3 godziny lekcyjne
+# II etap edukacyjny (klasy IV-VI szkoły podstawowej) — 4 godziny lekcyjne
+# III etap edukacyjny (klasy VII-VIII) — 4 godziny lekcyjne
+# IV etap edukacyjny (szkoła ponadpodstawowa) — 3 godziny lekcyjne
+
+Od drugiego etapu edukacyjnego dzieci i młodzież mogą realizować wychowanie fizyczne w ramach zajęć klasowo-lekcyjnych i zajęć do wyboru. Zajęcia do wyboru (maksymalnie na 2 lekcjach wychowania fizycznego w tygodniu) są dla uczniów możliwością realizacji swoich zainteresowań daną formą aktywności fizycznej. Z zaproponowanej oferty przez szkołę (po diagnozie zainteresowań wśród uczniów) dzieci i młodzież mogą wybrać zajęcia o charakterze sportowym, tanecznym, aktywnej turystyki lub sprawnościowo-zdrowotnym.
+
+Podczas zajęć klasowo-lekcyjnych uczniowie i nauczyciele realizują tzw. podstawę programową, czyli wymagania (jako treści) które należy osiągnąć podczas lekcji wychowania fizycznego na danym etapie edukacyjnym. Treści te dotyczą takich zagadnień, jak (istnieją różnice w zależności od etapu edukacyjnego):
+# Diagnoza sprawności fizycznej i rozwoju fizycznego
+# Trening zdrowotny
+# Sporty całego życia i wypoczynek
+# Bezpieczna aktywność fizyczna i higiena osobista
+# Sport
+# Taniec
+# Edukacja zdrowotna
+
+Wychowanie fizyczne przygotowuje do całożyciowej troski o swoje ciało poprzez aktywność fizyczną, dbałość o swoją sprawność fizyczną i zdrowie. Podczas lekcji wychowania fizycznego uczeń winien pogłębiać wiedzę, nabywać umiejętności i rozwijać pożądane postawy (prosomatyczne, prozdrowotne i prospołeczne). Wychowanie fizyczne ma kierunek prozdrowotny.
+
+Sport w wychowaniu fizycznym jest jedynie środkiem do osiągania celów wychowania fizycznego. Osiągnięcia sportowe nie stanowią natomiast nadrzędnego celu w wychowaniu fizycznym.
+
+== Zobacz też ==
+{{Commonscat|Physical education}}
+{{Wikisłownik|wychowanie fizyczne}}
+* [[przystosowane wychowanie fizyczne]]
+* [[psychologia sportu]]
+* [[sprawność fizyczna]]
+* [[motoryczność]]
+* [[anatomia człowieka]]
+* [[fizjologia człowieka]]
+* [[dietetyka]]
+* [[medycyna sportowa]]
+
+== Przypisy ==
+{{Przypisy}}
+
+== Linki zewnętrzne ==
+* [http://www.wychowaniefizyczne.pl/faq.html Wychowanie fizyczne w RP]
+* [http://orka.sejm.gov.pl/WydBAS.nsf/0/1AC45E6D5A1174FDC1257ED6003AC4CA/$file/Analiza_BAS_2015_132.pdf Dobromir Dziewulak ''Zwalnianie uczniów z lekcji wychowania fizycznego w szkołach w Polsce i wybranych krajach Europy''], Biuro Analiz Sejmowych, ''[[Analizy BAS]]'' 12/2015
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Oświata]]
+[[Kategoria:Sport]]
+[[Kategoria:Wychowanie]]</text>
+      <sha1>rb0zgg9w8cjqdt0m2kw8eu9gqmgsaww</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Health-Related Fitness</title>
+    <ns>0</ns>
+    <id>1556845</id>
+    <revision>
+      <id>51817077</id>
+      <parentid>45381275</parentid>
+      <timestamp>2018-01-20T00:05:31Z</timestamp>
+      <contributor>
+        <username>Paweł Ziemian BOT</username>
+        <id>661950</id>
+      </contributor>
+      <minor/>
+      <comment>Dodaję nagłówek przed [[Szablon:Przypisy]]</comment>
+      <origin>51817077</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3020" sha1="q50lxh9ijwuonfckm1cucqaieg0a611" xml:space="preserve">'''''Health-Related Fitness''''' – sprawność ukierunkowana na zdrowie.
+
+Celem [[sprawność fizyczna|sprawności fizycznej]] jest pozytywne [[zdrowie]] fizyczne, które warunkuje niskie ryzyko wystąpienia problemów zdrowotnych. Osiągnięcia zaś mają na celu zdolność angażowania się w codzienne zadania z adekwatną energią oraz satysfakcjonujące uczestnictwo w wybranych [[sport]]ach&lt;ref&gt;Howley E. T., Franks B. D. (1997): Health Fitness Instructors. Handbook. Champaign, Ill.: Human Kinetics.&lt;/ref&gt;
+
+Według autorów sprawność fizyczna obejmuje:
+funkcje krążeniowo-oddechowe, względną szczupłość ciała, siłę mięśniową, wytrzymałość i gibkość.
+
+'''''H-RF''''' odnosi się do tych komponentów sprawności, które są efektem korzystnego i niekorzystnego wpływu zwykłej aktywności fizycznej oraz które mają związek z poziomem stanu zdrowia.
+
+Komponenty te są określone:
+* zdolnością do podejmowania codziennej aktywności z wigorem i żwawo,
+* takim stanem cech i zdolności, który wskazuje na niskie ryzyko przedwczesnego rozwoju chorób i osłabienia sił w wyniku małej aktywności&lt;ref&gt;2. Bouchard C., Shephard R. J. (1994): Physical activity, fitness and health: the model and key concepts. [In:] Physical activity, fitness and health. Red. C. Bouchard, R. J. Shephard, T. Stephens. Champaign, Ill.: Human Kinetics Publishers, 77-88.&lt;/ref&gt;.
+
+Definicja sprawności w ramach koncepcji '''''H-RF''''' obejmuje następujące komponenty&lt;ref&gt;3.	Skinner J. S., Oja P. (1994): Laboratory and field tests for assessing health-related fitness. [In:] Physical activity, fitness and health. Red. C. Bouchard, R. J. Shephard, T. Stephens. Champaign, Ill.: Human Kinetics Publishers, 160-179.&lt;/ref&gt;:
+
+'''1. Sprawność morfologiczna'''
+* [[Wskaźnik masy ciała|BMI]] (Body Mass Index),
+* dystrybucja tłuszczu,
+* mineralna gęstość kości
+
+'''2. Sprawność mięśniowo-szkieletowa'''
+* [[siła]] i wytrzymałość mięśni ramion, nóg i tułowia,
+* [[gibkość]]
+
+'''3. Sprawność motoryczna'''
+* kontrola postawy ciała jako kombinacja równowagi, koordynacji, kontroli psychicznej i szybkości neuromięśniowej
+
+'''4. Sprawność krążeniowo-oddechowa'''
+* submaksymalna zdolność wysiłkowa i wytrzymałość,
+* system dostarczania tlenu,
+* resynteza [[Adenozyno-5′-trifosforan|ATP]],
+* procesy [[termoregulacja|termoregulacyjne]],
+* VO&lt;sub&gt;2&lt;/sub&gt;max (maksymalny minutowy pobór tlenu)
+
+'''5. Sprawność przemian metabolicznych'''
+* działanie [[Hormony zwierzęce|hormonów]] (np. [[insulina]]),
+* gospodarka [[węglowodany|węglowodanowa]] ([[krew]], [[tkanka|tkanki]]),
+* metabolizm [[lipidy|lipidowy]]
+
+Z uwagi na brak możliwości dokładnego przetłumaczenia z języka angielskiego terminu ''Health-Realted Fitness'', zdecydowano pozostawić go w formie niezmienionej&lt;ref&gt;Osiński W. (2003): Antropomotoryka. Podręczniki, 49, Poznań, AWF.&lt;/ref&gt;.
+
+== Przypisy ==
+{{Przypisy}}
+
+== Zobacz też ==
+[[Kultura fizyczna]]
+
+[[Sport]]
+
+[[Zdrowie]]
+
+[[Kategoria:Sport]]</text>
+      <sha1>q50lxh9ijwuonfckm1cucqaieg0a611</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Drużyna sportowa</title>
+    <ns>0</ns>
+    <id>1594057</id>
+    <revision>
+      <id>74522913</id>
+      <parentid>67687294</parentid>
+      <timestamp>2024-08-11T12:10:12Z</timestamp>
+      <contributor>
+        <username>OuroborosGD93</username>
+        <id>1218848</id>
+      </contributor>
+      <comment>ort.</comment>
+      <origin>74522913</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1258" sha1="cqos7m4ome7ms57u9nrnncug4glqkuk" xml:space="preserve">'''Drużyna sportowa''' – zespół składający się z określonej liczby graczy w danej [[dyscyplina sportowa|dyscyplinie sportowej]].
+
+== Liczba zawodników w drużynie w danych dyscyplinach sportowych ==
+
+{| class="wikitable"
+! Liczba graczy
+! Dyscyplina (dyscypliny)
+|-
+| 16&lt;br /&gt;
+| [[Futbol australijski]]
+|-
+| 15
+| [[Futbol gaelicki]], [[hurling]], [[rugby union]]
+|-
+| 14
+| [[Roller derby]]
+|-
+| 13
+| [[Rugby league]]
+|-
+| 12
+| [[Futbol kanadyjski]], [[korfball]], [[lacrosse|lacrosse kobiet]]
+|-
+| 11
+| [[Futbol amerykański]], [[bandy]], [[krykiet]], [[hokej na trawie]], [[piłka nożna]], [[Speedball (paintball)|speedball]]
+|-
+| 10
+| [[lacrosse|Lacrosse mężczyzn]], [[slow-pitch softball]]
+|-
+| 9
+| [[Baseball]], [[fast-pitch softball]]
+|-
+| 8
+| [[Przeciąganie liny]]
+|-
+| 7
+| [[Piłka ręczna]], [[netball]], [[piłka wodna]], [[Sport żużlowy|żużel]], [[Rugby 7|rugby sevens]]
+|-
+| 6
+| [[Hokej na lodzie]], [[unihokej]], [[piłka siatkowa|siatkówka]]
+|-
+| 5
+| [[Koszykówka]], [[hokej na rolkach]], [[futsal]], [[piłka nożna plażowa]]
+|-
+| 4
+| [[Polo (sport)|Polo]], [[plażowa piłka ręczna]]
+|-
+| 3
+| [[Pétanque|Petanka]], [[gra prowansalska]]
+|-
+| 2
+| [[Siatkówka plażowa]]
+|}
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Sport]]</text>
+      <sha1>cqos7m4ome7ms57u9nrnncug4glqkuk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Psychologia sportu</title>
+    <ns>0</ns>
+    <id>1636957</id>
+    <revision>
+      <id>75121419</id>
+      <parentid>71198123</parentid>
+      <timestamp>2024-11-03T01:13:06Z</timestamp>
+      <contributor>
+        <username>Chrumps</username>
+        <id>6748</id>
+      </contributor>
+      <minor/>
+      <comment>kat.</comment>
+      <origin>75121419</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1430" sha1="md3k7uonxhmzku4ob8cenu564wp1jdf" xml:space="preserve">{{Dopracować|źródła=2010-08|styl}}
+'''Psychologia sportu''' – zajmuje się wykorzystaniem teorii, zasad i technik zaczerpniętych z [[psychologia|psychologii]], w celu poprawy osiągnięć oraz rozwoju osobistego osób uprawiających ćwiczenia fizyczne i [[sport]]&lt;ref&gt;(Williams, Straub, 1993).&lt;/ref&gt;.
+
+== Zadania psychologii sportu ==
+* obserwacja zjawisk i procesów psychologicznych zachodzących w sporcie
+* opis tych zjawisk i procesów
+* wyjaśnianie czynników, które wpływają na te zjawiska i procesy
+* przewidywanie rozwoju tych [[zjawisko|zjawisk]] i procesów
+* kontrola oraz modelowanie zjawisk i procesów
+
+== Zadania psychologa sportu ==
+* badaniami – czyli studiowaniem wszelkich psychologicznych aspektów sportu
+* edukacją – czyli nauczaniem [[student]]ów, działaczy, [[trener]]ów, sportowców psychologii sportu
+* zastosowaniem – czyli diagnozowaniem i interweniowaniem w zakresie problemów psychologicznych wynikających z uprawiania sportu
+
+== Zobacz też ==
+* [[kinezjologia]]
+* [[trening mentalny]]
+* [[twórcza wizualizacja]]
+* [[trener personalny]]
+
+== Przypisy ==
+{{Przypisy}}
+
+== Linki zewnętrzne ==
+* [http://www.appliedsportpsych.org/ Association for Applied Sport Psychology (AASP)] {{lang|en}}
+
+{{Działy psychologii}}
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Dziedziny psychologii|Sportu]]
+[[Kategoria:Sport]]
+[[Kategoria:Medycyna sportowa]]
+[[Kategoria:Psychologia stosowana]]</text>
+      <sha1>md3k7uonxhmzku4ob8cenu564wp1jdf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Sport niepełnosprawnych</title>
+    <ns>14</ns>
+    <id>1690830</id>
+    <revision>
+      <id>35511832</id>
+      <parentid>33399570</parentid>
+      <timestamp>2013-03-16T02:35:12Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>543400</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Addbot|Bot:]] Przenoszę linki interwiki (25) do [[d:|Wikidata]], są teraz dostępne do edycji na [[d:q7016336]]</comment>
+      <origin>35511832</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="86" sha1="r5o3mo8uot3tjtpoidmoyru41nf37mo" xml:space="preserve">{{Commonscat|Disabled sports}}
+
+[[Kategoria:Sport]]
+[[Kategoria:Niepełnosprawność]]</text>
+      <sha1>r5o3mo8uot3tjtpoidmoyru41nf37mo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Prawo sportowe</title>
+    <ns>14</ns>
+    <id>1725243</id>
+    <revision>
+      <id>47958735</id>
+      <parentid>35933845</parentid>
+      <timestamp>2016-12-24T00:42:17Z</timestamp>
+      <contributor>
+        <username>Tar Lócesilion</username>
+        <id>327902</id>
+      </contributor>
+      <minor/>
+      <comment>Usunięto kategorię "Gałęzie prawa"; Dodano kategorię "Prawo według gałęzi" za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>47958735</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="72" sha1="8y5q0agqh7skdxuxemm4tzpoomy8dek" xml:space="preserve">[[Kategoria:Prawo według gałęzi|Sportowe, prawo]]
+[[Kategoria:sport]]</text>
+      <sha1>8y5q0agqh7skdxuxemm4tzpoomy8dek</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sport rekreacyjny</title>
+    <ns>0</ns>
+    <id>1780474</id>
+    <revision>
+      <id>61554202</id>
+      <parentid>56622771</parentid>
+      <timestamp>2020-12-01T13:31:40Z</timestamp>
+      <contributor>
+        <ip>83.27.186.117</ip>
+      </contributor>
+      <origin>61554202</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2877" sha1="liekar10q7j14ap5uoriclzi0rnkob9" xml:space="preserve">[[Plik:20080831 przebrania the human race 10k.jpg|thumb|200px|The Human Race [[2008]] w [[Warszawa|Warszawie]]]]
+[[Plik:Ultimate frisbee 10.jpg|thumb|200px|[[Frisbee]]]]
+[[Plik:Skitouring.jpg|thumb|200px|[[skituring]]]]
+'''Sport rekreacyjny, masowy''' – stanowi formę czynnego [[Rekreacja|wypoczynku]] z zachowaniem współzawodnictwa jako czynnika [[motywacja|motywującego]]&lt;ref&gt;{{Cytuj|tytuł = Wielka Encyklopedia PWN |data = 2004 |isbn = 83-01-14193-X 83-01-13357-0 |wolumin = 25 |inni = Jan Wojnowski (red.) |miejsce = Warszawa |wydawca = Wydawnictwo Naukowe PWN |s = 455 |oclc = 830629358 }}&lt;/ref&gt;.
+
+Jego zadaniem jest m.in. odprężenie po [[Zatrudnienie|pracy]], regeneracja sił, utrzymanie sprawności fizycznej oraz dobrego stanu zdrowia. Powoduje m.in. wzrost tolerancji wysiłku fizycznego oraz zwiększenie siły mięśniowej stabilizującej stawy. Jest jednym z czynników przyczyniających się do zapobiegania [[choroby cywilizacyjne|chorobom cywilizacyjnym]]. 
+
+Zalecany jest m.in. przy [[Profilaktyka zdrowotna|profilaktyce]], [[leczenie|leczeniu]] i [[Rehabilitacja medyczna|rehabilitacji]] chorób [[Układ krwionośny człowieka|układu krążenia]] i [[narząd ruchu|narządu ruchu]]. Jako rodzaj rehabilitacji można tu wymienić [[Sporty niepełnosprawnych|sport niepełnosprawnych]]. Znaczenie ma także sport dzieci i młodzieży, który stanowi element [[wychowanie|wychowania]] oraz zapobiega [[choroba|chorobom]].
+
+Do dyscyplin tego sportu można zaliczyć m.in.: 
+* gimnastykę rekreacyjną (m.in. różne formy gimnastyczno-taneczne, [[gimnastyka aerobowa]]);
+* [[Pływanie (sport)|pływanie]] (m.in. [[nurkowanie]] rekreacyjne);
+* bieg i chód kondycyjny;
+* sporty indywidualne i zespołowe (m.in. [[tenis]], [[tenis stołowy]], [[softball]], [[korfball]], [[Ringo (sport)|ringo]], [[frisbee]], [[badminton]], [[golf]], [[kręgle]], [[unihokej]], wspinaczka sportowa); 
+* zespołowe gry sportowe (m.in. [[piłka siatkowa|siatkówka]], [[koszykówka]], [[piłka nożna]]);
+* sporty wodne (m.in. [[żeglarstwo]], sporty motorowodne, [[kajakarstwo]], [[surfing]], [[windsurfing]])
+* sporty zimowe (m.in. [[narciarstwo|narciarstwo zjazdowe]] i [[Biegi narciarskie|biegowe]], [[saneczkarstwo]], [[łyżwiarstwo]], [[curling]]);
+* [[lekkoatletyka|lekkoatletykę]] (biegi, skoki, rzuty); 
+* sporty walki ([[judo]], [[jujutsu]], [[karate]], [[taekwondo]], [[aikido]], [[kendo]]); 
+* [[aerobik]], [[aqua-aerobic]], [[body ballet]], [[callanetics]], [[fitness]], [[joga]], [[taijiquan]];
+* [[Jeździectwo|jazdę konną]];
+* [[gry terenowe]] i [[Wieloboje lekkoatletyczne|wieloboje]].
+
+== Przypisy ==
+{{Przypisy}}
+==Zobacz też==
+* [[sport widowiskowy]]
+
+== Bibliografia ==
+* ''Sport dla wszystkich. Wybrane dyscypliny'', PTNKF, [[Warszawa]] [[1997]], {{ISBN|83-86622-32-6}}
+
+[[Kategoria:Sport]]
+[[Kategoria:Rekreacja]]
+[[Kategoria:Medycyna sportowa]]</text>
+      <sha1>liekar10q7j14ap5uoriclzi0rnkob9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Naming Rights</title>
+    <ns>0</ns>
+    <id>1847024</id>
+    <revision>
+      <id>74358500</id>
+      <parentid>67746263</parentid>
+      <timestamp>2024-07-22T07:10:28Z</timestamp>
+      <contributor>
+        <username>EmptyBot</username>
+        <id>717975</id>
+      </contributor>
+      <minor/>
+      <comment>int.</comment>
+      <origin>74358500</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3741" sha1="nu6pq0cwps1fqxrnerx3hzbizkuy4g5" xml:space="preserve">'''Naming rights''', '''prawa do nazwy''' – prawa do nazwania [[własność|własności]] (obiektu, miejsca, wydarzenia), najczęściej przyznawane w zamian za finansowe wynagrodzenie. Dla firm i organizacji jest to forma [[reklama|reklamy]] produktów, możliwość zaistnienia [[Marka producenta|marki]] w świadomości społeczeństwa, a także społecznie odpowiedzialne działanie biznesu ([[Społeczna odpowiedzialność biznesu|CSR]]) w przypadku obiektów niekomercyjnych. Transakcje naming rights w większości dotyczą obiektów sportowych, edukacyjnych, artystycznych, transportowych i medycznych oraz wydarzeń sportowych i kulturalnych. Umowy takie mają najczęściej charakter długoterminowy i trwają od 5 do 30 lat (zdarzają się też umowy na czas nieokreślony). Prawa do nazwy mogą być również przekazywane bez finansowego wynagrodzenia. Instytucje takie jak szkoły, szpitale czy miejsca kultu religijnego mają w tradycji przyznawanie darczyńcy prawo do nazwy w zamian za oferowane wkłady na rzecz organizacji.
+
+== Historia ==
+Naming rights stadionu zostały zapoczątkowane w [[1953]] roku w [[Ameryka Północna|Ameryce Północnej]], kiedy firma Anheuser-Busch zaproponowała zmianę nazwy obiektu Sportsman's Park, zajmowanego przez [[St. Louis Cardinals]], na “Budweiser Stadium”. Kiedy pomysł został odrzucony przez Forda Fricka, ówczesnego komisarza ligi Baseballa, Anheuser-Busch zaproponował nazwę “Bausch Stadium”, która miała pochodzić od jednego z założycieli firmy. Nowa propozycja została zaakceptowana, a Anheuser-Busch wypuścił produkt o nazwie "Busch Bavarian Beer" (obecnie znany jako Busch Beer). Nazwa została później rozszerzona do “[[Busch Memorial Stadium]]” w 1966 roku, a następnie ponownie skrócona do "Busch Stadium" w roku 1970 i utrzymała się do zamknięcia w 2005 roku. Obecnie Anheuser-Busch posiada prawa do nazwy nowego stadionu Cardinals – Bausch Stadium, który został otwarty w kwietniu 2006 roku.
+
+Innym historycznym przykładem jest sprzedaż praw do nazwy nowego stadionu w [[Foxborough]], [[Massachusetts]] w [[1970]]–[[1971]] dla firmy [[Schäfer|Schaefer]] Brewery, przez [[New England Patriots]] należących do [[National Football League]].
+
+== Przykłady z Polski ==
+* [[Atlas Arena]] w Łodzi – prawo do nazwy hali zostało wydzierżawione od miasta na pięć lat i za 5 mln złotych&lt;ref&gt;[http://namingrights.pl/newsy/polska/64-atlas-arena-naming-rights-do-najnowoczeniejszej-hali-w-polsce-sprzedane.html] [https://web.archive.org/web/20091021023243/http://www.namingrights.eu/atlas-arena-hala-w-lodzi-nazwana-na-5-lat-z-5-milionow-zlotych/]&lt;/ref&gt;.
+* [[BGŻ Arena]]  w Pruszkowie&lt;ref&gt;[http://namingrights.pl/newsy/polska/67-bg-arena-ujrzaa-wiato-dzienne.html] [https://web.archive.org/web/20110425090724/http://www.namingrights.eu/nowy-w-polska/]&lt;/ref&gt;
+* [[Stadion Zagłębia Lubin]]
+* [[Kalisz Arena|Winiary Arena]] (do 2010, obecnie Kalisz Arena)
+* [[PGE Arena Gdańsk]] 35 mln zł za PGE Arena Gdańsk&lt;ref&gt;[http://namingrights.pl/newsy/polska/81-35-mln-z-za-pge-arena-gdask.html][https://web.archive.org/web/20100729022805/http://www.namingrights.eu/pge-arena-gdansk-%E2%80%93-kolejna-sprzedaz-naming-rights-tym-razem-za-35-mln-zl/]&lt;/ref&gt;
+
+== Przypisy ==
+{{Przypisy}}
+
+== Bibliografia ==
+* Marketing i Rynek, Nr 11/2009, {{ISSN|1231-7853}}, PWE
+* http://namingrights.eu
+* http://namingrights.pl
+* [http://gospodarka.gazeta.pl/gospodarka/1,33181,6443710,Naming_rights__czyli_stadiony_na_sprzedaz.html Artykuł "Naming rights, czyli stadiony na sprzedaż"]
+
+== Linki zewnętrzne ==
+* [http://www.namingrights.pl/ NamingRights.pl]
+* [http://www.namingrights.eu/ NamingRights.eu]
+
+[[Kategoria:Marketing]]
+[[Kategoria:Sport]]</text>
+      <sha1>nu6pq0cwps1fqxrnerx3hzbizkuy4g5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Strony przeglądowe – sport</title>
+    <ns>14</ns>
+    <id>848967</id>
+    <revision>
+      <id>49298065</id>
+      <parentid>49296462</parentid>
+      <timestamp>2017-05-09T00:44:55Z</timestamp>
+      <contributor>
+        <username>EmptyBot</username>
+        <id>717975</id>
+      </contributor>
+      <minor/>
+      <comment>Zmiana nazwy kategorii: Kategoria:Strony przeglądowe - społeczeństwo → [[Kategoria:Strony przeglądowe – społeczeństwo]]  (przy użyciu [[Wikipedysta:Tufor/Quick ReCat|QRC]])</comment>
+      <origin>49298065</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="127" sha1="ctit2tn1aig35qdbd6pbgwrya8goi49" xml:space="preserve">[[Kategoria:Strony przeglądowe – kultura|Sport]]
+[[Kategoria:Strony przeglądowe – społeczeństwo]]
+[[Kategoria:Sport|*]]</text>
+      <sha1>ctit2tn1aig35qdbd6pbgwrya8goi49</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Historia sportu</title>
+    <ns>14</ns>
+    <id>1870303</id>
+    <revision>
+      <id>51904773</id>
+      <parentid>35553188</parentid>
+      <timestamp>2018-01-20T18:53:08Z</timestamp>
+      <contributor>
+        <username>EmptyBot</username>
+        <id>717975</id>
+      </contributor>
+      <minor/>
+      <comment>Zmiana nazwy kategorii: Kategoria:Historia według specjalności → [[Kategoria:Historia według tematyki]]  (przy użyciu [[Wikipedysta:Tufor/Quick ReCat|QRC]])</comment>
+      <origin>51904773</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="98" sha1="jv6rzn3liuqhh94413of05lssvrqrqc" xml:space="preserve">{{Commonscat|History of sport}}
+
+[[Kategoria:Sport]]
+[[Kategoria:Historia według tematyki|Sport]]</text>
+      <sha1>jv6rzn3liuqhh94413of05lssvrqrqc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>ASInfo</title>
+    <ns>0</ns>
+    <id>1251676</id>
+    <revision>
+      <id>25068757</id>
+      <parentid>24431713</parentid>
+      <timestamp>2011-01-22T10:18:37Z</timestamp>
+      <contributor>
+        <username>Mintho</username>
+        <id>10387</id>
+      </contributor>
+      <minor/>
+      <comment>- POViasty szablon</comment>
+      <origin>25068757</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1616" sha1="ljqsf1fvdp0t0osprkk43jwklitd58g" xml:space="preserve">'''ASInfo''' – pierwsza w Polsce, sportowa [[Agencja prasowa|agencja informacyjna]]. Założona w marcu 2007 roku przez Andrzeja Łukaszewicza. 
+
+Agencja dostarcza sportowy kontent – informacje, zdjęcia, dźwięki mp3, wideo, a także wyniki na żywo do polskich i zagranicznych mediów. 
+
+Z usług ASInfo korzysta radio [[RMF FM]] oraz portale [[Onet.pl]] i [[Interia.pl]], [[Super Express]] a także serwisy internetowe [[Piłka Nożna (tygodnik)]], Futbol.pl, Sport24.pl, MagazynPilkarski.pl i Futbolnet.pl. 
+
+Wśród klientów agencji jest również Radio Chicago, a także kilka polskich rozgłośni lokalnych. Z usług ASInfo korzystają również gazety ogólnopolskie oraz lokalne. Agencja dostarcza także treści do oficjalnej strony internetowej [[Polski Związek Piłki Nożnej|Polskiego Związku Piłki Nożnej]]. ASInfo współpracuje z organizatorem Pucharu Polski, firmą Remes. Agencja prowadzi stronę oficjalną rozgrywek [[Puchar Polski w piłce nożnej|Remes Pucharu Polski]], dzięki której media korzystają z materiałów prasowych.
+
+W lutym 2008 roku ASInfo rozpoczęło sprzedaż relacji na żywo minuta po minucie ze spotkań [[I liga polska w piłce nożnej|Ekstraklasy]], a w lipcu [[II liga polska w piłce nożnej|nowej 1. ligi]].
+
+Podczas Euro 2008, ASInfo dostarczało treści i zdjęcia do serwisu internetowego telewizji [[Polsat]].
+
+Sekretarzem  redakcji jest Jarosław Kowal. 
+
+== Linki zewnętrzne ==
+* {{cytuj stronę| url = http://www.asinfo.pl| tytuł = Strona agencji ASInfo| data dostępu = | autor = | język = pl}}
+
+[[Kategoria:Agencje prasowe]]
+[[Kategoria:Sport]]</text>
+      <sha1>ljqsf1fvdp0t0osprkk43jwklitd58g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Sport według kontynentów</title>
+    <ns>14</ns>
+    <id>2193353</id>
+    <revision>
+      <id>35935947</id>
+      <parentid>33010318</parentid>
+      <timestamp>2013-03-31T10:29:51Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>543400</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Addbot|Bot:]] Przenoszę linki interwiki (33) do [[d:|Wikidata]], są teraz dostępne do edycji na [[d:q8792485]]</comment>
+      <origin>35935947</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="102" sha1="67xeen1z52h1v2tdrfo9deww14c7ue2" xml:space="preserve">{{Commonscat|Sports by country}}
+
+[[Kategoria:Sport| ]]
+[[Kategoria:Zagadnienia według kontynentów]]</text>
+      <sha1>67xeen1z52h1v2tdrfo9deww14c7ue2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Sport według miejscowości</title>
+    <ns>14</ns>
+    <id>2195561</id>
+    <revision>
+      <id>70215747</id>
+      <parentid>37599623</parentid>
+      <timestamp>2023-04-27T14:57:56Z</timestamp>
+      <contributor>
+        <username>Alan ffm</username>
+        <id>357169</id>
+      </contributor>
+      <minor/>
+      <comment>Alan ffm przeniósł stronę [[Kategoria:Sport według miast]] do [[Kategoria:Sport według miejscowości]]: bardziej przydatny poszerzony zakres tematyczny</comment>
+      <origin>37599623</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="100" sha1="lhotxwzudlkixksrz03of17orbinked" xml:space="preserve">{{Commonscat|Sports by city}}
+
+[[Kategoria:Zagadnienia według miejscowości]]
+[[Kategoria:Sport| ]]</text>
+      <sha1>lhotxwzudlkixksrz03of17orbinked</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Kibice</title>
+    <ns>14</ns>
+    <id>2288340</id>
+    <revision>
+      <id>68560520</id>
+      <parentid>68560161</parentid>
+      <timestamp>2022-10-22T16:41:02Z</timestamp>
+      <contributor>
+        <username>Rafał Miśta</username>
+        <id>794911</id>
+      </contributor>
+      <comment>lepszy byłyby subkultury, ale takiej kategorii brak, kat.</comment>
+      <origin>68560520</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="46" sha1="fctdmdi66b9yihsb6o72e5bv7pjna3l" xml:space="preserve">[[Kategoria:Sport]]
+[[Kategoria:Kontrkultury]]</text>
+      <sha1>fctdmdi66b9yihsb6o72e5bv7pjna3l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Teoria sportu</title>
+    <ns>0</ns>
+    <id>2340716</id>
+    <revision>
+      <id>56101429</id>
+      <parentid>40590334</parentid>
+      <timestamp>2019-03-08T15:12:57Z</timestamp>
+      <contributor>
+        <username>Woidich</username>
+        <id>127005</id>
+      </contributor>
+      <minor/>
+      <comment>drobne redakcyjne, źródła/przypisy</comment>
+      <origin>56101429</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1807" sha1="3tmo801ml2ch2kexc8gi8neg6d8uifg" xml:space="preserve">'''Teoria sportu''' – [[nauka]], która w sposób systemowy zajmuje się badaniem człowieka uprawiającego [[sport]] oraz zjawisk działalności sportowej w celu poznania i doskonalenia mechanizmów warunkujących skuteczne zachowanie człowieka we współzawodnictwie sportowym. Bada ona zjawiska, formułuje prawa, uogólnia doświadczenia, kieruje praktyką sportową oraz wyznacza kierunki rozwoju sportu{{odn|Ambroży|2007|s=7}}.
+
+== Działy teorii sportu ==
+Wyróżnia się sześć podstawowych działów teorii sportu{{odn|Ambroży|2007|s=7-8}}:
+* teoria [[Trening|treningu sportowego]] – dotyczy rozpoznania reakcji człowieka na bodźce treningowe i pozatreningowe, a także badania efektywności metod, form, zasad i środków treningowych.
+* teoria [[Planowanie|planowania]] – polega na wyznaczeniu celów głównych i etapowych szkolenia sportowego na podstawie przewidywań efektów pracy.
+* [[prognozowanie]] i selekcja – dotyczy wybrania osobników, których talent oraz poziom wybranych cech rokuje w przyszłości osiągnięcie wysokiego poziomu sportowego.
+* kontrola pracy treningowej – zespół działań służących ocenie bieżącego stanu organizmu zawodnika oraz jego reakcji na stosowane bodźce treningowe.
+* teoria [[Walka|walki sportowej]] – docelowy i centralny punkt szkolenia sportowego, obejmujący analizę rywalizacji sportowej.
+* skutki działalności sportowej – dotyczy analizy skutków działalności sportowej, od fizjologicznych po psychologiczne.
+
+== Przypisy ==
+{{Przypisy}}
+
+== Bibliografia ==
+* {{Cytuj książkę |autor = Tadeusz Ambroży |tytuł = Wprowadzenie do teorii sportu. Poradnik metodyczny dla studentów |wydawca = Wydawnictwo „Dla szkoły” |rok = 2007 |isbn = 978-83-883-9664-9 |odn={{odn/id|Ambroży|2007}}}}
+
+[[Kategoria:Sport]]</text>
+      <sha1>3tmo801ml2ch2kexc8gi8neg6d8uifg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sportowiec</title>
+    <ns>0</ns>
+    <id>543643</id>
+    <revision>
+      <id>66022548</id>
+      <parentid>66022529</parentid>
+      <timestamp>2022-01-20T18:53:53Z</timestamp>
+      <contributor>
+        <username>Ivâa01</username>
+        <id>1102328</id>
+      </contributor>
+      <minor/>
+      <comment>[[WP:SK]]+[[WP:SK/mSK|mSK]]+[[WP:SK/ToS|ToS]]+[[WP:SK/mSI|mSI]]+[[WP:SK/Bn|Bn]]</comment>
+      <origin>66022548</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="837" sha1="g038nm6fuo15ghoftvbrqtbvdi8eogl" xml:space="preserve">{{inne znaczenia|osoby uprawiającej sport|[[Sportowiec (tygodnik)|„Sportowiec” – tygodnik]]}}
+{{wikisłownik|sportowiec}}
+{{Wikicytaty|o sportowcu}}
+[[Plik:Bundesarchiv Bild 183-1987-0821-041, Heike Drechsler.jpg|mały|Sportowiec]]
+'''Sportowiec''' – osoba uprawiająca pewną dziedzinę [[sport]]ową. Sportowcem jest zarówno osoba uprawiająca sport zawodowo, jak i amatorsko, a jej trening opiera się zazwyczaj na odpowiednio przygotowanym planie treningowym. Sport ten może wymagać wysiłku fizycznego i zręczności (np. [[piłka nożna]]), ale również może ograniczać się do zaangażowania umysłu ([[szachy]]).
+
+== Zobacz też ==
+* [[zapotrzebowanie energetyczne dla sportowców]]
+* [[sport elektroniczny]]
+* {{Zobacz kategorię|Sportowcy}}
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Sport]]
+[[Kategoria:Zajęcie]]</text>
+      <sha1>g038nm6fuo15ghoftvbrqtbvdi8eogl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Sport według państw</title>
+    <ns>14</ns>
+    <id>2741004</id>
+    <revision>
+      <id>45595783</id>
+      <parentid>38032997</parentid>
+      <timestamp>2016-04-20T18:01:19Z</timestamp>
+      <contributor>
+        <username>Macuk</username>
+        <id>360844</id>
+      </contributor>
+      <comment>drobne techniczne</comment>
+      <origin>45595783</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="185" sha1="ifyfspfvtaclir8olv2r8g3kk20frru" xml:space="preserve">{{Commonscat|Sports by country}}
+Do kategorii dodano również zagadnienia dotyczące sportu w państwach historycznych.
+
+[[Kategoria:Sport| ]]
+[[Kategoria:Zagadnienia według państw]]</text>
+      <sha1>ifyfspfvtaclir8olv2r8g3kk20frru</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sport widowiskowy</title>
+    <ns>0</ns>
+    <id>2743612</id>
+    <revision>
+      <id>66871767</id>
+      <parentid>38227235</parentid>
+      <timestamp>2022-04-11T21:09:11Z</timestamp>
+      <contributor>
+        <username>EmptyBot</username>
+        <id>717975</id>
+      </contributor>
+      <minor/>
+      <comment>int.</comment>
+      <origin>66871767</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3588" sha1="8c6rydub7d8jfzumd4zsirtszxt0o04" xml:space="preserve">'''Sport widowiskowy''' (ang. ''spectator sport'') − [[sport]], który charakteryzuje się tym, że podczas jego rozgrywania obecni są widzowie oglądający rozgrywki. Sporty takie tworzą widowiska przyciągające uwagę często bardzo szerokiej publiki, uprawia się je w dużej mierze dla rozrywki i przyjemności oglądających. Rozgrywanie sportów widowiskowych często wymaga odpowiednio przygotowanych miejsc spotkań - sal lub hal z widownią albo [[stadion|stadionów]], z których [[kibic|kibice]] mogą obserwować grę lub przebieg konkurencji.
+
+Sporty widowiskowe często przeciwstawia się sportom uczestniczącym (ang. ''participant sport''), w których dominującym aspektem jest uczestnictwo w rozgrywce a nie samo oglądanie rozgrywek. Rozrywkę i przyjemność daje więc aktywny udział w nich a nie samo obserwowanie przebiegu. Sporty uczestniczące uprawia się zasadniczo w celach rekreacyjnych, dla przyjemności uprawiającego a nie widowni (zob. też [[sport rekreacyjny]]). 
+
+Podział ten nie jest jednak sztywny gdyż wiele dyscyplin sportowych zależnie od okoliczności nabiera charakteru widowiskowego lub rekreacyjnego (np. w [[tenis ziemny|tenisie]] lub [[golf|golfie]], chociaż rozgrywki elity zawodników wyczynowych przyciągają uwagę szerszej publiczności to sporty te uprawia też wiele osób jedynie w celach towarzyskiej zabawy lub rekreacji). 
+
+Sporty widowiskowe można też dalej podzielić na [[sport zawodowy|sporty zawodowe]] i [[sport amatorski|sporty amatorskie]].
+
+Wzrastająca liczba transmisji wydarzeń sportowych wraz z reportarzami w mediach wpływa na zwiększenie widowni sportowej dzięki możliwości doświadczania rozgrywek sportowych bez potrzeby fizycznego przebywania w miejscu wydarzeń, doświadczenia te często są pogłębione dzięki zastosowaniu nowoczesnych technik audio i wideo w tym ujęć z różnych kamer, powtórek, komentarzy, statystyk, analiz. Niektóre sporty wręcz uchodzą za "sporty fotelowe" z uwagi na to, że jakość doświadczeń jaką dostarcza transmisja przewyższa jakość doświadczeń wynikłych z fizycznej obecności na miejscu wydarzeń.
+
+Sporty widowiskowe stworzyły swoje własne kultury i tradycje takie jak np. [[cheerleading]] oraz inne rozrywki jakie mają miejsce przed wydarzeniami sportowymi lub w ich trakcie (np. [[Sztuczne ognie|ognie sztuczne]]). Przy tym pasje sportowych fanów prowadzą też okazjonalnie do gwałtowności i incydentów.
+
+W [[zarządzanie sportem|zarządzaniu sportem]] sporo uwagi poświęca się psychologicznym badaniom chęci oglądania i emocjonowaniu się rozgrywkami sportów widowiskowych (między innymi badając to w jaki sposób można by dzięki temu zwiększyć popyt). Wiele z tych badań koncentruje się na: 
+* wykorzystywaniu zaspokajania [[potrzeba osiągnięć|potrzeby osiągnięć]] w zastępczy sposób
+* pragnieniu widza do konstruowania i wyrażania swego wizerunku publicznego poprzez deklarację lojalności z zawodnikiem lub zespołem zawodników.
+
+Oddzielenie się uczestnictwa aktywnego od uczestnictwa biernego w wydarzeniach sportowych, linia podziału na sportowców (zawodników) i kibiców (widzów) zdaniem francuskiego filozofa [[Jacques Rancière|Jacques'a Rancière'a]] prowadzi do ''paradoksu widza'' - poszukiwaniu sposobności do zastępczej, pasywnej kontemplacji angażowania się w aktywność i przez to przeoczenia tych momentów życia, które mogły by prowadzić do faktycznego zaangażowania się w aktywność sportową (ruchową).
+
+== Zobacz też ==
+*[[Rozrywka sportowa]]
+
+[[Kategoria:Sport]]</text>
+      <sha1>8c6rydub7d8jfzumd4zsirtszxt0o04</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Muzea sportu</title>
+    <ns>14</ns>
+    <id>2265128</id>
+    <revision>
+      <id>35936588</id>
+      <parentid>33473175</parentid>
+      <timestamp>2013-03-31T11:02:15Z</timestamp>
+      <contributor>
+        <username>Addbot</username>
+        <id>543400</id>
+      </contributor>
+      <minor/>
+      <comment>[[User:Addbot|Bot:]] Przenoszę linki interwiki (18) do [[d:|Wikidata]], są teraz dostępne do edycji na [[d:q8801028]]</comment>
+      <origin>35936588</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="90" sha1="i9vgbs0w7y0ewbf7w930ctfohettt0f" xml:space="preserve">{{Commonscat|Sports museums}}
+
+[[Kategoria:Muzea według typu|sportu]]
+[[Kategoria:Sport]]</text>
+      <sha1>i9vgbs0w7y0ewbf7w930ctfohettt0f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Rekordy sportowe</title>
+    <ns>14</ns>
+    <id>2842175</id>
+    <revision>
+      <id>35920619</id>
+      <parentid>33968433</parentid>
+      <timestamp>2013-03-30T05:09:36Z</timestamp>
+      <contributor>
+        <username>KLBot2</username>
+        <id>478666</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: Przenoszę linki interwiki (16) do Wikidata, są teraz dostępne do edycji na [[:d:Q8801409]]</comment>
+      <origin>35920619</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="79" sha1="qo7ocdvro51n7626o54xqq1jwvhwhmi" xml:space="preserve">[[Kategoria:Rekordy|Sportowe]]
+[[Kategoria:Listy sportowe]]
+[[Kategoria:Sport]]</text>
+      <sha1>qo7ocdvro51n7626o54xqq1jwvhwhmi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Duchowość w sporcie</title>
+    <ns>0</ns>
+    <id>2966836</id>
+    <revision>
+      <id>63429463</id>
+      <parentid>63086352</parentid>
+      <timestamp>2021-05-24T19:55:56Z</timestamp>
+      <contributor>
+        <username>WiktorynBot</username>
+        <id>193297</id>
+      </contributor>
+      <minor/>
+      <comment>/* Duchowość a sport – badania */int., ew. sprzątanie kodu przy użyciu [[Project:AWB|AWB]]</comment>
+      <origin>63429463</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8414" sha1="l61veenxrfjbc6ez579zut63k01co6o" xml:space="preserve">'''Duchowość w sporcie''' - ogół przeżyć i doświadczeń podczas uprawiania sportów, które zgodnie z rozumieniem [[Duchowość|duchowości]] można odnosić albo do pewnego wymiaru psychiki człowieka albo do nadnaturalnej rzeczywistości. Doświadczenia sportowców można porównać do [[Przeżycie szczytowe|przeżyć szczytowych]] [[Abraham Maslow|Abrahama Maslowa]].&lt;br /&gt;
+Wśród duchowych przeżyć sportowców można wyróżnić inne powtarzające się elementy:
+* brak poczucia płynięcia czasu (i związane z tym poczucie [[Przepływ (psychologia)|«przepływu»]]),
+* doświadczanie przeżyć nieobecnych w codziennym życiu, wznoszących osobę na «inny poziom» rzeczywistości,
+* lepsze zrozumienie własnej osoby,
+* poczucie bliskiej więzi z otaczającą rzeczywistością (często nazywanej Absolutem) lub przynależenia do większej całości.
+
+== Duchowość w surfingu ==
+
+Bron Taylor widzi w surfowaniu tak wiele elementów świadczących o duchowości, że zaproponował wprowadzenie pojęcia „akwatycznej religii”, która miałaby się opierać na szczególnej więzi jaka łączy człowieka z „Oceanem Matką”, jak najczęściej surferzy nazywają ocean&lt;ref&gt;B. Taylor, ''Surfing into Spirituality and a New, Aquatic Nature Religion'', Journal of the American Academy of Religion, vol 75, nr 4, 2007, s. 923-951
+&lt;/ref&gt;.
+{{Cytat
+ |treść =
+Największa satysfakcja nie pochodzi z wykonania dobrego zwrotu, lecz z podróży i związku który powstaje z przyrodą. Delfiny, wieloryby, ryby, ptaki, drzewa, rafy, zachody słońca – zabierz te rzeczy, a pozbawisz doskonałą falę jej duszy&lt;ref&gt;''Tamże'',  s. 944.&lt;/ref&gt;.
+Chris Gallagher
+}}
+Samo surfowanie wywodzi się z tradycji hawajskiej, gdzie było sportem silnie związanym z tradycją religijną. Odprawiano specjalne ofiary i modły, by wybłagać jak największe fale. Resztki tych rytuałów przetrwały w niektórych grupach surferów do współczesności.
+Surferzy często porównują swoje pływanie do chodzenia do Kościoła.
+Taylor postuluje coś na kształt „religii surferów”. Składać ma się na nią zainteresowanie ochroną środowiska, która wynika ze szczególnej więzi jaką czują surferzy wobec przyrody oraz szczególne duchowe przeżycia, jakie są udziałem surferów.
+Surfowanie w dużej fali często jest bardzo niebezpieczne i wymaga od sportowca doskonałego skupienia. W sensie dosłownym musi on „żyć chwilą” co jest podobne do ideału stanu umysłu, który chce się osiągnąć w niektórych religiach (np. buddyzmie Zen).
+
+{{Cytat
+ |treść = Płynięcie w fali jest najbardziej przerażającą, ale i ożywiającą częścią serfowania. Jeden z najlepszych surferów lat 70. Shaun Tomson podsumował te trudne do opisania przeżycia «czas w fali płynie wolniej».&lt;ref&gt;''Tamże'', s. 942.&lt;/ref&gt;
+}}
+
+W powyższym cytacie łatwo rozpoznać doświadczenie określane jako [[Przepływ (psychologia)|przepływ]]. Poniższy zawiera w sobie opis pewnej ponadnaturalnej siły, którą odczuwają niektórzy surferzy:
+
+{{Cytat
+ |treść =
+Morze zawiera w sobie magię dla tych, którzy je poznali. Magię, która w tak prosty, czysty i silny sposób niewidzialnie działa w naszych duszach. (…) Morze uwalnia, przynosi komfort, pocieszenie i ucieczkę. Morze przynosi uzdrowienie. Dusza morza, dla wielu z nas, jest istotą życia&lt;ref&gt;''Tamże'', s. 946.&lt;/ref&gt;.
+Keith Glendon
+}}
+
+== Duchowość w kajakarstwie górskim ==
+[[Plik:Kayaker Air Loop Reno.JPG|thumb|Kajakarstwo górskie]]
+
+Osoby pasjonujące się spływami rwącymi rzekami określają swoje doświadczenia jako przeżycia religijne i/lub duchowe. Jeden z przyjaciół Whitney Sanford, która badała to zagadnienie, zapytany o to, czy przeżycia podczas spływu można nazwać duchowymi odpowiedział: „cóż, oczywiście że tak jest”&lt;ref&gt;A. W. Sanford, ''Pinned on Karma Rock: Whitewater Kayaking as Religious Experience'', Journal of the American Academy of Religion, nr 4, 2007,s. 876.&lt;/ref&gt;. Sanford przez całe życie uważała, że jej doświadczenia związane z tym sportem są formą praktyk religijnych. Słuchając wypowiedzi swoich znajomych zauważyła, że opisy ich przeżyć są bliskie języka religijnego i postanowiła sprawdzić czym różnią się od opisów religijności. Postawiła ona tezę, że to nie-zachodni język religijny najlepiej oddaje doświadczenia przeżywane przez osoby uprawiające kajakarstwo oraz że przeżywanie takich doświadczeń poszerza pole pojęciowe religijności, tak jak obecnie określają ją badacze w Stanach Zjednoczonych (tzn. jako religijności indywidualnej i związanej z konkretną denominacją).
+
+Porównuje ona odczucia sportowca do żywiołu wodnego z napięciem jakie istnieje między bóstwem a wiernym. Taką analogie ukazuje XVI wieczny poemat indyjski autorstwa Paramanada, w którym doświadczanie i opisywanie oceanu równa się pojmowaniu miłości [[Kryszna|Kriszny]]. Serce wierzącego tonie w głębi istoty Kriszny. Miłość bóstwa (ocean) może być doświadczona tylko poprzez całkowite zanurzenie się serca i ciała człowieka; intelekt może doświadczyć tylko powierzchni tego zjawiska. Zdaniem Sanford ten hinduski przykład i doświadczenia podczas uprawiania sportu wskazują na budowanie sakralności wykorzystując do tego doświadczenia zdobyte w kontakcie z rzeczywistością. Dlatego nie można tutaj pojmować sacrum w zachodnim sensie – jako radykalnie oddzielonej od rzeczywistości ziemskiej transcendencji.
+
+== Duchowość w samotnych ekspedycjach sportowych ==
+
+J. H. Laing i G. I. Crouch analizując przeżycia osób, które podejmowały ekstremalne wyzwania sportowe, jak zdobywanie wysokich szczytów, biegunów czy przemierzania innych trudno dostępnych miejsc, doszli do wniosku, że takie przeżycia odpowiadać muszą na pewne specyficzne potrzeby człowieka we współczesnym świecie&lt;ref&gt;J. H. Laing, G. I. Crouch, ''Lone wolves? Isolation and solitude within the frontier travel experience'', Human Geography, nr 91, 2009, s. 325-342.&lt;/ref&gt;. Zadziwiająca popularność ekspedycji poza obszary, gdzie dociera cywilizacja, ma dowodzić chęci przeżywania chwil w samotności i izolacji od innych ludzi, która może pozwolić na zdystansowanie się do swojego życia i przemyślenia własnej skali wartości. Osoby takie określają swoje przeżycia jako „autentyczne”, odróżniając je od codziennego życia, w którym trudno im dostrzec „prawdziwe” zdarzenia. Mają one poczucie, że znajdują się w miejscu czystym, nie skażonym obecnością innych ludzi. Przechodzą niejako przez świętą przestrzeń, której nie posiadł przed nimi nikt inny, co wywołuje w nich poczucie „autentyczności”. Podróżnicy opisują, że w takich przeżyciach przepełnionych samotnością, będą mogli odnowić swoje życie duchowe, wyrwać się z „duchowego odrętwienia” w które wtłoczyło ich życie w społeczeństwie. Duchowość widzą oni także w świadomości bliskiej łączności z naturą i otaczającym krajobrazem, wyzwalającej się dzięki skupieniu, na które pozwala obcowanie z ciszą dzikiej przyrody.
+
+== Duchowość a sport – badania ==
+
+Na Muzułmańskim Uniwersytecie w [[Aligarh]] S. T. Murtaza, S. Sharif i M. Sharique przeprowadzili badania sprawdzając, czy zaistnieje różnica w wynikach na skali duchowości pomiędzy kobietami a mężczyznami&lt;ref&gt;M. Sharique, S. T. Murtaza, S. Sharif , ''A Comparative Study of Spirituality between Male and Female Sportspersons of Aligarh Muslim University'', Golden Research Thoughts, Nr 1, 2012, s. 1-4.&lt;/ref&gt;. Przebadano równą grupę dwustu studentów i studentek należących do klubów sportowych. Do zmierzenia duchowości użyto Spirituality Assessment Scale autorstwa H. Beazleya. Wykazano, że sportsmenki osiągnęły wyższe wyniki na skali duchowości w porównaniu ze sportowcami. Zdaniem autorów jest to zgodne z innymi badaniami, które wskazują na ogólnie wyższy poziom duchowości wśród kobiet. W ich opinii może to być spowodowane większą wrażliwością, opiekuńczością i tym, że kobiety z reguły bardziej angażują się emocjonalnie w wykonywane przez siebie aktywności. Wskazują także, że sportsmenki w wypadku trudności częściej niż mężczyźni zwracają swoją uwagę w kierunku Boga.
+
+== Przypisy ==
+{{Przypisy}}
+
+[[Kategoria:Duchowość]]
+[[Kategoria:Sport]]</text>
+      <sha1>l61veenxrfjbc6ez579zut63k01co6o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Organizacje sportowe</title>
+    <ns>14</ns>
+    <id>3131636</id>
+    <revision>
+      <id>38859087</id>
+      <parentid>38859069</parentid>
+      <timestamp>2014-03-07T14:51:25Z</timestamp>
+      <contributor>
+        <username>Alan ffm</username>
+        <id>357169</id>
+      </contributor>
+      <comment>kat.</comment>
+      <origin>38859087</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="68" sha1="fz2jjmgoo5et1xxe3c4i3a79czlp7rs" xml:space="preserve">[[Kategoria:Sport]]
+[[Kategoria:Organizacje według dziedzin|Sport]]</text>
+      <sha1>fz2jjmgoo5et1xxe3c4i3a79czlp7rs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Portal:Sport</title>
+    <ns>100</ns>
+    <id>103046</id>
+    <revision>
+      <id>73770567</id>
+      <parentid>73578632</parentid>
+      <timestamp>2024-05-13T21:40:03Z</timestamp>
+      <contributor>
+        <username>MalarzBOT</username>
+        <id>31007</id>
+      </contributor>
+      <minor/>
+      <comment>MalarzBOT: poprawki</comment>
+      <origin>73770567</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2188" sha1="p4ewumoiqr2yg4rvqbq1e2i03atauny" xml:space="preserve">{{Wygaszony portal}}
+{{Wikipedia:Portal/nawigacja}}
+{{Portal:Sport/Tytuł}}
+
+{| width="100%" align="center" border="0" cellpadding="4" cellspacing="4" style="background-color: lavender"
+|- valign="top"
+| width="50%" |
+
+&lt;div style="float: right;"&gt;&lt;small&gt;[{{SERVER}}{{localurl:Portal:Sport/Ciekawostki|action=edit}} Edytuj]&lt;/small&gt;&lt;/div&gt;
+&lt;div style="font-size:150%"&gt;{{ikona|cw|20}} Czy wiesz...&lt;/div&gt;
+&lt;br&gt;{{Portal:Sport/Ciekawostki}}
+----
+
+&lt;div style="float: right;"&gt;&lt;small&gt;[{{SERVER}}{{localurl:Portal:Sport/Artykuły na medal|action=edit}} Edytuj]&lt;/small&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;div style="font-size:150%"&gt;{{ikona|anm|20}} Artykuły na medal&lt;/div&gt;
+&lt;br&gt;{{Portal:Sport/Artykuły na medal}}
+{| align="right" cellpadding="1" cellspacing="0"
+|[[Wikipedia:Artykuły na Medal|&lt;small&gt;''Więcej''&lt;/small&gt; »]]
+|}
+----
+
+{| width="100%" align="center" border="0" cellpadding="4" cellspacing="4" style="background-color: lavender"
+|- valign="top"
+| style="background-color:lavender;" valign="top" width="50%" align="center" |
+
+&lt;div style="float: right;"&gt;&lt;small&gt;[{{SERVER}}{{localurl:Portal:Sport/Wybitni sportowcy|action=edit}} Edytuj]&lt;/small&gt;&lt;/div&gt;
+&lt;div style="font-size:150%" align="left"&gt;[[Plik:P vip.svg|25px]] Sportowcy&lt;/div&gt;
+{{Portal:Sport/Wybitni sportowcy}}
+{| align="right" cellpadding="1" cellspacing="0"
+|[[:Kategoria:Sportowcy|&lt;small&gt;''Więcej''&lt;/small&gt; »]]
+|}
+|}
+
+{| width="100%" align="center" border="0" cellpadding="4" cellspacing="4" style="background-color: lavender"
+|- valign="top"
+| style="background-color:lavender;" valign="top" width="50%" |
+
+&lt;div style="float: right;"&gt;&lt;small&gt;[{{SERVER}}{{localurl:Portal:Sport/Kategorie|action=edit}} Edytuj]&lt;/small&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;div style="font-size:150%" align="left"&gt;[[Plik:Nuvola apps kmessedwords.png|21px]] Sport – kategorie&lt;/div&gt;
+&lt;br&gt;{{Portal:Sport/Kategorie}}
+| width="50%" style="padding:4px"|
+
+&lt;div style="float: right;"&gt;&lt;small&gt;[{{SERVER}}{{localurl:Portal:Sport/Zdjęcia|action=edit}} Edytuj]&lt;/small&gt;&lt;/div&gt;&lt;/p&gt;
+&lt;div style="font-size:150%"&gt;[[Plik:Nuvola camera.svg|24px]] Sport – zdjęcia&lt;/div&gt;
+&lt;br&gt;{{Portal:Sport/Zdjęcia}}{{commonscat|Sports}}
+
+|}
+{{Wikiprojekt:Sport/Nawigacja}}
+|}
+
+[[Kategoria:Sport|!]]
+[[Kategoria:Portale sportowe| ]]</text>
+      <sha1>p4ewumoiqr2yg4rvqbq1e2i03atauny</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Afery w sporcie</title>
+    <ns>14</ns>
+    <id>3075142</id>
+    <revision>
+      <id>39623650</id>
+      <parentid>39616208</parentid>
+      <timestamp>2014-06-09T17:31:34Z</timestamp>
+      <contributor>
+        <username>Cathy Richards</username>
+        <id>284016</id>
+      </contributor>
+      <comment>kat.</comment>
+      <origin>39623650</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="39" sha1="rn5gzy5q5drxtoap8vi79aygmqe246f" xml:space="preserve">[[Kategoria:Afery]]
+[[Kategoria:Sport]]</text>
+      <sha1>rn5gzy5q5drxtoap8vi79aygmqe246f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Uczelnie sportowe według państw</title>
+    <ns>14</ns>
+    <id>3215396</id>
+    <revision>
+      <id>40023441</id>
+      <timestamp>2014-08-07T11:31:32Z</timestamp>
+      <contributor>
+        <username>Bogic</username>
+        <id>138287</id>
+      </contributor>
+      <comment>kategoria</comment>
+      <origin>40023441</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="94" sha1="132ioano1ptvv9wly80900xaqsj6sq5" xml:space="preserve">[[Kategoria:Uczelnie według państw|*]]
+[[Kategoria:Uczelnie sportowe| ]]
+[[Kategoria:Sport]]</text>
+      <sha1>132ioano1ptvv9wly80900xaqsj6sq5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sport zawodowy</title>
+    <ns>0</ns>
+    <id>3219339</id>
+    <revision>
+      <id>67328533</id>
+      <parentid>52101094</parentid>
+      <timestamp>2022-06-05T03:24:33Z</timestamp>
+      <contributor>
+        <username>PBbot</username>
+        <id>616438</id>
+      </contributor>
+      <comment>wstawienie {{Kontrola autorytatywna}}</comment>
+      <origin>67328533</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="700" sha1="1ubhng2atvc3qwi8het860070jj5dvi" xml:space="preserve">'''Sport zawodowy''' – oznacza uprawianie [[sport]]u w taki sposób, w jaki świadczy się pracę lub [[usługi]] za [[wynagrodzenie]]m, bez względu na to, czy pomiędzy [[sportowiec|sportowcem]] zawodowym a odpowiednią organizacją sportową istnieje formalna umowa o pracę czy też nie, w przypadku gdy wynagrodzenie przekracza koszty uczestnictwa i stanowi znaczącą część dochodów dla sportowca&lt;ref&gt;''Rozporządzenie Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznające niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu.'' ({{CELEX|32014R0651}}).&lt;/ref&gt;.
+
+== Przypisy ==
+{{Przypisy}}
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Sport]]</text>
+      <sha1>1ubhng2atvc3qwi8het860070jj5dvi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Kobieta w sporcie</title>
+    <ns>14</ns>
+    <id>2894854</id>
+    <revision>
+      <id>41378875</id>
+      <parentid>41367337</parentid>
+      <timestamp>2014-12-29T23:58:23Z</timestamp>
+      <contributor>
+        <username>SpiderMum</username>
+        <id>16515</id>
+      </contributor>
+      <comment>Anulowanie wersji 41367337 autora [[Special:Contributions/Mix321|Mix321]] ([[User talk:Mix321|dyskusja]]) - kategoria nie grupuje tylko i wyłącznie artykułów biograficznych, co widać po jej nazwie</comment>
+      <origin>41378875</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="79" sha1="k8p1stckcz5c4znxdvakzr45p33yct4" xml:space="preserve">{{Commonscat|Women's sports}}
+
+
+[[Kategoria:Kobieta|Sport]]
+[[Kategoria:Sport]]</text>
+      <sha1>k8p1stckcz5c4znxdvakzr45p33yct4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sport</title>
+    <ns>0</ns>
+    <id>5536</id>
+    <revision>
+      <id>75115954</id>
+      <parentid>74954688</parentid>
+      <timestamp>2024-11-02T14:49:59Z</timestamp>
+      <contributor>
+        <ip>2A02:A314:84ED:A000:59AF:6272:F7D2:AF34</ip>
+      </contributor>
+      <origin>75115954</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2350" sha1="dj94wz32r532ltiutq0yvrqmimv05o1" xml:space="preserve">{{Inne znaczenia|formy aktywności człowieka|[[Sport (ujednoznacznienie)|inne znaczenia]]}}
+[[Plik:All sports drawing.svg|mały|Symbole związane ze sportem]]
+[[Plik:Sweden Vaxholm sport 1938.jpg|mały|Sport w 1938 w Szwecji]]
+{{Siostrzane projekty
+ |commons   = Category:Sports
+ |słownik   = sport
+ |źródła    = Kategoria:Sport
+ |cytaty    = Sport
+ |news      =
+ |books     =
+ |podróże   =
+ |species   =
+ |wikiwerek =
+ |meta      =
+}}
+'''Sport''' – wszelkie formy aktywności fizycznej, które przez uczestnictwo doraźne lub zorganizowane wpływają na wypracowanie lub poprawienie kondycji fizycznej i psychicznej, rozwój stosunków społecznych lub osiągnięcie wyników sportowych na wszelkich poziomach&lt;ref&gt;{{Cytuj |tytuł = AltroSport |opublikowany = Sport News |url = https://www.altrosport.net/ |język = it-IT}}&lt;/ref&gt;&lt;ref&gt;{{Cytuj |tytuł = Art. 2. – Ustawowe pojęcie sportu – Ustawa z dnia 25 czerwca 2010 r. o sporcie |data dostępu = 2019-07-13 |opublikowany = www.arslege.pl |url = https://www.arslege.pl/ustawowe-pojecie-sportu/k543/a44341/ |język = pl}}&lt;/ref&gt;.
+
+Za sport uważa się również współzawodnictwo oparte na aktywności intelektualnej, którego celem jest osiągnięcie wyniku sportowego.
+
+Rodzaje sportu:
+* sport amatorski – aktywność fizyczna podejmowana dla wypoczynku, rozrywki i rekreacji – odnowy sił psychofizycznych,
+* sport wyczynowy – forma działalności człowieka, podejmowana dobrowolnie w drodze rywalizacji dla uzyskania maksymalnych wyników sportowych,
+* sport profesjonalny – rodzaj sportu wyczynowego uprawianego w celach zarobkowych
+* [[sport motorowy|motorsport]] - sport rozumiany jako [[rywalizacja]] zawodników na [[pojazd silnikowy|pojazdach silnikowych]].
+W ramach [[rekreacja|rekreacji]], rozumianej tu jako odrębne pojęcie, brak jest elementu rywalizacji. Różne realizowane w jej ramach czynności, poza pracą czy nauką, są wykonywane w miejscu zamieszkania czy pobytu, co różni ją z kolei od [[turystyka|turystyki]] – podróży w celu poznawania świata i ludzi.
+
+W niektórych ujęciach sport to również [[kultura fizyczna]], dbanie o własne ciało, podziwianie piękna [[zawodnik]]ów uprawiających dane [[Dyscyplina sportu|dyscypliny sportu]].
+
+== Przypisy ==
+{{Przypisy}}
+
+{{Kontrola autorytatywna}}
+
+[[Kategoria:Sport| ]]
+[[Kategoria:Gry| ]]</text>
+      <sha1>dj94wz32r532ltiutq0yvrqmimv05o1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Wydarzenia sportowe</title>
+    <ns>14</ns>
+    <id>3677809</id>
+    <revision>
+      <id>64258448</id>
+      <parentid>45495551</parentid>
+      <timestamp>2021-08-08T17:30:46Z</timestamp>
+      <contributor>
+        <username>Alan ffm</username>
+        <id>357169</id>
+      </contributor>
+      <comment>kat.</comment>
+      <origin>64258448</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="77" sha1="l61ddfv959x7yia8u9yzjxy3cg6m1ks" xml:space="preserve">{{Commonscat|Sports events}}
+
+[[Kategoria:Imprezy|sport]]
+[[Kategoria:Sport]]</text>
+      <sha1>l61ddfv959x7yia8u9yzjxy3cg6m1ks</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Sport na terytoriach zależnych</title>
+    <ns>14</ns>
+    <id>3684945</id>
+    <revision>
+      <id>67498291</id>
+      <parentid>45595656</parentid>
+      <timestamp>2022-07-01T17:58:14Z</timestamp>
+      <contributor>
+        <username>Sztefinek</username>
+        <id>1184485</id>
+      </contributor>
+      <comment>−[[Kategoria:Terytoria zależne]]; +[[Kategoria:Zagadnienia według terytoriów zależnych]] za pomocą [[WP:Narzędzia/HotCat|HotCat]]</comment>
+      <origin>67498291</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="78" sha1="b609g3a28l4fs63jo0w5fto8gst5puv" xml:space="preserve">[[Kategoria:Sport| ]]
+[[Kategoria:Zagadnienia według terytoriów zależnych]]</text>
+      <sha1>b609g3a28l4fs63jo0w5fto8gst5puv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Rozrywka sportowa</title>
+    <ns>14</ns>
+    <id>4291908</id>
+    <revision>
+      <id>55967656</id>
+      <parentid>55967648</parentid>
+      <timestamp>2019-02-20T16:41:52Z</timestamp>
+      <contributor>
+        <username>Czarnybog</username>
+        <id>702970</id>
+      </contributor>
+      <minor/>
+      <comment>Czarnybog przeniósł stronę [[Kategoria:Rozrywka sportowe]] do [[Kategoria:Rozrywka sportowa]]: literówka</comment>
+      <origin>55967641</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="294" sha1="i46ikxfkt2nsm794la2skba6sxzjpz9" xml:space="preserve">{{Opis kategorii
+ |grupuje        =
+ |uwagi          =
+ |osobne_grupują =
+ |main           = [[Rozrywka sportowa]]
+ |portal         =
+ |wikiprojekt    =
+ |zobacz         =
+ |związane       =
+ |siostrzane     =
+}}
+{{Commonscat|Sports entertainment}}
+
+[[Kategoria:Rozrywki]]
+[[Kategoria:Sport]]</text>
+      <sha1>i46ikxfkt2nsm794la2skba6sxzjpz9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Medycyna sportowa</title>
+    <ns>14</ns>
+    <id>2623519</id>
+    <revision>
+      <id>71465563</id>
+      <parentid>55571775</parentid>
+      <timestamp>2023-10-07T16:27:31Z</timestamp>
+      <contributor>
+        <username>MalarzBOT</username>
+        <id>31007</id>
+      </contributor>
+      <minor/>
+      <comment>MalarzBOT: usuwam linki do portali: [[Wikipedia:Kawiarenka/Ogólne#Portale]]</comment>
+      <origin>71465563</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="440" sha1="kev38oygumv88m6we03d4enf0x1vdbn" xml:space="preserve">{{Commonscat|Medical specialties}}
+
+{{Opis kategorii
+ |grupuje        = Kategoria grupuje artykuły z dziedziny medycyny sportowej
+ |uwagi          = 
+ |osobne_grupują = 
+ |main           = [[Medycyna sportowa]]
+ |wikiprojekt    = [[Wikiprojekt:Nauki medyczne]]
+ |zobacz         = 
+ |związane       = [[:Kategoria:Sport|Sport]], [[:Kategoria:Doping|Doping]]
+}}
+
+[[Kategoria:Kategorie według specjalności lekarskich]]
+[[Kategoria:Sport]]</text>
+      <sha1>kev38oygumv88m6we03d4enf0x1vdbn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Sporty zespołowe</title>
+    <ns>14</ns>
+    <id>4447250</id>
+    <revision>
+      <id>55610394</id>
+      <timestamp>2019-01-16T12:22:30Z</timestamp>
+      <contributor>
+        <username>Bogic</username>
+        <id>138287</id>
+      </contributor>
+      <comment>kategoria</comment>
+      <origin>55610394</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21" sha1="gxipzg1tv9ffrlk4j9698okw378rkgu" xml:space="preserve">[[Kategoria:Sport| ]]</text>
+      <sha1>gxipzg1tv9ffrlk4j9698okw378rkgu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Dyscypliny sportowe</title>
+    <ns>14</ns>
+    <id>1030024</id>
+    <revision>
+      <id>63223773</id>
+      <parentid>63223772</parentid>
+      <timestamp>2021-05-06T16:23:31Z</timestamp>
+      <contributor>
+        <ip>31.183.233.54</ip>
+      </contributor>
+      <origin>63223773</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="42" sha1="0j8nrka55qmjrrz0jloyio40yqv382f" xml:space="preserve">{{Commonscat|Sports}}
+
+[[Kategoria:Sport]]</text>
+      <sha1>0j8nrka55qmjrrz0jloyio40yqv382f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Sport w sztuce</title>
+    <ns>14</ns>
+    <id>4547955</id>
+    <revision>
+      <id>72908177</id>
+      <parentid>56758500</parentid>
+      <timestamp>2024-02-18T12:19:24Z</timestamp>
+      <contributor>
+        <username>KoverasLupus</username>
+        <id>434263</id>
+      </contributor>
+      <comment>kat.</comment>
+      <origin>72908177</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="86" sha1="3x6b9cykuodwqez5ivuc9alrvy5uogo" xml:space="preserve">{{Commonscat|Sports in art}}
+
+[[Kategoria:Motywy w sztuce]]
+[[Kategoria:Sport|Sztuka]]</text>
+      <sha1>3x6b9cykuodwqez5ivuc9alrvy5uogo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Noblebet Zakłady Bukmacherskie</title>
+    <ns>0</ns>
+    <id>4659120</id>
+    <revision>
+      <id>72520435</id>
+      <parentid>69489613</parentid>
+      <timestamp>2024-01-15T21:16:18Z</timestamp>
+      <contributor>
+        <username>Brynica</username>
+        <id>1126733</id>
+      </contributor>
+      <comment>Fuzja.</comment>
+      <origin>72520435</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3141" sha1="48pkaxdj8f1ru4od2pg9qt1tl0n6j0q" xml:space="preserve">{{Przedsiębiorstwo infobox
+ |nazwa             = Polski Bukmacher sp. z o.o.
+ |nazwa oryginalna  = 
+ |grafika           = 
+ |opis grafiki      = 
+ |państwo           = PL-SL
+ |siedziba          = Dąbrowa Górnicza
+ |adres             = 41-300 Dąbrowa Górnicza&lt;br /&gt;ul. Limanowskiego 10
+ |data założenia    = 2017
+ |data likwidacji   = 
+ |forma prawna      = [[Spółka z ograniczoną odpowiedzialnością]]
+ |prezes            = 
+ |dyrektor          = 
+ |przewodniczący RN = 
+ |udziałowcy        = 
+ |rejestr           = KRS
+ |numer rejestru    = 0000687635
+ |zatrudnienie      = 
+ |giełda            = 
+ |ISIN              = 
+ |symbol akcji      = 
+ |rok               = 
+ |przychody         = 
+ |wynik operacyjny  = 
+ |wynik netto       = 
+ |aktywa            = 
+ |kapitał własny    = 
+ |kapitał zakładowy = 2 050 000,00 PLN
+ |współrzędne       = 50°19′50″N 19°11′30″E
+ |kod mapy          = Dąbrowa Górnicza
+ |commons           = 
+ |www               = https://noblebet.pl
+}}
+'''Noblebet''' – serwis oferujący legalne [[zakłady bukmacherskie]] [[Online|on-line]] na terenie [[Język polski|Polski]]. Marka została stworzona przez [[Spółka handlowa|spółkę handlową]] Polski Bukmacher sp. z o.o. z siedzibą w [[Dąbrowa Górnicza|Dąbrowie Górniczej]] przy ul. Limanowskiego 10. [https://noblebet.pl/pl Noblebet] funkcjonuje od 2019 roku i działa na podstawie licencji wydanej przez [[Ministerstwo Finansów (Polska)|Ministerstwo Finansów]].
+
+Marka Noblebet jest głównym sponsorem drużyny [[Ekstraklasa w piłce nożnej|ekstraklasy]] – Śląska Wrocław&lt;ref&gt;{{Cytuj stronę|tytuł = WKS Śląsk Wrocław SA |data dostępu = 2019-11-18 |opublikowany = slaskwroclaw.pl |url = http://slaskwroclaw.pl/strona/}}&lt;/ref&gt;.
+
+== Działalność Noblebet ==
+Przedmiotem działalności spółki stosownie do [[Zezwolenie|zezwolenia]] wydanego przez [[Ministerstwo Finansów (Polska)|Ministra Finansów]], regulaminu wzajemnych [[Zakłady bukmacherskie|zakładów bukmacherskich]] i ''[[Ustawa hazardowa|ustawy z dnia 19 listopada 2009 r]]''&lt;ref&gt;{{Dziennik Ustaw|2023|227}}&lt;/ref&gt;''. o grach hazardowych'' jest zawieranie zakładów wzajemnych w formie [[Umowa|umów cywilnych]] z [[Osoba fizyczna|osobami fizycznymi]] za pośrednictwem serwisu internetowego na terytorium Polski.
+
+== Fuzja z LV Bet ==
+W połowie stycznia 2023 NobleBet wstrzymało rejestracje nowych kont, jak i w tym samym dniu doszło do fuzji z [[LV BET Zakłady Bukmacherskie|LV Bet]]&lt;ref&gt;{{Cytuj |tytuł = Noblebet kończy działalność. Fuzja z LV BET |data = 2023-01-16 |data dostępu = 2024-01-15 |url = https://najlepsibukmacherzy.pl/blog/noblebet-nie-dziala-fuzja-z-lvbet/ |język = pl-PL}}&lt;/ref&gt;. 
+
+== Przypisy ==
+{{Przypisy
+}}
+
+== Linki zewnętrzne ==
+* {{Cytuj stronę|url=https://noblebet/pl|tytuł=''Oficjalna strona''|opublikowany=noblebet.pl|data dostępu=2019-11-18}}
+* ''Ustawa z dnia 19 listopada 2009 r. o grach hazardowych'' ({{Dziennik Ustaw|2023|227}})
+
+[[Kategoria:Sport]]
+[[Kategoria:Gry hazardowe]]
+[[Kategoria:Przedsiębiorstwa założone w Polsce w 2017]]
+[[Kategoria:Przedsiębiorstwa w Dąbrowie Górniczej]]</text>
+      <sha1>48pkaxdj8f1ru4od2pg9qt1tl0n6j0q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Zwierzęta w sporcie</title>
+    <ns>14</ns>
+    <id>4732752</id>
+    <revision>
+      <id>59013503</id>
+      <parentid>59013482</parentid>
+      <timestamp>2020-03-08T19:41:40Z</timestamp>
+      <contributor>
+        <username>Krzys Pe</username>
+        <id>258677</id>
+      </contributor>
+      <minor/>
+      <comment>dr.</comment>
+      <origin>59013503</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="60" sha1="98mvn1jugtkre6y68qefiyz2c46sxp7" xml:space="preserve">[[Kategoria:Zwierzęta użytkowe|sport]]
+[[Kategoria:Sport]]</text>
+      <sha1>98mvn1jugtkre6y68qefiyz2c46sxp7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Ludzie związani ze sportem</title>
+    <ns>14</ns>
+    <id>4783931</id>
+    <revision>
+      <id>59598154</id>
+      <timestamp>2020-04-27T22:35:36Z</timestamp>
+      <contributor>
+        <username>KoverasLupus</username>
+        <id>434263</id>
+      </contributor>
+      <comment>nowa</comment>
+      <origin>59598154</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="66" sha1="l0mfteqnwfkgcwbn37g9t496n4ibdlc" xml:space="preserve">[[Kategoria:Sport]]
+[[Kategoria:Biografie według profesji|Sport]]</text>
+      <sha1>l0mfteqnwfkgcwbn37g9t496n4ibdlc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>ForBET</title>
+    <ns>0</ns>
+    <id>4346967</id>
+    <revision>
+      <id>74609447</id>
+      <parentid>74609441</parentid>
+      <timestamp>2024-08-24T16:42:28Z</timestamp>
+      <contributor>
+        <username>Zadi3001</username>
+        <id>1225861</id>
+      </contributor>
+      <origin>74609447</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5434" sha1="2xlmdajhm33qfuekbo6mf1yk091eadb" xml:space="preserve">{{Przedsiębiorstwo infobox
+ |nazwa             = forBET Zakłady Bukmacherskie Sp. z o.o.
+ |nazwa oryginalna  = 
+ |grafika           = Forbetlogo.png
+ |opis grafiki      = 
+ |państwo           = PL-MZ
+ |siedziba          = Warszawa
+ |adres             = 00-103 Warszawa&lt;br /&gt;[[ulica Królewska w Warszawie|ul. Królewska]] 18
+ |data założenia    = [[2016]]
+ |data likwidacji   = 
+ |forma prawna      = [[Spółka z ograniczoną odpowiedzialnością]]
+ |prezes            = Paweł Majewski
+ |dyrektor          = 
+ |przewodniczący RN = 
+ |udziałowcy        = 
+ |rejestr           = KRS
+ |numer rejestru    = 0000263257
+ |zatrudnienie      = 
+ |giełda            = 
+ |ISIN              = 
+ |symbol akcji      = 
+ |rok               = 
+ |przychody         = 
+ |wynik operacyjny  = 
+ |wynik netto       = 
+ |aktywa            = 
+ |kapitał własny    = 
+ |kapitał zakładowy = 2 667 000,00 zł
+ |współrzędne       = 52°14′16″N 21°00′14″E
+ |commons           = 
+ |www               = http://www.iforbet.pl
+}}
+'''forBET Zakłady Bukmacherskie Sp. z o.o.''' – [[spółka handlowa]] z [[Siedziba (prawo)|siedzibą]] w [[Warszawa|Warszawie]] prowadząca legalną działalność [[bukmacher]]ską na terenie [[Polska|Polski]] i Czech. Swoją działalność jako bukmacher online Spółka rozpoczęła w [[2016]] roku na podstawie uzyskanej licencji. Decyzją z dnia 15.11.2021 licencja została przedłużona na kolejne 6 lat&lt;ref&gt;{{Cytuj |tytuł = Zakłady wzajemne i gry hazardowe przez Internet |data dostępu = 2024-02-08 |opublikowany = www.podatki.gov.pl |url = https://www.podatki.gov.pl/pozostale-podatki/gry-hazardowe/zaklady-wzajemne-i-gry-hazardowe-przez-internet/ |język = pl-PL}}&lt;/ref&gt;. 
+
+forBET czynnie wspiera polski sport od początku swojej działalności. Spółka jest sponsorem głównym ŁKS&lt;ref&gt;{{Cytuj stronę | url = https://lkslodz.pl/partner/forbet/| tytuł = ''forBET sponsorem głównym ŁKS'' | opublikowany = lkslodz.pl | data dostępu = 2020-09-23}}&lt;/ref&gt;, Arka Gdynia&lt;ref&gt;{{Cytuj stronę | url = http://www.arka.gdynia.pl/news,22967-firma-forbet-sponsorem-glownym-arki-gdynia.html| tytuł = ''forBET sponsorem głównym Arki Gdynia'' | opublikowany = arka.gdynia.pl | data dostępu = 2020-08-27}}&lt;/ref&gt;, partnerem [[AMP Futbol]]&lt;ref&gt;{{Cytuj stronę | url = https://www.ampfutbol.pl/| tytuł = ''AMP FUTBOL CUP 2018 już 8/9 września w Warszawie! Zapraszamy!'' | opublikowany = ampfutbol.pl | data dostępu = 2018-08-16}}&lt;/ref&gt; oraz sponsorem IV ligi Warmińsko-Mazurskiej&lt;ref&gt;{{Cytuj |autor = Szymon Zawada |tytuł = forBET sponsorem tytularnym! Zobacz, z którą ligą współpracuje |data = 2020-07-07 |opublikowany = zawodtyper.pl |url = https://zawodtyper.pl/forbet-sponsorem-tytularnym-zobacz-z-ktora-liga-wspolpracuje/}}&lt;/ref&gt;. Ambasadorem firmy jest dziennikarz Canal + Sport, Bartosz Ignacik&lt;ref&gt;{{Cytuj |tytuł = Bartek Ignacik ambasadorem forBET |data = 2020-11-03 |data dostępu = 2024-02-08 |opublikowany = Interplay - automaty, bukmacherka, kasyna i loterie |url = https://interplay.pl/bartek-ignacik-ambasadorem-forbet/ |język = pl-PL}}&lt;/ref&gt;. W czerwcu 2024 roku forBET stał się oficjalnym sponsorem [[Cracovia (piłka nożna)|Cracovii]]&lt;ref&gt;{{Cytuj |autor = Szymon Zawada |tytuł = forBET oficjalnym sponsorem Cracovii! |data = 2024-06-12 |data dostępu = 2024-06-12 |opublikowany = zawodtyper.pl |url = https://zawodtyper.pl/forbet-oficjalnym-sponsorem-cracovii/}}&lt;/ref&gt;. W sierpniu 2024 roku forBET stał się oficjalnym bukmacherem [[Superliga polska w piłce ręcznej mężczyzn|Superligi w piłce ręcznej]]&lt;ref&gt;{{Cytuj |autor = Szymon Zawada |tytuł = forBET bukmacherem Superligi! Specjalna oferta i dofinansowanie opraw dla kibiców piłki ręcznej |data = 2024-08-21 |data dostępu = 2024-08-21 |opublikowany = zawodtyper.pl |url = https://zawodtyper.pl/forbet-bukmacherem-superligi-specjalna-oferta-i-dofinansowanie-opraw-dla-kibicow-pilki-recznej/}}&lt;/ref&gt;.
+
+== Działalność forBET == 
+Przedmiotem działalności spółki stosownie do [[Działalność gospodarcza|zezwolenia]] wydanego przez [[Ministerstwo Finansów (Polska)|Ministra Finansów]], regulaminu wzajemnych [[Zakłady bukmacherskie|zakładów bukmacherskich]] i ''[[ustawa|ustawy]] z dnia [[19 listopada]] [[2009]] r. o grach hazardowych'' jest zawieranie zakładów wzajemnych w formie [[umowa|umów cywilnych]] z [[osoba fizyczna|osobami fizycznymi]] na terytorium Polski za pośrednictwem strony internetowej. W 2023 roku forBET został laureatem Nagród Bukmacherskich organizowanych przez Legalnych Bukmacherów w kategorii Najlepszy Customer Service&lt;ref&gt;{{Cytuj |tytuł = Nagrody Legalnych Bukmacherów 2023 - Poznaj zwycięzców! |data = 2024-01-31 |data dostępu = 2024-02-08 |opublikowany = Legalni Bukmacherzy - Zakłady Bukmacherskie PL {{!}} Typy + Promocje |url = https://legalnibukmacherzy.pl/nagrody-bukmacherskie-2023/ |język = pl-PL}}&lt;/ref&gt;.
+
+== Zobacz też ==
+* [[Bukmacher]]
+
+== Przypisy ==
+{{Przypisy}}
+
+== Linki zewnętrzne ==
+* {{Cytuj stronę | url = http://www.iforbet.pl | tytuł = ''Oficjalna strona'' | opublikowany = iforbet.pl | data dostępu = 2018-08-16}}
+* ''Ustawa z dnia 19 listopada 2009 r. o grach hazardowych'' ({{Dziennik Ustaw|2023|227}})
+
+{{SORTUJ:forBET}}
+[[Kategoria:Sport]]
+[[Kategoria:Polskie przedsiębiorstwa branży rozrywkowej]]
+[[Kategoria:Przedsiębiorstwa założone w Polsce w 2016]]
+[[Kategoria:Spółki z ograniczoną odpowiedzialnością]]</text>
+      <sha1>2xlmdajhm33qfuekbo6mf1yk091eadb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Media sportowe</title>
+    <ns>14</ns>
+    <id>5209892</id>
+    <revision>
+      <id>65849696</id>
+      <timestamp>2022-01-07T00:57:43Z</timestamp>
+      <contributor>
+        <username>Chrumps</username>
+        <id>6748</id>
+      </contributor>
+      <comment>kat., szablon</comment>
+      <origin>65849696</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="74" sha1="0y2bk1uvurb81jmz3q3fski9lmh7d8y" xml:space="preserve">{{Commonscat|Sports media}}
+
+[[Kategoria:Media|Sport]]
+[[Kategoria:Sport]]</text>
+      <sha1>0y2bk1uvurb81jmz3q3fski9lmh7d8y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Sieci sklepów sportowych</title>
+    <ns>14</ns>
+    <id>5265635</id>
+    <revision>
+      <id>72044062</id>
+      <parentid>68295132</parentid>
+      <timestamp>2023-12-09T17:51:37Z</timestamp>
+      <contributor>
+        <username>Artur Andrzej</username>
+        <id>146248</id>
+      </contributor>
+      <comment>drobne redakcyjne</comment>
+      <origin>72044062</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="104" sha1="qr4h8e7q757vhvxvhiass00zbahbunk" xml:space="preserve">{{Commonscat|Sports equipment retail companies}}
+
+[[Kategoria:Sieci handlowe|Sport]]
+[[Kategoria:Sport]]</text>
+      <sha1>qr4h8e7q757vhvxvhiass00zbahbunk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Mężczyzna w sporcie</title>
+    <ns>14</ns>
+    <id>5378845</id>
+    <revision>
+      <id>68826845</id>
+      <timestamp>2022-11-22T20:28:19Z</timestamp>
+      <contributor>
+        <username>SpiderMum</username>
+        <id>16515</id>
+      </contributor>
+      <comment>N</comment>
+      <origin>68826845</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="80" sha1="3oo6x505ntmbodkv5q4pqrp5yn8xirn" xml:space="preserve">{{Commonscat|Men's sports}}
+
+[[Kategoria:Mężczyzna|Sport]]
+[[Kategoria:Sport]]</text>
+      <sha1>3oo6x505ntmbodkv5q4pqrp5yn8xirn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategoria:Jazda na rowerze</title>
+    <ns>14</ns>
+    <id>5440180</id>
+    <revision>
+      <id>70506498</id>
+      <parentid>70505440</parentid>
+      <timestamp>2023-06-01T05:26:10Z</timestamp>
+      <contributor>
+        <username>KrzysztofPoplawski</username>
+        <id>15468</id>
+      </contributor>
+      <minor/>
+      <origin>70506498</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="561" sha1="nnj0ea3ihi2eb6hn9twskm8xi5ip4yi" xml:space="preserve">[[Kategoria:Transport lądowy]]
+[[Kategoria:Rekreacja]]
+[[Kategoria:Sport]]
+{{Główny artykuł|Jazda na rowerze}}
+
+[[Jazda na rowerze|Jazda rowerem]] to sposób [[Transport rowerowy|transportu]], rekreacji, [[Turystyka rowerowa|turystyki]] i [[Kolarstwo|sport]]. Obejmuje jazdę na rowerach dwu-, trzy-, czterokołowych, tandemach, monocyklach, rowerach poziomych, rikszach i innych pojazdach napędzanych przez człowieka (HPV).
+
+{{Commonscat|Cycling|Jazda rowerem}}{{Wikinewscat|Jazda na rowerze}}
+{{Wikicytaty|Jazda na rowerze|dopełniacz=Jazdy na rowerze}}</text>
+      <sha1>nnj0ea3ihi2eb6hn9twskm8xi5ip4yi</sha1>
+    </revision>
+  </page>
+</mediawiki>

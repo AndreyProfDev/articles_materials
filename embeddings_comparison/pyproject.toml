@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "embeddings-comparison"
+version = "0.1.0"
+description = "Package with pipelines dedicated to assess different embeddings performance on polish texts"
+authors = ["Andrey Pigarev <pigarev.a.g2014@gmail.com>"]
+license = "Apache-2.0"
+readme = "README.md"
+packages = [{include = "*", from="src"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+jupyter = "1.1.1"
+tqdm = "4.67.0"
+torch = "2.5.1"
+utils = {path = "../utils", develop = true}
+wikiparser = {path = "../wikiparser", develop = true}
+python-dotenv = "1.0.1"
+matplotlib = "3.9.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
