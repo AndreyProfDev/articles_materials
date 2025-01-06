@@ -2,7 +2,7 @@
     "python.testing.unittestArgs": [
         "-v",
         "-s",
-        "${workspaceFolder}/tests",
+        "${workspaceFolder}/wikiparser/tests",
         "-p",
         "test_*.py"
     ],

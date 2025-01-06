@@ -1,7 +1,6 @@
 import unittest
 
 import pandas as pd
-from schema import ArticleSection
 from storage import ArticleStorage
 from wiki_parser import SingleArticle
 
@@ -11,8 +10,8 @@ class ArticleStorageTestCase(unittest.TestCase):
     def test_storing_simple_articles(self):
         storage = ArticleStorage()
         articles = [
-            SingleArticle(title="Test", sections="Test content"),
-            SingleArticle(title="Test2", sections="Test content 2"),
+            SingleArticle(title="Test", subtitle_to_content="Test content"),
+            SingleArticle(title="Test2", subtitle_to_content="Test content 2"),
         ]
         storage.save_articles(articles)
 
@@ -23,12 +22,12 @@ class ArticleStorageTestCase(unittest.TestCase):
         articles = [
             SingleArticle(
                 title="Test",
-                sections=[
-                    ArticleSection(title="Section 1", content="Test content"),
-                    ArticleSection(title="Section 2", content="Test content 2"),
-                ],
+                subtitle_to_content={
+                    "Section 1": "Test content",
+                    "Section 2": "Test content 2",
+                },
             ),
-            SingleArticle(title="Test2", sections="Test content 2"),
+            SingleArticle(title="Test2", subtitle_to_content="Test content 2"),
         ]
         storage.save_articles(articles)
 
@@ -50,8 +49,8 @@ class ArticleStorageTestCase(unittest.TestCase):
     def test_load_table(self):
         storage = ArticleStorage()
         articles = [
-            SingleArticle(title="Test", sections="Test content"),
-            SingleArticle(title="Test2", sections="Test content 2"),
+            SingleArticle(title="Test", subtitle_to_content="Test content"),
+            SingleArticle(title="Test2", subtitle_to_content="Test content 2"),
         ]
         storage.save_articles(articles)
         actual_df = storage.load_all()

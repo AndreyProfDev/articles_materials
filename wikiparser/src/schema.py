@@ -1,27 +1,31 @@
-
 from pydantic import BaseModel
 
 
-class ArticleSection(BaseModel):
-    title: str
-    content: str
-
 class SingleArticle(BaseModel):
     title: str
-    sections: list[ArticleSection]
-    
-    def __init__(self, title: str, sections: str | list[ArticleSection]):
-        if isinstance(sections, str):
-            sections = [ArticleSection(title="Main", content=sections)]
-        super().__init__(title=title, sections=sections)
+    subtitle_to_content: dict[str, str]
+    run_id: str | None = None
+
+    def __init__(
+        self,
+        title: str,
+        subtitle_to_content: str | dict[str, str],
+        run_id: str | None = None,
+    ):
+        if isinstance(subtitle_to_content, str):
+            subtitle_to_content = {"Main": subtitle_to_content}
+
+        super().__init__(
+            title=title, subtitle_to_content=subtitle_to_content, run_id=run_id
+        )
 
     @property
     def content(self) -> str:
 
         result = []
-        for section in self.sections:
-            if section.title == "Main":
-                return section.content
+        for subtitle, content in self.subtitle_to_content.items():
+            if subtitle == "Main":
+                return content
             else:
-                result.append(f"== {section.title} ==\n{section.content}")
+                result.append(f"== {subtitle} ==\n{content}")
         return "\n".join(result)

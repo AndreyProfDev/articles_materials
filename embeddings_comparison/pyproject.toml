@@ -16,6 +16,9 @@ utils = {path = "../utils", develop = true}
 wikiparser = {path = "../wikiparser", develop = true}
 python-dotenv = "1.0.1"
 matplotlib = "3.9.3"
+beautifulsoup4 = "4.12.3"
+lxml = "5.3.0"
+metaflow = "^2.13"
 
 [build-system]
 requires = ["poetry-core"]

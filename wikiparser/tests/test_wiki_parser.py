@@ -5,6 +5,7 @@ from io import StringIO
 from pathlib import Path
 from tempfile import NamedTemporaryFile
 
+import extraction_steps as steps
 import wiki_parser
 import yaml
 from wiki_parser import SingleArticle
@@ -19,9 +20,9 @@ class TestWikiParser(unittest.TestCase):
     def tearDown(self) -> None:
         shutil.rmtree(self.temp_dir)
 
-    def dump_articles_to_yaml(self, articles: list[SingleArticle]) -> str:
+    def dump_articles_to_yaml(self, title_to_articles: dict[str, SingleArticle]) -> str:
         buffer = StringIO()
-        yaml.dump([article.model_dump() for article in articles], buffer)
+        yaml.dump([article.model_dump() for title, article in title_to_articles.items()], buffer)
         buffer.seek(0)
         return buffer.read()
 
@@ -42,24 +43,24 @@ class TestWikiParser(unittest.TestCase):
     def test_extract_simple_texts_from_wiki(self):
         wiki_articles_xml = self.contruct_wiki_xml(
             [
-                SingleArticle(title="Test", sections="Test text"),
-                SingleArticle(title="Test2", sections="Test text 2"),
+                SingleArticle(title="Test", subtitle_to_content="Test text"),
+                SingleArticle(title="Test2", subtitle_to_content="Test text 2"),
             ]
         )
 
-        articles = wiki_parser.extract_text_from_wiki_xml(wiki_articles_xml)
+        articles = steps.extract_text_from_wiki_xml(wiki_articles_xml)
 
         self.assertEqual(len(articles), 2)
-        self.assertEqual(articles[0].title, "Test")
-        self.assertEqual(articles[0].content, "Test text")
-        self.assertEqual(articles[1].title, "Test2")
-        self.assertEqual(articles[1].content, "Test text 2")
+        self.assertEqual(articles["Test"].title, "Test")
+        self.assertEqual(articles["Test"].content, "Test text")
+        self.assertEqual(articles["Test2"].title, "Test2")
+        self.assertEqual(articles["Test2"].content, "Test text 2")
 
     def test_extracting_pages_from_file(self):
         wiki_articles_xml = self.contruct_wiki_xml(
             [
-                SingleArticle(title="Test", sections="Test text"),
-                SingleArticle(title="Test2", sections="Test text 2"),
+                SingleArticle(title="Test", subtitle_to_content="Test text"),
+                SingleArticle(title="Test2", subtitle_to_content="Test text 2"),
             ]
         )
 
@@ -71,16 +72,16 @@ class TestWikiParser(unittest.TestCase):
             self.assertEqual(len(articles), 2)
 
     def test_storing_extracted_pages_to_file(self):
-        articles = [
-            SingleArticle(title="Test", sections="Test text"),
-            SingleArticle(title="Test2", sections="Test text 2"),
-        ]
+        articles = {
+            "Test": SingleArticle(title="Test", subtitle_to_content="Test text"),
+            "Test2": SingleArticle(title="Test2", subtitle_to_content="Test text 2"),
+        }
 
         wiki_parser.store_articles_to_yml_file(
             target_folder=self.temp_dir_path,
             stage_subfolder="test",
             file_name="myfile",
-            content=articles,
+            title_to_article=articles,
         )
 
         with open(self.temp_dir_path / "test" / "myfile.yaml", "r") as file:
@@ -88,80 +89,91 @@ class TestWikiParser(unittest.TestCase):
             self.assertEqual(content, self.dump_articles_to_yaml(articles))
 
     def test_process_wiki_html(self):
-        articles = [
-            SingleArticle(title="Test", sections="Test <div>Test1 text1</div> text"),
-            SingleArticle(
-                title="Test2",
-                sections="Test1 <div>Test2 <div>text2</div> 3</div> text 2",
+        articles = {
+            "Test": SingleArticle(
+                title="Test", subtitle_to_content="Test <div>Test1 text1</div> text"
             ),
-        ]
+            "Test2": SingleArticle(
+                title="Test2",
+                subtitle_to_content="Test1 <div>Test2 <div>text2</div> 3</div> text 2",
+            ),
+        }
 
-        processed_articles = wiki_parser.process_wiki_html(articles)
+        processed_articles = steps.process_wiki_html(articles)
 
         self.assertEqual(len(processed_articles), 2)
-        self.assertEqual(processed_articles[0].title, "Test")
-        self.assertEqual(processed_articles[0].content, "Test Test1 text1 text")
-        self.assertEqual(processed_articles[1].title, "Test2")
-        self.assertEqual(processed_articles[1].content, "Test1 Test2 text2 3 text 2")
+        self.assertEqual(processed_articles["Test"].title, "Test")
+        self.assertEqual(processed_articles["Test"].content, "Test Test1 text1 text")
+        self.assertEqual(processed_articles["Test2"].title, "Test2")
+        self.assertEqual(processed_articles["Test2"].content, "Test1 Test2 text2 3 text 2")
 
     def test_process_wiki_markdown(self):
-        articles = [
-            SingleArticle(title="Test", sections="Test [[Kategoria:to remove]] text"),
-            SingleArticle(
-                title="Test2", sections="Test [[Kategoria:to [[remove]]]]text 2"
+        articles = {
+            "Test": SingleArticle(
+                title="Test", subtitle_to_content="Test [[Kategoria:to remove]] text"
             ),
-        ]
+            "Test2": SingleArticle(
+                title="Test2",
+                subtitle_to_content="Test [[Kategoria:to [[remove]]]]text 2",
+            ),
+        }
 
-        processed_articles = wiki_parser.process_wiki_markdown_in_pages(articles)
+        processed_articles = steps.process_wiki_markdown_in_pages(articles)
 
         self.assertEqual(len(processed_articles), 2)
-        self.assertEqual(processed_articles[0].title, "Test")
-        self.assertEqual(processed_articles[0].content, "Test text")
-        self.assertEqual(processed_articles[1].title, "Test2")
-        self.assertEqual(processed_articles[1].content, "Test text 2")
+        self.assertEqual(processed_articles["Test"].title, "Test")
+        self.assertEqual(processed_articles["Test"].content, "Test text")
+        self.assertEqual(processed_articles["Test2"].title, "Test2")
+        self.assertEqual(processed_articles["Test2"].content, "Test text 2")
 
     def test_splitting_sections(self):
-        articles = [
-            SingleArticle(
+        articles = {
+            "Test": SingleArticle(
                 title="Test",
-                sections="Test text\n==Section 1==\nSection 1 text\n==Section 2==\nSection 2 text",
+                subtitle_to_content="Test text\n==Section 1==\nSection 1 text\n==Section 2==\nSection 2 text",
             ),
-            SingleArticle(title="Test2", sections="Test text 2"),
-        ]
+            "Test2": SingleArticle(title="Test2", subtitle_to_content="Test text 2"),
+        }
 
-        processed_articles = wiki_parser.split_wiki_page_by_sections(articles)
+        processed_articles = steps.split_wiki_page_by_sections(articles)
 
         self.assertEqual(len(processed_articles), 2)
-        self.assertEqual(processed_articles[0].title, "Test")
-        self.assertEqual(len(processed_articles[0].sections), 3)
-        self.assertEqual(processed_articles[0].sections[0].title, "Main")
-        self.assertEqual(processed_articles[0].sections[0].content, "Test text")
-        self.assertEqual(processed_articles[0].sections[1].title, "Section 1")
-        self.assertEqual(processed_articles[0].sections[1].content, "Section 1 text")
-        self.assertEqual(processed_articles[0].sections[2].title, "Section 2")
-        self.assertEqual(processed_articles[0].sections[2].content, "Section 2 text")
-        self.assertEqual(processed_articles[1].title, "Test2")
-        self.assertEqual(len(processed_articles[1].sections), 1)
-        self.assertEqual(processed_articles[1].sections[0].title, "Main")
-        self.assertEqual(processed_articles[1].sections[0].content, "Test text 2")
+        self.assertEqual(processed_articles["Test"].title, "Test")
+        self.assertEqual(len(processed_articles["Test"].subtitle_to_content), 3)
+        self.assertEqual(processed_articles["Test"].subtitle_to_content["Main"], "Test text")
+        self.assertEqual(
+            processed_articles["Test"].subtitle_to_content["Section 1"], "Section 1 text"
+        )
+        self.assertEqual(
+            processed_articles["Test"].subtitle_to_content["Section 2"], "Section 2 text"
+        )
+        self.assertEqual(processed_articles["Test2"].title, "Test2")
+        self.assertEqual(len(processed_articles["Test2"].subtitle_to_content), 1)
+        self.assertEqual(
+            processed_articles["Test2"].subtitle_to_content["Main"], "Test text 2"
+        )
 
     def test_removal_of_empty_pages(self):
-        wiki_articles = [
-            SingleArticle(title="Test", sections=""),
-            SingleArticle(title="Test2", sections="Test text 2"),
-        ]
+        wiki_articles = {
+            "Test": SingleArticle(title="Test", subtitle_to_content=""),
+            "Test2": SingleArticle(title="Test2", subtitle_to_content="Test text 2"),
+        }
 
-        articles = wiki_parser.remove_empty_articles(wiki_articles)
+        articles = steps.remove_empty_articles(wiki_articles)
 
         self.assertEqual(len(articles), 1)
-        self.assertEqual(articles[0].title, "Test2")
-        self.assertEqual(articles[0].content, "Test text 2")
+        self.assertEqual(articles["Test2"].title, "Test2")
+        self.assertEqual(articles["Test2"].content, "Test text 2")
 
     def test_storing_intermediate_files(self):
         wiki_articles_xml = self.contruct_wiki_xml(
             [
-                wiki_parser.SingleArticle(title="Test", sections="Test text"),
-                wiki_parser.SingleArticle(title="Test2", sections="Test text 2"),
+                wiki_parser.SingleArticle(
+                    title="Test", subtitle_to_content="Test text"
+                ),
+                wiki_parser.SingleArticle(
+                    title="Test2", subtitle_to_content="Test text 2"
+                ),
             ]
         )
 

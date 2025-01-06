@@ -1,0 +1,132 @@
+version: "3"
+services:
+  ui_backend:
+    platform: linux/amd64
+    command: ["/opt/latest/bin/python3", "-m", "services.ui_backend_service.ui_server"]
+    image: netflixoss/metaflow_metadata_service:v2.4.13
+    ports:
+      - "${MF_UI_METADATA_PORT:-8083}:${MF_UI_METADATA_PORT:-8083}"
+    # Add container capability for benchmarking processes. required for py-spy
+    cap_add:
+      - SYS_PTRACE
+    environment:
+      - MF_METADATA_DB_HOST=db
+      - MF_METADATA_DB_PORT=5432
+      - MF_METADATA_DB_USER=postgres
+      - MF_METADATA_DB_PSWD=postgres
+      - MF_METADATA_DB_NAME=postgres
+      - MF_UI_METADATA_PORT=${MF_UI_METADATA_PORT:-8083}
+      - MF_UI_METADATA_HOST=${MF_UI_METADATA_HOST:-0.0.0.0}
+      - MF_METADATA_DB_POOL_MIN=1
+      - MF_METADATA_DB_POOL_MAX=10
+      - METAFLOW_S3_RETRY_COUNT=0
+      - LOGLEVEL=INFO
+      - AIOPG_ECHO=0
+      - UI_ENABLED=0
+      - PREFETCH_RUNS_SINCE=2592000 # 30 days in seconds
+      - PREFETCH_RUNS_LIMIT=1 # Prefetch only one run
+      - S3_NUM_WORKERS=10
+      - CACHE_ARTIFACT_MAX_ACTIONS=1
+      - CACHE_DAG_MAX_ACTIONS=1
+      - CACHE_LOG_MAX_ACTIONS=1
+      - CACHE_ARTIFACT_STORAGE_LIMIT=16000000
+      - CACHE_DAG_STORAGE_LIMIT=16000000
+      - WS_POSTPROCESS_CONCURRENCY_LIMIT=8
+      - FEATURE_PREFETCH_DISABLE=0
+      - FEATURE_CACHE_DISABLE=0
+      - FEATURE_S3_DISABLE=0
+      - FEATURE_REFINE_DISABLE=0
+      - FEATURE_WS_DISABLE=0
+      - FEATURE_HEARTBEAT_DISABLE=0
+      - FEATURE_DB_LISTEN_DISABLE=0
+      - FEATURE_ARTIFACT_SEARCH=1
+      - FEATURE_FOREACH_VAR_SEARCH=1
+      - FEATURE_ARTIFACT_TABLE=1
+      - CUSTOM_QUICKLINKS=$CUSTOM_QUICKLINKS
+      - NOTIFICATIONS=$NOTIFICATIONS
+      - GA_TRACKING_ID=none
+      - PLUGINS=$PLUGINS
+      - AWS_PROFILE=$AWS_PROFILE
+
+    depends_on:
+      - migration
+    networks:
+      - metaflow-network
+
+  metadata:
+    platform: linux/amd64
+    image: netflixoss/metaflow_metadata_service:v2.4.13
+    ports:
+      - "${MF_METADATA_PORT:-8080}:${MF_METADATA_PORT:-8080}"
+    environment:
+      - LOGLEVEL=WARNING
+      - MF_METADATA_DB_HOST=db
+      - MF_METADATA_DB_PORT=5432
+      - MF_METADATA_DB_USER=postgres
+      - MF_METADATA_DB_PSWD=postgres
+      - MF_METADATA_DB_NAME=postgres
+      - MF_METADATA_PORT=${MF_METADATA_PORT:-8080}
+      - MF_METADATA_HOST=${MF_METADATA_HOST:-0.0.0.0}
+      - MF_MIGRATION_PORT=${MF_MIGRATION_PORT:-8082}
+
+    command: ["/opt/latest/bin/python3", "-m", "services.metadata_service.server"]
+    depends_on:
+      - migration
+    networks:
+      - metaflow-network
+    
+  migration:
+    command: ["python", "/root/run_goose.py"]
+    platform: linux/amd64
+    image: netflixoss/metaflow_metadata_service:v2.4.13
+    environment:
+      - MF_METADATA_DB_HOST=db
+      - MF_METADATA_DB_PORT=5432
+      - MF_METADATA_DB_USER=postgres
+      - MF_METADATA_DB_PSWD=postgres
+      - MF_METADATA_DB_NAME=postgres
+      - MF_METADATA_PORT=${MF_METADATA_PORT:-8080}
+      - MF_METADATA_HOST=${MF_METADATA_HOST:-0.0.0.0}
+      - MF_MIGRATION_ENDPOINTS_ENABLED=1
+      - MF_MIGRATION_PORT=${MF_MIGRATION_PORT:-8082}
+    depends_on:
+      - db
+    networks:
+      - metaflow-network
+  
+  db:
+    image: "postgres:11"
+    command: ["postgres", "-c", "log_statement=none", "-c", "wal_level=logical"]
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - db_dev_data:/var/lib/postgresql/data2
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - metaflow-network
+
+  ui-static:
+    image: public.ecr.aws/outerbounds/metaflow_ui:v1.3.13
+    environment:
+      - METAFLOW_SERVICE=http://localhost:8083/
+    ports:
+      - "3000:3000"
+    depends_on:
+      - ui_backend
+    networks:
+      - metaflow-network
+
+
+volumes:
+  db_dev_data:
+
+networks:
+  metaflow-network:

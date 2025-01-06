@@ -1,9 +1,7 @@
 import re
 
-from schema import ArticleSection
 
-
-def split_wiki_text_by_sections(text: str) -> list[ArticleSection]:
+def split_wiki_text_by_sections(text: str) -> dict[str, str]:
     pattern = r"""
         ==+         # Match opening equals signs
         \s*         # Optional whitespace
@@ -16,24 +14,24 @@ def split_wiki_text_by_sections(text: str) -> list[ArticleSection]:
 
     # Find all explicit sections
     matches = list(re.finditer(pattern, text, flags=re.VERBOSE))
-    sections = []
+    sections = {}
 
     if len(matches) == 0 and len(text.strip()) > 0:
-        return [ArticleSection(title="Main", content=text.strip())]
+        return {"Main": text.strip()}
 
     # Check for content before first section
     if matches and matches[0].start() > 0:
         main_content = text[: matches[0].start()].strip()
-        sections.append(ArticleSection(title="Main", content=main_content))
+        sections["Main"] = main_content
 
     # Add remaining sections
     for match in matches:
         title = match.group(1).strip()
         content = match.group(2).strip()
-        sections.append(ArticleSection(title=title, content=content))
+        sections[title] = content
 
     # If no sections found at all, treat entire text as main section
     if not sections and text.strip():
-        sections.append(ArticleSection(title="Main", content=text.strip()))
+        sections["Main"] = text.strip()
 
     return sections
