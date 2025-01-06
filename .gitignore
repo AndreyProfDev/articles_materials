@@ -163,6 +163,7 @@ cython_debug/
 
 # cache
 **/cache/**
+**/.metaflow/**
 
 # data
 data/**
