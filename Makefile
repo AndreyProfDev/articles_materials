@@ -42,21 +42,27 @@ MAKEFLAGS += --no-builtin-rules
 ###
 -include */makefile.mk
 
-COMPONENTS ?= $(shell find * -maxdepth 1 -mindepth 1 -name "makefile.mk" -exec dirname {} \;)
+COMPONENTS := $(shell find * -name "makefile.mk" -exec sh -c '\
+    for path; do \
+        dir=$$(dirname "$$path"); \
+        name=$$(echo "$$dir" | tr "/" "-"); \
+        echo "$$name:$$dir"; \
+    done' sh {} + | sort -u)
 
 ###
 ### Arguments:
-### $1: component name
+### $1: component name (e.g. metaflowinfra_service)
+### $2: component path (e.g. metaflowinfra/service)
 ###
 define make-component-targets
 
 .PHONY: $1.create $1.activate $1.remove
 
 $1.create::
-	./workspace/env/create.sh $1
+	./workspace/env/create.sh $1 $2
 
 $1.activate::
-	./workspace/env/activate.sh $1
+	./workspace/env/activate.sh $1 $2
 
 $1.run_tests::
 	./workspace/env/run_tests.sh $1
@@ -66,7 +72,12 @@ $1.remove::
 
 endef
 
-$(foreach component,$(COMPONENTS),$(eval $(call make-component-targets,$(component))))
+# Split each "name path" pair and call the function
+# Update foreach loop
+$(foreach pair,$(COMPONENTS),\
+    $(eval name := $(shell echo $(pair) | cut -d':' -f1)) \
+    $(eval path := $(shell echo $(pair) | cut -d':' -f2)) \
+    $(eval $(call make-component-targets,$(name),$(path))))
 
 init_workspace::
 	./workspace/init.sh
