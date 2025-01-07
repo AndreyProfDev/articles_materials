@@ -59,16 +59,16 @@ define make-component-targets
 .PHONY: $1.create $1.activate $1.remove
 
 $1.create::
-	./workspace/env/create.sh $1 $2
+	./workspace/env_scripts/create.sh $1 $2
 
 $1.activate::
-	./workspace/env/activate.sh $1 $2
+	./workspace/env_scripts/activate.sh $1 $2
 
 $1.run_tests::
-	./workspace/env/run_tests.sh $1
+	./workspace/env_scripts/run_tests.sh $1
 
 $1.remove::
-	./workspace/env/remove.sh
+	./workspace/env_scripts/remove.sh
 
 endef
 
