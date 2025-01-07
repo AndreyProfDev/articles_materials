@@ -1,0 +1,8 @@
+#!/bin/bash
+
+COMPONENT_NAME=$1
+COMPONENT_FOLDER=$2
+
+cd $COMPONENT_FOLDER
+
+poetry shell
