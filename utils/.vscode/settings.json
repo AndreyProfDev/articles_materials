@@ -1,0 +1,19 @@
+{
+    // Python settings
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+    "python.venvPath": "${workspaceFolder}/.venv",
+    // Test settings
+    "python.testing.cwd": "${workspaceFolder}/tests",
+    "python.testing.pytestPath": "${workspaceFolder}/.venv/bin/pytest",
+    "python.envFile": "${workspaceFolder}/..workspace/.env",
+    "debugpy.debugJustMyCode": false,
+    "jupyter.debugJustMyCode": false,
+    // Test settings
+    "python.testing.pytestEnabled": true,
+    "python.testing.unittestEnabled": false,
+    "python.testing.autoTestDiscoverOnSaveEnabled": false,
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/src"
+    ],
+    "python.analysis.typeCheckingMode": "standard",
+}

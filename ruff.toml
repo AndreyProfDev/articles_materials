@@ -1,0 +1,33 @@
+# Enable flake8-bugbear (`B`) rules.
+target-version = "py312"
+
+# Select rules / rule-sets
+select = [
+    "E",   # pycodestyle errors
+    "W",   # pycodestyle warnings
+    "F",   # pyflakes
+    "B",   # flake8-bugbear
+    "I",   # isort
+    "C4",  # flake8-comprehensions
+    "UP",  # pyupgrade
+    "RUF", # ruff-specific rules
+]
+
+# Ignore specific rules
+ignore = [
+    "E501",  # line too long
+]
+
+# Line length configuration
+line-length = 100
+
+# Allow unused variables when underscore-prefixed.
+dummy-variable-rgx = "^(_+|(_+[a-zA-Z0-9_]*[a-zA-Z0-9]+?))$"
+
+[per-file-ignores]
+"__init__.py" = ["F401"] # unused imports
+
+[isort]
+combine-as-imports = true
+force-wrap-aliases = true
+known-first-party = ["wikiparser"]

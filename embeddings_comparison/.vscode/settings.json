@@ -1,0 +1,6 @@
+{
+    "python.testing.pytestEnabled": false,
+
+    "debugpy.debugJustMyCode": false,
+    "jupyter.debugJustMyCode": false,
+}

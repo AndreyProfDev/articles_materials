@@ -1,0 +1,8 @@
+defaults:
+  - embedding_model: ???
+  - _self_
+
+hydra:
+  sweeper:
+    params:
+      embedding_model: glob(*)

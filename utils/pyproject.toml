@@ -1,24 +1,25 @@
-[tool.poetry]
+[project]
 name = "utils"
 version = "0.1.0"
-description = "Package with different helper functions"
-authors = ["Andrey Pigarev <pigarev.a.g2014@gmail.com>"]
-license = "Apache-2.0"
+description = "Add your description here"
 readme = "README.md"
-packages = [{include = "*", from="src"}]
+authors = [
+    { name = "Andrey Pigarev", email = "pigarev.a.g2014@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "faiss-cpu==1.9.0",
+    "numpy==2.2.1",
+    "openai==1.56.2",
+    "pandas==2.2.3",
+    "pytest==8.3.4",
+    "sentence-transformers==3.2.1",
+    "tiktoken==0.8.0",
+]
 
-[tool.poetry.dependencies]
-python = "^3.12"
-sentence-transformers = "3.2.1"
-openai = "1.56.2"
-numpy = "2.2.1"
-faiss-cpu = "1.9.0"
-tiktoken = "0.8.0"
-pandas = "2.2.3"
-
-[tool.poetry.group.dev.dependencies]
-mypy = "1.14.0"
+[tool.pytest.ini_options]
+pythonpath = "src"
 
 [build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+requires = ["hatchling"]
+build-backend = "hatchling.build"
