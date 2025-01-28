@@ -127,6 +127,10 @@ export PYENV_ROOT="$HOME/.pyenv"
 [[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
 eval "$(pyenv init - bash)"
 
+set -o allexport
 source ../workspace/.env
+set +o allexport
+
+
 
 export PATH="../workspace/env_scripts:$PATH"

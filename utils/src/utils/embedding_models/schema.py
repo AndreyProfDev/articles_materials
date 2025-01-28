@@ -1,13 +1,15 @@
+from dataclasses import dataclass
+from enum import StrEnum
 from typing import Protocol, TypeVar
 
 from pydantic import BaseModel
-from dataclasses import dataclass
-from enum import StrEnum
 
 T = TypeVar("T")
 
+
 def sanitized_model_name(model_name: str) -> str:
     return model_name.replace("/", "_")
+
 
 class GenericEmbeddingResponse(BaseModel):
     embeddings: list[list[float]]
@@ -18,6 +20,7 @@ class GenericEmbeddingResponse(BaseModel):
 class MODEL_PROVIDER(StrEnum):
     HUGGING_FACE = "hugging_face"
     OPEN_AI = "open_ai"
+
 
 @dataclass
 class EmbeddingModelInfo:

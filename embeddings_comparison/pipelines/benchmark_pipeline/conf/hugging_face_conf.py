@@ -48,18 +48,18 @@ def register_models_in_config_store():
         group="embedding_model",
         node=ST_POLISH_PARAPHRASE_FROM_DISTILROBERTA,
     )
-    cs.store(
-        name=sanitize_model_name(ST_POLISH_PARAPHRASE_FROM_MPNET.model_name),
-        group="embedding_model",
-        node=ST_POLISH_PARAPHRASE_FROM_MPNET,
-    )
-    cs.store(
-        name=sanitize_model_name(ORB_ST_POLISH_KARTONBERTA_BASE_ALPHA_V1.model_name),
-        group="embedding_model",
-        node=ORB_ST_POLISH_KARTONBERTA_BASE_ALPHA_V1,
-    )
-    cs.store(
-        name=sanitize_model_name(ORB_KARTONBERT_USE.model_name),
-        group="embedding_model",
-        node=ORB_KARTONBERT_USE,
-    )
+    # cs.store(
+    #     name=sanitize_model_name(ST_POLISH_PARAPHRASE_FROM_MPNET.model_name),
+    #     group="embedding_model",
+    #     node=ST_POLISH_PARAPHRASE_FROM_MPNET,
+    # )
+    # cs.store(
+    #     name=sanitize_model_name(ORB_ST_POLISH_KARTONBERTA_BASE_ALPHA_V1.model_name),
+    #     group="embedding_model",
+    #     node=ORB_ST_POLISH_KARTONBERTA_BASE_ALPHA_V1,
+    # )
+    # cs.store(
+    #     name=sanitize_model_name(ORB_KARTONBERT_USE.model_name),
+    #     group="embedding_model",
+    #     node=ORB_KARTONBERT_USE,
+    # )

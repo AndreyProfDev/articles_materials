@@ -31,12 +31,12 @@ class TEXT_EMBEDDING_ADA_002(EmbeddingModelInfo):
 
 def register_models_in_config_store():
     cs = ConfigStore.instance()
-    cs.store(
-        name=TEXT_EMBEDDING_3_SMALL.model_name, group="embedding_model", node=TEXT_EMBEDDING_3_SMALL
-    )
-    cs.store(
-        name=TEXT_EMBEDDING_3_LARGE.model_name, group="embedding_model", node=TEXT_EMBEDDING_3_LARGE
-    )
-    cs.store(
-        name=TEXT_EMBEDDING_ADA_002.model_name, group="embedding_model", node=TEXT_EMBEDDING_ADA_002
-    )
+    # cs.store(
+    #     name=TEXT_EMBEDDING_3_SMALL.model_name, group="embedding_model", node=TEXT_EMBEDDING_3_SMALL
+    # )
+    # cs.store(
+    #     name=TEXT_EMBEDDING_3_LARGE.model_name, group="embedding_model", node=TEXT_EMBEDDING_3_LARGE
+    # )
+    # cs.store(
+    #     name=TEXT_EMBEDDING_ADA_002.model_name, group="embedding_model", node=TEXT_EMBEDDING_ADA_002
+    # )

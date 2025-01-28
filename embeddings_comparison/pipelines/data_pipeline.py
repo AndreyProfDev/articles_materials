@@ -79,7 +79,7 @@ class WikiArticlesDataFlow(FlowSpec):
     def join_to_dataframe(self, inputs):
         main_book: ArticleBook = inputs[0].articles_book
         for i in inputs[1:]:
-            main_book.merge(i.articles_book)
+            main_book = main_book.merge(i.articles_book)
 
         self.final_book = main_book
 

@@ -6,13 +6,15 @@ from typing import Any
 
 import pandas as pd
 from dotenv import load_dotenv
-from llm_clients.cached_client import CachedLLMClient
-from llm_clients.providers import supported_models
-from llm_clients.providers.open_ai_client import OpenAIClient
 from metaflow.decorators import step
 from metaflow.flowspec import FlowSpec
 from metaflow.parameters import Parameter
-from question_generation import BASE_PROMT_PL, generate_question_for_text
+from tqdm.auto import tqdm
+
+from utils.llm_clients.cached_client import CachedLLMClient
+from utils.llm_clients.providers import supported_models
+from utils.llm_clients.providers.open_ai_client import OpenAIClient
+from utils.question_generation import BASE_PROMT_PL, generate_question_for_text
 
 
 def chunks(lst, n):
@@ -68,7 +70,7 @@ class WikiArticlesFeatureFlow(FlowSpec):
         openai_client = OpenAIClient(api_key=open_ai_key, model_info=supported_models.GPT_4O)
         openai_client = CachedLLMClient(client=openai_client, path_to_cache=cachePath)
 
-        for record in self.records:
+        for record in tqdm(self.records):
             record["questions"] = generate_question_for_text(
                 openai_client, record["Section With Context"], BASE_PROMT_PL
             ).questions
@@ -86,7 +88,7 @@ class WikiArticlesFeatureFlow(FlowSpec):
 
     @step
     def end(self):
-        pass
+        self.final_dataframe = self.final_dataframe
 
 
 def main():
